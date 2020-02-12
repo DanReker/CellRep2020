@@ -98,7 +98,7 @@ RF.fit(fingerprints,activities)
 # predict GRAS/IIG and background compounds and normalize 
 predictions = RF.predict(GRASIIG_fingerprints)
 predictions_bg = RF.predict(BG_fingerprints)
-z_scores = (predictions - np.mean(predictions_bg)) / np.std(predictions) 
+z_scores = (predictions - np.mean(predictions_bg)) / np.std(predictions_bg) 
 
 ######
 # print top predictions
