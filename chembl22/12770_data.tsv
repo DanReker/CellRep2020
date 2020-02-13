@@ -1,0 +1,86 @@
+chembl_id	name	smiles	pAff
+CHEMBL1522	eszopiclone	CN1CCN(CC1)C(=O)O[C@@H]2N(C(=O)c3nccnc23)c4ccc(Cl)cn4	6.457953650006
+CHEMBL1681885	2-(4-chlorophenyl)-3-(cyclopropylmethoxy)-2H-pyrazolo[4,3-c]quinoline	Clc1ccc(cc1)n2nc3c4ccccc4ncc3c2OCC5CC5	6.32605800137
+CHEMBL1681886	3-(2-chlorobenzyloxy)-2-(4-chlorophenyl)-2H-pyrazolo[4,3-c]quinoline	Clc1ccc(cc1)n2nc3c4ccccc4ncc3c2OCc5ccccc5Cl	6.57675412606
+CHEMBL1681887	3-(2-chlorobenzyloxy)-2-(2-fluorophenyl)-2H-pyrazolo[4,3-c]quinoline	Fc1ccccc1n2nc3c4ccccc4ncc3c2OCc5ccccc5Cl	8.69897000434
+CHEMBL1681888	2-(benzo[d][1,3]dioxol-5-yl)-3-(2-chlorobenzyloxy)-2H-pyrazolo[4,3-c]quinoline	Clc1ccccc1COc2c3cnc4ccccc4c3nn2c5ccc6OCOc6c5	6.80966830183
+CHEMBL1681889	3-(2-chlorobenzyloxy)-2-(4-chlorophenyl)-6,7,8,9-tetrahydro-2H-pyrazolo[4,3-c]quinoline	Clc1ccc(cc1)n2nc3c4CCCCc4ncc3c2OCc5ccccc5Cl	6.56703070913
+CHEMBL1681890	3-(2-chlorobenzyloxy)-2-(4-chlorophenyl)-2,6,7,8,9,10-hexahydrocyclohepta[b]pyrazolo[3,4-d]pyridine	Clc1ccc(cc1)n2nc3c4CCCCCc4ncc3c2OCc5ccccc5Cl	6.21824462535
+CHEMBL1681891	3-(2-chlorobenzyloxy)-2-(4-chlorophenyl)-2,6,7,9-tetrahydropyrano[4,3-b]pyrazolo[3,4-d]pyridine	Clc1ccc(cc1)n2nc3c4COCCc4ncc3c2OCc5ccccc5Cl	6.33629907461
+CHEMBL1681892	3-(2-chlorobenzyloxy)-2-(4-chlorophenyl)-8,8-dimethyl-6,7,8,9-tetrahydro-2H-pyrazolo[4,3-c]quinoline	CC1(C)CCc2ncc3c(OCc4ccccc4Cl)n(nc3c2C1)c5ccc(Cl)cc5	6.67162039656
+CHEMBL1681894	3-(4-chlorobenzyloxy)-2-(4-chlorophenyl)-6,7,8,9-tetrahydro-2H-pyrazolo[4,3-c]quinoline	Clc1ccc(COc2c3cnc4CCCCc4c3nn2c5ccc(Cl)cc5)cc1	6.75202673364
+CHEMBL1681895	2-(4-chlorophenyl)-3-(2-fluorobenzyloxy)-6,7,8,9-tetrahydro-2H-pyrazolo[4,3-c]quinoline	Fc1ccccc1COc2c3cnc4CCCCc4c3nn2c5ccc(Cl)cc5	6.81247927916
+CHEMBL1681897	2-(4-chlorophenyl)-3-(4-fluorobenzyloxy)-6,7,8,9-tetrahydro-2H-pyrazolo[4,3-c]quinoline	Fc1ccc(COc2c3cnc4CCCCc4c3nn2c5ccc(Cl)cc5)cc1	7.24412514433
+CHEMBL1681898	3-(2-chlorophenoxy)-2-(4-chlorophenyl)-6,7,8,9-tetrahydro-2H-pyrazolo[4,3-c]quinoline	Clc1ccc(cc1)n2nc3c4CCCCc4ncc3c2Oc5ccccc5Cl	4.52287874528
+CHEMBL1681899	2-(4-chlorophenyl)-3-(cyclopropylmethoxy)-8-(1H-imidazol-1-yl)-2H-pyrazolo[4,3-c]quinoline	Clc1ccc(cc1)n2nc3c(cnc4ccc(cc34)n5ccnc5)c2OCC6CC6	5.67489501703
+CHEMBL1681900	2-(4-chlorophenyl)-3-(cyclopropylmethoxy)-6,7,8,9-tetrahydro-2H-pyrazolo[4,3-c]quinoline	Clc1ccc(cc1)n2nc3c4CCCCc4ncc3c2OCC5CC5	6.7328282716
+CHEMBL20042	2-(4-chlorophenyl)-2H-pyrazolo[4,3-c]quinolin-3(5H)-one	Clc1ccc(cc1)N2N=C3C(C=Nc4ccccc34)C2=O	8.39794000867
+CHEMBL286594	ethyl 8-ethynyl-5-methyl-6-oxo-5,6-dihydro-4H-benzo[f]imidazo[1,5-a][1,4]diazepine-3-carboxylate	CCOC(=O)c1ncn2c1CN(C)C(=O)c3cc(ccc23)C#C	7.1844447279959995
+CHEMBL35571	1,3-Bis(8-acetyleno-5,6-dihydro-5-methyl-6-oxo-4Himidazo[1,5-a][1,4]benzodiazepine-3-carboxy) propyl diester	CN1Cc2c(ncn2c3ccc(cc3C1=O)C#C)C(=O)OCCCOC(=O)c4ncn5c4CN(C)C(=O)c6cc(ccc56)C#C	4.514858501346
+CHEMBL363211	3-(3-tert-butyl-2-((1-methyl-1H-1,2,4-triazol-5-yl)methoxy)pyrazolo[1,5-d][1,2,4]triazin-7-yl)-5-methylisoxazole	Cc1onc(c1)c2nncc3c(c(OCc4ncnn4C)nn23)C(C)(C)C	8.611768514356
+CHEMBL3647533	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4)S(=O)(=O)C(C)C	7.022098112316
+CHEMBL3647534	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4F)S(=O)(=O)C	7.477432003405999
+CHEMBL3647535	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4)S(=O)(=O)N	7.808994789066
+CHEMBL3647536	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4OC)S(=O)(=O)CC	8.122161548086
+CHEMBL3647537	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4C#N)S(=O)(=O)C(C)C	6.481434745855999
+CHEMBL3647538	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4OC)S(=O)(=O)C5CCC5	7.5366779844059995
+CHEMBL3647539	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4OC)S(=O)(=O)C5CC5	7.527639271436
+CHEMBL3647540	None	CC(C)S(=O)(=O)c1ccc(c(c1)C#N)c2cc(ccc2F)c3cnnc4c3ncn4C5CC5	6.0435667902859995
+CHEMBL3647541	None	CCS(=O)(=O)c1ccc(cc1)c2cc(ccc2F)c3cnnc4c3ncn4C5CC5	7.022098112316
+CHEMBL3647542	None	CCS(=O)(=O)c1ccc(c(F)c1)c2cc(ccc2F)c3cnnc4c3ncn4C5CCC5	6.347541166596
+CHEMBL3647543	None	CCS(=O)(=O)c1ccc(cc1)c2cc(ccc2F)c3cnnc4c3ncn4C5(C)CC5	6.973279257395999
+CHEMBL3647544	None	CCS(=O)(=O)c1ccc(cc1)c2cc(ccc2F)c3cnnc4c3ncn4C5CCC5	6.643869687585999
+CHEMBL3647545	None	COc1cc(ccc1c2cc(ccc2F)c3cnnc4c3ncn4C5CCC5)S(=O)(=O)C	6.510537127566
+CHEMBL3647546	None	CCCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4)S(=O)(=O)CC	6.4356772552959995
+CHEMBL3647547	None	CCS(=O)(=O)c1ccc(cc1)c2cc(ccc2F)c3cnnc4c3ncn4C(C)C	7.136460600396
+CHEMBL3647548	None	CC(C)n1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4)S(=O)(=O)N	7.7499355166960004
+CHEMBL3647549	None	CNS(=O)(=O)c1ccc(cc1)c2cc(ccc2F)c3cnnc4c3ncn4C(C)C	7.3000146532959995
+CHEMBL3647550	None	CCS(=O)(=O)c1ccc(c(F)c1)c2cc(ccc2F)c3cnnc4c3ncn4C(C)C	6.977039406276
+CHEMBL3647551	None	CC(C)n1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4C#N)S(=O)(=O)C(C)C	6.926026775755999
+CHEMBL3647552	None	COc1cc(ccc1c2cc(ccc2F)c3cnnc4c3ncn4C5CCCC5)S(=O)(=O)N	6.553912305616
+CHEMBL3647553	None	CCS(=O)(=O)c1ccc(c(OC)c1)c2cc(ccc2F)c3cnnc4c3ncn4C5CCCC5	6.4429764940359995
+CHEMBL3647554	None	CCn1cnc2c(cnnc12)c3ccc(CO)c(c3)c4ccc(cc4F)S(=O)(=O)CC	5.6836288074759995
+CHEMBL3647555	None	CCn1cnc2c(cnnc12)c3ccc(Cl)c(c3)c4ccc(cc4OC)S(=O)(=O)CC	7.042102052025999
+CHEMBL3647556	None	CCn1cnc2c(cnnc12)c3ccc(CO)c(c3)c4ccc(cc4OC)S(=O)(=O)CC	5.271820452656
+CHEMBL3647557	None	CCn1cnc2c(cnnc12)c3ccc([N+]#[C-])c(c3)c4ccc(cc4OC)S(=O)(=O)CC	6.906332467766
+CHEMBL3647558	None	CCn1cnc2c(cnnc12)c3ccc(O)c(c3)c4ccc(cc4OC)S(=O)(=O)CC	6.5501275802959995
+CHEMBL3647559	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4)S(=O)(=O)CC	7.178398767496
+CHEMBL3647560	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc5c(CC(C)S5(=O)=O)c4	6.672873696756
+CHEMBL3647561	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4)S(=O)(=O)NC	7.642702228595999
+CHEMBL3647562	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4)S(=O)(=O)C	7.266885234986
+CHEMBL3647563	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4F)S(=O)(=O)C(C)C	6.727398026826
+CHEMBL3647564	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4C#N)S(=O)(=O)CC	6.9215724343259994
+CHEMBL3647565	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4OC)S(=O)(=O)C	7.640956903486
+CHEMBL3647566	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4OC)S(=O)(=O)C(C)C	7.446672639596
+CHEMBL3647567	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4C(F)F)S(=O)(=O)CC	6.965855239315999
+CHEMBL3647568	None	CCn1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4F)S(=O)(=O)CC	7.254787113356
+CHEMBL3647569	None	CCn1cnc2c(cnnc12)c3cccc(c3)c4ccc(cc4)S(=O)(=O)C	6.766670474335999
+CHEMBL3647570	None	CCn1cnc2c(cnnc12)c3cccc(c3)c4ccc5c(CCS5(=O)=O)c4	6.506258329585999
+CHEMBL3647571	None	CNS(=O)(=O)c1ccc(cc1)c2cc(ccc2F)c3cnnc4c3ncn4C5CC5	7.236104900396
+CHEMBL3647572	None	CS(=O)(=O)c1ccc(cc1)c2cc(ccc2F)c3cnnc4c3ncn4C5CC5	6.878370604995999
+CHEMBL3647573	None	CCS(=O)(=O)c1ccc(c(F)c1)c2cc(ccc2F)c3cnnc4c3ncn4C5CC5	6.6836288074759995
+CHEMBL3647574	None	COc1cc(ccc1c2cc(ccc2F)c3cnnc4c3ncn4C5CC5)S(=O)(=O)C(C)C	6.907403478136
+CHEMBL3647575	None	COc1cc(ccc1c2cc(ccc2F)c3cnnc4c3ncn4C5CC5)S(=O)(=O)C	6.945484591725999
+CHEMBL3647576	None	CCS(=O)(=O)c1ccc(c(c1)C#N)c2cc(ccc2F)c3cnnc4c3ncn4C5CC5	6.284409579966
+CHEMBL3647577	None	CC(C)n1cnc2c(cnnc12)c3ccc(F)c(c3)c4ccc(cc4F)S(=O)(=O)C(C)C	6.573347068716
+CHEMBL3647578	None	COc1cc(ccc1c2cc(ccc2F)c3cnnc4c3ncn4C(C)C)S(=O)(=O)C(C)C	7.233825134096
+CHEMBL3647579	None	COc1cc(ccc1c2cc(ccc2F)c3cnnc4c3ncn4C(C)C)S(=O)(=O)C	7.582384736666
+CHEMBL3647580	None	CCS(=O)(=O)c1ccc(c(Cl)c1)c2cc(ccc2F)c3cnnc4c3ncn4C(C)C	7.3564960092459994
+CHEMBL3647581	None	CCS(=O)(=O)c1ccc(c(OC)c1)c2cc(ccc2F)c3cnnc4c3ncn4C(C)C	7.368730465665999
+CHEMBL3647582	None	CCS(=O)(=O)c1ccc(c(c1)C#N)c2cc(ccc2F)c3cnnc4c3ncn4C(C)C	7.050965512356
+CHEMBL373250	7-tert-butyl-3-(2,5-difluorophenyl)-6-((1-methyl-1H-1,2,4-triazol-5-yl)methoxy)-[1,2,4]triazolo[4,3-b]pyridazine	Cn1ncnc1COc2nn3c(nnc3cc2C(C)(C)C)c4cc(F)ccc4F	8.669760461335999
+CHEMBL407	8-Fluoro-5-methyl-6-oxo-5,6-dihydro-4H-2,5,10b-triaza-benzo[e]azulene-3-carboxylic acid ethyl ester	CCOC(=O)c1ncn2c1CN(C)C(=O)c3cc(F)ccc23	7.758983645676
+CHEMBL443736	1,3-Bis(8-ethyl-5,6-dihydro-5-methyl-6-oxo-4H-imidazo[1,5-a][1,4]benzodiazepine-3-carboxy) propyl diester	CCc1ccc2c(c1)C(=O)N(C)Cc3c(ncn23)C(=O)OCCCOC(=O)c4ncn5c4CN(C)C(=O)c6cc(CC)ccc56	4.842483522596
+CHEMBL44533	9-(4-Methyl-thiazol-2-yl)-11-phenyl-6,7-dihydro-5H-2,7a-diaza-dibenzo[a,c]cyclohepten-8-one	Cc1csc(n1)C2=CC(=C3N(CCCc4ccncc34)C2=O)c5ccccc5	9.037737246626
+CHEMBL449393	1,5-Bis(8-acetyleno-5,6-dihydro-5-methyl-6-oxo-4Himidazo[1,5-a][1,4]benzodiazepine-3-carboxy) pentyl diester	CN1Cc2c(ncn2c3ccc(cc3C1=O)C#C)C(=O)OCCCCCOC(=O)c4ncn5c4CN(C)C(=O)c6cc(ccc56)C#C	5.694657041856
+CHEMBL45198	10-(4-methylthiazol-2-yl)-12-(pyridin-4-yl)-6,7-dihydrodipyrido[1,2-a:3',4'-c]azepin-9(5H)-one	Cc1csc(n1)C2=CC(=C3N(CCCc4ccncc34)C2=O)c5ccncc5	8.736707250965999
+CHEMBL45346	7-chloro-3-(methoxymethyl)-4-methylimidazo[1,5-a]quinazolin-5(4H)-one	COCc1ncn2c1CN(C)C(=O)c3cc(Cl)ccc23	5.0377372466259995
+CHEMBL471977	5-Methyl-6-oxo-8-trimethylsilanylethynyl-3a,4,5,6-tetrahydro-1H-2,5,10b-triaza-benzo[e]azulene-3-carboxylic acid tert-butyl ester	CN1CC2N(CN=C2C(=O)OC(C)(C)C)c3ccc(cc3C1=O)C#C[Si](C)(C)C	6.359522463876
+CHEMBL471978	ethyl 7-ethynyl-4-methyl-5-oxo-4,5-dihydroimidazo[1,5-a]quinazoline-3-carboxylate	CCOC(=O)c1ncn2c1N(C)C(=O)c3cc(ccc23)C#C	7.1844447279959995
+CHEMBL499964	Bis(8-acetylenyl-6-phenyl-4H-benzo[f]imidazo[1,5-a][1,4]diazepine-3-carboxy) diethylene glycol diester	O=C(OCCOCCOC(=O)c1ncn2c1CN=C(c3ccccc3)c4cc(ccc24)C#C)c5ncn6c5CN=C(c7ccccc7)c8cc(ccc68)C#C	4.815888497006
+CHEMBL505497	Bis(8-acetyleno-5,6-dihydro-5-methyl-6-oxo-4Himidazo[1,5-a][1,4]benzodiazepine-3-carboxy) dimethyl glycol diester	CN1Cc2c(ncn2c3ccc(cc3C1=O)C#C)C(=O)OCOCOC(=O)c4ncn5c4CN(C)C(=O)c6cc(ccc56)C#C	5.084460909955999
+CHEMBL505768	1,3-Bis(8-acetylenyl-6-phenyl-4H-benzo[f]imidazo[1,5-a][1,4]diazepine-3-carboxy)propyl diester	O=C(OCCCOC(=O)c1ncn2c1CN=C(c3ccccc3)c4cc(ccc24)C#C)c5ncn6c5CN=C(c7ccccc7)c8cc(ccc68)C#C	7.645626781616
+CHEMBL52030	(13aS)-ethyl 7-methoxy-9-oxo-11,12,13,13a-tetrahydro-9H-benzo[e]imidazo[5,1-c]pyrrolo[1,2-a][1,4]diazepine-1-carboxylate	CCOC(=O)c1ncn2c1[C@@H]3CCCN3C(=O)c4cc(OC)ccc24	7.083494737185999
+CHEMBL522055	ethyl 8-ethynyl-6-phenyl-4H-benzo[f]imidazo[1,5-a][1,4]diazepine-3-carboxylate	CCOC(=O)c1ncn2c1CN=C(c3ccccc3)c4cc(ccc24)C#C	6.861645987566
+CHEMBL58757	8-Ethynyl-5-methyl-6-oxo-5,6-dihydro-4H-2,5,10b-triaza-benzo[e]azulene-3-carboxylic acid tert-butyl ester	CN1Cc2c(ncn2c3ccc(cc3C1=O)C#C)C(=O)OC(C)(C)C	7.094902752856
+CHEMBL911	zolpidem	CN(C)C(=O)Cc1c(nc2ccc(C)cn12)c3ccc(C)cc3	5.904198338255999

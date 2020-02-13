@@ -1,0 +1,273 @@
+chembl_id	name	smiles	pAff
+CHEMBL121432	1-[3-(2,4-Dihydroxy-phenyl)-5-m-tolyl-4,5-dihydro-pyrazol-1-yl]-ethanone	CC(=O)N1N=C(CC1c2cccc(C)c2)c3ccc(O)cc3O	7.400915149036
+CHEMBL170087	1H-Pyrrole-2-carboxylic acid cyclohexylmethyl-amide	O=C(NCC1CCCCC1)c2ccc[nH]2	5.815888497006
+CHEMBL170635	1-Methyl-1H-pyrrole-2-carboxylic acid benzylamide	Cn1cccc1C(=O)NCc2ccccc2	6.0998851533759995
+CHEMBL170638	1H-Pyrrole-2-carboxylic acid (2-morpholin-4-yl-ethyl)-amide	O=C(NCCN1CCOCC1)c2ccc[nH]2	5.912798510016
+CHEMBL170647	Benzyl-methyl-[1-(1-methyl-1H-pyrrol-2-yl)-vinyl]-amine	CN(Cc1ccccc1)C(=C)c2cccn2C	6.338767242286
+CHEMBL171239	1H-Pyrrole-2-carboxylic acid 2-fluoro-benzylamide	Fc1ccccc1CNC(=O)c2ccc[nH]2	5.912798510016
+CHEMBL171588	1-Methyl-1H-pyrrole-2-carboxylic acid benzyl-methyl-amide	CN(Cc1ccccc1)C(=O)c2cccn2C	5.983379584305999
+CHEMBL171809	Benzyl-methyl-[1-(1H-pyrrol-2-yl)-vinyl]-amine	CN(Cc1ccccc1)C(=C)c2ccc[nH]2	4.970790456995999
+CHEMBL172812	1H-Pyrrole-2-carboxylic acid 3-fluoro-benzylamide	Fc1cccc(CNC(=O)c2ccc[nH]2)c1	5.983379584305999
+CHEMBL173436	1-Methyl-1H-pyrrole-2-carboxylic acid (3-fluoro-benzyl)-methyl-amide	CN(Cc1cccc(F)c1)C(=O)c2cccn2C	5.523632425655999
+CHEMBL173596	1-Methyl-1H-pyrrole-2-carboxylic acid 4-fluoro-benzylamide	Cn1cccc1C(=O)NCc2ccc(F)cc2	5.912798510016
+CHEMBL174040	1H-Pyrrole-2-carboxylic acid benzylamide-N-benzyl-1H-pyrrole-2-carboxamide	O=C(NCc1ccccc1)c2ccc[nH]2	6.116918492676
+CHEMBL174289	1-Methyl-1H-pyrrole-2-carboxylic acid 3-fluoro-benzylamide	Cn1cccc1C(=O)NCc2cccc(F)c2	6.213828505685999
+CHEMBL17562	5-Hydroxymethyl-3-pyrrol-1-yl-oxazolidin-2-one	OC[C@@H]1CN(C(=O)O1)n2cccc2	5.4356772552959995
+CHEMBL17643	5-Aminomethyl-3-pyrrol-1-yl-oxazolidin-2-one	NC[C@@H]1CN(C(=O)O1)n2cccc2	5.4356772552959995
+CHEMBL17653	5-Hydroxymethyl-3-pyrrol-1-yl-oxazolidin-2-one	OC[C@H]1CN(C(=O)O1)n2cccc2	6.560615991905999
+CHEMBL1794849	5-Hydroxymethyl-3-pyrrol-1-yl-oxazolidin-2-one; compound with 5-hydroxymethyl-3-pyrrol-1-yl-oxazolidin-2-one	OC[C@@H]1CN(C(=O)O1)n2cccc2.OC[C@H]3CN(C(=O)O3)n4cccc4	6.083494737185999
+CHEMBL17981	5-Aminomethyl-3-pyrrol-1-yl-oxazolidin-2-one	NC[C@H]1CN(C(=O)O1)n2cccc2	3.7905826317460005
+CHEMBL18019	5-Azidomethyl-3-pyrrol-1-yl-oxazolidin-2-one	[N-]=[N+]=NC[C@H]1CN(C(=O)O1)n2cccc2	6.213828505685999
+CHEMBL18101	5-Methoxymethyl-3-[4-(4,4,4-trifluoro-3-hydroxy-butoxy)-phenyl]-oxazolidin-2-one	COC[C@@H]1CN(C(=O)O1)c2ccc(OCC[C@H](O)C(F)(F)F)cc2	8.116918492676
+CHEMBL18116	5-Hydroxymethyl-3-m-tolyl-oxazolidin-2-one-toloxatone-Toloxatone	Cc1cccc(c1)N2CC(CO)OC2=O	5.9939468853036
+CHEMBL18334	5-Methoxymethyl-3-pyrrol-1-yl-oxazolidin-2-one	COC[C@H]1CN(C(=O)O1)n2cccc2	7.824662421315999
+CHEMBL18390	5-Methoxymethyl-3-pyrrol-1-yl-oxazolidin-2-one	COC[C@@H]1CN(C(=O)O1)n2cccc2	5.514858501346
+CHEMBL1938411	(R)-3-(1-allyl-1H-pyrrol-3-yl)-5-(methoxymethyl)oxazolidin-2-one	COC[C@H]1CN(C(=O)O1)c2ccn(CC=C)c2	8.514858501346
+CHEMBL1939847	(R)-5-(hydroxymethyl)-3-(1-methyl-1H-pyrrol-3-yl)oxazolidin-2-one	Cn1ccc(c1)N2C[C@H](CO)OC2=O	5.514858501346
+CHEMBL1939848	(R)-5-Hydroxymethyl-3-(1-ethyl-1H-pyrrol-3-yl)-2-oxazolidinone	CCn1ccc(c1)N2C[C@H](CO)OC2=O	8.037737246626
+CHEMBL1939849	(R)-3-(1-allyl-1H-pyrrol-3-yl)-5-(hydroxymethyl)oxazolidin-2-one	OC[C@H]1CN(C(=O)O1)c2ccn(CC=C)c2	5.970790456995999
+CHEMBL1939850	(R)-5-(methoxymethyl)-3-(1-methyl-1H-pyrrol-3-yl)oxazolidin-2-one	COC[C@H]1CN(C(=O)O1)c2ccn(C)c2	6.0377372466259995
+CHEMBL1939851	(R)-5-Methoxymethyl-3-(1-ethyl-1H-pyrrol-3-yl)-2-oxazolidinone	CCn1ccc(c1)N2C[C@H](COC)OC2=O	8.736707250965999
+CHEMBL1939852	(R)-5-azidomethyl-3-(1-methyl-1H-pyrrol-3-yl)-2-oxazolidinone	Cn1ccc(c1)N2C[C@H](CN=[N+]=[N-])OC2=O	6.213828505685999
+CHEMBL1939853	(R)-5-(azidomethyl)-3-(1-ethyl-1H-pyrrol-3-yl)oxazolidin-2-one	CCn1ccc(c1)N2C[C@H](CN=[N+]=[N-])OC2=O	8.611768514356
+CHEMBL1939854	(R)-3-(1-allyl-1H-pyrrol-3-yl)-5-(azidomethyl)oxazolidin-2-one	C=CCn1ccc(c1)N2C[C@H](CN=[N+]=[N-])OC2=O	7.912798510016
+CHEMBL1939855	(S)-5-(aminomethyl)-3-(1-methyl-1H-pyrrol-3-yl)oxazolidin-2-one	Cn1ccc(c1)N2C[C@H](CN)OC2=O	7.514858501346
+CHEMBL1939856	(S)-5-Aminomethyl-3-(1-ethyl-1H-pyrrol-3-yl)-2-oxazolidinone	CCn1ccc(c1)N2C[C@H](CN)OC2=O	6.400915149036
+CHEMBL1939857	(S)-3-(1-allyl-1H-pyrrol-3-yl)-5-(aminomethyl)oxazolidin-2-one	NC[C@H]1CN(C(=O)O1)c2ccn(CC=C)c2	5.669760461336
+CHEMBL1939858	(S)-5-methylaminomethyl-3-(1-methyl-1H-pyrrol-3-yl)-2-oxazolidinone	CNC[C@H]1CN(C(=O)O1)c2ccn(C)c2	7.669760461335999
+CHEMBL1939859	(S)-3-(1-ethyl-1H-pyrrol-3-yl)-5-((methylamino)methyl)oxazolidin-2-one	CCn1ccc(c1)N2C[C@H](CNC)OC2=O	6.611768514355999
+CHEMBL1939860	(S)-3-(1-allyl-1H-pyrrol-3-yl)-5-((methylamino)methyl)oxazolidin-2-one	CNC[C@H]1CN(C(=O)O1)c2ccn(CC=C)c2	6.514858501346
+CHEMBL2096866	(R)-5-(4-chlorophenyl)-3-p-tolyl-4,5-dihydropyrazole-1-carbothioamide	Cc1ccc(cc1)C2=NN([C@H](C2)c3ccc(Cl)cc3)C(=S)N	7.400915149036
+CHEMBL2096867	(S)-5-(4-chlorophenyl)-3-(4-fluorophenyl)-4,5-dihydropyrazole-1-carbothioamide	NC(=S)N1N=C(C[C@H]1c2ccc(Cl)cc2)c3ccc(F)cc3	7.736707250965999
+CHEMBL211141	2-oxo-N-(4-(2-oxo-2H-chromene-3-carboxamido)phenyl)-2H-chromene-3-carboxamide	O=C(Nc1ccc(NC(=O)C2=Cc3ccccc3OC2=O)cc1)C4=Cc5ccccc5OC4=O	5.134859029816
+CHEMBL212068	2-oxo-N-(6-(2-oxo-2H-chromene-3-carboxamido)hexyl)-2H-chromene-3-carboxamide	O=C(NCCCCCCNC(=O)C1=Cc2ccccc2OC1=O)C3=Cc4ccccc4OC3=O	7.914975429276
+CHEMBL212069	2-oxo-N-(2-(2-oxo-2H-chromene-3-carboxamido)phenyl)-2H-chromene-3-carboxamide	O=C(Nc1ccccc1NC(=O)C2=Cc3ccccc3OC2=O)C4=Cc5ccccc5OC4=O	7.304807651466
+CHEMBL212501	2-oxo-N-(4-(2-oxo-2H-chromene-3-carboxamido)butyl)-2H-chromene-3-carboxamide	O=C(NCCCCNC(=O)C1=Cc2ccccc2OC1=O)C3=Cc4ccccc4OC3=O	8.514858501346
+CHEMBL212555	7-methoxy-N-(4-(7-methoxy-2-oxo-2H-chromene-3-carboxamido)butyl)-2-oxo-2H-chromene-3-carboxamide	COc1ccc2C=C(C(=O)NCCCCNC(=O)C3=Cc4ccc(OC)cc4OC3=O)C(=O)Oc2c1	6.284869664806
+CHEMBL213141	2-oxo-N-(2-(2-oxo-2H-chromene-3-carboxamido)ethyl)-2H-chromene-3-carboxamide	O=C(NCCNC(=O)C1=Cc2ccccc2OC1=O)C3=Cc4ccccc4OC3=O	6.994899320596
+CHEMBL2178425	7-((5-(2-(Diethylamino)ethylthio)-1,3,4-thiadiazol-2-yl)methoxy)-4-methyl-2H-chromen-2-one	CCN(CC)CCSc1nnc(COc2ccc3C(=CC(=O)Oc3c2)C)s1	10.510537127546
+CHEMBL2178984	2-(4-Methyl-2-oxo-2H-chromen-7-yloxy)-N-(2-(4-chlorophenyl)-4-oxothiazolidin-3-yl)acetamide	CC1=CC(=O)Oc2cc(OCC(=O)NN3C(SCC3=O)c4ccc(Cl)cc4)ccc12	10.477432003446
+CHEMBL2178986	2-(4-methyl-2-oxo-2H-chromen-7-yloxy)acetohydrazide	CC1=CC(=O)Oc2cc(OCC(=O)NN)ccc12	10.465640478646
+CHEMBL2178988	7-((5-mercapto-1,3,4-oxadiazol-2-yl)methoxy)-4-methyl-2H-chromen-2-one	CC1=CC(=O)Oc2cc(OCc3oc(S)nn3)ccc12	10.435677255346
+CHEMBL2178990	7-((5-mercapto-1,3,4-thiadiazol-2-yl)methoxy)-4-methyl-2H-chromen-2-one	CC1=CC(=O)Oc2cc(OCc3nnc(S)s3)ccc12	10.473465816146
+CHEMBL217916	(4-methyl-thiazol-2-yl)-[1-o-tolyl-methylidene]-amine	Cc1csc(\N=C\c2ccccc2C)n1	6.964874890186
+CHEMBL218059	5-(4-chlorophenyl)-3-phenyl-1H-pyrazole	Clc1ccc(cc1)c2cc(n[nH]2)c3ccccc3	6.51999305704
+CHEMBL218073	(4-phenyl-thiazol-2-yl)-[1-o-tolyl-methylidene]-amine	Cc1ccccc1\C=N\c2nc(cs2)c3ccccc3	6.694854194536
+CHEMBL218323	3,5-bis(4-chlorophenyl)-1H-pyrazole	Clc1ccc(cc1)c2cc([nH]n2)c3ccc(Cl)cc3	8.69036983257
+CHEMBL218324	3-(4-chlorophenyl)-5-(4-fluorophenyl)-1H-pyrazole	Fc1ccc(cc1)c2cc(n[nH]2)c3ccc(Cl)cc3	8.51999305704
+CHEMBL219679	(R,S)-N-methyl,N-(R-phenylethyl),N-(pyrrol-2-ylmethyl)-amine	CC(N(C)Cc1ccc[nH]1)c2ccccc2	6.514858501346
+CHEMBL220116	N-methyl,N-(propargyl),N-(pyrrol-2-ylmethyl)amine	CN(CC#C)Cc1ccc[nH]1	7.782464741525999
+CHEMBL220264	(S)-N-(R-cyclohexylethyl)-1H-pyrrole-2-carboxamide	C[C@H](NC(=O)c1ccc[nH]1)C2CCCCC2	5.996344561466
+CHEMBL220265	(R)-N-(R-cyclohexylethyl)-N-methyl,N-(pyrrol-2-ylmethyl)amine	C[C@H](C1CCCCC1)N(C)Cc2ccc[nH]2	7.213828505685999
+CHEMBL220495	1-cyclohexylidene-2-(4-phenylthiazol-2-yl)hydrazine	C1CCC(=NNc2nc(cs2)c3ccccc3)CC1	7.204802763596
+CHEMBL220548	1-benzylidene-2-(4-methylthiazol-2-yl)hydrazine	Cc1csc(N\N=C\c2ccccc2)n1	7.655119935145999
+CHEMBL220677	N-(4-phenylbutyl)-1H-pyrrole-2-carboxamide	O=C(NCCCCc1ccccc1)c2ccc[nH]2	6.774495811855999
+CHEMBL220678	N-(4-phenylbutyl),N-methyl 1H-pyrrole-2-carboxamide	CN(CCCCc1ccccc1)C(=O)c2ccc[nH]2	6.560615991905999
+CHEMBL220832	N-(propargyl),N-(pyrrol-2-ylmethyl)amine	C#CCNCc1ccc[nH]1	6.0377372466259995
+CHEMBL220891	(R,S)-N-methyl,N-(R-phenylethyl)-1H-pyrrole-2-carboxamide	CC(N(C)C(=O)c1ccc[nH]1)c2ccccc2	7.514858501346
+CHEMBL221171	N-(3-phenylpropyl)-1H-pyrrole-2-carboxamide	O=C(NCCCc1ccccc1)c2ccc[nH]2	5.669760461336
+CHEMBL221293	5-(4-chlorophenyl)-3-p-tolyl-1H-pyrazole	Cc1ccc(cc1)c2cc([nH]n2)c3ccc(Cl)cc3	5.52000024741
+CHEMBL221333	N-(2-penylethyl),N-methyl-1H-pyrrole-2-carboxamide	CN(CCc1ccccc1)C(=O)c2ccc[nH]2	7.669760461335999
+CHEMBL221392	1-(2,4-dichlorobenzylidene)-2-(4-methylthiazol-2-yl)hydrazine	Cc1csc(N\N=C\c2ccc(Cl)cc2Cl)n1	7.434954033676
+CHEMBL221483	1-(2,4-dichlorobenzylidene)-2-(4-phenylthiazol-2-yl)hydrazine	Clc1ccc(\C=N\Nc2nc(cs2)c3ccccc3)c(Cl)c1	6.544837235516
+CHEMBL221593	3,5-dip-tolyl-1H-pyrazole	Cc1ccc(cc1)c2cc([nH]n2)c3ccc(C)cc3	7.84985783815
+CHEMBL221629	3,5-bis(4-fluorophenyl)-1H-pyrazole	Fc1ccc(cc1)c2cc([nH]n2)c3ccc(F)cc3	5.20000023711
+CHEMBL222368	N-(2-phenylethyl),N-(pyrrol-2-ylmethyl)amine	C(Cc1ccccc1)NCc2ccc[nH]2	7.213828505685999
+CHEMBL222672	N-methyl,N-(3-phenylpropyl),N-(pyrrol-2-ylmethyl)amine	CN(CCCc1ccccc1)Cc2ccc[nH]2	6.815888497006
+CHEMBL222673	N-methyl,N-(3-phenylbutyl),N-(pyrrol-2-ylmethyl)amine	CN(CCCCc1ccccc1)Cc2ccc[nH]2	6.514858501346
+CHEMBL223300	N-(2-benzyl),N-(1-methylpyrrol-2-ylmethyl)amine-N-((1-methyl-1H-pyrrol-2-yl)methyl)(phenyl)methanamine	Cn1cccc1CNCc2ccccc2	7.134647259636
+CHEMBL223433	N-methyl,N-(propargyl),N-(1-methylpyrrol-2-ylmethyl)amine	CN(CC#C)Cc1cccn1C	5.871405824856
+CHEMBL223618	N-(benzyl),N-(pyrrol-2-ylmethyl)amine	C(NCc1ccc[nH]1)c2ccccc2	5.970790456995999
+CHEMBL224061	1-thiocarbomoyl-3-(4-methylphenyl)-5-(4-chlorophenyl)-4,5-dihydropyrazole	Cc1ccc(cc1)C2=NN(C(C2)c3ccc(Cl)cc3)C(=S)N	7.023496807516
+CHEMBL224191	1-thiocarbamoyl-3-(thiophen-2-yl)-5-(thiophen-2-yl)-4,5-dihydrapyrazole	NC(=S)N1N=C(CC1c2cccs2)c3cccs3	7.083494737185999
+CHEMBL224562	(S)-5-(4-chlorophenyl)-3-p-tolyl-4,5-dihydropyrazole-1-carbothioamide	Cc1ccc(cc1)C2=NN([C@@H](C2)c3ccc(Cl)cc3)C(=S)N	6.815888497006
+CHEMBL225234	1-thiocarbamoyl-3-(4-fluorophenyl)-5-(furan-2-yl)-4,5-dihydrapyrazole	NC(=S)N1N=C(CC1c2occc2)c3ccc(F)cc3	7.611768514355999
+CHEMBL225498	1-thiocarbamoyl-3-(thiophen-2-yl)-5-(4-methylphenyl)-4,5-dihydrapyrazole	Cc1ccc(cc1)C2CC(=NN2C(=S)N)c3cccs3	6.815888497006
+CHEMBL266769	N-propargyl-1H-pyrrole-2-carboxamide	O=C(NCC#C)c1ccc[nH]1	6.153130665326
+CHEMBL274947	5-Dimethylaminomethyl-3-pyrrol-1-yl-oxazolidin-2-one	CN(C)C[C@H]1CN(C(=O)O1)n2cccc2	3.912798510016
+CHEMBL279544	5-Azidomethyl-3-pyrrol-1-yl-oxazolidin-2-one	[N-]=[N+]=NC[C@@H]1CN(C(=O)O1)n2cccc2	5.116918492676
+CHEMBL3278797	(S)-methyl 2-(2-aminobenzamido)propanoate	COC(=O)[C@H](C)NC(=O)c1ccccc1N	7.20065945055
+CHEMBL331650	1-[3-(2,4-Dihydroxy-phenyl)-5-o-tolyl-4,5-dihydro-pyrazol-1-yl]-ethanone	CC(=O)N1N=C(CC1c2ccccc2C)c3ccc(O)cc3O	6.798855157716
+CHEMBL3408907	N'-(3-benzylquinoxalin-2-yl)acetohydrazide	CC(=O)NNc1nc2ccccc2nc1Cc3ccccc3	7.18045606446
+CHEMBL3408908	N'-(3-benzylquinoxalin-2-yl)benzohydrazide	O=C(NNc1nc2ccccc2nc1Cc3ccccc3)c4ccccc4	7.10790539731
+CHEMBL3408909	N'-(3-benzylquinoxalin-2-yl)-4-chlorobenzohydrazide	Clc1ccc(cc1)C(=O)NNc2nc3ccccc3nc2Cc4ccccc4	7.46852108296
+CHEMBL3408910	N'-(3-benzylquinoxalin-2-yl)-4-methoxybenzohydrazide	COc1ccc(cc1)C(=O)NNc2nc3ccccc3nc2Cc4ccccc4	7.06550154876
+CHEMBL3408911	N'-(3-benzylquinoxalin-2-yl)-4-hydroxybenzohydrazide	Oc1ccc(cc1)C(=O)NNc2nc3ccccc3nc2Cc4ccccc4	8.76955107862
+CHEMBL3408912	N'-(3-benzylquinoxalin-2-yl)-4-bromobenzohydrazide	Brc1ccc(cc1)C(=O)NNc2nc3ccccc3nc2Cc4ccccc4	7.13076828027
+CHEMBL3408913	N'-[2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetyl]-4-methylbenzohydrazide	Cc1ccc(cc1)C(=O)NNC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4	7.28399665637
+CHEMBL3408914	N'-[2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetyl]-4-chlorobenzohydrazide	Clc1ccc(cc1)C(=O)NNC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4	7.19382002602
+CHEMBL3408915	N'-[2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetyl]-4-bromobenzohydrazide	Brc1ccc(cc1)C(=O)NNC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4	7.08618614762
+CHEMBL3408916	N'-[2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetyl]-4-nitrobenzohydrazide	[O-][N+](=O)c1ccc(cc1)C(=O)NNC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4	7.25181197299
+CHEMBL3408917	(9H-fluoren-9-yl)methyl 1-[2-(2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetyl)hydrazinyl]-4-methyl-1-oxopentan-2-ylcarbamate	CC(C)CC(NC(=O)OCC1c2ccccc2c3ccccc13)C(=O)NNC(=O)CN4C(=O)C(=Nc5ccccc45)Cc6ccccc6	7.08618614762
+CHEMBL3408918	(9H-fluoren-9-yl)methyl 1-[2-(2-(3-benzyl-2-oxoquinoxalin-1(2H)yl)acetyl)hydrazinyl]-1-oxo-3-phenylpropan-2-ylcarbamate	O=C(CN1C(=O)C(=Nc2ccccc12)Cc3ccccc3)NNC(=O)C(Cc4ccccc4)NC(=O)OCC5c6ccccc6c7ccccc57	8.5376020021
+CHEMBL3408919	(9H-fluoren-9-yl)methyl 1-[2-(2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetyl)hydrazinyl]-3-(4-tert-butoxyphenyl)-1-oxopropan-2-ylcarbamate	CC(C)(C)Oc1ccc(CC(NC(=O)OCC2c3ccccc3c4ccccc24)C(=O)NNC(=O)CN5C(=O)C(=Nc6ccccc56)Cc7ccccc7)cc1	8.46852108296
+CHEMBL3408920	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-benzylideneacetohydrazide	O=C(CN1C(=O)C(=Nc2ccccc12)Cc3ccccc3)N\N=C\c4ccccc4	8.50863830617
+CHEMBL3408921	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-(4-hydroxybenzylidene)-acetohydrazide	Oc1ccc(\C=N\NC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4)cc1	8.44369749923
+CHEMBL3408922	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-(4-methoxybenzylidene)-acetohydrazide	COc1ccc(\C=N\NC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4)cc1	8.18045606446
+CHEMBL3408923	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-(4-chlorobenzylidene)acetohydrazide	Clc1ccc(\C=N\NC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4)cc1	8.07572071394
+CHEMBL3408924	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-(4-bromobenzylidene)acetohydrazide	Brc1ccc(\C=N\NC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4)cc1	7.65757731918
+CHEMBL3408925	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-(4-nitrobenzylidene)acetohydrazide	[O-][N+](=O)c1ccc(\C=N\NC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4)cc1	7.00877392431
+CHEMBL3408926	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-[1-(4-hydroxyphenyl)ethylidene]acetohydrazide	C\C(=N/NC(=O)CN1C(=O)C(=Nc2ccccc12)Cc3ccccc3)\c4ccc(O)cc4	8.79588001734
+CHEMBL3408927	2-(3-Benzyl-2-oxoquinoxalin-1(2H)-yl)-N'-(2-oxoindolin-3ylidene)acetohydrazide	O=C(CN1C(=O)C(=Nc2ccccc12)Cc3ccccc3)N\N=C/4\C(=O)Nc5ccccc45	8.13667713988
+CHEMBL3408928	tert-Butyl 2-[2-(3-benzyl-2-oxo-2H-quinoxalin-1-yl)-acetylamino]-4-methyl-pentanoate	CC(C)CC(NC(=O)CN1C(=O)C(=Nc2ccccc12)Cc3ccccc3)C(=O)OC(C)(C)C	7.25181197299
+CHEMBL3408929	tert-Butyl 2-[2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetamido]-3-phenylpropanoate	CC(C)(C)OC(=O)C(Cc1ccccc1)NC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4	7.05551732785
+CHEMBL3408930	tert-Butyl 2-[2-(3-benzyl-2-oxoquinoxalin-1(2H)-yl)acetamido]-3-(4-tert-butoxyphenyl)propanoate	CC(C)(C)OC(=O)C(Cc1ccc(OC(C)(C)C)cc1)NC(=O)CN2C(=O)C(=Nc3ccccc23)Cc4ccccc4	7.44369749923
+CHEMBL3415439	2-(1-ethoxy-1,3-dioxo-3-(phenethylamino)propan-2-yl)isoquinolinium	CCOC(=O)C(C(=O)NCCc1ccccc1)[n+]2ccc3ccccc3c2	8.2076083105
+CHEMBL3415441	4-Nitrobenzylidenehydrazine	N\N=C\c1ccc(cc1)[N+](=O)[O-]	7.30980391997
+CHEMBL3415442	4-Chlorobenzylidenehydrazine	N\N=C\c1ccc(Cl)cc1	8.40893539297
+CHEMBL3415443	2-(1-ethoxy-3-(2-(4-nitrobenzylidene)hydrazinyl)-1,3-dioxopropan-2-yl)isoquinolinium bromide	[Br-].CCOC(=O)C(C(=O)N\N=C\c1ccc(cc1)[N+](=O)[O-])[n+]2ccc3ccccc3c2	8.42021640338
+CHEMBL3415444	2-(1-ethoxy-3-(2-(4-chlorobenzylidene)hydrazinyl)-1,3-dioxopropan-2-yl)isoquinolinium bromide	[Br-].CCOC(=O)C(C(=O)N\N=C\c1ccc(Cl)cc1)[n+]2ccc3ccccc3c2	7.18045606446
+CHEMBL352538	1H-Pyrrole-2-carboxylic acid benzyl-methyl-amide-N-benzyl,N-methyl-1H-pyrrole-2-carboxamide	CN(Cc1ccccc1)C(=O)c2ccc[nH]2	5.736707250966
+CHEMBL353159	1H-Pyrrole-2-carboxylic acid methyl-prop-2-ynyl-amide-N-methyl-N-(prop-2-ynyl)-1H-pyrrole-2-carboxamide	CN(CC#C)C(=O)c1ccc[nH]1	6.6397972379559995
+CHEMBL354285	1-Methyl-1H-pyrrole-2-carboxylic acid 2-fluoro-benzylamide	Cn1cccc1C(=O)NCc2ccccc2F	5.744006489706
+CHEMBL354639	1-Methyl-1H-pyrrole-2-carboxylic acid (4-fluoro-benzyl)-methyl-amide	CN(Cc1ccc(F)cc1)C(=O)c2cccn2C	5.958556000575999
+CHEMBL354971	1-Methyl-1H-pyrrole-2-carboxylic acid (2-fluoro-benzyl)-methyl-amide	CN(Cc1ccccc1F)C(=O)c2cccn2C	6.259585996246
+CHEMBL3585806	Methyl 2-(2-aminobenzamido)acetate	COC(=O)CNC(=O)c1ccccc1N	7.28399665637
+CHEMBL3585807	(S)-methyl 2-(2-aminobenzamido)-3-phenylpropanoate	COC(=O)[C@H](Cc1ccccc1)NC(=O)c2ccccc2N	7.42021640338
+CHEMBL3585808	Methyl 3-(2-aminobenzamido)propanoate	COC(=O)CCNC(=O)c1ccccc1N	7.2076083105
+CHEMBL3585809	Methyl 4-(2-aminobenzamido)butanoate	COC(=O)CCCNC(=O)c1ccccc1N	7.14874165128
+CHEMBL3585810	methyl 6-(2-aminobenzamido)hexanoate	COC(=O)CCCCCNC(=O)c1ccccc1N	7.25181197299
+CHEMBL3585811	Methyl 2-(1,2-dihydro-4-oxo-2-phenylquinazolin-3(4H)-yl)acetate	COC(=O)CN1C(Nc2ccccc2C1=O)c3ccccc3	6.03151705145
+CHEMBL3585812	Methyl 2-(2-(benzo[d][1,3]dioxol-5-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)acetate	COC(=O)CN1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	7.21467016499
+CHEMBL3585813	Methyl 2-(2-(furan-2-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)acetate	COC(=O)CN1C(Nc2ccccc2C1=O)c3occc3	7.35654732351
+CHEMBL3585814	Methyl 2-(1,2-dihydro-2-(4-chlorophenyl)-4-oxoquinazolin-3(4H)-yl)acetate	COC(=O)CN1C(Nc2ccccc2C1=O)c3ccc(Cl)cc3	8.44369749923
+CHEMBL3585815	Methyl 2-(1,2-dihydro-2-(4-methoxyphenyl)-4-oxoquinazolin-3(4H)-yl)acetate	COC(=O)CN1C(Nc2ccccc2C1=O)c3ccc(OC)cc3	7.31875876262
+CHEMBL3585816	Methyl 2-(4-oxo-2-phenyl-1,2-dihydroquinazolin-3(4H)-yl)propanoate	COC(=O)C(C)N1C(Nc2ccccc2C1=O)c3ccccc3	7.40893539297
+CHEMBL3585817	Methyl 2-(2-(benzo[d][1,3]dioxol-5-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)propanoate	COC(=O)C(C)N1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	8.55284196866
+CHEMBL3585818	Methyl 2-(2-(furan-2-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)propanoate	COC(=O)C(C)N1C(Nc2ccccc2C1=O)c3occc3	8.08618614762
+CHEMBL3585819	Methyl 2-(2-(furan-2-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)-3-phenylpropanoate	COC(=O)C(Cc1ccccc1)N2C(Nc3ccccc3C2=O)c4occc4	7.13667713988
+CHEMBL3585820	Methyl 2-(2-(4-chlorophenyl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)-3-phenylpropanoate	COC(=O)C(Cc1ccccc1)N2C(Nc3ccccc3C2=O)c4ccc(Cl)cc4	7.3767507096
+CHEMBL3585821	2-(4-oxo-2-phenyl-1,2-dihydroquinazolin-3(4H)-yl)acetohydrazide	NNC(=O)CN1C(Nc2ccccc2C1=O)c3ccccc3	7.42021640338
+CHEMBL3585822	2-(2-(benzo[d][1,3]dioxol-4-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)acetohydrazide	NNC(=O)CN1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	8.67778070527
+CHEMBL3585823	2-(2-(furan-2-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)acetohydrazide	NNC(=O)CN1C(Nc2ccccc2C1=O)c3occc3	7.44369749923
+CHEMBL3585824	2-(2-(4-chlorophenyl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)acetohydrazide	NNC(=O)CN1C(Nc2ccccc2C1=O)c3ccc(Cl)cc3	7.31875876262
+CHEMBL3585825	2-(2-(4-methoxyphenyl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)acetohydrazide	COc1ccc(cc1)C2Nc3ccccc3C(=O)N2CC(=O)NN	7.08618614762
+CHEMBL3585826	2-(2-(furan-2-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)propanehydrazide	CC(N1C(Nc2ccccc2C1=O)c3occc3)C(=O)NN	7.49485002168
+CHEMBL3585827	2-(2-(benzo[d][1,3]dioxol-4-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)propanehydrazide	NNC(=O)C(Cc1ccccc1)N2C(Nc3ccccc3C2=O)c4occc4	7.55284196866
+CHEMBL3585828	2-(2-(4-chlorophenyl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)-3-phenylpropanehydrazide	NNC(=O)C(Cc1ccccc1)N2C(Nc3ccccc3C2=O)c4ccc(Cl)cc4	7.7447274949
+CHEMBL3585829	Methyl 3-(1,2-dihydro-4-oxo-2-phenylquinazolin-3(4H)-yl)propanoate	COC(=O)CCN1C(Nc2ccccc2C1=O)c3ccccc3	7.03621217265
+CHEMBL3585830	Methyl 3-(2-(benzo[d][1,3]dioxol-5-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)propanoate	COC(=O)CCN1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	7.07572071394
+CHEMBL3585831	Methyl 3-(2-(4-chlorophenyl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)propanoate	COC(=O)CCN1C(Nc2ccccc2C1=O)c3ccc(Cl)cc3	7.00877392431
+CHEMBL3585832	Methyl 4-(4-oxo-2-phenyl-1,2-dihydroquinazolin-3(4H)-yl)butanoate	COC(=O)CCCN1C(Nc2ccccc2C1=O)c3ccccc3	7.20065945055
+CHEMBL3585833	Methyl 4-(2-(benzo[d][1,3]dioxol-5-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)butanoate	COC(=O)CCCN1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	7.05551732785
+CHEMBL3585834	Methyl 4-(2-(furan-2-yl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)butanoate	COC(=O)CCCN1C(Nc2ccccc2C1=O)c3occc3	7.01772876696
+CHEMBL3585835	Methyl 6-(2-(benzo[d][1,3]dioxol-5-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)hexanoate	COC(=O)CCCCCN1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	7.07572071394
+CHEMBL3585836	Methyl 6-(2-(4-chlorophenyl)-4-oxo-1,2-dihydroquinazolin-3(4H)-yl)hexanoate	COC(=O)CCCCCN1C(Nc2ccccc2C1=O)c3ccc(Cl)cc3	7.35654732351
+CHEMBL3585837	methyl 6-(2-(benzylideneamino)benzamido)hexanoate	COC(=O)CCCCCNC(=O)c1ccccc1\N=C\c2ccccc2	7.19382002602
+CHEMBL3585838	3-(1,2-Dihydro-4-oxo-2-phenylquinazolin-3(4H)-yl)propanehydrazide	NNC(=O)CCN1C(Nc2ccccc2C1=O)c3ccccc3	7.79588001734
+CHEMBL3585839	3-(2-(Benzo[d][1,3]dioxol-5-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)propanehydrazide	NNC(=O)CCN1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	7.49485002168
+CHEMBL3585840	3-(2-(4-Chlorophenyl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)propanehydrazide	NNC(=O)CCN1C(Nc2ccccc2C1=O)c3ccc(Cl)cc3	7.2924298239
+CHEMBL3585841	4-(1,2-Dihydro-4-oxo-2-phenylquinazolin-3(4H)-yl)-butanehydrazide	NNC(=O)CCCN1C(Nc2ccccc2C1=O)c3ccccc3	7.32790214206
+CHEMBL3585842	4-(2-(Benzo[d][1,3]dioxol-5-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)butanehydrazide	NNC(=O)CCCN1C(Nc2ccccc2C1=O)c3ccc4OCOc4c3	7.08618614762
+CHEMBL3585843	4-(2-(Furan-2-yl)-1,2-dihydro-4-oxoquinazolin-3(4H)-yl)butanehydrazide	NNC(=O)CCCN1C(Nc2ccccc2C1=O)c3occc3	7.44369749923
+CHEMBL3633198	(Z)-3-(4-chlorobenzylidene)indolin-2-one	Clc1ccc(\C=C\2/C(=O)Nc3ccccc23)cc1	4.53017798402
+CHEMBL3633200	(Z)-3-(3-bromobenzylidene)indolin-2-one	Brc1cccc(\C=C\2/C(=O)Nc3ccccc23)c1	4.56543109597
+CHEMBL3633204	(Z)-3-((5-bromothiophen-2-yl)methylene)indolin-2-one	Brc1ccc(\C=C\2/C(=O)Nc3ccccc23)s1	4.45469288353
+CHEMBL366390	1H-Pyrrole-2-carboxylic acid 4-fluoro-benzylamide	Fc1ccc(CNC(=O)c2ccc[nH]2)cc1	5.657526004916
+CHEMBL373645	(S)-N-(R-cyclohexylethyl),N-methyl-1H-pyrrole-2-carboxamide	C[C@@H](C1CCCCC1)N(C)C(=O)c2ccc[nH]2	7.213828505685999
+CHEMBL373648	(R,S)-N-(R-phenylethyl)-1H-pyrrole-2-carboxamide	CC(NC(=O)c1ccc[nH]1)c2ccccc2	5.4284986706759994
+CHEMBL374119	N-methyl,N-(2-phenylethyl)N-(pyrrol-2-ylmethyl)amine	CN(CCc1ccccc1)Cc2ccc[nH]2	6.815888497006
+CHEMBL374237	1-(4-methylcyclohexylidene)-2-(4-phenylthiazol-2-yl)hydrazine	CC1CCC(=NNc2nc(cs2)c3ccccc3)CC1	6.514858501346
+CHEMBL374335	N-methyl,N-(benzyl),N-(pyrrol-2-ylmethyl)amine-N-((1H-pyrrol-2-yl)methyl)-N-methyl(phenyl)methanamine	CN(Cc1ccccc1)Cc2ccc[nH]2	4.970790456995999
+CHEMBL375007	1-(4-methoxybenzylidene)-2-(4-methylthiazol-2-yl)hydrazine	COc1ccc(\C=N\Nc2nc(C)cs2)cc1	7.234963521336
+CHEMBL375415	N-(3-phenylpropyl),N-methyl-1H-pyrrole-2-carboxamide	CN(CCCc1ccccc1)C(=O)c2ccc[nH]2	6.912798510016
+CHEMBL375539	1-(2-methylcyclohexylidene)-2-(4-phenylthiazol-2-yl)hydrazine	CC1CCCC/C/1=N\Nc2nc(cs2)c3ccccc3	6.904837476686
+CHEMBL375574	N-propargyl,N-methyl-1-methyl-1H-pyrrole-2-carboxamide	CN(CC#C)C(=O)c1cccn1C	5.595780408965999
+CHEMBL375616	5-(4-fluorophenyl)-3-p-tolyl-1H-pyrazole	Cc1ccc(cc1)c2cc([nH]n2)c3ccc(F)cc3	5.63999955502
+CHEMBL375651	(4-methyl-thiazol-2-yl)-[1-p-tolyl-methylidene]-amine	Cc1ccc(\C=N\c2nc(C)cs2)cc1	6.204866572566
+CHEMBL375788	N-methyl,N-(benzy),N-(1-methylpyrrol-2-ylmethyl)amine	CN(Cc1ccccc1)Cc2cccn2C	6.338767242286
+CHEMBL375807	1-(4-chlorobenzylidene)-2-(4-methylthiazol-2-yl)hydrazine	Cc1csc(N\N=C\c2ccc(Cl)cc2)n1	6.934846388815999
+CHEMBL375932	1-thiocarbamoyl-3,5-di-(4-methylphenyl)-4,5-dihydropyrazole	Cc1ccc(cc1)C2CC(=NN2C(=S)N)c3ccc(C)cc3	7.736707250965999
+CHEMBL375966	3,5-diphenyl-1H-pyrazole	c1ccc(cc1)c2cc([nH]n2)c3ccccc3	9.0
+CHEMBL376404	(R)-5-(4-chlorophenyl)-3-(4-fluorophenyl)-4,5-dihydropyrazole-1-carbothioamide	NC(=S)N1N=C(C[C@@H]1c2ccc(Cl)cc2)c3ccc(F)cc3	7.4356772552959995
+CHEMBL376643	N-phenyl-1H-pyrrole-2-carboxamide	O=C(Nc1ccccc1)c2ccc[nH]2	5.912798510016
+CHEMBL378988	2-oxo-N-((1S,2S)-2-(2-oxo-2H-chromene-3-carboxamido)cyclohexyl)-2H-chromene-3-carboxamide	O=C(N[C@H]1CCCC[C@@H]1NC(=O)C2=Cc3ccccc3OC2=O)C4=Cc5ccccc5OC4=O	6.254858706266
+CHEMBL385117	benzaldehyde-4-methyl-(4-phenyl-2-thiazolyl)hydrazone	Cc1ccc(\C=N\c2nc(cs2)c3ccccc3)cc1	7.184850800475999
+CHEMBL385122	1-(4-methoxybenzylidene)-2-(4-phenylthiazol-2-yl)hydrazine	COc1ccc(\C=N\Nc2nc(cs2)c3ccccc3)cc1	6.814847439026
+CHEMBL385124	1-(3,4-dimethoxybenzylidene)-2-(4-methylthiazol-2-yl)hydrazine	COc1ccc(\C=N\Nc2nc(C)cs2)cc1OC	7.394943091086
+CHEMBL385397	5-(4-fluorophenyl)-3-phenyl-1H-pyrazole	Fc1ccc(cc1)c2cc(n[nH]2)c3ccccc3	5.39000029616
+CHEMBL386941	1-cyclopentylidene-2-(4-phenylthiazol-2-yl)hydrazine	C1CCC(=NNc2nc(cs2)c3ccccc3)C1	6.364870044856
+CHEMBL387736	1-thiocarbamoyl-3-(thiophen-2-yl)-5-(4-chlorophenyl)-4,5-dihydropyrazole	NC(=S)N1N=C(CC1c2ccc(Cl)cc2)c3cccs3	6.9020746446259995
+CHEMBL389501	1-thiocarbamoyl-3-(4-methylphenyl)-5-(furan-2-yl)-4,5-dihdropyrazole	Cc1ccc(cc1)C2=NN(C(C2)c3occc3)C(=S)N	7.912798510016
+CHEMBL389728	1-thiocarbamoyl-3-(thiophen-2-yl)-5-(furan-2-yl)-4,5-dihydrapyrazole	NC(=S)N1N=C(CC1c2occc2)c3cccs3	6.815888497006
+CHEMBL389940	1-thiocarbamoyl-3-(4-fluorophenyl)-5-(4-methylphenyl)-4,5-dihydrapyrazole	Cc1ccc(cc1)C2CC(=NN2C(=S)N)c3ccc(F)cc3	7.669760461335999
+CHEMBL412711	1-benzylidene-2-(4-phenylthiazol-2-yl)hydrazine	N(\N=C\c1ccccc1)c2nc(cs2)c3ccccc3	5.434860103266
+CHEMBL416578	befloxatone	COC[C@H]1CN(C(=O)O1)c2ccc(OCC[C@@H](O)C(F)(F)F)cc2	8.116918492676
+CHEMBL424940	5-phenyl-3-p-tolyl-1H-pyrazole	Cc1ccc(cc1)c2cc([nH]n2)c3ccccc3	5.82000035822
+CHEMBL425113	(R)-N-(R-cyclohexylethyl),N-methyl-1H-pyrrole-2-carboxamide	C[C@H](C1CCCCC1)N(C)C(=O)c2ccc[nH]2	8.284409579965999
+CHEMBL425640	1-(3,4-dimethoxybenzylidene)-2-(4-phenylthiazol-2-yl)hydrazine	COc1ccc(\C=N\Nc2nc(cs2)c3ccccc3)cc1OC	7.034851558385999
+CHEMBL426546	N-2-phenylethyl-1H-pyrrole-2-carboxamide	O=C(NCCc1ccccc1)c2ccc[nH]2	5.891609210945999
+CHEMBL426708	(R)-N-(R-cyclohexylethyl)-1H-pyrrole-2-carboxamide	C[C@@H](NC(=O)c1ccc[nH]1)C2CCCCC2	6.0998851533759995
+CHEMBL427094	1-thiocarbamoyl-3-(4-fluorophenyl)-5-(4-chlorophenyl)-4,5-dihydropyrazole	NC(=S)N1N=C(CC1c2ccc(Cl)cc2)c3ccc(F)cc3	7.736707250965999
+CHEMBL435310	1-(4-chlorobenzylidene)-2-(4-phenylthiazol-2-yl)hydrazine	Clc1ccc(\C=N\Nc2nc(cs2)c3ccccc3)cc1	6.514858501346
+CHEMBL441306	Methyl-prop-2-ynyl-[1-(1H-pyrrol-2-yl)-vinyl]-amine	CN(CC#C)C(=C)c1ccc[nH]1	7.782464741525999
+CHEMBL444747	N-Benzyl,N-methyl-1-methyl-1H-indole-2-carboxamide	CN(Cc1ccccc1)C(=O)c2cc3ccccc3n2C	7.736707250965999
+CHEMBL446960	N-((1H-indol-2-yl)methyl)-2-phenylethanamine	C(Cc1ccccc1)NCc2cc3ccccc3[nH]2	5.310738518686
+CHEMBL447022	1-(3-(4-chlorophenyl)-5-(4-methoxyphenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(OC)cc2)c3ccc(Cl)cc3	6.0
+CHEMBL447043	N-(1H-Indol-2-ylmethyl)-N-phenylamine	C(Nc1ccccc1)c2cc3ccccc3[nH]2	4.514858501346
+CHEMBL448946	(R,S)-N-(1H-Indol-2-ylmethyl)-N-(alpha-phenylethyl)amine	CC(NCc1cc2ccccc2[nH]1)c3ccccc3	4.514858501346
+CHEMBL449889	N-(1-Methyl-1H-indol-2-ylmethyl)-N-phenylamine	Cn1c(CNc2ccccc2)cc3ccccc13	7.514858501346
+CHEMBL450824	N-(1H-Indol-2-ylmethyl)-N-methyl-N-(2-phenylpropyl)amine	CN(CCCc1ccccc1)Cc2cc3ccccc3[nH]2	6.651535641225999
+CHEMBL454487	N-Phenyl-1H-indole-2-carboxamide	O=C(Nc1ccccc1)c2cc3ccccc3[nH]2	6.400915149036
+CHEMBL45511	N-((1H-indol-2-yl)methyl)(phenyl)methanamine	C(NCc1cc2ccccc2[nH]1)c3ccccc3	5.192639206616
+CHEMBL455981	N-(1H-Indol-2-ylmethyl)-N-(4-phenylbutyl)amine	C(CCc1ccccc1)CNCc2cc3ccccc3[nH]2	4.514858501346
+CHEMBL455989	(S)-N-(alpha-Cyclohexylethyl)-N-(1H-indol-2-ylmethyl)amine	C[C@@H](C1CCCCC1)N(C)Cc2cc3ccccc3[nH]2	6.736707250966
+CHEMBL456107	N-Benzyl,N-methyl-1H-indole-2-carboxamide	CN(Cc1ccccc1)C(=O)c2cc3ccccc3[nH]2	6.669760461336
+CHEMBL457030	(R)-N-(alpha-Cyclohexylethyl),N-methyl-1H-indole-2-carboxamide	C[C@H](C1CCCCC1)N(C)C(=O)c2cc3ccccc3[nH]2	5.628367776176
+CHEMBL457031	(S)-N-(alpha-Cyclohexylethyl),N-methyl-1H-indole-2-carboxamide	C[C@@H](C1CCCCC1)N(C)C(=O)c2cc3ccccc3[nH]2	7.4356772552959995
+CHEMBL457212	(R)-N-(alpha-Cyclohexylethyl)-N-(1H-indol-2-ylmethyl)-Nmethylamine	C[C@H](C1CCCCC1)N(C)Cc2cc3ccccc3n2C	4.523632425655999
+CHEMBL457235	(S)-N-(a-Cyclohexylethyl)-N-methyl-1-methyl-1Hindole-2-carboxamide	C[C@@H](C1CCCCC1)N(C)C(=O)c2cc3ccccc3n2C	6.782464741526
+CHEMBL457422	(S)-N-(alpha-Cyclohexylethyl)-N-(1H-indol-2-ylmethyl)-Nmethylamine	C[C@@H](C1CCCCC1)N(C)Cc2cc3ccccc3n2C	6.7019451447059994
+CHEMBL459336	N-Methyl,N-(3-phenylpropyl)-1-methyl-1H-indole-2-carboxamide	CN(CCCc1ccccc1)C(=O)c2cc3ccccc3n2C	6.871405824856
+CHEMBL459543	N-(4-Phenylbutyl)-1H-indole-2-carboxamide	O=C(NCCCCc1ccccc1)c2cc3ccccc3[nH]2	5.172435820525999
+CHEMBL459544	N-Methyl,N-(4-phenylbutyl)-1H-indole-2-carboxamide	CN(CCCCc1ccccc1)C(=O)c2cc3ccccc3[nH]2	4.514858501346
+CHEMBL459962	N-(1-Methyl-1H-indol-2-ylmethyl)-N-methyl-N-phenylamine	CN(Cc1cc2ccccc2n1C)c3ccccc3	7.736707250965999
+CHEMBL460599	N-Methyl,N-(3-phenylpropyl)-1H-indole-2-carboxamide	CN(CCCc1ccccc1)C(=O)c2cc3ccccc3[nH]2	8.551070673996
+CHEMBL460608	N-Methyl,N-(2-phenylethyl)-1H-indole-2-carboxamide	CN(CCc1ccccc1)C(=O)c2cc3ccccc3[nH]2	7.912798510016
+CHEMBL460609	N-(3-Phenylpropyl)-1H-indole-2-carboxamide	O=C(NCCCc1ccccc1)c2cc3ccccc3[nH]2	7.815888497006
+CHEMBL460610	N-(2-Phenylethyl)-1H-indole-2-carboxamide	O=C(NCCc1ccccc1)c2cc3ccccc3[nH]2	6.284409579966
+CHEMBL460828	N-(1-Methyl-1H-indol-2-ylmethyl)-N-methyl-N-(2-phenethyl)amine	CN(CCc1ccccc1)Cc2cc3ccccc3n2C	7.669760461335999
+CHEMBL460829	N-(1-Methyl-1H-indol-2-ylmethyl)-N-methyl-N-(2-phenylpropyl)amine	CN(CCCc1ccccc1)Cc2cc3ccccc3n2C	6.565468494706
+CHEMBL461244	N-Methyl,N-(4-phenylbutyl)-1-methyl-1H-indole-2-carboxamide	CN(CCCCc1ccccc1)C(=O)c2cc3ccccc3n2C	5.514858501346
+CHEMBL461245	N-(1H-Indol-2-ylmethyl)-N-methyl-N-phenylamine	CN(Cc1cc2ccccc2[nH]1)c3ccccc3	7.514858501346
+CHEMBL462054	N-Benzyl-N-(1H-indol-2-ylmethyl)-N-methylamine	CN(Cc1ccccc1)Cc2cc3ccccc3[nH]2	6.736707250966
+CHEMBL462096	N-Benzyl-N-(1-methyl-1H-indol-2-ylmethyl)-N-methylamine	CN(Cc1ccccc1)Cc2cc3ccccc3n2C	4.657526004916
+CHEMBL462097	N-(1H-Indol-2-ylmethyl)-N-methyl-N-(2-phenethyl)amine	CN(CCc1ccccc1)Cc2cc3ccccc3[nH]2	8.514858501346
+CHEMBL464333	N-Phenyl-1-methyl-1H-indole-2-carboxamide	Cn1c(cc2ccccc12)C(=O)Nc3ccccc3	4.514858501346
+CHEMBL464597	N-Methyl,N-phenyl-1H-indole-2-carboxamide	CN(C(=O)c1cc2ccccc2[nH]1)c3ccccc3	7.970790456995999
+CHEMBL464798	N-Methyl, N-phenyl-1-methyl-1H-indole-2-carboxamide	CN(C(=O)c1cc2ccccc2n1C)c3ccccc3	7.338767242286
+CHEMBL464799	N-Benzyl-1H-indole-2-carboxamide	O=C(NCc1ccccc1)c2cc3ccccc3[nH]2	7.0377372466259995
+CHEMBL472712	1-(3-phenyl-5-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(C)cc2)c3ccccc3	4.1199999857
+CHEMBL472713	1-(5-(4-methoxyphenyl)-3-phenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(OC)cc2)c3ccccc3	4.70999991085
+CHEMBL472716	1-(3,5-bis(4-chlorophenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(Cl)cc2)c3ccc(Cl)cc3	6.69999179745
+CHEMBL472902	1-(3-(4-fluorophenyl)-5-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(C)cc2)c3ccc(F)cc3	5.0
+CHEMBL472903	1-(5-phenyl-3-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccccc2)c3ccc(C)cc3	5.25000025114
+CHEMBL472904	1-(5-(4-chlorophenyl)-3-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(Cl)cc2)c3ccc(C)cc3	5.0
+CHEMBL472918	1-(3,5-bis(4-fluorophenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(F)cc2)c3ccc(F)cc3	6.0
+CHEMBL473309	1-(5-(4-methoxyphenyl)-3-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(OC)cc2)c3ccc(C)cc3	4.1300000242
+CHEMBL474738	1-(3-(4-chlorophenyl)-5-(4-fluorophenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(F)cc2)c3ccc(Cl)cc3	5.92000160192
+CHEMBL474939	1-(3-(4-chlorophenyl)-5-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(C)cc2)c3ccc(Cl)cc3	6.06999899899
+CHEMBL474940	1-(3-(4-fluorophenyl)-5-phenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccccc2)c3ccc(F)cc3	6.09000027579
+CHEMBL489084	1-(3-(4-methoxyphenyl)-5-phenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccccc2)c3ccc(OC)cc3	4.20000003062
+CHEMBL489085	1-(5-(4-chlorophenyl)-3-(4-methoxyphenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(Cl)cc2)c3ccc(OC)cc3	6.08000196904
+CHEMBL489086	1-(3-(4-methoxyphenyl)-5-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(C)cc2)c3ccc(OC)cc3	5.13999997607
+CHEMBL50	Quercetin	OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccc(O)c(O)c3	8.0
+CHEMBL503807	N-Methyl,N-(2-phenylethyl)-1-methyl-1H-indole-2-carboxamide	CN(CCc1ccccc1)C(=O)c2cc3ccccc3n2C	7.701945144706
+CHEMBL505492	1-(5-(4-fluorophenyl)-3-(4-methoxyphenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(F)cc2)c3ccc(OC)cc3	6.0
+CHEMBL507759	N-(3-Phenylpropyl)-1-methyl-1H-indole-2-carboxamide	Cn1c(cc2ccccc12)C(=O)NCCCc3ccccc3	6.514858501346
+CHEMBL508175	1-(3,5-dip-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(C)cc2)c3ccc(C)cc3	4.0
+CHEMBL508959	1-(5-(4-chlorophenyl)-3-(4-fluorophenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(Cl)cc2)c3ccc(F)cc3	5.84999924508
+CHEMBL509973	(R,S)-N-(alpha-Phenylethyl)-1H-indole-2-carboxamide	CC(NC(=O)c1cc2ccccc2[nH]1)c3ccccc3	6.116918492676
+CHEMBL510210	(R)-N-(alpha-Cyclohexylethyl)-N-(1H-indol-2-ylmethyl)amine	C[C@H](C1CCCCC1)N(C)Cc2cc3ccccc3[nH]2	7.514858501346
+CHEMBL512732	(R)-N-(alpha-Cyclohexylethyl)-N-methyl-1-methyl-1Hindole-2-carboxamide	C[C@H](C1CCCCC1)N(C)C(=O)c2cc3ccccc3n2C	5.669760461336
+CHEMBL514139	1-(3-(4-fluorophenyl)-5-(4-methoxyphenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(OC)cc2)c3ccc(F)cc3	5.92000160192
+CHEMBL514151	1-(5-(4-fluorophenyl)-3-p-tolyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(F)cc2)c3ccc(C)cc3	6.11999861168
+CHEMBL514297	1-(5-(4-chlorophenyl)-3-phenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(Cl)cc2)c3ccccc3	6.69999179745
+CHEMBL515237	1-(5-(4-fluorophenyl)-3-phenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(F)cc2)c3ccccc3	5.13999997607
+CHEMBL515250	1-(3,5-diphenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccccc2)c3ccccc3	6.0
+CHEMBL515389	1-(3-(4-chlorophenyl)-5-phenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccccc2)c3ccc(Cl)cc3	6.29999760286
+CHEMBL523765	1-(3,5-bis(4-methoxyphenyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one	CCC(=O)N1N=C(CC1c2ccc(OC)cc2)c3ccc(OC)cc3	5.9299990962
+CHEMBL86304	4-Chloro-N-(2-morpholin-4-yl-ethyl)-benzamide-moclobemide-Moclobemide	Clc1ccc(cc1)C(=O)NCCN2CCOCC2	4.692247297103
+CHEMBL86837	(Z)-3-(4-bromobenzylidene)indolin-2-one	Brc1ccc(\C=C\2/C(=O)Nc3ccccc23)cc1	4.73826145265
+CHEMBL8706	[3-(2,4-Dichloro-phenoxy)-propyl]-methyl-prop-2-ynyl-amine-clorgyline-Clorgyline	CN(CCCOc1ccc(Cl)cc1Cl)CC#C	7.6403055895105
+CHEMBL972	Methyl-((R)-1-methyl-2-phenyl-ethyl)-prop-2-ynyl-amine-selegiline-Selegiline	C[C@H](Cc1ccccc1)N(C)CC#C	4.596716601750667

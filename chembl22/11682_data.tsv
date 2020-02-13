@@ -1,0 +1,898 @@
+chembl_id	name	smiles	pAff
+CHEMBL1739063	2-chloro-N-((S)-phenyl((S)-piperidin-2-yl)methyl)-3-(trifluoromethyl)benzamide	FC(F)(F)c1cccc(C(=O)N[C@H]([C@@H]2CCCCN2)c3ccccc3)c1Cl	6.799718917925
+CHEMBL180202	{4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-3-methyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3CCN(CC(=O)O)CC3C)cc1	4.0
+CHEMBL181596	{4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-2,2-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3CCN(CC(=O)O)C(C)(C)C3)cc1	5.82390874094
+CHEMBL181643	{4-[2-(4-Chloro-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	CC1CN(C(C)CN1CC(=O)O)c2ccccc2Sc3ccc(Cl)cc3	6.44369749923
+CHEMBL181698	{4-[2-(4-Hydroxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	CC1CN(C(C)CN1CC(=O)O)c2ccccc2Sc3ccc(O)cc3	5.44369749923
+CHEMBL181745	{4-[2-(4-Acetylamino-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	CC1CN(C(C)CN1CC(=O)O)c2ccccc2Sc3ccc(NC(=O)C)cc3	4.65757731918
+CHEMBL181805	{4-[5-Chloro-2-(4-methoxy-phenylsulfanyl)-phenyl]-2-methyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccc(Cl)cc2N3CCN(CC(=O)O)C(C)C3)cc1	6.5376020021
+CHEMBL182015	{4-[2-(Biphenyl-4-ylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	CC1CN(C(C)CN1CC(=O)O)c2ccccc2Sc3ccc(cc3)c4ccccc4	5.0
+CHEMBL182162	{(2R,5S)-4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3C[C@@H](C)N(CC(=O)O)C[C@@H]3C)cc1	6.79588001734
+CHEMBL182521	[2,5-Dimethyl-4-(2-p-tolylsulfanyl-phenyl)-piperazin-1-yl]-acetic acid	CC1CN(C(C)CN1CC(=O)O)c2ccccc2Sc3ccc(C)cc3	6.25963731051
+CHEMBL182618	{4-[5-Methoxy-2-(4-methoxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccc(OC)cc2N3CC(C)N(CC(=O)O)CC3C)cc1	3.3010299956600004
+CHEMBL182666	{4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3CC(C)N(CC(=O)O)CC3C)cc1	6.23657200644
+CHEMBL182916	{(2S,5R)-4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3C[C@H](C)N(CC(=O)O)C[C@H]3C)cc1	4.2757241304
+CHEMBL182917	{(2S,5S)-4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3C[C@H](C)N(CC(=O)O)C[C@@H]3C)cc1	4.7447274949
+CHEMBL182949	{4-[2-(4-Fluoro-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	CC1CN(C(C)CN1CC(=O)O)c2ccccc2Sc3ccc(F)cc3	5.72124639905
+CHEMBL183030	{(S)-4-[5-Chloro-2-(4-methoxy-phenylsulfanyl)-phenyl]-2-methyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccc(Cl)cc2N3CCN(CC(=O)O)[C@@H](C)C3)cc1	5.85387196432
+CHEMBL1834678	N-(cyclopropylmethyl)-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(CC2CC2)C(=O)c3ccc(cc3)c4ccccn4)c1	6.69999179745
+CHEMBL1834679	N-cyclopentyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCC2)C(=O)c3ccc(cc3)c4ccccn4)c1	7.19997064076
+CHEMBL1834680	N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-N-isopropyl-4-(pyridin-2-yl)benzamide	CC(C)N(CC(=O)Nc1cc(F)cc(F)c1)C(=O)c2ccc(cc2)c3ccccn3	5.8999984172
+CHEMBL1834681	rac-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)-N-(tetrahydro-2H-pyran-3-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCOC2)C(=O)c3ccc(cc3)c4ccccn4)c1	7.10001543745
+CHEMBL1834682	N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)-N-(tetrahydro-2H-pyran-4-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCOCC2)C(=O)c3ccc(cc3)c4ccccn4)c1	6.0
+CHEMBL1834683	N-sec-butyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)benzamide	CCC(C)N(CC(=O)Nc1cc(F)cc(F)c1)C(=O)c2ccc(cc2)c3ccccn3	6.39999691337
+CHEMBL1834684	N-(cyclobutylmethyl)-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(CC2CCC2)C(=O)c3ccc(cc3)c4ccccn4)c1	6.90000876646
+CHEMBL1834685	N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-N-(1-methoxypropan-2-yl)-4-(pyridin-2-yl)benzamide	COCC(C)N(CC(=O)Nc1cc(F)cc(F)c1)C(=O)c2ccc(cc2)c3ccccn3	5.8999984172
+CHEMBL1834686	N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-N-(2-methoxyethyl)-4-(pyridin-2-yl)benzamide	COCCN(CC(=O)Nc1cc(F)cc(F)c1)C(=O)c2ccc(cc2)c3ccccn3	6.0
+CHEMBL1834687	N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-N-(1-methoxybutan-2-yl)-4-(pyridin-2-yl)benzamide	CCC(COC)N(CC(=O)Nc1cc(F)cc(F)c1)C(=O)c2ccc(cc2)c3ccccn3	5.8999984172
+CHEMBL1834688	N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)-N-(tetrahydrofuran-3-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCOC2)C(=O)c3ccc(cc3)c4ccccn4)c1	5.8999984172
+CHEMBL183508	{4-[5-Methoxy-2-(4-methoxy-phenylsulfanyl)-phenyl]-2-methyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccc(OC)cc2N3CCN(CC(=O)O)C(C)C3)cc1	5.33724216832
+CHEMBL1835674	4-chloro-N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3ccc(Cl)cc3)c1	6.19999817218
+CHEMBL1835675	4-chloro-N-cyclohexyl-N-(1-(3,5-difluorophenylamino)-1-oxopropan-2-yl)benzamide	CC(N(C1CCCCC1)C(=O)c2ccc(Cl)cc2)C(=O)Nc3cc(F)cc(F)c3	5.40000018606
+CHEMBL1835676	4-chloro-N-cyclohexyl-N-(3-(3,5-difluorophenylamino)-3-oxopropyl)benzamide	Fc1cc(F)cc(NC(=O)CCN(C2CCCCC2)C(=O)c3ccc(Cl)cc3)c1	5.0
+CHEMBL1835677	4-chloro-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-N-isobutylbenzamide	CC(C)CN(CC(=O)Nc1cc(F)cc(F)c1)C(=O)c2ccc(Cl)cc2	5.49999967866
+CHEMBL1835876	2-(4-chloro-N-cyclohexylphenylsulfonamido)-N-(3,5-difluorophenyl)acetamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)S(=O)(=O)c3ccc(Cl)cc3)c1	4.80000005274
+CHEMBL1835877	2-((4-chlorobenzyl)(cyclohexyl)amino)-N-(3,5-difluorophenyl)acetamide	Fc1cc(F)cc(NC(=O)CN(Cc2ccc(Cl)cc2)C3CCCCC3)c1	3.6000000746099996
+CHEMBL1835878	2-(3-(4-chlorophenyl)-1-cyclohexylureido)-N-(3,5-difluorophenyl)acetamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)Nc3ccc(Cl)cc3)c1	5.59999938302
+CHEMBL1835879	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-methoxybenzamide	COc1ccc(cc1)C(=O)N(CC(=O)Nc2cc(F)cc(F)c2)C3CCCCC3	6.29999760286
+CHEMBL1835880	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-1-methylpiperidine-4-carboxamide	CN1CCC(CC1)C(=O)N(CC(=O)Nc2cc(F)cc(F)c2)C3CCCCC3	3.6000000746099996
+CHEMBL1835881	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)tetrahydro-2H-pyran-4-carboxamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)C3CCOCC3)c1	5.30000020245
+CHEMBL1835882	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)cyclohexanecarboxamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)C3CCCCC3)c1	5.20000023711
+CHEMBL1835883	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)nicotinamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3cccnc3)c1	3.6000000746099996
+CHEMBL1835884	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-1-methyl-1H-pyrazole-3-carboxamide	Cn1ccc(n1)C(=O)N(CC(=O)Nc2cc(F)cc(F)c2)C3CCCCC3	3.6000000746099996
+CHEMBL1835885	3-chloro-N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3cccc(Cl)c3)c1	5.8000008748
+CHEMBL1835886	2-chloro-N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3ccccc3Cl)c1	4.70000006856
+CHEMBL1835887	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(2-(dimethylamino)ethoxy)benzamide	CN(C)CCOc1ccc(cc1)C(=O)N(CC(=O)Nc2cc(F)cc(F)c2)C3CCCCC3	4.70000006856
+CHEMBL1835888	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(1H-imidazol-1-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3ccc(cc3)n4ccnc4)c1	6.19999817218
+CHEMBL1835889	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-6-(pyrrolidin-1-yl)nicotinamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3ccc(nc3)N4CCCC4)c1	6.79999813459
+CHEMBL1835890	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyrrolidin-1-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3ccc(cc3)N4CCCC4)c1	7.10001543745
+CHEMBL1835891	N-cyclohexyl-N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-4-(pyridin-2-yl)benzamide	Fc1cc(F)cc(NC(=O)CN(C2CCCCC2)C(=O)c3ccc(cc3)c4ccccn4)c1	7.19997064076
+CHEMBL1835892	N-cyclohexyl-4-methoxy-N-((4-phenyl-1H-pyrazol-5-yl)methyl)benzamide	COc1ccc(cc1)C(=O)N(Cc2[nH]ncc2c3ccccc3)C4CCCCC4	3.6000000746099996
+CHEMBL1835893	N-cyclohexyl-4-methoxy-N-((3-methyl-5-phenylisoxazol-4-yl)methyl)benzamide	COc1ccc(cc1)C(=O)N(Cc2c(C)noc2c3ccccc3)C4CCCCC4	4.80000005274
+CHEMBL1835894	N-cyclohexyl-4-methoxy-N-((2-phenylthiazol-4-yl)methyl)benzamide	COc1ccc(cc1)C(=O)N(Cc2csc(n2)c3ccccc3)C4CCCCC4	5.10000012833
+CHEMBL1835895	N-cyclohexyl-4-methoxy-N-((2-phenyl-1H-imidazol-4-yl)methyl)benzamide	COc1ccc(cc1)C(=O)N(Cc2c[nH]c(n2)c3ccccc3)C4CCCCC4	4.70000006856
+CHEMBL1835896	N-cyclohexyl-4-methoxy-N-((1-phenyl-1H-1,2,3-triazol-4-yl)methyl)benzamide	COc1ccc(cc1)C(=O)N(Cc2cn(nn2)c3ccccc3)C4CCCCC4	5.59999938302
+CHEMBL1835897	N-((5-(4-chlorophenyl)furan-2-yl)methyl)-N-cyclohexyl-4-methoxybenzamide	COc1ccc(cc1)C(=O)N(Cc2oc(cc2)c3ccc(Cl)cc3)C4CCCCC4	5.8000008748
+CHEMBL1835898	N-cyclohexyl-4-methoxy-N-((5-phenylisoxazol-3-yl)methyl)benzamide	COc1ccc(cc1)C(=O)N(Cc2cc(on2)c3ccccc3)C4CCCCC4	6.39999691337
+CHEMBL1835899	N-(2-(3,5-difluorophenylamino)-2-oxoethyl)-N-isobutyl-4-(pyridin-2-yl)benzamide	CC(C)CN(CC(=O)Nc1cc(F)cc(F)c1)C(=O)c2ccc(cc2)c3ccccn3	7.0
+CHEMBL184785	{4-[5-Chloro-2-(4-methoxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccc(Cl)cc2N3CC(C)N(CC(=O)O)CC3C)cc1	5.76955107862
+CHEMBL184996	{4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3CCN(CC(=O)O)CC3)cc1	4.0
+CHEMBL1939495	2-Chloro-N-[(S)-{(S)-1-methylpiperidin-2-yl}(phenyl)-methyl]3-trifluoromethyl-benzamide	CN1CCCC[C@H]1[C@@H](NC(=O)c2cccc(c2Cl)C(F)(F)F)c3ccccc3	8.363210027165
+CHEMBL1939496	2-Iodo-N-[(S)-{(S)-1-piperidin-2-yl}(phenyl)methyl]3-trifluoromethyl-benzamide	FC(F)(F)c1cccc(C(=O)N[C@H]([C@@H]2CCCCN2)c3ccccc3)c1I	7.36653154442
+CHEMBL1939497	2-Iodo N-[(S)-{(S)-1-methylpiperidin-2-yl}(phenyl)-methyl]3-trifluoromethyl-benzamide	CN1CCCC[C@H]1[C@@H](NC(=O)c2cccc(c2I)C(F)(F)F)c3ccccc3	8.62893213773
+CHEMBL203298	2-((2-(5-chloro-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)acetic acid	CN(CCC1(C(=O)c2ccc(Cl)cc2C1=O)c3ccccc3)CC(=O)O	7.55284196866
+CHEMBL204286	2-((2-(1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)acetic acid	CN(CCC1(C(=O)c2ccccc2C1=O)c3ccccc3)CC(=O)O	6.98716277529
+CHEMBL204397	(2S)-2-((2-(4,5-dichloro-6-methoxy-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)-3-hydroxypropanoic acid	COc1cc2C(=O)C(CCN(C)[C@@H](CO)C(=O)O)(C(=O)c2c(Cl)c1Cl)c3ccccc3	8.5376020021
+CHEMBL205828	2-((2-(4-fluoro-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)acetic acid	CN(CCC1(C(=O)c2cccc(F)c2C1=O)c3ccccc3)CC(=O)O	7.07058107429
+CHEMBL206129	2-((3-(1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)propyl)(methyl)amino)acetic acid	CN(CCCC1(C(=O)c2ccccc2C1=O)c3ccccc3)CC(=O)O	5.55284196866
+CHEMBL206851	2-((2-(4,5-dichloro-2-(4-fluorophenyl)-6-methoxy-1,3-dioxo-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)acetic acid	COc1cc2C(=O)C(CCN(C)CC(=O)O)(C(=O)c2c(Cl)c1Cl)c3ccc(F)cc3	9.02227639471
+CHEMBL209446	2-(methyl(2-(2-(phenylthio)phenoxy)ethyl)amino)acetic acid	CN(CCOc1ccccc1Sc2ccccc2)CC(=O)O	6.79588001734
+CHEMBL209474	2-((2-(2-(4-acetamidophenylthio)phenoxy)ethyl)(methyl)amino)acetic acid	CN(CCOc1ccccc1Sc2ccc(NC(=O)C)cc2)CC(=O)O	3.3010299956600004
+CHEMBL209500	2-((1-(2-(3-fluorophenylthio)phenoxy)-3-methylbutan-2-yl)(methyl)amino)acetic acid	CC(C)C(COc1ccccc1Sc2cccc(F)c2)N(C)CC(=O)O	4.7447274949
+CHEMBL209678	2-((2-(2-(3-chlorophenylthio)phenoxy)ethyl)(ethyl)amino)propanoic acid	CCN(CCOc1ccccc1Sc2cccc(Cl)c2)C(C)C(=O)O	4.30102999566
+CHEMBL209679	(R)-1-(2-(2-(3-chlorophenylthio)phenoxy)ethyl)pyrrolidine-2-carboxylic acid	OC(=O)[C@H]1CCCN1CCOc2ccccc2Sc3cccc(Cl)c3	4.65757731918
+CHEMBL209902	(R)-2-((1-(2-(3-fluorophenylthio)phenoxy)propan-2-yl)(methyl)amino)acetic acid	C[C@H](COc1ccccc1Sc2cccc(F)c2)N(C)CC(=O)O	4.92081875395
+CHEMBL210207	(2S)-1-(2-(2-(3-fluorophenylthio)-4-(thiophen-3-yl)phenoxy)ethyl)pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2ccc(cc2Sc3cccc(F)c3)c4ccsc4	6.28399665637
+CHEMBL211519	2-((2-(2-(4-tert-butylphenylthio)phenoxy)ethyl)(methyl)amino)acetic acid	CN(CCOc1ccccc1Sc2ccc(cc2)C(C)(C)C)CC(=O)O	5.03621217265
+CHEMBL211894	(S)-1-(2-(5-chloro-2-(3-fluorophenylthio)phenoxy)ethyl)pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2cc(Cl)ccc2Sc3cccc(F)c3	6.22184874962
+CHEMBL212502	2-((2-(2-(3-fluorophenylthio)phenoxy)ethyl)(methyl)amino)acetic acid	CN(CCOc1ccccc1Sc2cccc(F)c2)CC(=O)O	5.2924298239
+CHEMBL212503	2-((1-(2-(3-fluorophenylthio)phenoxy)butan-2-yl)(methyl)amino)acetic acid	CCC(COc1ccccc1Sc2cccc(F)c2)N(C)CC(=O)O	4.95860731484
+CHEMBL213048	(S)-1-{2-[3-(3-fluoro-phenylsulfanyl)-3'-methoxy-biphenyl-4-yloxy]-ethyl}-pyrrolidine-2-carboxylic acid	COc1cccc(c1)c2ccc(OCCN3CCC[C@H]3C(=O)O)c(Sc4cccc(F)c4)c2	6.52287874528
+CHEMBL213087	(S)-2-((1-(2-(3-fluorophenylthio)phenoxy)propan-2-yl)(methyl)amino)acetic acid	C[C@@H](COc1ccccc1Sc2cccc(F)c2)N(C)CC(=O)O	5.05060999336
+CHEMBL213394	2-((2-(2-(3-chlorophenylthio)phenoxy)ethyl)(methyl)amino)propanoic acid	CC(N(C)CCOc1ccccc1Sc2cccc(Cl)c2)C(=O)O	4.58502665203
+CHEMBL213445	2-((2-(2-(4-methoxyphenylthio)phenoxy)ethyl)(methyl)amino)acetic acid	COc1ccc(Sc2ccccc2OCCN(C)CC(=O)O)cc1	4.52287874528
+CHEMBL213460	2-((2-(2-(4-fluorophenylthio)phenoxy)ethyl)(methyl)amino)acetic acid	CN(CCOc1ccccc1Sc2ccc(F)cc2)CC(=O)O	4.82390874094
+CHEMBL213528	2-((2-(2-(3-chlorophenylthio)phenoxy)ethyl)(methyl)amino)acetic acid	CN(CCOc1ccccc1Sc2cccc(Cl)c2)CC(=O)O	5.40893539297
+CHEMBL213982	(S)-1-{2-[4-(3-fluoro-phenylsulfanyl)-biphenyl-3-yloxy]-ethyl}-pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2cc(ccc2Sc3cccc(F)c3)c4ccccc4	6.02227639471
+CHEMBL214033	(S)-1-{2-[3-(3-fluoro-phenylsulfanyl)-biphenyl-4-yloxy]-ethyl}-pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2ccc(cc2Sc3cccc(F)c3)c4ccccc4	7.22914798836
+CHEMBL2146709	cis-N-((4-(1H-1,2,3-triazol-4-ylsulfonyl)-1-(cyclopropylmethyl)cyclohexyl)methyl)-2,4-dichlorobenzamide	Clc1ccc(C(=O)NC[C@@]2(CC3CC3)CC[C@H](CC2)S(=O)(=O)c4c[nH]nn4)c(Cl)c1	5.52287874528
+CHEMBL2146710	trans-N-((4-(1H-1,2,3-triazol-4-ylsulfonyl)-1-(cyclopropylmethyl)cyclohexyl)methyl)-2,4-dichlorobenzamide	Clc1ccc(C(=O)NC[C@@]2(CC3CC3)CC[C@@H](CC2)S(=O)(=O)c4c[nH]nn4)c(Cl)c1	5.52287874528
+CHEMBL2146711	cis-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(5-methylisoxazol-3-ylsulfonyl)cyclohexyl)methyl)benzamide	Cc1onc(c1)S(=O)(=O)[C@@H]2CC[C@@](CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	8.13667713988
+CHEMBL2146712	trans-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(5-methylisoxazol-3-ylsulfonyl)cyclohexyl)methyl)benzamide	Cc1onc(c1)S(=O)(=O)[C@@H]2CC[C@](CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	8.06550154876
+CHEMBL2146713	trans-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(5-methyl-1,3,4-thiadiazol-2-ylsulfonyl)cyclohexyl)methyl)benzamide	Cc1nnc(s1)S(=O)(=O)[C@@H]2CC[C@](CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	5.47716468634
+CHEMBL2146714	trans-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(6-methylpyridazin-3-ylsulfonyl)cyclohexyl)methyl)benzamide	Cc1ccc(nn1)S(=O)(=O)[C@@H]2CC[C@](CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	7.5376020021
+CHEMBL2146715	cis-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(propylsulfonyl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)[C@@H]1CC[C@@](CNC(=O)c2ccc(Cl)cc2Cl)(CC3CC3)CC1	7.43297363384
+CHEMBL2146716	cis-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(ethylsulfonyl)cyclohexyl)methyl)benzamide	CCS(=O)(=O)[C@@H]1CC[C@@](CNC(=O)c2ccc(Cl)cc2Cl)(CC3CC3)CC1	6.8781120149
+CHEMBL2146717	cis-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(methylsulfonyl)cyclohexyl)methyl)benzamide	CS(=O)(=O)[C@@H]1CC[C@@](CNC(=O)c2ccc(Cl)cc2Cl)(CC3CC3)CC1	5.47716468634
+CHEMBL2146718	trans-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(propylsulfonyl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)[C@@H]1CC[C@](CNC(=O)c2ccc(Cl)cc2Cl)(CC3CC3)CC1	5.78861244706
+CHEMBL2146719	trans-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(ethylsulfonyl)cyclohexyl)methyl)benzamide	CCS(=O)(=O)[C@@H]1CC[C@](CNC(=O)c2ccc(Cl)cc2Cl)(CC3CC3)CC1	5.87844015581
+CHEMBL2146720	cis-2,4-dichloro-N-((4-(cyclobutylmethylsulfonyl)-1-(cyclopropylmethyl)cyclohexyl)methyl)benzamide	Clc1ccc(C(=O)NC[C@@]2(CC3CC3)CC[C@H](CC2)S(=O)(=O)CC4CCC4)c(Cl)c1	6.20134935455
+CHEMBL2146721	cis-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(cyclopropylmethylsulfonyl)cyclohexyl)methyl)benzamide	Clc1ccc(C(=O)NC[C@@]2(CC3CC3)CC[C@H](CC2)S(=O)(=O)CC4CC4)c(Cl)c1	7.5376020021
+CHEMBL219714	2-chloro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2Cl)(CC1)C(=O)N3CCOCC3	8.01322826573
+CHEMBL219929	2,4-dichloro-N-((4-(cyclopropanecarbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)C3CC3	6.32605800137
+CHEMBL220179	N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)cyclopropanecarboxamide	CCCS(=O)(=O)N1CCC(CNC(=O)C2CC2)(CC1)C(=O)N3CCOCC3	4.30102999566
+CHEMBL220948	N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2)(CC1)C(=O)N3CCOCC3	6.57839607313
+CHEMBL220987	N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)-2-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2OC(F)(F)F)(CC1)C(=O)N3CCOCC3	7.05354773499
+CHEMBL221157	4-((2,4-dichlorobenzamido)methyl)-N-ethyl-1-(propylsulfonyl)piperidine-4-carboxamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)NCC	6.28650945691
+CHEMBL221209	2,4-dichloro-N-((4-(3-(dimethylamino)pyrrolidine-1-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)N3CCC(C3)N(C)C	6.2644011003
+CHEMBL222517	2,6-difluoro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2c(F)cccc2F)(CC1)C(=O)N3CCOCC3	6.88272870434
+CHEMBL222569	(S)-2,4-dichloro-N-(1-(4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)ethyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@H](C)NC(=O)c2ccc(Cl)cc2Cl)C(=O)N3CCOCC3	4.30102999566
+CHEMBL222720	3-chloro-2,6-difluoro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2c(F)ccc(Cl)c2F)(CC1)C(=O)N3CCOCC3	8.07572071394
+CHEMBL222899	2-chloro-4-fluoro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(F)cc2Cl)(CC1)C(=O)N3CCOCC3	7.89962945488
+CHEMBL223199	2,4-dichloro-5-fluoro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2cc(F)c(Cl)cc2Cl)(CC1)C(=O)N3CCOCC3	8.20065945055
+CHEMBL223491	N-((4-(3-aminoazetidine-1-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)-2,4-dichlorobenzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)N3CC(N)C3	6.96257350206
+CHEMBL223492	2-fluoro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)-4-(trifluoromethyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(cc2F)C(F)(F)F)(CC1)C(=O)N3CCOCC3	7.36855623099
+CHEMBL223596	4-fluoro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)-2-(trifluoromethyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(F)cc2C(F)(F)F)(CC1)C(=O)N3CCOCC3	7.16877030613
+CHEMBL223677	4-((2,4-dichlorobenzamido)methyl)-N-((3-methyloxetan-3-yl)methyl)-1-(propylsulfonyl)piperidine-4-carboxamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)NCC3(C)COC3	7.16115090926
+CHEMBL223743	2-chloro-6-fluoro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2c(F)cccc2Cl)(CC1)C(=O)N3CCOCC3	7.90308998699
+CHEMBL2324158	2-amino-6-chloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(N)cccc3Cl)CCCCC2	7.82102305271
+CHEMBL2324159	N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccccc3)CCCCC2	6.10679324694
+CHEMBL2324160	N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)-2-(trifluoromethyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccccc3C(F)(F)F)CCCCC2	7.3142582614
+CHEMBL2324161	N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)-2-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccccc3OC(F)(F)F)CCCCC2	7.65757731918
+CHEMBL2324162	4-chloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccc(Cl)cc3)CCCCC2	6.75696195131
+CHEMBL2324163	N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)-4-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccc(OC(F)(F)F)cc3)CCCCC2	6.92811799269
+CHEMBL2324164	N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)-3-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3cccc(OC(F)(F)F)c3)CCCCC2	6.28149831113
+CHEMBL2324165	2-chloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)-3-(trifluoromethyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3cccc(c3Cl)C(F)(F)F)CCCCC2	7.10846254233
+CHEMBL2324166	2-fluoro-4-methoxy-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccc(OC)cc3F)CCCCC2	7.76700388961
+CHEMBL2324167	2,4-dichloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccc(Cl)cc3Cl)CCCCC2	7.64397414281
+CHEMBL2324168	4-fluoro-2-methyl-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccc(F)cc3C)CCCCC2	7.55129368009
+CHEMBL2324476	3,4-dichloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccc(Cl)c(Cl)c3)CCCCC2	6.61083391564
+CHEMBL2324477	2,6-difluoro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(F)cccc3F)CCCCC2	7.63451201511
+CHEMBL2324478	2,6-dichloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(Cl)cccc3Cl)CCCCC2	7.89279003035
+CHEMBL2324479	2-methoxy-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)-4,6-bis(trifluoromethyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(OC)cc(cc3C(F)(F)F)C(F)(F)F)CCCCC2	8.35654732351
+CHEMBL2324480	4-fluoro-2-methoxy-6-(methylthio)-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(OC)cc(F)cc3SC)CCCCC2	8.21467016499
+CHEMBL2324481	2-amino-6-chloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclobutyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(N)cccc3Cl)CCC2	5.61172113654
+CHEMBL2324482	2-amino-6-chloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cyclopentyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(N)cccc3Cl)CCCC2	6.73754891027
+CHEMBL2324483	2-amino-6-chloro-N-((1-(4-(propylsulfonyl)piperazin-1-yl)cycloheptyl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(N)cccc3Cl)CCCCCC2	8.20065945055
+CHEMBL2324484	2-amino-6-chloro-N-((2-(4-(propylsulfonyl)piperazin-1-yl)-2,3-dihydro-1H-inden-2-yl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(N)cccc3Cl)Cc4ccccc4C2	6.17979854051
+CHEMBL2324486	cis/trans-2,6-difluoro-N-((3-(4-(propylsulfonyl)piperazin-1-yl)bicyclo[3.1.0]hexan-3-yl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(F)cccc3F)C[C@H]4C[C@H]4C2	6.20690839982
+CHEMBL2324487	2,6-difluoro-N-((6-(4-(propylsulfonyl)piperazin-1-yl)spiro[2.5]octan-6-yl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(F)cccc3F)CCC4(CC4)CC2	6.79048498546
+CHEMBL2324488	2,4-dichloro-N-((4-(4-(propylsulfonyl)piperazin-1-yl)tetrahydro-2H-pyran-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3ccc(Cl)cc3Cl)CCOCC2	7.10568393732
+CHEMBL2324489	2-amino-6-chloro-N-((1-methyl-4-(4-(propylsulfonyl)piperazin-1-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(N)cccc3Cl)CCN(C)CC2	6.30102999566
+CHEMBL2324490	(+/-)-2,6-difluoro-N-((4-(4-(propylsulfonyl)piperazin-1-yl)oxepan-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(F)cccc3F)CCCOCC2	6.62342304294
+CHEMBL2324491	N-((4,4-difluoro-1-(4-(propylsulfonyl)piperazin-1-yl)cyclohexyl)methyl)-2,6-difluorobenzamide	CCCS(=O)(=O)N1CCN(CC1)C2(CNC(=O)c3c(F)cccc3F)CCC(F)(F)CC2	7.17069622717
+CHEMBL23390	(Methyl-{3-[4-(4-methyl-benzoyl)-phenoxy]-3-phenyl-propyl}-amino)-acetic acid	CN(CCC(Oc1ccc(cc1)C(=O)c2ccc(C)cc2)c3ccccc3)CC(=O)O	8.310738518686
+CHEMBL238543	(R)-N-(2-hydroxy-3-(pyrrolidin-1-yl)propyl)naphthalene-1-sulfonamide	O[C@@H](CNS(=O)(=O)c1cccc2ccccc12)CN3CCCC3	5.49999967866
+CHEMBL238953	N-((R)-3-(2-cyclohexylpyrrolidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	O[C@@H](CNS(=O)(=O)c1cccc2ccccc12)CN3CCCC3C4CCCCC4	5.20000023711
+CHEMBL239596	1-(6-((5-(4-chlorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-2,3-dihydro-1H-inden-1-yl)-4-isopropylpiperazine	CC(C)N1CCN(CC1)C2CCc3ccc(OCc4noc(n4)c5ccc(Cl)cc5)cc23	5.919362279515999
+CHEMBL239598	1-(6-((5-(4-chlorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-2,3-dihydro-1H-inden-1-yl)-4-(3,4-dimethylcyclopentyl)piperazine	CC1CC(CC1C)N2CCN(CC2)C3CCc4ccc(OCc5noc(n5)c6ccc(Cl)cc6)cc34	6.387753702985999
+CHEMBL239601	(1-(4-(6-((5-(2-fluorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-2,3-dihydro-1H-inden-1-yl)piperazin-1-yl)cyclopentyl)methanol	OCC1(CCCC1)N2CCN(CC2)C3CCc4ccc(OCc5noc(n5)c6ccccc6F)cc34	6.726690130205999
+CHEMBL239603	(1-(3-(7-((5-(4-chlorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-1,2,3,4-tetrahydronaphthalen-1-yl)propyl)piperidin-3-yl)methanol	OCC1CCCN(CCCC2CCCc3ccc(OCc4noc(n4)c5ccc(Cl)cc5)cc23)C1	7.4894262993792005
+CHEMBL239605	(1-(3-(7-((5-(2-fluorophenyl)pyridin-2-yl)methoxy)-1,2,3,4-tetrahydronaphthalen-1-yl)propyl)piperidin-3-yl)methanol	OCC1CCCN(CCCC2CCCc3ccc(OCc4ccc(cn4)c5ccccc5F)cc23)C1	7.473465816186
+CHEMBL239810	N-((S)-2-hydroxy-3-(2-methylpyrrolidin-1-yl)propyl)naphthalene-1-sulfonamide	CC1CCCN1C[C@H](O)CNS(=O)(=O)c2cccc3ccccc23	4.90000014206
+CHEMBL239812	N-((R)-3-(2-cyclopropylpyrrolidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	O[C@@H](CNS(=O)(=O)c1cccc2ccccc12)CN3CCCC3C4CC4	6.049999238830001
+CHEMBL239999	(R)-N-(3-(tert-butyl(propyl)amino)-2-hydroxypropyl)naphthalene-1-sulfonamide	CCCN(C[C@@H](O)CNS(=O)(=O)c1cccc2ccccc12)C(C)(C)C	6.0
+CHEMBL240000	N-((R)-3-(2-ethylpiperidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	CCC1CCCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	5.10000012833
+CHEMBL240031	N-((R)-3-(5-ethyl-2-methylpiperidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	CCC1CCC(C)N(C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23)C1	6.0
+CHEMBL240032	N-((R)-3-(2,4-dimethylpyrrolidin-1-yl)-2-hydroxypropyl)naphthalene-2-sulfonamide	CC1CC(C)N(C[C@@H](O)CNS(=O)(=O)c2ccc3ccccc3c2)C1	5.40000018606
+CHEMBL240041	2,3-dichloro-N-((R)-3-(2,4-dimethylpyrrolidin-1-yl)-2-hydroxypropyl)benzenesulfonamide	CC1CC(C)N(C[C@@H](O)CNS(=O)(=O)c2cccc(Cl)c2Cl)C1	5.59999938302
+CHEMBL240042	2,5-dichloro-N-((R)-3-(2,4-dimethylpyrrolidin-1-yl)-2-hydroxypropyl)thiophene-3-sulfonamide	CC1CC(C)N(C[C@@H](O)CNS(=O)(=O)c2cc(Cl)sc2Cl)C1	5.49999967866
+CHEMBL240224	4-chloro-N-((R)-3-(2,4-dimethylpyrrolidin-1-yl)-2-hydroxypropyl)-2,5-dimethylbenzenesulfonamide	CC1CC(C)N(C[C@@H](O)CNS(=O)(=O)c2cc(C)c(Cl)cc2C)C1	5.49999967866
+CHEMBL240225	4-bromo-N-((R)-3-(2,4-dimethylpyrrolidin-1-yl)-2-hydroxypropyl)-2-ethylbenzenesulfonamide	CCc1cc(Br)ccc1S(=O)(=O)NC[C@H](O)CN2CC(C)CC2C	5.49999967866
+CHEMBL240410	N-((R)-3-(2-ethylpyrrolidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	CCC1CCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	5.8499996460000006
+CHEMBL241111	N-((S)-3-(2,5-dimethylpyrrolidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	CC1CCC(C)N1C[C@H](O)CNS(=O)(=O)c2cccc3ccccc23	5.10000012833
+CHEMBL241288	N-((R)-3-((S)-2-ethylpiperidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	CC[C@H]1CCCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	7.0
+CHEMBL241289	N-((R)-2-hydroxy-3-(2-isopropylpiperidin-1-yl)propyl)naphthalene-1-sulfonamide	CC(C)C1CCCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	5.79999917912
+CHEMBL241290	N-((R)-2-hydroxy-3-(3-methylpiperidin-1-yl)propyl)naphthalene-1-sulfonamide	CC1CCCN(C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23)C1	5.40000018606
+CHEMBL2419440	(R)-3-[3-Ethyl-5-(6-phenylpyridin-3-yl)-4H-1,2,4-triazol-4-yl]-2-methylbenzonitrile	CCc1nnc(c2ccc(nc2)c3ccccc3)n1c4cccc(C#N)c4C	6.22914798836
+CHEMBL248734	{[2-(5-benzo[1,3]dioxol-5-yl-2'-chloro-biphenyl-2-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1c2ccccc2Cl)c3ccc4OCOc4c3)CC(=O)O	7.92081875395
+CHEMBL248920	{methyl-[2-(2''-methyl-[1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-amino}-acetic acid	CN(CCOc1ccc(cc1c2ccccc2C)c3ccccc3)CC(=O)O	7.25181197299
+CHEMBL249125	{[2-(2''-methoxy-[1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-methyl-amino}-acetic acid	COc1ccccc1c2cc(ccc2OCCN(C)CC(=O)O)c3ccccc3	6.45469288353
+CHEMBL249126	{methyl-[2-(3-thiophen-3-yl-biphenyl-4-yloxy)-ethyl]-amino}-acetic acid	CN(CCOc1ccc(cc1c2ccsc2)c3ccccc3)CC(=O)O	6.85698519975
+CHEMBL249557	({2-[2'-chloro-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3ccccc3Cl)CC(=O)O	6.75696195131
+CHEMBL249760	({2-[3'-chloro-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3cccc(Cl)c3)CC(=O)O	7.58502665203
+CHEMBL249761	(methyl-{2-[2'-methyl-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3ccccc3C)CC(=O)O	6.19928292172
+CHEMBL249762	(methyl-{2-[3'-methyl-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3cccc(C)c3)CC(=O)O	7.34678748622
+CHEMBL249968	(methyl-{2-[4'-methyl-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3ccc(C)cc3)CC(=O)O	7.22914798836
+CHEMBL249969	({2-[4'-methoxy-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	COc1ccc(cc1)c2ccc(OCCN(C)CC(=O)O)c(c2)C(=O)c3cccs3	7.56863623584
+CHEMBL249970	({2-[3',4'-dimethyl-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3ccc(C)c(C)c3)CC(=O)O	7.11918640772
+CHEMBL250152	{methyl-[2-(3-thiazol-2-yl-biphenyl-4-yloxy)-ethyl]-amino}-acetic acid	CN(CCOc1ccc(cc1c2nccs2)c3ccccc3)CC(=O)O	6.01908806222
+CHEMBL250170	({2-[3',4'-dimethoxy-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	COc1ccc(cc1OC)c2ccc(OCCN(C)CC(=O)O)c(c2)C(=O)c3cccs3	6.07883394936
+CHEMBL250171	({2-[4-benzo[1,3]dioxol-5-yl-2-(thiophene-2-carbonyl)-phenoxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3ccc4OCOc4c3)CC(=O)O	7.72124639905
+CHEMBL250356	{methyl-[2-(3-naphthalen-1-yl-biphenyl-4-yloxy)-ethyl]-amino}-acetic acid	CN(CCOc1ccc(cc1c2cccc3ccccc23)c4ccccc4)CC(=O)O	6.30451832351
+CHEMBL250372	{methyl-[2-(3-thiophen-2-ylmethyl-biphenyl-4-yloxy)-ethyl]-amino}-acetic acid	CN(CCOc1ccc(cc1Cc2cccs2)c3ccccc3)CC(=O)O	7.39794000867
+CHEMBL250373	{methyl-[2-(3-thiophen-2-yl-biphenyl-4-yloxy)-ethyl]-amino}-acetic acid	CN(CCOc1ccc(cc1c2cccs2)c3ccccc3)CC(=O)O	7.15490195999
+CHEMBL250374	{[2-(3-benzyl-biphenyl-4-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1Cc2ccccc2)c3ccccc3)CC(=O)O	7.07058107429
+CHEMBL250580	{methyl-[2-([1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-amino}-acetic acid	CN(CCOc1ccc(cc1c2ccccc2)c3ccccc3)CC(=O)O	6.64016451766
+CHEMBL250581	{[2-(3-cyclohexanecarbonyl-biphenyl-4-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1C(=O)C2CCCCC2)c3ccccc3)CC(=O)O	7.15490195999
+CHEMBL250582	{[2-(3-cyclohexyl-biphenyl-4-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1C2CCCCC2)c3ccccc3)CC(=O)O	6.60032627852
+CHEMBL250784	{[2-(3''-chloro-[1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1c2cccc(Cl)c2)c3ccccc3)CC(=O)O	6.17134010346
+CHEMBL251150	{[2-(2''-fluoro-[1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1c2ccccc2F)c3ccccc3)CC(=O)O	6.96657624451
+CHEMBL251775	{[2-(2''-chloro-4-methoxy-3-methyl-[1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-methyl-amino}-acetic acid	COc1ccc(cc1C)c2ccc(OCCN(C)CC(=O)O)c(c2)c3ccccc3Cl	7.55284196866
+CHEMBL26512	{[3-(Biphenyl-4-yloxy)-3-(4-fluoro-phenyl)-propyl]-methyl-amino}-acetic acid	CN(CCC(Oc1ccc(cc1)c2ccccc2)c3ccc(F)cc3)CC(=O)O	8.563313507851
+CHEMBL293691	Lithium salt of  {[3-(2-chloro-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CCC(Oc1ccccc1Cl)c2ccccc2)CC(=O)[O-]	4.90000014206
+CHEMBL302908	Lithium salt of  {[3-(4-fluoro-phenyl)-3-(4-trifluoromethyl-phenoxy)-propyl]-methyl-amino}-acetate	[Li+].CN(CCC(Oc1ccc(cc1)C(F)(F)F)c2ccc(F)cc2)CC(=O)[O-]	6.59999765407
+CHEMBL304470	Lithium salt of  [methyl-(3-phenyl-3-p-tolyloxy-propyl)-amino]-acetate	[Li+].CN(CCC(Oc1ccc(C)cc1)c2ccccc2)CC(=O)[O-]	5.59999938302
+CHEMBL3114788	2-chloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4ccccc4Cl)CC5CC5	7.72124639905
+CHEMBL3114789	3,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4ccc(Cl)c(Cl)c4)CC5CC5	7.08618614762
+CHEMBL3114790	3,5-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4cc(Cl)cc(Cl)c4)CC5CC5	7.0
+CHEMBL3114791	4-chloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4ccc(Cl)cc4)CC5CC5	7.49485002168
+CHEMBL3114792	(S)-2,4-dichloro-N-(1-(4-phenyl-1-(propylsulfonyl)piperidin-4-yl)ethyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@H](C)NC(=O)c2ccc(Cl)cc2Cl)c3ccccc3	8.61978875829
+CHEMBL3114793	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(ethylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	CCS(=O)(=O)N1C[C@@H]2[C@H](C1)[C@@]2(CNC(=O)c3ccc(Cl)cc3Cl)CC4CC4	5.88605664769
+CHEMBL3114794	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(propylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	CCCS(=O)(=O)N1C[C@@H]2[C@H](C1)[C@@]2(CNC(=O)c3ccc(Cl)cc3Cl)CC4CC4	6.44369749923
+CHEMBL3114795	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(isopropylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	CC(C)S(=O)(=O)N1C[C@@H]2[C@H](C1)[C@@]2(CNC(=O)c3ccc(Cl)cc3Cl)CC4CC4	5.46852108296
+CHEMBL3114796	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(cyclopropylmethylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Clc1ccc(C(=O)NC[C@]2(CC3CC3)[C@@H]4CN(C[C@H]24)S(=O)(=O)CC5CC5)c(Cl)c1	6.63827216398
+CHEMBL3114961	N-(((1R,5S)-3-(butylsulfonyl)-6-(cyclopropylmethyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)-2,4-dichlorobenzamide	CCCCS(=O)(=O)N1C[C@@H]2[C@H](C1)[C@@]2(CNC(=O)c3ccc(Cl)cc3Cl)CC4CC4	5.25963731051
+CHEMBL3114962	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(isobutylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	CC(C)CS(=O)(=O)N1C[C@@H]2[C@H](C1)[C@@]2(CNC(=O)c3ccc(Cl)cc3Cl)CC4CC4	5.5376020021
+CHEMBL3114963	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(pyridin-2-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Clc1ccc(C(=O)NC[C@]2(CC3CC3)[C@@H]4CN(C[C@H]24)S(=O)(=O)c5ccccn5)c(Cl)c1	6.0
+CHEMBL3114964	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(pyridin-3-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Clc1ccc(C(=O)NC[C@]2(CC3CC3)[C@@H]4CN(C[C@H]24)S(=O)(=O)c5cccnc5)c(Cl)c1	6.05060999336
+CHEMBL3114965	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(phenylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Clc1ccc(C(=O)NC[C@]2(CC3CC3)[C@@H]4CN(C[C@H]24)S(=O)(=O)c5ccccc5)c(Cl)c1	4.0
+CHEMBL3114966	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(2-fluorophenylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Fc1ccccc1S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4ccc(Cl)cc4Cl)CC5CC5	4.0
+CHEMBL3114969	2,4-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4ccc(Cl)cc4Cl)CC5CC5	8.39794000867
+CHEMBL3114970	2,6-dichloro-N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4c(Cl)cccc4Cl)CC5CC5	7.55284196866
+CHEMBL3114971	N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)-2-(trifluoromethyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4ccccc4C(F)(F)F)CC5CC5	8.2924298239
+CHEMBL3114972	N-(((1R,5S)-6-(cyclopropylmethyl)-3-(1-methyl-1H-imidazol-4-ylsulfonyl)-3-azabicyclo[3.1.0]hexan-6-yl)methyl)-3-(trifluoromethyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3[C@H](C2)[C@@]3(CNC(=O)c4cccc(c4)C(F)(F)F)CC5CC5	7.19382002602
+CHEMBL3115206	(S)-2,4-dichloro-N-((1-(1-methyl-1H-imidazol-4-ylsulfonyl)azetidin-3-yl)(pyridin-2-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CC(C2)[C@H](NC(=O)c3ccc(Cl)cc3Cl)c4ccccn4	7.40893539297
+CHEMBL3115207	(R)-2,4-dichloro-N-((1-(1-methyl-1H-imidazol-4-ylsulfonyl)azetidin-3-yl)(pyridin-2-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CC(C2)[C@@H](NC(=O)c3ccc(Cl)cc3Cl)c4ccccn4	6.04575749056
+CHEMBL3115209	rac-2,4-dichloro-N-((1-(1-methyl-1H-imidazol-4-ylsulfonyl)azetidin-3-yl)(pyridin-2-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CC(C2)C(NC(=O)c3ccc(Cl)cc3Cl)c4ccccn4	4.16749108729
+CHEMBL3115210	rac-2,4-dichloro-N-((1-(1-methyl-1H-imidazol-4-ylsulfonyl)piperidin-4-yl)(pyridin-2-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CCC(CC2)C(NC(=O)c3ccc(Cl)cc3Cl)c4ccccn4	4.33724216832
+CHEMBL3115211	rac-2,4-dichloro-N-((1-(1-methyl-1H-imidazol-4-ylsulfonyl)azetidin-3-yl)(thiophen-2-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CC(C2)C(NC(=O)c3ccc(Cl)cc3Cl)c4cccs4	4.39794000867
+CHEMBL3115213	rac-2,4-dichloro-N-(2-(ethylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	CCS(=O)(=O)N1CC2CCC(NC(=O)c3ccc(Cl)cc3Cl)C2C1	4.0
+CHEMBL3115214	rac-2,4-dichloro-N-(2-(propylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	CCCS(=O)(=O)N1CC2CCC(NC(=O)c3ccc(Cl)cc3Cl)C2C1	4.0
+CHEMBL3115215	rac-N-(2-(butylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)-2,4-dichlorobenzamide	CCCCS(=O)(=O)N1CC2CCC(NC(=O)c3ccc(Cl)cc3Cl)C2C1	4.0
+CHEMBL3115216	rac-2,4-dichloro-N-(2-(phenylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	Clc1ccc(C(=O)NC2CCC3CN(CC23)S(=O)(=O)c4ccccc4)c(Cl)c1	4.0
+CHEMBL3115217	rac-2,4-dichloro-N-(2-(pyridin-2-ylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	Clc1ccc(C(=O)NC2CCC3CN(CC23)S(=O)(=O)c4ccccn4)c(Cl)c1	4.0
+CHEMBL3115218	rac-2,4-dichloro-N-(2-(thiophen-2-ylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	Clc1ccc(C(=O)NC2CCC3CN(CC23)S(=O)(=O)c4cccs4)c(Cl)c1	4.0
+CHEMBL3115219	rac-2,4-dichloro-N-(2-(1-methyl-1H-imidazol-4-ylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CC3CCC(NC(=O)c4ccc(Cl)cc4Cl)C3C2	7.60205999133
+CHEMBL3115220	rac-2,4-dichloro-N-(2-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	Cn1cc(nn1)S(=O)(=O)N2CC3CCC(NC(=O)c4ccc(Cl)cc4Cl)C3C2	7.82390874094
+CHEMBL3115231	2,4-dichloro-N-((3aR,4R,6aS)-2-(1-methyl-1H-imidazol-4-ylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@H]3CC[C@@H](NC(=O)c4ccc(Cl)cc4Cl)[C@H]3C2	6.36351210365
+CHEMBL3115232	2,4-dichloro-N-((3aS,4S,6aR)-2-(1-methyl-1H-imidazol-4-ylsulfonyl)octahydrocyclopenta[c]pyrrol-4-yl)benzamide	Cn1cnc(c1)S(=O)(=O)N2C[C@@H]3CC[C@H](NC(=O)c4ccc(Cl)cc4Cl)[C@@H]3C2	4.0
+CHEMBL3115235	rac-2,4-dichloro-N-((1-(1-methyl-1H-imidazol-4-ylsulfonyl)azetidin-3-yl)(phenyl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CC(C2)C(NC(=O)c3ccc(Cl)cc3Cl)c4ccccc4	4.40893539297
+CHEMBL3217125	N-((cis)-4-aminocyclohexyl)-N-(3-chlorobenzyl)-1-methyl-1H-imidazole-4-carboxamide dihydrochloride	Cl.Cl.Cl.Cn1cnc(c1)C(=O)N(Cc2cccc(Cl)c2)[C@@H]3CC[C@H](N)CC3	8.262005470365999
+CHEMBL3259943	2-methoxy-N-(1-methyl-3-phenylpiperidin-3-yl)-4,6-bis(trifluoromethyl)benzamide	COc1cc(cc(c1C(=O)NC2(CCCN(C)C2)c3ccccc3)C(F)(F)F)C(F)(F)F	6.85387196432
+CHEMBL360052	{Methyl-[(R)-3-phenyl-3-(4-trifluoromethyl-phenoxy)-propyl]-amino}-acetic acid	CN(CC[C@@H](Oc1ccc(cc1)C(F)(F)F)c2ccccc2)CC(=O)O	6.49485002168
+CHEMBL360501	{4-[2-(4-Methoxy-phenylsulfanyl)-5-methyl-phenyl]-2-methyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccc(C)cc2N3CCN(CC(=O)O)C(C)C3)cc1	5.79588001734
+CHEMBL360768	{(2R,5R)-4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-2,5-dimethyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3C[C@@H](C)N(CC(=O)O)C[C@H]3C)cc1	4.79588001734
+CHEMBL361022	{(R)-4-[5-Chloro-2-(4-methoxy-phenylsulfanyl)-phenyl]-2-methyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccc(Cl)cc2N3CCN(CC(=O)O)[C@H](C)C3)cc1	6.82390874094
+CHEMBL363928	[2,5-Dimethyl-4-(2-phenylsulfanyl-phenyl)-piperazin-1-yl]-acetic acid	CC1CN(C(C)CN1CC(=O)O)c2ccccc2Sc3ccccc3	5.5376020021
+CHEMBL3639423	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNC(=O)Nc5ccccc5)cc34	5.0
+CHEMBL3639449	None	CC(C)(C)OC(=O)NCCNS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.757429250673
+CHEMBL3639670	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)C)cc2C1Cc3ccc(Cl)c(Cl)c3	3.757429250673
+CHEMBL3639671	None	CCCCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	5.514858501346
+CHEMBL3639721	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(F)c4)c3c2)N5CCC5	7.514858501346
+CHEMBL3639722	None	CCCS(=O)(=O)NCc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCOCC4	5.514858501346
+CHEMBL3643442	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNC(=O)c5ccc(Cl)cc5Cl)cc34	4.757429250673
+CHEMBL3643443	None	CS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.757429250673
+CHEMBL3643444	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNC(=O)c5ccccc5)cc34	5.0
+CHEMBL3643445	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.757429250673
+CHEMBL3643446	None	CC(C)C(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.0
+CHEMBL3643447	None	CC(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	5.0
+CHEMBL3643448	None	CCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.757429250673
+CHEMBL3643449	None	CC(C)CS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.757429250673
+CHEMBL3643451	None	FC(F)(F)S(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.757429250673
+CHEMBL3643453	None	Fc1cc2CCNC(c2cc1OCCNS(=O)(=O)c3ccccc3)C4(CCC4)c5ccc(Cl)cc5	5.757429250673
+CHEMBL3643454	None	Fc1cc2CCNC(c2cc1OCCNS(=O)(=O)c3cccnc3)C4(CCC4)c5ccc(Cl)cc5	6.757429250673
+CHEMBL3643455	None	CCCS(=O)(=O)NCCOc1cc2C(NCCc2cc1F)C3(CCC3)c4ccc(Cl)cc4	6.757429250673
+CHEMBL3643456	None	CCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.757429250673
+CHEMBL3643459	None	COc1cccc(c1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.757429250673
+CHEMBL3643461	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccccc5C#N)cc34	4.757429250673
+CHEMBL3643463	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccccc5Cl)cc34	5.757429250673
+CHEMBL3643465	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccc(Cl)cc5)cc34	5.757429250673
+CHEMBL3643466	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)C5CC5)cc34	6.757429250673
+CHEMBL3643467	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccc(Cl)nc5)cc34	5.757429250673
+CHEMBL3643469	None	COc1ccc(cc1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.757429250673
+CHEMBL3643470	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)Cc5ccccc5)cc34	4.757429250673
+CHEMBL3643471	None	CCCNC(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	5.0
+CHEMBL3643472	None	Cc1nn(C)cc1S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	6.0
+CHEMBL3643473	None	CC(C)NC(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.0
+CHEMBL3643474	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	7.0
+CHEMBL3643476	None	CCCCS(=O)(=O)NCCOc1ccc2CCN(C(c2c1)C3(CCC3)c4ccc(Cl)cc4)C(=O)NCC	4.0
+CHEMBL3643477	None	CCCCS(=O)(=O)NCCOc1ccc2CCN(C)C(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.0
+CHEMBL3643478	None	CCS(=O)(=O)N1CCN(CC1)c2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.0
+CHEMBL3643479	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNC(=O)Nc5cccnc5)cc34	4.0
+CHEMBL3643480	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CC(F)(F)C4)c5ccc(Cl)cc5	6.3432390008973325
+CHEMBL3643481	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CC(F)(F)C3)c4ccc(Cl)cc4	7.0
+CHEMBL3643482	None	CCCS(=O)(=O)NCCN(CCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4)S(=O)(=O)CCC	6.0
+CHEMBL3643483	None	CCCS(=O)(=O)NCCOc1ccc2CCN(C(c2c1)C3(CCC3)c4ccc(Cl)cc4)C(=N)NC#N	6.0
+CHEMBL3643484	None	CCCS(=O)(=O)NCCOc1ccc2CCN(C(c2c1)C3(CCC3)c4ccc(Cl)cc4)C(=N)N	5.0
+CHEMBL3643485	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCC(=O)N5CCNCC5)cc34	5.0
+CHEMBL3643486	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4cccc(Cl)c4	7.0
+CHEMBL3643487	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccccc4	7.0
+CHEMBL3643488	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	7.0
+CHEMBL3643489	None	Cc1nc(cn1C)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.0
+CHEMBL3643490	None	CCOC(=O)N1CCN(CC1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.0
+CHEMBL3643491	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)N5CCNCC5)cc34	5.0
+CHEMBL3643492	None	CCCS(=O)(=O)N1CCN(CC1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.0
+CHEMBL3643493	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5c[nH]cn5)cc34	7.0
+CHEMBL3643494	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccc(NCc6ccccc6)nc5)cc34	6.0
+CHEMBL3643495	None	CCCNc1ccc(cn1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.0
+CHEMBL3643496	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(C(C(C)C)c3ccc(Cl)cc3)c2c1	5.0
+CHEMBL3643498	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccccc5)cc34	5.757429250673
+CHEMBL3643499	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(F)cc4	6.757429250673
+CHEMBL3643500	None	Fc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5cccnc5)cc34	7.0
+CHEMBL3643501	None	CCCS(=O)(=O)NCCOc1ccc2c(c1)C(NCC2(C)C)C3(CCC3)c4ccc(Cl)cc4	7.0
+CHEMBL3643502	None	CCCS(=O)(=O)NCCOc1ccc2C(NCCc2c1)C3(CCC3)c4ccc(Cl)cc4	5.0
+CHEMBL3645990	None	CCN(CC)S(=O)(=O)NCCOc1ccc2c(c1)C(NCC2(C)C)C3(CCC3)c4ccc(Cl)cc4	6.0
+CHEMBL3645991	None	CCCS(=O)(=O)NCCOc1ccc2CCN(C(c2c1)C3(CCC3)c4ccc(F)cc4)C(=O)C(F)(F)F	4.0
+CHEMBL3645992	None	CCCS(=O)(=O)NCCOc1ccc2CCN(CC(F)(F)F)C(c2c1)C3(CCC3)c4ccc(F)cc4	6.0
+CHEMBL3645994	None	CCCS(=O)(=O)NCCOc1cc(Br)c2CCNC(c2c1)C3(CCC3)c4ccc(F)cc4	6.0
+CHEMBL3645995	None	CCCS(=O)(=O)NCCOc1ccc2CCN(N=O)C(c2c1)C3(CCC3)c4ccc(F)cc4	5.0
+CHEMBL3645996	None	CCCS(=O)(=O)NCCOc1ccc2CCN(N)C(c2c1)C3(CCC3)c4ccc(F)cc4	6.0
+CHEMBL3645997	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4OC	7.0
+CHEMBL3645998	None	CCCS(=O)(=O)NCCOc1ccc2CCN(CC#N)C(c2c1)C3(CCC3)c4cccc(Cl)c4	6.0
+CHEMBL3645999	None	CCCS(=O)(=O)NCCOc1ccc2CCN(CCN)C(c2c1)C3(CCC3)c4cccc(Cl)c4	5.0
+CHEMBL3646000	None	CCCS(=O)(=O)NCCOc1ccc2CCN(C(c2c1)C3(CCC3)c4ccc(F)cc4)c5ncc[nH]5	6.0
+CHEMBL3646001	None	CCCS(=O)(=O)NCCOc1ccc2CCN(CC#N)C(c2c1)C3(CCC3)c4ccc(Cl)cc4	7.0
+CHEMBL3646002	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCCS(=O)(=O)N5CCOCC5)cc34	5.0
+CHEMBL3646003	None	CCCNS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.0
+CHEMBL3646004	None	CCCS(=O)(=O)N1CCN(CC1)c2cc3CCN(C(c3cc2OC)C4(CCC4)c5ccc(Cl)cc5)S(=O)(=O)CCC	4.257429250673
+CHEMBL3646005	None	Clc1ccc(cc1)C2(CC2)C3NCCc4ccc(OCCNS(=O)(=O)c5cccnc5)cc34	7.0
+CHEMBL3646006	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CC4)c5ccc(Cl)cc5	7.0
+CHEMBL3646007	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CC3)c4ccc(Cl)cc4	7.0
+CHEMBL3646008	None	C\C=C\S(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646009	None	CCCS(=O)(=O)NCCNc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646010	None	CCCS(=O)(=O)NCc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646011	None	Cn1cc(cn1)S(=O)(=O)NCc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	6.514858501346
+CHEMBL3646012	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(cc34)C#N	6.514858501346
+CHEMBL3646013	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	6.514858501346
+CHEMBL3646014	None	FCCCS(=O)(=O)NCc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646015	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4cccc(F)c4	6.757429250673
+CHEMBL3646016	None	CCCS(=O)(=O)NCc1ccc2CCNC(c2c1)C(C)(C)c3ccc(Cl)cc3	6.514858501346
+CHEMBL3646017	None	OCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646018	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccccn4	6.514858501346
+CHEMBL3646019	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4cccc(Cl)n4	6.514858501346
+CHEMBL3646020	None	CCCS(=O)(=O)NCC(=O)Nc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646021	None	Cn1cc(cn1)S(=O)(=O)NCc2ccc3CCNC(c3c2)C(C)(C)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646022	None	Fc1cccc(c1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5cccnc5)cc34	6.257429250673
+CHEMBL3646023	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCNC(c3c2)C(C)(C)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646024	None	CC(C)(O)CS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.757429250673
+CHEMBL3646025	None	FCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccccn4	6.514858501346
+CHEMBL3646026	None	Fc1cccc(c1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5cccs5)cc34	5.257429250673
+CHEMBL3646027	None	CC(C)(C1NCCc2ccc(cc12)C#N)c3ccc(Cl)cc3	5.514858501346
+CHEMBL3646028	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(CNS(=O)(=O)c5cccnc5)cc34	5.257429250673
+CHEMBL3646029	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCCS(=O)(=O)Nc5ccccn5)cc34	5.514858501346
+CHEMBL3646030	None	FCCc1ccc(cc1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.514858501346
+CHEMBL3646031	None	Cn1cnc(c1)S(=O)(=O)NCC(=O)Nc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.514858501346
+CHEMBL3646032	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCCS(=O)(=O)Nc5ccccc5)cc34	5.257429250673
+CHEMBL3646033	None	Cn1cc(cn1)S(=O)(=O)NCC(=O)Nc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.514858501346
+CHEMBL3646034	None	FCCCc1ccc(cc1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.514858501346
+CHEMBL3646035	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(Oc5ccc(NS(=O)(=O)c6cccs6)cc5)cc34	5.514858501346
+CHEMBL3646037	None	CC(C)NS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	5.257429250673
+CHEMBL3646038	None	CC(C)(C)NS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	5.257429250673
+CHEMBL3646039	None	CCCS(=O)(=O)Nc1ccc(Oc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5)nc1	4.514858501346
+CHEMBL3646040	None	CCCS(=O)(=O)Oc1ccc2CCNC(c2c1)C3(CCC3)c4cccc(F)c4	4.514858501346
+CHEMBL3646041	None	COc1ccccc1NS(=O)(=O)CCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.757429250673
+CHEMBL3646042	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(Oc5ccccc5NS(=O)(=O)c6cccnc6)cc34	4.514858501346
+CHEMBL3646043	None	CC(C)(C)OC(=O)N1CCN(CC1)S(=O)(=O)CCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.257429250673
+CHEMBL3646044	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(Oc5ccc(NS(=O)(=O)c6cccs6)cn5)cc34	4.514858501346
+CHEMBL3646045	None	CCCS(=O)(=O)NCc1ccc2CCNC(c2c1)C3(CCC3)c4ccccn4	4.514858501346
+CHEMBL3646046	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(Oc5ncccc5NS(=O)(=O)c6cccs6)cc34	4.514858501346
+CHEMBL3646047	None	CCCS(=O)(=O)Nc1cccnc1Oc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.514858501346
+CHEMBL3646048	None	N#Cc1ccc2CCNC(c2c1)C3(CCC3)c4ccccn4	4.514858501346
+CHEMBL3646049	None	NCCNS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.257429250673
+CHEMBL3646050	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(Oc5ccc(NS(=O)(=O)c6cccnc6)cn5)cc34	4.514858501346
+CHEMBL3646051	None	CN(C)CCNS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.757429250673
+CHEMBL3646052	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCCS(=O)(=O)N5CCNCC5)cc34	4.757429250673
+CHEMBL3646053	None	O=S(=O)(CC1CC1)NCc2ccc3CCNC(c3c2)C4(CCC4)c5ccccn5	4.514858501346
+CHEMBL3646054	None	COCCNS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.257429250673
+CHEMBL3646055	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(Oc5ncccc5NS(=O)(=O)c6cccnc6)cc34	4.514858501346
+CHEMBL3646056	None	NCCCNS(=O)(=O)CCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.514858501346
+CHEMBL3646057	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C(C)(C)c3ccc(Cl)cc3	6.514858501346
+CHEMBL3646058	None	FCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646059	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)c(N)c4	6.757429250673
+CHEMBL3646060	None	CN(C)S(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646061	None	FC(F)(F)CCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646062	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(C(C)c3ccc(Cl)cc3)c2c1	6.757429250673
+CHEMBL3646063	None	NCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.176572334230666
+CHEMBL3646064	None	Nc1ccc(cc1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	6.514858501346
+CHEMBL3646066	None	CN(C)CCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	6.514858501346
+CHEMBL3646067	None	Nc1ncc(cn1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	6.514858501346
+CHEMBL3646068	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5cn[nH]c5)cc34	6.514858501346
+CHEMBL3646070	None	COc1ccc(cn1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	6.514858501346
+CHEMBL3646071	None	Nc1cccc(c1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	6.514858501346
+CHEMBL3646072	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)CCN5CCCCC5)cc34	5.514858501346
+CHEMBL3646073	None	CNc1nnc(s1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.514858501346
+CHEMBL3646074	None	Nc1ncc(s1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.514858501346
+CHEMBL3646075	None	Nc1ccc(cn1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	5.257429250673
+CHEMBL3646076	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)C5CNC5)cc34	5.514858501346
+CHEMBL3646077	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5c(Cl)nc6sccn56)cc34	5.257429250673
+CHEMBL3646078	None	CC(C)NCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	5.514858501346
+CHEMBL3646079	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)C5CCN(C5)C(=O)OCc6ccccc6)cc34	5.514858501346
+CHEMBL3646080	None	CCCS(=O)(=O)NCCOc1ccc2CCN(C(c2c1)C3(CCC3)c4ccc(Cl)cc4)C(=O)C	4.514858501346
+CHEMBL3646081	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccc(Oc6ccccc6)nc5)cc34	4.514858501346
+CHEMBL3646082	None	CCCS(=O)(=O)N(CCN)CCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.514858501346
+CHEMBL3646083	None	CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C(O)(c3ccc(Cl)cc3)c4ccc(Cl)cc4	4.757429250673
+CHEMBL3646084	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)C5CCN(Cc6ccccc6)CC5)cc34	4.514858501346
+CHEMBL3646085	None	CNCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.514858501346
+CHEMBL3646086	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)CCN5C(=O)c6ccccc6C5=O)cc34	4.257429250673
+CHEMBL3646087	None	CC(=O)N1CC(C1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.514858501346
+CHEMBL3646088	None	CN(C)CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.757429250673
+CHEMBL3646089	None	CCCN1CCN(CC1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.757429250673
+CHEMBL3646090	None	NCCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.514858501346
+CHEMBL3646091	None	CN1CCOc2cc(cnc12)S(=O)(=O)NCCOc3ccc4CCNC(c4c3)C5(CCC5)c6ccc(Cl)cc6	4.514858501346
+CHEMBL3646092	None	CCCNCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.757429250673
+CHEMBL3646093	None	CCNCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.676572334230666
+CHEMBL3646094	None	CC(=O)Nc1ncc(s1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.514858501346
+CHEMBL3646095	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccc(nc5)N6CCOCC6)cc34	4.514858501346
+CHEMBL3646096	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)C5CCNCC5)cc34	4.514858501346
+CHEMBL3646097	None	NC(=O)Nc1ccc(cc1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.514858501346
+CHEMBL3646098	None	CCN(CC)CCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.676572334230666
+CHEMBL3646099	None	CC(C)NCCCS(=O)(=O)NCCOc1ccc2CCNC(c2c1)C3(CCC3)c4ccc(Cl)cc4	4.257429250673
+CHEMBL3646100	None	Cc1oncc1S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	4.514858501346
+CHEMBL3646101	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ncn[nH]5)cc34	4.014858501346
+CHEMBL3646103	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)CCCN5CCOCC5)cc34	3.757429250673
+CHEMBL3646105	None	Nc1n[nH]c(n1)S(=O)(=O)NCCOc2ccc3CCNC(c3c2)C4(CCC4)c5ccc(Cl)cc5	3.514858501346
+CHEMBL3646106	None	Clc1ccc(cc1)C2(CCC2)C3NCCc4ccc(OCCNS(=O)(=O)c5ccc6ccccc6c5)cc34	4.757429250673
+CHEMBL365268	{4-[2-(4-Methoxy-phenylsulfanyl)-phenyl]-2-methyl-piperazin-1-yl}-acetic acid	COc1ccc(Sc2ccccc2N3CCN(CC(=O)O)C(C)C3)cc1	5.76955107862
+CHEMBL3668211	None	CCOC(=O)NC1CCc2ccc(OCCNC(=O)OC(C)(C)C)cc2C1Cc3ccc(Cl)c(Cl)c3	4.514858501346
+CHEMBL3668212	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4ccc(Cl)c(Cl)c4	6.257429250673
+CHEMBL3668213	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)c(Cl)c4)c3c2	7.757429250673
+CHEMBL3668214	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)c(Cl)c4)c3c2	7.757429250673
+CHEMBL3668215	None	NC1CCc2ccc(OCCNS(=O)(=O)c3cccnc3)cc2C1Cc4ccc(Cl)c(Cl)c4	5.757429250673
+CHEMBL3668216	None	CCCS(=O)(=O)NCCOc1ccc2CCC(C(Cc3ccc(Cl)c(Cl)c3)c2c1)N(C)C	6.257429250673
+CHEMBL3668217	None	CCCS(=O)(=O)NCCOc1ccc2CCC(NC(=O)OCC)C(Cc3ccc(Cl)c(Cl)c3)c2c1	4.757429250673
+CHEMBL3668218	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	6.757429250673
+CHEMBL3668219	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cnn(C)c3)cc2C1Cc4ccc(Cl)c(Cl)c4	5.757429250673
+CHEMBL3668220	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cccnc3)cc2C1Cc4ccc(Cl)c(Cl)c4	4.257429250673
+CHEMBL3668221	None	CCCS(=O)(=O)N(C)CCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	6.257429250673
+CHEMBL3668222	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3ccccc3)cc2C1Cc4ccc(Cl)c(Cl)c4	3.514858501346
+CHEMBL3668223	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cccs3)cc2C1Cc4ccc(Cl)c(Cl)c4	3.514858501346
+CHEMBL3668224	None	CS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	5.757429250673
+CHEMBL3668225	None	NC1CCc2ccc(OCCNS(=O)(=O)c3ccccc3)cc2C1Cc4ccc(Cl)c(Cl)c4	4.757429250673
+CHEMBL3668226	None	NC1CCc2ccc(OCCNS(=O)(=O)c3cccs3)cc2C1Cc4ccc(Cl)c(Cl)c4	5.257429250673
+CHEMBL3668227	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(NC(=O)C(F)(F)F)C(Cc4ccc(Cl)c(Cl)c4)c3c2	7.257429250673
+CHEMBL3668228	None	NC1CCc2ccc(OCCNS(=O)(=O)C3CCNC3)cc2C1Cc4ccc(Cl)c(Cl)c4	4.257429250673
+CHEMBL3668229	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(NC=O)C(Cc4ccc(Cl)c(Cl)c4)c3c2	7.257429250673
+CHEMBL3668230	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cc(C)cs3)cc2C1Cc4ccc(Cl)c(Cl)c4	3.514858501346
+CHEMBL3668231	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)CCCF)cc2C1Cc3ccc(Cl)c(Cl)c3	4.514858501346
+CHEMBL3668232	None	CCNC1CCc2ccc(OCCNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4ccc(Cl)c(Cl)c4	4.257429250673
+CHEMBL3668234	None	CN(C)S(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	6.257429250673
+CHEMBL3668235	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)CCC(F)(F)F)cc2C1Cc3ccc(Cl)c(Cl)c3	4.514858501346
+CHEMBL3668236	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)cc4)c3c2	7.757429250673
+CHEMBL3668237	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)cc4)c3c2	7.757429250673
+CHEMBL3668238	None	CCOC(=O)NC1CCc2ccc(OS(=O)(=O)C(F)(F)F)cc2C1Cc3ccc(Cl)c(Cl)c3	4.257429250673
+CHEMBL3668239	None	NC1CCc2ccc(cc2C1Cc3ccc(Cl)cc3)C#N	3.757429250673
+CHEMBL3668240	None	NC1CCc2ccc(CNS(=O)(=O)CCCF)cc2C1Cc3ccccc3	6.257429250673
+CHEMBL3668241	None	CCOC(=O)NC1CCc2ccc(cc2C1Cc3ccc(Cl)c(Cl)c3)C#N	4.257429250673
+CHEMBL3668242	None	NC1CCc2ccc(OCCN3CCCS3(=O)=O)cc2C1Cc4cccc(Cl)c4	5.757429250673
+CHEMBL3668243	None	CC(C)(C)OC(=O)NC1CCc2ccc(cc2C1Cc3ccc(Cl)c(Cl)c3)C#N	4.514858501346
+CHEMBL3668246	None	Oc1ccc2CCC(NC(=O)OCc3ccccc3)C(Cc4ccc(Cl)cc4)c2c1	4.257429250673
+CHEMBL3668247	None	CC(C)(C)OC(=O)NC1CCc2ccc(CN)cc2C1Cc3ccc(Cl)c(Cl)c3	3.757429250673
+CHEMBL3668248	None	CCCS(=O)(=O)NCc1ccc2CCC(NC(=O)OC(C)(C)C)C(Cc3ccc(Cl)c(Cl)c3)c2c1	4.514858501346
+CHEMBL3668249	None	CCCS(=O)(=O)NCc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	4.257429250673
+CHEMBL3668250	None	NC1CCc2ccc(CNS(=O)(=O)CCCF)cc2C1Cc3ccc(Cl)c(Cl)c3	4.257429250673
+CHEMBL3668252	None	NC1CCc2ccc(CNS(=O)(=O)C3CCC3)cc2C1Cc4ccccc4	6.257429250673
+CHEMBL3668253	None	NC1CCc2ccc(CNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4	6.757429250673
+CHEMBL3668254	None	CCCS(=O)(=O)N(C)Cc1ccc2CCC(N)C(Cc3ccccc3)c2c1	6.757429250673
+CHEMBL3668255	None	CCOC(=O)NC1CCc2ccc(OCCNC(=O)OC(C)(C)C)cc2C1Cc3cccc(Cl)c3	5.757429250673
+CHEMBL3668256	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	7.757429250673
+CHEMBL3668257	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	7.757429250673
+CHEMBL3668258	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3sc(C)nc3C)cc2C1Cc4cccc(Cl)c4	3.757429250673
+CHEMBL3668259	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cccs3)cc2C1Cc4cccc(Cl)c4	5.257429250673
+CHEMBL3668260	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3ccc(Cl)s3)cc2C1Cc4cccc(Cl)c4	3.514858501346
+CHEMBL3668261	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cnc(C)s3)cc2C1Cc4cccc(Cl)c4	4.757429250673
+CHEMBL3668262	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3ccc(C)s3)cc2C1Cc4cccc(Cl)c4	4.514858501346
+CHEMBL3668264	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	7.257429250673
+CHEMBL3668265	None	NC1CCc2ccc(OCCNS(=O)(=O)c3cccs3)cc2C1Cc4cccc(Cl)c4	6.257429250673
+CHEMBL3668266	None	Cc1nc(C)c(s1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	5.257429250673
+CHEMBL3668267	None	Cc1ncc([nH]1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	5.257429250673
+CHEMBL3668268	None	NC1CCc2ccc(OCCNS(=O)(=O)c3ccc(Cl)s3)cc2C1Cc4cccc(Cl)c4	5.257429250673
+CHEMBL3668270	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cnn(CC)c3)cc2C1Cc4cccc(Cl)c4	4.514858501346
+CHEMBL3668271	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cnn(C)c3)cc2C1Cc4ccc(Cl)cc4Cl	4.514858501346
+CHEMBL3668273	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3ccc(C)s3)cc2C1Cc4ccc(Cl)cc4Cl	4.514858501346
+CHEMBL3668274	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)CC)cc2C1Cc3cccc(Cl)c3	3.757429250673
+CHEMBL3668275	None	CCn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	6.257429250673
+CHEMBL3668276	None	Cc1csc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	6.257429250673
+CHEMBL3668277	None	Cc1ccc(s1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	5.257429250673
+CHEMBL3668278	None	Cc1cc(c(C)s1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	5.257429250673
+CHEMBL3668279	None	CCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	6.257429250673
+CHEMBL3668280	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)cc4Cl)c3c2	7.257429250673
+CHEMBL3668281	None	NC1CCc2ccc(OCCNS(=O)(=O)c3cccs3)cc2C1Cc4ccc(Cl)cc4Cl	4.757429250673
+CHEMBL3668282	None	Cc1ccc(s1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)cc4Cl)c3c2	5.257429250673
+CHEMBL3668283	None	CCCS(=O)(=O)NCCOc1ccc2CCC(NC(=O)OCC)C(Cc3ccc(Cl)cc3Cl)c2c1	3.757429250673
+CHEMBL3668284	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)cc3Cl)c2c1	5.257429250673
+CHEMBL3668285	None	CCCS(=O)(=O)N(C)CCOc1ccc2CCC(NC(=O)OCC)C(Cc3ccc(Cl)cc3)c2c1	3.514858501346
+CHEMBL3668286	None	CCCS(=O)(=O)N(C)CCOc1ccc2CCC(N)C(Cc3ccc(Cl)cc3)c2c1	6.257429250673
+CHEMBL3668287	None	CCCS(=O)(=O)N(C)CCOc1ccc2CCC(NC(=O)OCC)C(Cc3cccc(Cl)c3)c2c1	4.757429250673
+CHEMBL3668288	None	CCCS(=O)(=O)N(C)CCOc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	6.257429250673
+CHEMBL3668289	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4cccc(Cl)c4	5.757429250673
+CHEMBL3668290	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cnn(c3)C(F)F)cc2C1Cc4cccc(Cl)c4	4.514858501346
+CHEMBL3668291	None	CCCS(=O)(=O)OC[C@H]1CCCN1S(=O)(=O)CCC	6.257429250673
+CHEMBL3668292	None	CCCS(=O)(=O)N1CC(C1)Oc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	5.257429250673
+CHEMBL3668293	None	CCS(=O)(=O)CCCOc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	4.757429250673
+CHEMBL3668294	None	NC1CCc2ccc(OCCNS(=O)(=O)C3CCCCC3)cc2C1Cc4ccc(Cl)c(Cl)c4	5.514858501346
+CHEMBL3668295	None	C[Si](C)(C)CCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	4.514858501346
+CHEMBL3668296	None	Cc1onc(CS(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)c(Cl)c4)c3c2)c1	4.514858501346
+CHEMBL3668297	None	Clc1ccc(CC2C(CCc3ccc(OCCNS(=O)(=O)C4CCC4)cc23)N5CCCC5)cc1Cl	6.514858501346
+CHEMBL3668298	None	CN(CCOc1ccc2CCC(C(Cc3ccc(Cl)c(Cl)c3)c2c1)N4CCCC4)S(=O)(=O)c5cnn(C)c5	6.514858501346
+CHEMBL3668299	None	CCCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	5.514858501346
+CHEMBL3668300	None	CC(C)S(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	6.514858501346
+CHEMBL3668301	None	CCOCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	5.514858501346
+CHEMBL3668302	None	CN(CCOc1ccc2CCC(C(Cc3ccc(Cl)c(Cl)c3)c2c1)N4CCCC4)S(=O)(=O)C5CCC5	6.514858501346
+CHEMBL3668303	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(Cl)c(Cl)c4	7.514858501346
+CHEMBL3668304	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(OC)cc3)c2c1	5.514858501346
+CHEMBL3668305	None	CN(CCOc1ccc2CCC(N)C(Cc3ccccc3)c2c1)S(=O)(=O)c4cn(C)cn4	5.514858501346
+CHEMBL3668306	None	NC1CCc2ccc(OCCNS(=O)(=O)c3ccccc3)cc2C1Cc4ccccc4	6.514858501346
+CHEMBL3668307	None	NC1CCc2ccc(OCCNS(=O)(=O)CCC(F)(F)F)cc2C1Cc3ccccc3	5.014858501346
+CHEMBL3668308	None	CN(CCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCCC4)S(=O)(=O)c5cn(C)cn5	6.514858501346
+CHEMBL3668309	None	NC1CCc2ccc(OCCNS(=O)(=O)C3CC3)cc2C1Cc4ccccc4	5.514858501346
+CHEMBL3668310	None	CCC(=O)NCCOc1ccc2CCC(N)C(Cc3ccccc3)c2c1	4.514858501346
+CHEMBL3668311	None	Cn1cnc(n1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccc(Cl)c(Cl)c4)c3c2	5.514858501346
+CHEMBL3668312	None	CN(CCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCC4)S(=O)(=O)c5cn(C)cn5	6.514858501346
+CHEMBL3668313	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CCC3)cc2C1Cc4ccc(Cl)c(Cl)c4	5.514858501346
+CHEMBL3668314	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3cccc(F)c3)c2c1	6.514858501346
+CHEMBL3668315	None	CN(CCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1)S(=O)(=O)CC4CC4	7.514858501346
+CHEMBL3668316	None	CN(CCOc1ccc2CCC(N)C(Cc3ccccc3)c2c1)S(=O)(=O)c4cnn(C)c4	6.514858501346
+CHEMBL3668317	None	CCN(CCOc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1)S(=O)(=O)c4cnn(C)c4	5.514858501346
+CHEMBL3668318	None	CN(CCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCCC4)S(=O)(=O)c5cnn(C)c5	6.514858501346
+CHEMBL3668319	None	CN(CCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCC4)S(=O)(=O)c5cnn(C)c5	6.514858501346
+CHEMBL3668320	None	CCN(CCOc1ccc2CCC(N)C(Cc3ccccc3)c2c1)S(=O)(=O)c4cnn(C)c4	6.514858501346
+CHEMBL3668321	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCCC5	7.264858501346
+CHEMBL3668322	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccc(F)c(Cl)c3)c2c1	6.514858501346
+CHEMBL3668323	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4	7.514858501346
+CHEMBL3668324	None	NC1CCc2ccc(OCCNC(=O)CC3CC3)cc2C1Cc4ccc(Cl)c(Cl)c4	4.514858501346
+CHEMBL3668325	None	NC1CCc2ccc(OCCNC(=O)c3ccccc3)cc2C1Cc4ccc(Cl)c(Cl)c4	4.514858501346
+CHEMBL3668326	None	CCN(CCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCCC4)S(=O)(=O)c5cnn(C)c5	5.514858501346
+CHEMBL3668327	None	NC1CCc2ccc(OCCNS(=O)(=O)CCC3CC3)cc2C1Cc4ccc(Cl)c(Cl)c4	5.514858501346
+CHEMBL3668328	None	CN(CCOc1ccc2CCC(C(Cc3ccc(Cl)c(Cl)c3)c2c1)N4CCCC4)S(=O)(=O)CC5CC5	7.514858501346
+CHEMBL3668329	None	CN(CCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCCC4)S(=O)(=O)CC5CC5	6.514858501346
+CHEMBL3668330	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(Cl)cc4	6.514858501346
+CHEMBL3668331	None	CN(CCOc1ccc2CCC(N)C(Cc3ccc(Cl)cc3)c2c1)S(=O)(=O)CC4CC4	7.514858501346
+CHEMBL3668332	None	CN(CCOc1ccc2CCC(N)C(Cc3ccccc3)c2c1)S(=O)(=O)CC4CC4	7.514858501346
+CHEMBL3668333	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(F)c(F)c4	6.514858501346
+CHEMBL3668334	None	Clc1ccc(CC2C(CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc23)N5CCCC5)cc1Cl	6.514858501346
+CHEMBL3668335	None	O=S(=O)(CC1CC1)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCCC5	6.514858501346
+CHEMBL3668336	None	FC1CCN(C1)C2CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc3C2Cc5ccc(Cl)c(Cl)c5	5.514858501346
+CHEMBL3668337	None	Clc1ccc(CC2C(CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc23)N5CCC5)cc1Cl	6.514858501346
+CHEMBL3668338	None	FC1CCN(C1)C2CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc3C2Cc5ccccc5	6.514858501346
+CHEMBL3668339	None	CNC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4	7.514858501346
+CHEMBL3668340	None	Fc1cccc(CC2C(CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc23)N5CCCC5)c1	7.514858501346
+CHEMBL3668341	None	Fc1cccc(CC2C(CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc23)N5CCC5)c1	7.514858501346
+CHEMBL3668342	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(F)c4)c3c2)N5CCCC5	7.014858501346
+CHEMBL3673124	None	Cn1cnc(c1)S(=O)(=O)N2CCc3ccc(cc3C2)C(CN)Cc4ccccc4	4.514858501346
+CHEMBL3673125	None	Cn1cc(cn1)S(=O)(=O)N2CCc3ccc(cc3C2)C(CN)Cc4ccccc4	4.514858501346
+CHEMBL3673126	None	NCC(Cc1ccccc1)c2ccc3CCN(Cc3c2)S(=O)(=O)CC4CC4	4.514858501346
+CHEMBL3673271	None	O=S(=O)(CC1CC1)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC5	6.514858501346
+CHEMBL3673272	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC5	7.514858501346
+CHEMBL3673273	None	O=S(=O)(NCCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCC4)C5CCC5	6.514858501346
+CHEMBL3673274	None	CCCS(=O)(=O)NCCOc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCC4	6.514858501346
+CHEMBL3673275	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cc(F)cc(Cl)c4	7.514858501346
+CHEMBL3673276	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cc(F)cc(Cl)c4)c3c2	7.514858501346
+CHEMBL3673277	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC(F)C5	7.514858501346
+CHEMBL3673278	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(c4)C#N)c3c2)N5CCCC5	6.514858501346
+CHEMBL3673279	None	CC(C)NC1CCc2ccc(OCCNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4cccc(c4)C#N	6.514858501346
+CHEMBL3673280	None	O=S(=O)(CC1CC1)NCCOc2ccc3CCC(C(Cc4cccc(c4)C#N)c3c2)N5CCCC5	5.514858501346
+CHEMBL3673281	None	CC(C)NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(c4)C#N	5.514858501346
+CHEMBL3673282	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccccc3)c2c1	6.514858501346
+CHEMBL3673283	None	CNC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cc(F)cc(Cl)c4	7.514858501346
+CHEMBL3673284	None	Fc1cc(Cl)cc(CC2C(CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc23)N5CCC5)c1	6.514858501346
+CHEMBL3673285	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cc(F)cc(Cl)c4)c3c2)N5CCC5	7.514858501346
+CHEMBL3673286	None	CNC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(F)cc4	7.514858501346
+CHEMBL3673287	None	Cc1cccc(CC2C(CCc3ccc(OCCNS(=O)(=O)c4cn(C)cn4)cc23)N5CCCC5)c1	7.514858501346
+CHEMBL3673288	None	COc1cccc(CC2C(CCc3ccc(OCCNS(=O)(=O)c4cn(C)cn4)cc23)N5CCCC5)c1	7.514858501346
+CHEMBL3673289	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(c4)C(F)(F)F)c3c2	7.514858501346
+CHEMBL3673290	None	CCCS(=O)(=O)NCc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	6.514858501346
+CHEMBL3673291	None	CS(=O)(=O)NCc1ccc2CCC(N)C(Cc3ccccc3)c2c1	4.514858501346
+CHEMBL3673292	None	NC1CCc2ccc(CNS(=O)(=O)c3ccccc3)cc2C1Cc4ccccc4	4.514858501346
+CHEMBL3673293	None	CCCS(=O)(=O)NCc1ccc2CCC(N)C(Cc3cccc(F)c3)c2c1	6.514858501346
+CHEMBL3673294	None	Cn1cc(cn1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4ccccc4)c3c2	7.514858501346
+CHEMBL3673295	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4ccccc4)c3c2	7.514858501346
+CHEMBL3673296	None	NC1CCc2ccc(CNS(=O)(=O)C3CCC3)cc2C1Cc4ccc(F)cc4	5.514858501346
+CHEMBL3673297	None	CCCS(=O)(=O)NCc1ccc2CCC(N)C(Cc3ccc(F)cc3)c2c1	5.514858501346
+CHEMBL3673298	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4ccc(F)cc4)c3c2	6.514858501346
+CHEMBL3673299	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4cccc(F)c4)c3c2	7.514858501346
+CHEMBL3673300	None	Cn1cc(cn1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4cccc(F)c4)c3c2	7.514858501346
+CHEMBL3673301	None	Cc1cccc(c1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4ccccc4)c3c2	5.514858501346
+CHEMBL3673302	None	Cn1ccc(c1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4ccccc4)c3c2	7.514858501346
+CHEMBL3673303	None	NC1CCc2ccc(CNS(=O)(=O)c3cccnc3)cc2C1Cc4ccccc4	6.514858501346
+CHEMBL3673304	None	Cn1cc(c(n1)C(F)(F)F)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4ccccc4)c3c2	6.514858501346
+CHEMBL3673305	None	Cn1ccc(n1)S(=O)(=O)NCc2ccc3CCC(N)C(Cc4ccccc4)c3c2	5.514858501346
+CHEMBL3673306	None	NC1CCc2ccc(CNS(=O)(=O)C3CCC3)cc2C1Cc4cccc(F)c4	6.514858501346
+CHEMBL3673307	None	NC1CCc2ccc(CNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(F)c(F)c4	5.514858501346
+CHEMBL3673308	None	NC1CCc2ccc(CNS(=O)(=O)C3CCC3)cc2C1Cc4ccc(F)c(F)c4	5.514858501346
+CHEMBL3673309	None	CCCS(=O)(=O)NCc1ccc2CCC(NC)C(Cc3ccccc3)c2c1	7.514858501346
+CHEMBL3673310	None	CNC1CCc2ccc(CNS(=O)(=O)C3CCC3)cc2C1Cc4ccccc4	7.014858501346
+CHEMBL3673311	None	CNC1CCc2ccc(CNS(=O)(=O)c3cccc(C)c3)cc2C1Cc4ccccc4	4.514858501346
+CHEMBL3673312	None	CNC1CCc2ccc(CNS(=O)(=O)c3ccn(C)c3)cc2C1Cc4ccccc4	7.514858501346
+CHEMBL3673313	None	CNC1CCc2ccc(CNS(=O)(=O)c3ccn(C)n3)cc2C1Cc4ccccc4	5.514858501346
+CHEMBL3673314	None	CCCS(=O)(=O)NCc1ccc2CCC(NC(=O)C)C(Cc3ccccc3)c2c1	4.514858501346
+CHEMBL3673315	None	CC(=O)NC1CCc2ccc(CNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4ccc(F)cc4	4.514858501346
+CHEMBL3673316	None	CCCS(=O)(=O)NCc1ccc2CCC(NCC)C(Cc3ccccc3)c2c1	6.514858501346
+CHEMBL3673317	None	CCNC1CCc2ccc(CNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4ccc(F)cc4	6.514858501346
+CHEMBL3673318	None	CCNC1CCc2ccc(CNS(=O)(=O)c3cnn(C)c3)cc2C1Cc4cccc(F)c4	6.514858501346
+CHEMBL3673319	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NC(=O)OC(C)(C)C)C(Cc3ccc(Cl)cc3)c2c1	6.514858501346
+CHEMBL3673320	None	NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(Cl)cc4	6.514858501346
+CHEMBL3673321	None	CCCS(=O)(=O)NCCCc1ccc2CCC(N)C(Cc3ccc(Cl)c(Cl)c3)c2c1	7.514858501346
+CHEMBL3673322	None	NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(F)c(F)c4	6.514858501346
+CHEMBL3673323	None	CCCS(=O)(=O)NCCCc1ccc2CCC(N)C(Cc3ccccc3)c2c1	6.514858501346
+CHEMBL3673324	None	CCCS(=O)(=O)NCCCc1ccc2CCC(N)C(Cc3ccc(F)c(F)c3)c2c1	6.514858501346
+CHEMBL3673325	None	NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4	6.514858501346
+CHEMBL3673326	None	NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(F)cc4	6.514858501346
+CHEMBL3673327	None	CCCS(=O)(=O)NCCCc1ccc2CCC(N)C(Cc3cccc(F)c3)c2c1	6.514858501346
+CHEMBL3673328	None	NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(F)c4	6.514858501346
+CHEMBL3673329	None	CCCS(=O)(=O)NCCCc1ccc2CCC(N)C(Cc3ccccc3Cl)c2c1	5.514858501346
+CHEMBL3673330	None	NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4Cl	5.514858501346
+CHEMBL3673331	None	CCCS(=O)(=O)NCCCc1ccc2CCC(N)C(Cc3ccc(F)cc3)c2c1	6.514858501346
+CHEMBL3673332	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NC(=O)C)C(Cc3cccc(F)c3)c2c1	4.514858501346
+CHEMBL3673333	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NC(=O)C)C(Cc3ccc(F)cc3)c2c1	4.514858501346
+CHEMBL3673334	None	CC(=O)NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4	4.514858501346
+CHEMBL3673335	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NC(=O)C)C(Cc3ccccc3)c2c1	4.514858501346
+CHEMBL3673336	None	CC(=O)NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(F)c4	4.514858501346
+CHEMBL3673337	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NCC)C(Cc3cccc(F)c3)c2c1	6.514858501346
+CHEMBL3673338	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NCC)C(Cc3ccc(F)cc3)c2c1	5.514858501346
+CHEMBL3673339	None	CCNC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(F)c4	6.514858501346
+CHEMBL3673340	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NCC)C(Cc3ccccc3Cl)c2c1	5.514858501346
+CHEMBL3673341	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NCC)C(Cc3ccccc3)c2c1	6.514858501346
+CHEMBL3673342	None	CCNC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4	6.514858501346
+CHEMBL3673343	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NCC)C(Cc3ccc(F)c(F)c3)c2c1	6.514858501346
+CHEMBL3673344	None	CCNC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(F)c(F)c4	6.514858501346
+CHEMBL3673345	None	CCCS(=O)(=O)N(C)CCCc1ccc2CCC(N)C(Cc3cccc(F)c3)c2c1	6.514858501346
+CHEMBL3673346	None	CN(CCCc1ccc2CCC(N)C(Cc3ccccc3Cl)c2c1)S(=O)(=O)CC4CC4	6.514858501346
+CHEMBL3673347	None	CCCS(=O)(=O)N(C)CCCc1ccc2CCC(N)C(Cc3ccccc3Cl)c2c1	5.514858501346
+CHEMBL3673348	None	CN(CCCc1ccc2CCC(N)C(Cc3cccc(F)c3)c2c1)S(=O)(=O)CC4CC4	7.514858501346
+CHEMBL3673349	None	CN(CCCc1ccc2CCC(N)C(Cc3ccc(F)cc3)c2c1)S(=O)(=O)CC4CC4	7.514858501346
+CHEMBL3673350	None	CCCS(=O)(=O)N(C)CCCc1ccc2CCC(N)C(Cc3ccc(F)cc3)c2c1	6.514858501346
+CHEMBL3673351	None	CN(CCCc1ccc2CCC(N)C(Cc3ccc(Cl)cc3)c2c1)S(=O)(=O)CC4CC4	6.514858501346
+CHEMBL3673352	None	CCCS(=O)(=O)N(C)CCCc1ccc2CCC(N)C(Cc3ccc(Cl)cc3)c2c1	6.514858501346
+CHEMBL3673353	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(F)c4	7.514858501346
+CHEMBL3673354	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3ccn(C)c3)cc2C1Cc4cc(F)cc(F)c4	6.014858501346
+CHEMBL3673355	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cc(F)cc(F)c4	4.514858501346
+CHEMBL3673356	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccccc4)c3c2	7.514858501346
+CHEMBL3673358	None	CNC1CCc2ccc(OCCNS(=O)(=O)c3ccn(C)c3)cc2C1Cc4cc(F)cc(F)c4	7.181525168012666
+CHEMBL3673360	None	CCCS(=O)(=O)NCc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCC4	7.514858501346
+CHEMBL3673361	None	Cn1cc(cn1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC5	6.014858501346
+CHEMBL3673362	None	Cn1ccc(c1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC5	7.514858501346
+CHEMBL3673363	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC5	6.514858501346
+CHEMBL3673364	None	O=S(=O)(NCc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCC4)c5ccccn5	7.514858501346
+CHEMBL3673365	None	O=S(=O)(NCc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCC4)c5cccs5	7.514858501346
+CHEMBL3673366	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(C(Cc4cccc(F)c4)c3c2)N5CCC5	5.514858501346
+CHEMBL3673367	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCOCC5	6.514858501346
+CHEMBL3673368	None	Cn1cc(cn1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCOCC5	6.514858501346
+CHEMBL3673369	None	O=S(=O)(CC1CC1)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCOCC5	6.514858501346
+CHEMBL3673370	None	O=S(=O)(NCc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCOCC4)C5CCC5	5.514858501346
+CHEMBL3673371	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCCC5	5.514858501346
+CHEMBL3673372	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCCC5=O	6.514858501346
+CHEMBL3673373	None	COc1ccc2CCC(C(Cc3cccc(Cl)c3)c2c1)N4CCCC4	5.514858501346
+CHEMBL3673374	None	CCCS(=O)(=O)NCCCc1ccc2CCC(C(Cc3ccccc3)c2c1)N4CCCC4	5.514858501346
+CHEMBL3673375	None	O=S(=O)(CC1CC1)NCCCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCCC5	5.514858501346
+CHEMBL3673376	None	Oc1ccc2CCC(C(Cc3cccc(F)c3)c2c1)N4CCCC4	5.514858501346
+CHEMBL3673377	None	Cn1ccc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC5	6.514858501346
+CHEMBL3673378	None	Cn1ccc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(F)c4)c3c2)N5CCC5	7.514858501346
+CHEMBL3673379	None	CCC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3ccn(C)c3)cc2C1Cc4ccccc4	7.514858501346
+CHEMBL3673380	None	Cn1ccc(c1)S(=O)(=O)NCCOc2ccc3CCC(NC=O)C(Cc4cc(F)cc(F)c4)c3c2	6.514858501346
+CHEMBL3673381	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NC(C)C)C(Cc3ccc(Cl)c(Cl)c3)c2c1	6.514858501346
+CHEMBL3673382	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NC(C)C)C(Cc3ccccc3)c2c1	5.514858501346
+CHEMBL3673383	None	CCN(CC)C1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccc(Cl)cc4	6.514858501346
+CHEMBL3673384	None	CCCS(=O)(=O)N(C)Cc1ccc2CCC(NC)C(Cc3ccccc3)c2c1	6.514858501346
+CHEMBL3673385	None	CCCS(=O)(=O)NCC#Cc1ccc2CCC(NC(=O)C)C(Cc3ccccc3)c2c1	4.514858501346
+CHEMBL3673386	None	CCCS(=O)(=O)N(CCOc1ccc2CCC(NC(=O)OCC)C(Cc3cccc(Cl)c3)c2c1)C4CC4	4.514858501346
+CHEMBL3673387	None	CCCS(=O)(=O)N(CCOc1ccc2CCC(NC(=O)OCC)C(Cc3ccccc3)c2c1)C4CC4	4.514858501346
+CHEMBL3673388	None	CCCS(=O)(=O)N(CCOc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1)C4CC4	6.514858501346
+CHEMBL3673389	None	CCCS(=O)(=O)N(CCOc1ccc2CCC(N)C(Cc3ccccc3)c2c1)C4CC4	6.514858501346
+CHEMBL3673390	None	CCCS(=O)(=O)N1CC(C1)c2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	5.514858501346
+CHEMBL3673391	None	CCCS(=O)(=O)N1CC(C1)c2ccc3CCC(N)C(Cc4ccccc4)c3c2	5.514858501346
+CHEMBL3673392	None	CCCS(=O)(=O)N1CC(COc2ccc3CCC(NC(=O)OCC)C(Cc4cccc(Cl)c4)c3c2)C1	4.514858501346
+CHEMBL3673393	None	CCCS(=O)(=O)N1CC(COc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2)C1	4.514858501346
+CHEMBL3673394	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	4.514858501346
+CHEMBL3673395	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	7.514858501346
+CHEMBL3673396	None	CCOC(=O)NC1CCc2ccc(OCC3CN(C3)S(=O)(=O)CC4CC4)cc2C1Cc5cccc(Cl)c5	3.514858501346
+CHEMBL3673397	None	CCOC(=O)NC1CCc2ccc(OCCN(C)S(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	4.514858501346
+CHEMBL3673398	None	CN(CCOc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1)S(=O)(=O)CC4CC4	7.514858501346
+CHEMBL3673399	None	CCCS(=O)(=O)N1CC(COc2ccc3CCC(N)C(Cc4ccccc4)c3c2)C1	5.514858501346
+CHEMBL3673400	None	CCCS(=O)(=O)NCCOc1ccc2CCC(N)C(Cc3ccccc3Cl)c2c1	5.514858501346
+CHEMBL3673401	None	NC1CCc2ccc(OCCNS(=O)(=O)C3CC3)cc2C1Cc4ccccc4Cl	4.514858501346
+CHEMBL3673402	None	NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4Cl	5.514858501346
+CHEMBL3673403	None	NC1CCc2ccc(CCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	6.514858501346
+CHEMBL3673404	None	CCCS(=O)(=O)NCCCc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	6.514858501346
+CHEMBL3673405	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4ccccc4Cl	4.514858501346
+CHEMBL3673406	None	CCOC(=O)NC1CCc2ccc(OCCNS(=O)(=O)c3cnn(C)c3)cc2C1Cc4ccccc4Cl	3.514858501346
+CHEMBL3673407	None	CNC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	7.514858501346
+CHEMBL3673408	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccccc4Cl)c3c2	7.514858501346
+CHEMBL3673409	None	CNC1CCc2ccc(OCCNS(=O)(=O)c3cnn(C)c3)cc2C1Cc4ccccc4Cl	6.514858501346
+CHEMBL3673410	None	CNC1CCc2ccc(OCCNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4ccccc4Cl	6.514858501346
+CHEMBL3673411	None	CCCS(=O)(=O)NCCc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	5.514858501346
+CHEMBL3673412	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4ccccc4Cl)c3c2	6.514858501346
+CHEMBL3673413	None	CC(=O)NC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	6.514858501346
+CHEMBL3673414	None	CCNC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	7.514858501346
+CHEMBL3673415	None	CCCS(=O)(=O)NCCCc1ccc2CCC(NC)C(Cc3cccc(Cl)c3)c2c1	7.514858501346
+CHEMBL3673416	None	CCCS(=O)(=O)NCCc1ccc2CCC(NC)C(Cc3cccc(Cl)c3)c2c1	6.514858501346
+CHEMBL3673417	None	NC1CCc2ccc(CCNS(=O)(=O)CC3CC3)cc2C1Cc4cccc(Cl)c4	5.514858501346
+CHEMBL3673418	None	CCCS(=O)(=O)NCCOc1ccc2CCC(NC)C(Cc3ccccc3F)c2c1	6.514858501346
+CHEMBL3673419	None	CNC1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2C1Cc4ccccc4F	6.514858501346
+CHEMBL3673420	None	CNC1CCc2ccc(CCNS(=O)(=O)c3cn(C)cn3)cc2C1Cc4cccc(Cl)c4	6.514858501346
+CHEMBL3673421	None	CCCS(=O)(=O)NCCOc1ccc2CCC(NC)C(CC3CCCCC3)c2c1	5.514858501346
+CHEMBL3673422	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4Cl)c3c2)N5CCCC5	5.514858501346
+CHEMBL3673423	None	Cc1nc(cn1C)S(=O)(=O)NCCOc2ccc3CCC(N)C(Cc4cccc(Cl)c4)c3c2	5.514858501346
+CHEMBL3673424	None	Clc1cccc(CC2C(CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc23)N5CCCC5)c1	6.514858501346
+CHEMBL3673425	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(Cl)c4)c3c2)N5CCCC5	7.514858501346
+CHEMBL3673426	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(Cl)c4)c3c2)N5CCCC5	6.514858501346
+CHEMBL3673427	None	Clc1cccc(CC2C(CCc3ccc(OCCNS(=O)(=O)CC4CC4)cc23)N5CCC5)c1	6.514858501346
+CHEMBL3673428	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(Cl)c4)c3c2)N5CCC5	7.514858501346
+CHEMBL3673429	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4cccc(Cl)c4)c3c2)N5CCC5	7.514858501346
+CHEMBL3673430	None	CCCS(=O)(=O)NCCOc1ccc2CCC(C(Cc3cccc(Cl)c3)c2c1)N4CCCC4	5.514858501346
+CHEMBL3673431	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CCC5	7.514858501346
+CHEMBL3673432	None	CCCS(=O)(=O)CCc1ccc2CCC(N)C(Cc3ccccc3)c2c1	5.514858501346
+CHEMBL3673433	None	CCCS(=O)(=O)CCc1ccc2CCC(N)C(Cc3cccc(Cl)c3)c2c1	5.514858501346
+CHEMBL3683185	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CC[C@@H](CN)[C@@H](Cc4ccccc4)c3c2	6.514858501346
+CHEMBL3683186	None	CCS(=O)(=O)NCCOc1ccc2CC[C@@H](CN)[C@@H](Cc3ccccc3)c2c1	6.514858501346
+CHEMBL3683187	None	NC[C@@H]1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2[C@@H]1Cc4ccccc4	6.514858501346
+CHEMBL3683188	None	CNC[C@@H]1CCc2ccc(OCCNS(=O)(=O)c3cn(C)cn3)cc2[C@@H]1Cc4ccccc4	6.514858501346
+CHEMBL3683189	None	CCS(=O)(=O)NCCOc1ccc2CC[C@@H](CNC)[C@@H](Cc3ccccc3)c2c1	6.514858501346
+CHEMBL3683190	None	CNC[C@@H]1CCc2ccc(OCCNS(=O)(=O)CC3CC3)cc2[C@@H]1Cc4ccccc4	6.514858501346
+CHEMBL3683191	None	CCS(=O)(=O)NCCOc1ccc2CC[C@@H](CN3CCC3)[C@@H](Cc4ccccc4)c2c1	6.514858501346
+CHEMBL3683192	None	O=S(=O)(CC1CC1)NCCOc2ccc3CC[C@@H](CN4CCC4)[C@@H](Cc5ccccc5)c3c2	6.514858501346
+CHEMBL3683193	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CC[C@@H](CN4CCC4)[C@@H](Cc5ccccc5)c3c2	6.514858501346
+CHEMBL3683194	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CC[C@@H](CN4CCC4)[C@@H](Cc5ccccc5)c3c2	6.514858501346
+CHEMBL3686344	None	Cn1cnc(c1)S(=O)(=O)NCc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CC6CC6C5	7.514858501346
+CHEMBL3686345	None	Cn1cc(cn1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4)c3c2)N5CC6CC6C5	7.514858501346
+CHEMBL3686346	None	Cn1cnc(c1)S(=O)(=O)NCCOc2ccc3CCC(C(Cc4ccccc4F)c3c2)N5CC6CC6C5	5.514858501346
+CHEMBL3686347	None	CCS(=O)(=O)NCc1ccc2CCC(NC3(COC3)C#N)C(Cc4ccccc4)c2c1	5.514858501346
+CHEMBL3686348	None	CCCS(=O)(=O)NCc1ccc2CCC(NC3(COC3)C#N)C(Cc4ccccc4)c2c1	5.514858501346
+CHEMBL3686349	None	O=S(=O)(NCc1ccc2CCC(NC3(COC3)C#N)C(Cc4ccccc4)c2c1)C5CCC5	5.514858501346
+CHEMBL3686350	None	O=S(=O)(CC1CC1)NCc2ccc3CCC(NC4(COC4)C#N)C(Cc5ccccc5)c3c2	6.514858501346
+CHEMBL3686351	None	Cn1cnc(c1)S(=O)(=O)NCCOc2cc3C(Cc4ccccc4)C(CCc3cc2[N+]#[C-])N5CC6CC6C5	5.514858501346
+CHEMBL373556	N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)propionamide	CCCS(=O)(=O)N1CCC(CNC(=O)CC)(CC1)C(=O)N2CCOCC2	4.30102999566
+CHEMBL373809	(S)-1-(2-(2-(3-chlorophenylthio)phenoxy)ethyl)pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2ccccc2Sc3cccc(Cl)c3	6.42021640338
+CHEMBL376269	(R)-2,4-dichloro-N-(1-(4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)ethyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@@H](C)NC(=O)c2ccc(Cl)cc2Cl)C(=O)N3CCOCC3	4.30102999566
+CHEMBL376472	2,4-dichloro-N-((4-(morpholine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)N3CCOCC3	8.61978875829
+CHEMBL377418	(S)-1-{2-[3-(3-fluoro-phenylsulfanyl)-4'-methoxy-biphenyl-4-yloxy]-ethyl}-pyrrolidine-2-carboxylic acid	COc1ccc(cc1)c2ccc(OCCN3CCC[C@H]3C(=O)O)c(Sc4cccc(F)c4)c2	6.79588001734
+CHEMBL377605	(S)-1-(2-(4-chloro-2-(3-fluorophenylthio)phenoxy)ethyl)pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2ccc(Cl)cc2Sc3cccc(F)c3	6.39794000867
+CHEMBL377815	(S)-1-(2-(2-chloro-6-(3-fluorophenylthio)phenoxy)ethyl)pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2c(Cl)cccc2Sc3cccc(F)c3	4.72124639905
+CHEMBL378708	2-((2-(2-(3-chlorophenylthio)phenoxy)ethyl)(ethyl)amino)acetic acid	CCN(CCOc1ccccc1Sc2cccc(Cl)c2)CC(=O)O	5.13667713988
+CHEMBL379167	2-(methyl(2-(2-(p-tolylthio)phenoxy)ethyl)amino)acetic acid	CN(CCOc1ccccc1Sc2ccc(C)cc2)CC(=O)O	4.32790214206
+CHEMBL379375	(S)-1-{2-[4'-chloro-3-(3-fluoro-phenylsulfanyl)-biphenyl-4-yloxy]-ethyl}-pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2ccc(cc2Sc3cccc(F)c3)c4ccc(Cl)cc4	5.85387196432
+CHEMBL379558	2-((2-(2-(4-chlorophenylthio)phenoxy)ethyl)(methyl)amino)acetic acid	CN(CCOc1ccccc1Sc2ccc(Cl)cc2)CC(=O)O	5.10790539731
+CHEMBL379668	(2S)-2-((2-(4,5-dichloro-6-methoxy-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)propanoic acid	COc1cc2C(=O)C(CCN(C)[C@@H](C)C(=O)O)(C(=O)c2c(Cl)c1Cl)c3ccccc3	9.32790214206
+CHEMBL380458	(2S)-2-((2-(4,5-dichloro-2-(4-fluorophenyl)-6-methoxy-1,3-dioxo-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)-2-phenylacetic acid	COc1cc2C(=O)C(CCN(C)[C@H](C(=O)O)c3ccccc3)(C(=O)c2c(Cl)c1Cl)c4ccc(F)cc4	5.88605664769
+CHEMBL380743	(2S)-1-(2-(4,5-dichloro-6-methoxy-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)pyrrolidine-2-carboxylic acid	COc1cc2C(=O)C(CCN3CCC[C@H]3C(=O)O)(C(=O)c2c(Cl)c1Cl)c4ccccc4	5.92081875395
+CHEMBL382006	2-((2-(5,6-dichloro-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)acetic acid	CN(CCC1(C(=O)c2cc(Cl)c(Cl)cc2C1=O)c3ccccc3)CC(=O)O	7.72124639905
+CHEMBL382336	2-(2-((R)-sec-butyl(methyl)amino)ethyl)-4,5-dichloro-2-(4-fluorophenyl)-6-methoxy-2H-indene-1,3-dione	CC[C@@H](C)N(C)CCC1(C(=O)c2cc(OC)c(Cl)c(Cl)c2C1=O)c3ccc(F)cc3	8.19382002602
+CHEMBL391297	N-((R)-2-hydroxy-3-(2-isobutylpyrrolidin-1-yl)propyl)naphthalene-1-sulfonamide	CC(C)CC1CCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	5.399999810065
+CHEMBL392350	N-(3-((5-(2-fluorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)benzyl)-1-(3,4-dimethylcyclopentyl)-N-ethylpyrrolidin-3-amine	CCN(Cc1cccc(OCc2noc(n2)c3ccccc3F)c1)C4CCN(C4)C5CC(C)C(C)C5	6.583909470176
+CHEMBL392586	1-(7-((5-(4-chlorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)naphthalen-1-yl)-4-methylpiperazine	CN1CCN(CC1)c2cccc3ccc(OCc4noc(n4)c5ccc(Cl)cc5)cc23	5.815888497006
+CHEMBL392610	N-((R)-3-(sec-butyl(propyl)amino)-2-hydroxypropyl)naphthalene-1-sulfonamide	CCCN(C[C@@H](O)CNS(=O)(=O)c1cccc2ccccc12)C(C)CC	5.8999984172
+CHEMBL392770	(1-(4-(6-((5-(4-chlorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-2,3-dihydro-1H-inden-1-yl)piperazin-1-yl)cyclopentyl)methanol	OCC1(CCCC1)N2CCN(CC2)C3CCc4ccc(OCc5noc(n5)c6ccc(Cl)cc6)cc34	7.329294456643
+CHEMBL393168	1-cyclopentyl-4-(6-((5-(2-fluorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-2,3-dihydro-1H-inden-1-yl)piperazine	Fc1ccccc1c2onc(COc3ccc4CCC(N5CCN(CC5)C6CCCC6)c4c3)n2	6.690082038866
+CHEMBL393169	(1-(3-(6-((5-(4-chlorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-2,3-dihydro-1H-inden-1-yl)propylamino)cyclopentyl)methanol	OCC1(CCCC1)NCCCC2CCc3ccc(OCc4noc(n4)c5ccc(Cl)cc5)cc23	6.481434745855999
+CHEMBL393654	N-((R)-2-hydroxy-3-(2-methylpiperidin-1-yl)propyl)naphthalene-1-sulfonamide	CC1CCCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	6.49999693195
+CHEMBL394236	(1-(3-(7-((5-(2-fluorophenyl)-1,2,4-oxadiazol-3-yl)methoxy)-1,2,3,4-tetrahydronaphthalen-1-yl)propyl)piperidin-3-yl)methanol	OCC1CCCN(CCCC2CCCc3ccc(OCc4noc(n4)c5ccccc5F)cc23)C1	7.506258329585999
+CHEMBL396146	N-((R)-3-(2,5-dimethylpyrrolidin-1-yl)-2-hydroxypropyl)naphthalene-1-sulfonamide	CC1CCC(C)N1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	6.09999903485
+CHEMBL398398	N-((R)-2-hydroxy-3-(2-isopropylpyrrolidin-1-yl)propyl)naphthalene-1-sulfonamide	CC(C)C1CCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	6.349995898725
+CHEMBL399033	({2-[2'-chloro-5-(2,3-dihydro-benzo[1,4]dioxin-6-yl)-biphenyl-2-yloxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1c2ccccc2Cl)c3ccc4OCCOc4c3)CC(=O)O	7.85387196432
+CHEMBL399034	({2-[4-(2,3-dihydro-benzofuran-5-yl)-2-thiophen-2-yl-phenoxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1c2cccs2)c3ccc4OCCc4c3)CC(=O)O	7.76955107862
+CHEMBL399144	{[2-(4''-chloro-[1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1c2ccc(Cl)cc2)c3ccccc3)CC(=O)O	6.01547268666
+CHEMBL399784	({2-[2'-chloro-5-(2,3-dihydro-benzofuran-5-yl)-biphenyl-2-yloxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1c2ccccc2Cl)c3ccc4OCCc4c3)CC(=O)O	7.88605664769
+CHEMBL399959	({2-[4'-chloro-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3ccc(Cl)cc3)CC(=O)O	7.16749108729
+CHEMBL399960	({2-[3'-methoxy-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	COc1cccc(c1)c2ccc(OCCN(C)CC(=O)O)c(c2)C(=O)c3cccs3	6.9829666607
+CHEMBL399961	({2-[4'-methoxy-3'-methyl-3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-methyl-amino)-acetic acid	COc1ccc(cc1C)c2ccc(OCCN(C)CC(=O)O)c(c2)C(=O)c3cccs3	7.7447274949
+CHEMBL399983	{[2-(3-cyclohexylmethyl-biphenyl-4-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1CC2CCCCC2)c3ccccc3)CC(=O)O	6.53910215724
+CHEMBL400396	(methyl-{2-[3-(thiophene-2-carbonyl)-biphenyl-4-yloxy]-ethyl}-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)c3ccccc3)CC(=O)O	7.34678748622
+CHEMBL400979	{[2-(4'-methoxy-3'-methyl-3-thiophen-2-yl-biphenyl-4-yloxy)-ethyl]-methyl-amino}-acetic acid	COc1ccc(cc1C)c2ccc(OCCN(C)CC(=O)O)c(c2)c3cccs3	6.79317412397
+CHEMBL401191	{[2-(4-benzo[1,3]dioxol-5-yl-2-thiophen-2-yl-phenoxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1c2cccs2)c3ccc4OCOc4c3)CC(=O)O	7.46852108296
+CHEMBL401195	(methyl-{2-[2-(thiophene-2-carbonyl)-4-trifluoromethyl-phenoxy]-ethyl}-amino)-acetic acid	CN(CCOc1ccc(cc1C(=O)c2cccs2)C(F)(F)F)CC(=O)O	6.15366288787
+CHEMBL401348	({2-[4-(2,3-dihydro-benzo[1,4]dioxin-6-yl)-2-thiophen-2-yl-phenoxy]-ethyl}-methyl-amino)-acetic acid	CN(CCOc1ccc(cc1c2cccs2)c3ccc4OCCOc4c3)CC(=O)O	7.60205999133
+CHEMBL401422	{[2-(3-benzoyl-biphenyl-4-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1C(=O)c2ccccc2)c3ccccc3)CC(=O)O	7.18708664336
+CHEMBL404856	{[2-(2''-chloro-[1,1',3',1'']terphenyl-4'-yloxy)-ethyl]-methyl-amino}-acetic acid	CN(CCOc1ccc(cc1c2ccccc2Cl)c3ccccc3)CC(=O)O	7.2757241304
+CHEMBL408571	Lithium salt of  {methyl-[3-phenyl-3-(3-trifluoromethyl-phenoxy)-propyl]-amino}-acetate	[Li+].CN(CCC(Oc1cccc(c1)C(F)(F)F)c2ccccc2)CC(=O)[O-]	5.59999938302
+CHEMBL425959	(S)-1-(2-(3-chloro-2-(3-fluorophenylthio)phenoxy)ethyl)pyrrolidine-2-carboxylic acid	OC(=O)[C@@H]1CCCN1CCOc2cccc(Cl)c2Sc3cccc(F)c3	5.92081875395
+CHEMBL426315	(2R)-2-((2-(4,5-dichloro-6-methoxy-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)propanoic acid	COc1cc2C(=O)C(CCN(C)[C@H](C)C(=O)O)(C(=O)c2c(Cl)c1Cl)c3ccccc3	7.72124639905
+CHEMBL426710	4-((2,4-dichlorobenzamido)methyl)-N,N-dimethyl-1-(propylsulfonyl)piperidine-4-carboxamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)N(C)C	6.74232142513
+CHEMBL428386	N-((R)-2-hydroxy-3-(2-methylpyrrolidin-1-yl)propyl)naphthalene-1-sulfonamide	CC1CCCN1C[C@@H](O)CNS(=O)(=O)c2cccc3ccccc23	6.0
+CHEMBL428736	(R)-N-(2-hydroxy-3-(piperidin-1-yl)propyl)naphthalene-1-sulfonamide	O[C@@H](CNS(=O)(=O)c1cccc2ccccc12)CN3CCCCC3	5.49999967866
+CHEMBL431997	4-Butoxy-N-(1-dimethylamino-cyclopentylmethyl)-3,5-dimethoxy-benzamide	CCCCOc1c(OC)cc(cc1OC)C(=O)NCC2(CCCC2)N(C)C	6.0
+CHEMBL436976	2,4-dichloro-N-((4-(1-methylpiperazine-4-carbonyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C(=O)N3CCN(C)CC3	4.30102999566
+CHEMBL454412	(S)-N-(1-(1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)ethyl)-2-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@H](C)NC(=O)c2ccccc2OC(F)(F)F)c3ccccn3	7.75202673364
+CHEMBL460537	(S)-2,4-dichloro-N-(1-(1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)ethyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@H](C)NC(=O)c2ccc(Cl)cc2Cl)c3ccccn3	8.52287874528
+CHEMBL460538	2,4-dichloro-N-((1-(propylsulfonyl)-4-(pyridin-3-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3cccnc3	7.15926676539
+CHEMBL460539	2,4-dichloro-N-((1-(propylsulfonyl)-4-(pyridin-4-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccncc3	7.10072681268
+CHEMBL460921	2-methyl-N-((1-methyl-1'-(propylsulfonyl)-2,4'-bipiperidin-4'-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2C)(CC1)C3CCCCN3C	6.82973828461
+CHEMBL460922	N-((1-methyl-1'-(propylsulfonyl)-2,4'-bipiperidin-4'-yl)methyl)-2-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2OC(F)(F)F)(CC1)C3CCCCN3C	7.67366413907
+CHEMBL461108	2,4-dichloro-N-((1-(2-hydroxypropylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CC(O)CS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	7.06550154876
+CHEMBL461387	(R)-N-(1-(1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)ethyl)-2-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@@H](C)NC(=O)c2ccccc2OC(F)(F)F)c3ccccn3	5.5863650028
+CHEMBL461388	(R)-2,4-dichloro-N-(1-(1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)ethyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@@H](C)NC(=O)c2ccc(Cl)cc2Cl)c3ccccn3	6.17979854051
+CHEMBL461389	(R)-2-chloro-3,5-difluoro-N-(1-(1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)ethyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@@H](C)NC(=O)c2cc(F)cc(F)c2Cl)c3ccccn3	6.23957751658
+CHEMBL461802	2-chloro-N-((1-methyl-1'-(propylsulfonyl)-2,4'-bipiperidin-4'-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2Cl)(CC1)C3CCCCN3C	7.22988470521
+CHEMBL461986	2,4-dichloro-N-((1-(2-fluoropropylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CC(F)CS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	8.01322826573
+CHEMBL461987	2,4-dichloro-N-((1-(ethylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	7.24412514433
+CHEMBL462147	2-(4-((2,4-dichlorobenzamido)methyl)-1-(propylsulfonyl)piperidin-4-yl)cyclohexyl acetate	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C3CCCCC3OC(=O)C	7.75202673364
+CHEMBL462148	N-((4-(azetidin-1-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)-2,4-dichlorobenzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)N3CCC3	7.41907502432
+CHEMBL462149	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC3CC3)CC1	7.52287874528
+CHEMBL463024	N-((1-(butylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)-2,4-dichlorobenzamide	CCCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	6.92081875395
+CHEMBL463025	2,4-dichloro-N-((1-(cyclopropylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	Clc1ccc(C(=O)NCC2(CCN(CC2)S(=O)(=O)C3CC3)c4ccccn4)c(Cl)c1	6.69897000434
+CHEMBL463029	2,4-dichloro-N-((1-(isopropylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CC(C)S(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	6.65757731918
+CHEMBL463224	2,4-dichloro-N-((1-(N,N-dimethylsulfamoyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CN(C)S(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	7.11350927483
+CHEMBL463226	2-chloro-3,5-difluoro-N-((1-methyl-1'-(propylsulfonyl)-2,4'-bipiperidin-4'-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2cc(F)cc(F)c2Cl)(CC1)C3CCCCN3C	7.36552272984
+CHEMBL463238	N-((4-(6-methylpyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2)(CC1)c3cccc(C)n3	7.26201267367
+CHEMBL463432	2,4-dichloro-N-((4-(6-methoxypyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3cccc(OC)n3	8.13076828027
+CHEMBL463433	N-((4-(6-morpholinopyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2)(CC1)c3cccc(n3)N4CCOCC4	4.30102999566
+CHEMBL463477	2-amino-6-chloro-N-((4-phenyl-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@H](C)NC(=O)c2c(N)cccc2Cl)c3ccccc3	8.58502665203
+CHEMBL463478	2-fluoro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2F)(CC1)c3ccccn3	7.30627305108
+CHEMBL463620	2-chloro-N-((4-(6-morpholinopyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2Cl)(CC1)c3cccc(n3)N4CCOCC4	6.31695296176
+CHEMBL463621	2,4-dichloro-N-((4-(6-morpholinopyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3cccc(n3)N4CCOCC4	6.38510278397
+CHEMBL464087	2,6-dichloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2c(Cl)cccc2Cl)(CC1)c3ccccn3	8.18045606446
+CHEMBL464088	2-amino-6-chloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2c(N)cccc2Cl)(CC1)c3ccccn3	8.16115090926
+CHEMBL464416	2,4-dichloro-N-((4-(2-methoxyethyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CCOC)(CNC(=O)c2ccc(Cl)cc2Cl)CC1	7.57675412606
+CHEMBL464417	2,4-dichloro-N-((4-(2-hydroxycyclohexyl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C3CCCCC3O	8.55284196866
+CHEMBL464419	2-methoxy-N-((4-phenyl-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2OC)(CC1)c3ccccc3	6.88605664769
+CHEMBL464420	2-chloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2Cl)(CC1)c3ccccn3	7.92445303861
+CHEMBL464506	3,6-dichloro-2-fluoro-N-((1-(propylsulfonyl)-4-(pyridine-2-yL)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2c(F)ccc(F)c2Cl)(CC1)c3ccccn3	8.24412514433
+CHEMBL464508	2,4-dichloro-N-((4-(6-methylpyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3cccc(C)n3	8.60205999133
+CHEMBL464617	2,4-dichloro-N-((1-methyl-1'-(propylsulfonyl)-2,4'-bipiperidin-4'-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)C3CCCCN3C	8.02227639471
+CHEMBL464621	4-chloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2)(CC1)c3ccccn3	6.98716277529
+CHEMBL464622	3-chloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2cccc(Cl)c2)(CC1)c3ccccn3	6.28650945691
+CHEMBL464623	3,4-dichloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)c(Cl)c2)(CC1)c3ccccn3	6.88272870434
+CHEMBL464830	3-methyl-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2cccc(C)c2)(CC1)c3ccccn3	6.07935499859
+CHEMBL465129	N-((4-(6-methoxypyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2)(CC1)c3cccc(OC)n3	7.31605286925
+CHEMBL465333	2-chloro-N-((4-(6-methoxypyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2Cl)(CC1)c3cccc(OC)n3	8.16115090926
+CHEMBL465426	N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)-2-(trifluoromethyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2C(F)(F)F)(CC1)c3ccccn3	7.50445566245
+CHEMBL465427	2-chloro-N-((4-(4-methylpyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2Cl)(CC1)c3cc(C)ccn3	7.41680122603
+CHEMBL465428	2,4-dichloro-N-((4-(4-methylpyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3cc(C)ccn3	8.45593195565
+CHEMBL472756	2,4-dichloro-N-((4-(pyridin-2-yl)-1-(2,2,2-trifluoroethylsulfonyl)piperidin-4-yl)methyl)benzamide	FC(F)(F)CS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	5.97061622231
+CHEMBL472757	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(ethylsulfonyl)piperidin-4-yl)methyl)benzamide	CCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC3CC3)CC1	7.58502665203
+CHEMBL475550	2,4-dichloro-N-((4-(pyridin-2-yl)-1-(trifluoromethylsulfonyl)piperidin-4-yl)methyl)benzamide	FC(F)(F)S(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	4.30102999566
+CHEMBL476555	N-(2-(7-chloro-1-methyl-2-oxo-5-phenyl-2,3-dihydro-1H-benzo[e][1,4]diazepin-4(5H)-yl)-2-oxoethyl)-3-(4-methoxyphenyl)propanamide	COc1ccc(CCC(=O)NCC(=O)N2CC(=O)N(C)c3ccc(Cl)cc3C2c4ccccc4)cc1	6.81247927916
+CHEMBL482546	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(1-methyl-1H-1,2,4-triazol-5-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Cn1ncnc1S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	6.50265561898
+CHEMBL482754	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(4-methyl-4H-1,2,4-triazol-3-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Cn1cnnc1S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	6.90798152925
+CHEMBL482764	2,4-dichloro-N-((4-(3-fluoropyridin-2-yl)-1-(1-methyl-1H-imidazol-4-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Cn1cnc(c1)S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC2)c4ncccc4F	8.75945075172
+CHEMBL482960	2,4-dichloro-N-(((trans)-1-(cyclopropylmethyl)-4-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)cyclohexyl)methyl)benzamide-trans-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)cyclohexyl)methyl)benzamide	Cn1cc(nn1)S(=O)(=O)[C@@H]2CC[C@](CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	8.72239229744
+CHEMBL482964	2,4-dichloro-N-((4-(3-fluoropyridin-2-yl)-1-(thiophen-2-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Fc1cccnc1C2(CNC(=O)c3ccc(Cl)cc3Cl)CCN(CC2)S(=O)(=O)c4cccs4	6.90448195768
+CHEMBL482974	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(1-methyl-1H-pyrazol-4-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Cn1cc(cn1)S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	7.98505965021
+CHEMBL483157	2,4-dichloro-N-((4-(3-fluoropyridin-2-yl)-1-(1-methyl-1H-pyrazol-4-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Cn1cc(cn1)S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC2)c4ncccc4F	8.26520017041
+CHEMBL483344	2,4-dichloro-N-((3-(cyclopropylmethyl)-1-(1-ethyl-1H-1,2,3-triazol-4-ylsulfonyl)azetidin-3-yl)methyl)benzamide	CCn1cc(nn1)S(=O)(=O)N2CC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)C2	8.58838029404
+CHEMBL483345	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(1-ethyl-1H-1,2,3-triazol-4-ylsulfonyl)piperidin-4-yl)methyl)benzamide	CCn1cc(nn1)S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	7.54944299058
+CHEMBL483938	2,4-dichloro-N-((3-(3-fluoropyridin-2-yl)-1-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)azetidin-3-yl)methyl)benzamide	Cn1cc(nn1)S(=O)(=O)N2CC(CNC(=O)c3ccc(Cl)cc3Cl)(C2)c4ncccc4F	9.50863830617
+CHEMBL484179	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Cn1cc(nn1)S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	7.49485002168
+CHEMBL484733	2,4-dichloro-N-((4-(3-fluoropyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ncccc3F	8.36351210365
+CHEMBL484734	2,4-dichloro-N-((1-(cyclopropylmethylsulfonyl)-4-(3-fluoropyridin-2-yl)piperidin-4-yl)methyl)benzamide	Fc1cccnc1C2(CNC(=O)c3ccc(Cl)cc3Cl)CCN(CC2)S(=O)(=O)CC4CC4	8.69897000434
+CHEMBL485139	2,4-dichloro-N-((4-(3-fluoropyridin-2-yl)-1-(pyridin-3-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Fc1cccnc1C2(CNC(=O)c3ccc(Cl)cc3Cl)CCN(CC2)S(=O)(=O)c4cccnc4	7.93741801577
+CHEMBL485355	2,4-dichloro-N-((3-(cyclopropylmethyl)-1-(1-methyl-1H-pyrazol-4-ylsulfonyl)azetidin-3-yl)methyl)benzamide	Cn1cc(cn1)S(=O)(=O)N2CC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)C2	8.44129142947
+CHEMBL485356	2,4-dichloro-N-((3-(cyclopropylmethyl)-1-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)azetidin-3-yl)methyl)benzamide	Cn1cc(nn1)S(=O)(=O)N2CC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)C2	10.0
+CHEMBL485366	2,4-dichloro-N-((3-(cyclopropylmethyl)-1-(2-methyl-2H-1,2,3-triazol-4-ylsulfonyl)azetidin-3-yl)methyl)benzamide	Cn1ncc(n1)S(=O)(=O)N2CC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)C2	6.88041422504
+CHEMBL485534	2,4-dichloro-N-((3-(cyclopropylmethyl)-1-(1-methyl-1H-1,2,3-triazol-5-ylsulfonyl)azetidin-3-yl)methyl)benzamide	Cn1nncc1S(=O)(=O)N2CC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)C2	6.73306308884
+CHEMBL517034	N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)-2-(trifluoromethoxy)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2OC(F)(F)F)(CC1)c3ccccn3	7.71219827007
+CHEMBL517410	(S)-2-chloro-3,5-difluoro-N-(1-(1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)ethyl)benzamide	CCCS(=O)(=O)N1CCC(CC1)([C@H](C)NC(=O)c2cc(F)cc(F)c2Cl)c3ccccn3	8.39794000867
+CHEMBL517435	2,4-dichloro-N-((1-(methylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	6.52287874528
+CHEMBL517631	N-((4-(4-methylpyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2)(CC1)c3cc(C)ccn3	6.8894102897
+CHEMBL518070	2-chloro-N-((4-(6-methylpyridin-2-yl)-1-(propylsulfonyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2Cl)(CC1)c3cccc(C)n3	8.52287874528
+CHEMBL518238	2,4-dichloro-N-((1-(propylsulfonyl)-4-((tetrahydro-2H-pyran-2-yl)methyl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC3CCCCO3)CC1	8.5376020021
+CHEMBL518339	N-((1-methyl-1'-(propylsulfonyl)-2,4'-bipiperidin-4'-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2)(CC1)C3CCCCN3C	5.47964749592
+CHEMBL518340	(2,4-dichloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)benzamide-2,4-dichloro-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccc(Cl)cc2Cl)(CC1)c3ccccn3	8.35654732351
+CHEMBL518686	N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2)(CC1)c3ccccn3	6.97061622231
+CHEMBL518692	2-methyl-N-((1-(propylsulfonyl)-4-(pyridin-2-yl)piperidin-4-yl)methyl)benzamide	CCCS(=O)(=O)N1CCC(CNC(=O)c2ccccc2C)(CC1)c3ccccn3	7.70996538864
+CHEMBL519701	N-((1-(1H-1,2,3-triazol-4-ylsulfonyl)-3-(cyclopropylmethyl)azetidin-3-yl)methyl)-2,4-dichlorobenzamide	Clc1ccc(C(=O)NCC2(CC3CC3)CN(C2)S(=O)(=O)c4c[nH]nn4)c(Cl)c1	6.06008157963
+CHEMBL520648	2,4-dichloro-N-(((cis)-1-(cyclopropylmethyl)-4-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)cyclohexyl)methyl)benzamide-cis-2,4-dichloro-N-((1-(cyclopropylmethyl)-4-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)cyclohexyl)methyl)benzamide	Cn1cc(nn1)S(=O)(=O)[C@@H]2CC[C@@](CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	8.26600367024
+CHEMBL520956	2,4-dichloro-N-((4-(cyclopropylmethyl)-1-(1-(2,2,2-trifluoroethyl)-1H-1,2,3-triazol-4-ylsulfonyl)piperidin-4-yl)methyl)benzamide	FC(F)(F)Cn1cc(nn1)S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC4CC4)CC2	6.29964247218
+CHEMBL521182	2,4-dichloro-N-((3-(3-fluoropyridin-2-yl)-1-(1-methyl-1H-pyrazol-4-ylsulfonyl)azetidin-3-yl)methyl)benzamide	Cn1cc(cn1)S(=O)(=O)N2CC(CNC(=O)c3ccc(Cl)cc3Cl)(C2)c4ncccc4F	8.53017798402
+CHEMBL521463	2,4-dichloro-N-((4-(3-fluoropyridin-2-yl)-1-(1-methyl-1H-1,2,3-triazol-4-ylsulfonyl)piperidin-4-yl)methyl)benzamide	Cn1cc(nn1)S(=O)(=O)N2CCC(CNC(=O)c3ccc(Cl)cc3Cl)(CC2)c4ncccc4F	9.18708664336
+CHEMBL537965	1-Methyl-1H-imidazole-4-carboxylic acid(3-chloro-benzyl)-(3-methyl-3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-amide	CN1C[C@@H]2[C@@H](CN(Cc3cccc(Cl)c3)C(=O)c4cn(C)cn4)[C@@H]2C1	7.473465816186
+CHEMBL540967	2-((2-(4,5-dichloro-6-methoxy-1,3-dioxo-2-phenyl-2,3-dihydro-1H-inden-2-yl)ethyl)(methyl)amino)acetic acid	COc1cc2C(=O)C(CCN(C)CC(=O)O)(C(=O)c2c(Cl)c1Cl)c3ccccc3	8.72124639905
+CHEMBL551223	(R)-N[3-phenyl-3-(4'-(4-toluoyl)phenoxy)-propyl]sarcosine	CN(CC[C@@H](Oc1ccc(cc1)C(=O)c2ccc(C)cc2)c3ccccc3)CC(=O)O	8.149370516455999
+CHEMBL551424	1-Methyl-1H-imidazole-4-carboxylic acid(3-chloro-benzyl)-(3-ethyl-3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-amide	CCN1C[C@@H]2[C@@H](CN(Cc3cccc(Cl)c3)C(=O)c4cn(C)cn4)[C@@H]2C1	7.853993023346
+CHEMBL556247	1-Methyl-1H-imidazole-4-carboxylic acid(3-methyl-3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-(3-trifluoromethoxy-benzyl)-amide	CN1C[C@@H]2[C@@H](CN(Cc3cccc(OC(F)(F)F)c3)C(=O)c4cn(C)cn4)[C@@H]2C1	8.149370516455999
+CHEMBL560289	1-Methyl-1H-imidazole-4-carboxylic acid(3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-(3-chloro-4-fluoro-benzyl)-amide	Cn1cnc(c1)C(=O)N(C[C@@H]2[C@H]3CNC[C@@H]23)Cc4ccc(F)c(Cl)c4	6.477432003405999
+CHEMBL560750	1-Methyl-1H-imidazole-4-carboxylic acid(3-cyclopropylmethyl-3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-(3-trifluoromethoxy-benzyl)-amide	Cn1cnc(c1)C(=O)N(C[C@@H]2[C@H]3CN(CC4CC4)C[C@@H]23)Cc5cccc(OC(F)(F)F)c5	8.149370516455999
+CHEMBL563220	1-Methyl-1H-imidazole-4-carboxylic acid(3-cyclopentylmethyl-3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-(3-trifluoromethoxy-benzyl)-amide	Cn1cnc(c1)C(=O)N(C[C@@H]2[C@H]3CN(CC4CCCC4)C[C@@H]23)Cc5cccc(OC(F)(F)F)c5	7.932795138435999
+CHEMBL563251	1-Methyl-1H-imidazole-4-carboxylic acid(3-chloro-4-fluoro-benzyl)-(3-methyl-3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-amide	CN1C[C@@H]2[C@@H](CN(Cc3ccc(F)c(Cl)c3)C(=O)c4cn(C)cn4)[C@@H]2C1	7.4504005121159995
+CHEMBL563761	Cis-N-(3-Chlorobenzyl)-N-(-4-aminocyclohexyl)-1-methyl-1H-imidazole-4-carboxamide	Cn1cnc(c1)C(=O)N(Cc2cccc(Cl)c2)[C@@H]3CC[C@H](N)CC3	8.262005470365999
+CHEMBL564650	1-Methyl-1H-imidazole-4-carboxylic acid(3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-(3-trifluoromethoxy-benzyl)-amide	Cn1cnc(c1)C(=O)N(C[C@@H]2[C@H]3CNC[C@@H]23)Cc4cccc(OC(F)(F)F)c4	7.333014913405999
+CHEMBL564919	1-Methyl-1H-imidazole-4-carboxylic acid(3-ethyl-3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-(3-trifluoromethoxy-benzyl)-amide	CCN1C[C@@H]2[C@@H](CN(Cc3cccc(OC(F)(F)F)c3)C(=O)c4cn(C)cn4)[C@@H]2C1	8.164610483016
+CHEMBL565142	1-Methyl-1H-imidazole-4-carboxylic acid(3-aza-bicyclo[3.1.0]hex-6-ylmethyl)-(3-chloro-benzyl)-amide	Cn1cnc(c1)C(=O)N(C[C@@H]2[C@H]3CNC[C@@H]23)Cc4cccc(Cl)c4	6.535765600705999
+CHEMBL58459	Lithium salt of  {[(R)-3-(biphenyl-4-yloxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CC[C@@H](Oc1ccc(cc1)c2ccccc2)c3ccccc3)CC(=O)[O-]	6.81998888094
+CHEMBL596699	(exo)-1-Methyl-1H-imidazole-4-carboxylic acid(3-trifluoromethyl, 4-fluorobenzyl)-(octahydro-cyclopenta[c]pyrrol-5-yl)-amide	Cn1cnc(c1)C(=O)N(Cc2ccc(F)c(c2)C(F)(F)F)[C@H]3C[C@H]4CNC[C@H]4C3	8.281862390956
+CHEMBL596700	(exo)-1-methyl-N-(octahydrocyclopenta[c]pyrrol-5-yl)-N-(3-(trifluoromethoxy)benzyl)-1H-imidazole-4-carboxamide	Cn1cnc(c1)C(=O)N(Cc2cccc(OC(F)(F)F)c2)[C@H]3C[C@H]4CNC[C@H]4C3	8.218193311085999
+CHEMBL597032	(exo)-1-methyl-N-(3-(trifluoromethoxy)benzyl)-N-(2-(3,3,3-trifluoropropyl)octahydrocyclopenta[c]pyrrol-5-yl)-1H-imidazole-4-carboxamide	Cn1cnc(c1)C(=O)N(Cc2cccc(OC(F)(F)F)c2)[C@@H]3C[C@@H]4CN(CCC(F)(F)F)C[C@@H]4C3	7.493669202276
+CHEMBL597033	(exo)-N-(2-(2-hydroxy-2-phenylethyl)octahydrocyclopenta[c]pyrrol-5-yl)-1-methyl-N-(3-(trifluoromethoxy)benzyl)-1H-imidazole-4-carboxamide	Cn1cnc(c1)C(=O)N(Cc2cccc(OC(F)(F)F)c2)[C@@H]3C[C@@H]4CN(CC(O)c5ccccc5)C[C@@H]4C3	8.069254298076
+CHEMBL59821	Lithium salt of  {methyl-[3-phenyl-3-(4-trifluoromethyl-phenoxy)-propyl]-amino}-acetate	[Li+].CN(CCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2)CC(=O)[O-]	6.49999693195
+CHEMBL59858	Lithium salt of  {[3-(4-chloro-phenyl)-3-(4-trifluoromethyl-phenoxy)-propyl]-methyl-amino}-acetate	[Li+].CN(CCC(Oc1ccc(cc1)C(F)(F)F)c2ccc(Cl)cc2)CC(=O)[O-]	7.0
+CHEMBL598659	(exo)-1-methyl-N-(2-methyloctahydrocyclopenta[c]pyrrol-5-yl)-N-(3-(trifluoromethoxy)benzyl)-1H-imidazole-4-carboxamide	CN1C[C@H]2C[C@H](C[C@H]2C1)N(Cc3cccc(OC(F)(F)F)c3)C(=O)c4cn(C)cn4	8.116918492676
+CHEMBL599060	(exo)-1-Methyl-1H-imidazole-4-carboxylic acid(3-cyclopentyloxy, 4-fluorobenzyl)-octahydro-cyclopenta[c]pyrrol-5-yl)-amide	Cn1cnc(c1)C(=O)N(Cc2ccc(F)c(OC3CCCC3)c2)[C@H]4C[C@H]5CNC[C@H]5C4	8.127468675006
+CHEMBL599264	(exo)-N-(3-isopropoxybenzyl)-1-methyl-N-(octahydrocyclopenta[c]pyrrol-5-yl)-1H-imidazole-4-carboxamide	CC(C)Oc1cccc(CN([C@H]2C[C@H]3CNC[C@H]3C2)C(=O)c4cn(C)cn4)c1	7.9171633154159995
+CHEMBL599480	(exo)-N-(2-ethyloctahydrocyclopenta[c]pyrrol-5-yl)-N-(4-fluoro-3-(trifluoromethyl)benzyl)-1-methyl-1H-imidazole-4-carboxamide	CCN1C[C@H]2C[C@H](C[C@H]2C1)N(Cc3ccc(F)c(c3)C(F)(F)F)C(=O)c4cn(C)cn4	8.093254574476
+CHEMBL599482	(exo)-1-Methyl-1H-imidazole-4-carboxylic acid(3-cyclopentyloxy-4-fluorobenzyl)-(2-methyl-octahydro-cyclopenta[c]pyrrol-5-yl)-amide	CN1C[C@H]2C[C@H](C[C@H]2C1)N(Cc3ccc(F)c(OC4CCCC4)c3)C(=O)c5cn(C)cn5	7.939670656416
+CHEMBL603691	(exo)-N-(3-(cyclopentyloxy)benzyl)-1-methyl-N-(octahydrocyclopenta[c]pyrrol-5-yl)-1H-imidazole-4-carboxamide	Cn1cnc(c1)C(=O)N(Cc2cccc(OC3CCCC3)c2)[C@H]4C[C@H]5CNC[C@H]5C4	7.790582631746
+CHEMBL603695	(exo)-1-Methyl-1H-imidazole-4-carboxylic acid(3-trifluoromethyl, 4-fluorobenzyl)-(2-methyl-octahydro-cyclopenta[c]pyrrol-5-yl)-amide	CN1C[C@H]2C[C@H](C[C@H]2C1)N(Cc3ccc(F)c(c3)C(F)(F)F)C(=O)c4cn(C)cn4	8.052460503446
+CHEMBL603893	(exo)-N-(3-(cyclopentyloxy)-4-methoxybenzyl)-1-methyl-N-(octahydrocyclopenta[c]pyrrol-5-yl)-1H-imidazole-4-carboxamide	COc1ccc(CN([C@H]2C[C@H]3CNC[C@H]3C2)C(=O)c4cn(C)cn4)cc1OC5CCCC5	4.708000471826
+CHEMBL60441	Lithium salt of  {[3-(4-methoxy-phenyl)-3-(4-trifluoromethyl-phenoxy)-propyl]-methyl-amino}-acetate	[Li+].COc1ccc(cc1)C(CCN(C)CC(=O)[O-])Oc2ccc(cc2)C(F)(F)F	6.29999760286
+CHEMBL60445	Lithium salt of  {[3-(3,4-dichloro-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CCC(Oc1ccc(Cl)c(Cl)c1)c2ccccc2)CC(=O)[O-]	6.29999760286
+CHEMBL604805	(exo)-N-(2-ethyloctahydrocyclopenta[c]pyrrol-5-yl)-1-methyl-N-(3-(trifluoromethoxy)benzyl)-1H-imidazole-4-carboxamide	CCN1C[C@H]2C[C@H](C[C@H]2C1)N(Cc3cccc(OC(F)(F)F)c3)C(=O)c4cn(C)cn4	7.932795138435999
+CHEMBL605540	(exo)-N-(2-(2-fluoropropyl)octahydrocyclopenta[c]pyrrol-5-yl)-1-methyl-N-(3-(trifluoromethoxy)benzyl)-1H-imidazole-4-carboxamide	CC(F)CN1C[C@H]2C[C@H](C[C@H]2C1)N(Cc3cccc(OC(F)(F)F)c3)C(=O)c4cn(C)cn4	7.867475531236
+CHEMBL605744	(exo)-1-Methyl-1H-imidazole-4-carboxylic acid(3-trifluoromethoxy-benzyl)-(2-(2-hydroxy, 2-methylpropyl)-octahydro-cyclopenta[c]pyrrol-5-yl)-amide	Cn1cnc(c1)C(=O)N(Cc2cccc(OC(F)(F)F)c2)[C@@H]3C[C@@H]4CN(CC(C)(C)O)C[C@@H]4C3	7.755946608945999
+CHEMBL60614	Lithium salt of  {[3-(4-methanesulfonyl-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CCC(Oc1ccc(cc1)S(=O)(=O)C)c2ccccc2)CC(=O)[O-]	4.0
+CHEMBL607982	(endo)-N-(4-fluoro-3-(trifluoromethyl)benzyl)-1-methyl-N-(octahydrocyclopenta[c]pyrrol-5-yl)-1H-imidazole-4-carboxamide	Cn1cnc(c1)C(=O)N(Cc2ccc(F)c(c2)C(F)(F)F)[C@@H]3C[C@H]4CNC[C@H]4C3	7.085106221346
+CHEMBL60948	Lithium salt of  {[3-(4-methoxy-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].COc1ccc(OC(CCN(C)CC(=O)[O-])c2ccccc2)cc1	5.40000018606
+CHEMBL61270	Lithium salt of  {[(S)-3-(4-tert-butyl-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CC[C@H](Oc1ccc(cc1)C(C)(C)C)c2ccccc2)CC(=O)[O-]	4.92999983549
+CHEMBL61860	Lithium salt of  {[(R)-3-(4-tert-butyl-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CC[C@@H](Oc1ccc(cc1)C(C)(C)C)c2ccccc2)CC(=O)[O-]	6.35000349253
+CHEMBL61861	Lithium salt of  {methyl-[(R)-3-phenyl-3-(4-trifluoromethyl-phenoxy)-propyl]-amino}-acetate	[Li+].CN(CC[C@@H](Oc1ccc(cc1)C(F)(F)F)c2ccccc2)CC(=O)[O-]	6.90000876646
+CHEMBL62571	Lithium salt of  {[(S)-3-(biphenyl-4-yloxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CC[C@H](Oc1ccc(cc1)c2ccccc2)c3ccccc3)CC(=O)[O-]	6.00999876497
+CHEMBL64028	Lithium salt of  3-{methyl-[3-phenyl-3-(4-trifluoromethyl-phenoxy)-propyl]-amino}-propionate	[Li+].CN(CCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2)CCC(=O)[O-]	4.49999995333
+CHEMBL64102	Lithium salt of  4-{methyl-[3-phenyl-3-(4-trifluoromethyl-phenoxy)-propyl]-amino}-butyrate	[Li+].CN(CCCC(=O)[O-])CCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2	4.0
+CHEMBL64154	Lithium salt of  {methyl-[3-phenyl-4-(4-trifluoromethyl-phenyl)-butyl]-amino}-acetate	[Li+].CN(CCC(Cc1ccc(cc1)C(F)(F)F)c2ccccc2)CC(=O)[O-]	6.0
+CHEMBL64234	Lithium salt of  {[3-(2-methoxy-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].COc1ccccc1OC(CCN(C)CC(=O)[O-])c2ccccc2	4.70000006856
+CHEMBL64272	Lithium salt of  {methyl-[(S)-3-phenyl-3-(4-trifluoromethyl-phenoxy)-propyl]-amino}-acetate	[Li+].CN(CC[C@H](Oc1ccc(cc1)C(F)(F)F)c2ccccc2)CC(=O)[O-]	5.57999966843
+CHEMBL64451	Lithium salt of  {[3-(4-chloro-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CCC(Oc1ccc(Cl)cc1)c2ccccc2)CC(=O)[O-]	5.8999984172
+CHEMBL64717	Lithium salt of  {ethyl-[3-phenyl-3-(4-trifluoromethyl-phenoxy)-propyl]-amino}-acetate	[Li+].CCN(CCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2)CC(=O)[O-]	5.30000020245
+CHEMBL64750	Lithium salt of  {[3-(4-chloro-3-trifluoromethyl-phenoxy)-3-phenyl-propyl]-methyl-amino}-acetate	[Li+].CN(CCC(Oc1ccc(Cl)c(c1)C(F)(F)F)c2ccccc2)CC(=O)[O-]	6.39999691337
+CHEMBL773	Glycine	NCC(=O)O	4.50031291738
+CHEMBL88573	4-Butoxy-N-(1-dimethylamino-cyclohexylmethyl)-3,5-dimethoxy-benzamide	CCCCOc1c(OC)cc(cc1OC)C(=O)NCC2(CCCCC2)N(C)C	6.0
+CHEMBL88588	4-Benzyloxy-N-(1-dimethylamino-cyclopentylmethyl)-3,5-dimethoxy-benzamide	COc1cc(cc(OC)c1OCc2ccccc2)C(=O)NCC3(CCCC3)N(C)C	6.0
+CHEMBL92310	4-Benzyloxy-N-(1-dimethylamino-cyclohexylmethyl)-3,5-dimethoxy-benzamide	COc1cc(cc(OC)c1OCc2ccccc2)C(=O)NCC3(CCCCC3)N(C)C	6.0

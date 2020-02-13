@@ -1,0 +1,53 @@
+chembl_id	name	smiles	pAff
+CHEMBL1086429	(2S,15S,18S,21S,24S)-2,15-dibenzyl-24-carbamoyl-18,21-diisobutyl-25-methyl-4,7,10,13,16,19,22-heptaoxo-3,6,9,14,17,20,23-heptaazahexacos-11-en-1-oic acid	CC(C)C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)\C=C\C(=O)NCC(=O)NCC(=O)N[C@@H](Cc2ccccc2)C(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N	3.973279257396
+CHEMBL1086432	(2S,15S,18S,21S,24S)-15-(2-amino-2-oxoethyl)-2-benzyl-24-carbamoyl-18-cyclohexyl-21-isopropyl-25-methyl-4,7,10,13,16,19,22-heptaoxo-3,6,9,14,17,20,23-heptaazahexacos-11-en-1-oic acid	CC(C)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CC(=O)N)NC(=O)\C=C\C(=O)NCC(=O)NCC(=O)N[C@@H](Cc1ccccc1)C(=O)O)C2CCCCC2)C(C)C)C(=O)N	3.9408272336160004
+CHEMBL1086435	(2S,15S,18S,21S,24S)-2-benzyl-24-carbamoyl-18,21-diisobutyl-15,25-dimethyl-4,7,10,13,16,19,22-heptaoxo-3,6,9,14,17,20,23-heptaazahexacos-11-en-1-oic acid	CC(C)C[C@H](NC(=O)[C@H](C)NC(=O)\C=C\C(=O)NCC(=O)NCC(=O)N[C@@H](Cc1ccccc1)C(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N	4.027720125866
+CHEMBL1086436	(2S,8S,15S,18S,21S,24S)-2-benzyl-24-carbamoyl-18,21-diisobutyl-8,15,25-trimethyl-4,7,10,13,16,19,22-heptaoxo-3,6,9,14,17,20,23-heptaazahexacos-11-en-1-oic acid	CC(C)C[C@H](NC(=O)[C@H](C)NC(=O)\C=C\C(=O)N[C@@H](C)C(=O)NCC(=O)N[C@@H](Cc1ccccc1)C(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N	3.988519223956
+CHEMBL1086437	(2S,15S,18S,21S,24S)-15-(acetamidomethyl)-2-benzyl-24-carbamoyl-18,21-diisobutyl-25-methyl-4,7,10,13,16,19,22-heptaoxo-3,6,9,14,17,20,23-heptaazahexacos-11-en-1-oic acid	CC(C)C[C@H](NC(=O)[C@H](CNC(=O)C)NC(=O)\C=C\C(=O)NCC(=O)NCC(=O)N[C@@H](Cc1ccccc1)C(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C(C)C)C(=O)N	3.912798510016
+CHEMBL1086438	(2S,15S,18S,21S,24S)-15-(acetamidomethyl)-2-benzyl-24-carbamoyl-18-isobutyl-21,25-dimethyl-4,7,10,13,16,19,22-heptaoxo-3,6,9,14,17,20,23-heptaazahexacos-11-en-1-oic acid	CC(C)C[C@H](NC(=O)[C@H](CNC(=O)C)NC(=O)\C=C\C(=O)NCC(=O)NCC(=O)N[C@@H](Cc1ccccc1)C(=O)O)C(=O)N[C@@H](C)C(=O)N[C@@H](C(C)C)C(=O)N	4.196795166386
+CHEMBL197113	N-(tert-butoxycarbonyl)-isoleucyl-glycine-nitrile	CC[C@@H](C)[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	4.824662421316
+CHEMBL197130	N-(tert-butoxycarbonyl)-O-benzylseryl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](COCc1ccccc1)C(=O)NCC#N	3.996344561466
+CHEMBL197181	N-acetyl-phenylalanyl-glycine-nitrile	CC(=O)N[C@@H](Cc1ccccc1)C(=O)NCC#N	4.751430507786
+CHEMBL197498	N-(tert-butoxycarbonyl)-2'-biphenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1c2ccccc2)C(=O)NCC#N	3.0
+CHEMBL198570	N-(tert-butoxycarbonyl)-homophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](CCc1ccccc1)C(=O)NCC#N	4.541730647745999
+CHEMBL200004	N-(tert-butoxycarbonyl)-valyl-glycine-nitrile	CC(C)[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	5.067700470006
+CHEMBL200007	N-(tert-butoxycarbonyl)-prolyl-glycine-nitrile	CC(C)(C)OC(=O)N1CCC[C@H]1C(=O)NCC#N	3.0
+CHEMBL200057	N-(tert-butoxycarbonyl)-3'-thienylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccsc1)C(=O)NCC#N	4.861645987566
+CHEMBL200160	N-(tert-butoxycarbonyl)-leucyl-glycine-nitrile	CC(C)C[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	5.4356772552959995
+CHEMBL200161	N-(benzyloxycarbonyl)-leucyl-glycine-nitrile	CC(C)C[C@H](NC(=O)OCc1ccccc1)C(=O)NCC#N	5.6397972379559995
+CHEMBL200181	N-(tert-butoxycarbonyl)-phenylalanyl-glycine-methylketone	CC(=O)CNC(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C	5.153130665326
+CHEMBL200235	N-(4-phenylbenzoyl)-phenylalanyl-glycine-nitrile	O=C(NCC#N)[C@H](Cc1ccccc1)NC(=O)c2ccc(cc2)c3ccccc3	5.774495811855999
+CHEMBL200285	N-(tert-butoxycarbonyl)-1'-naphthylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1cccc2ccccc12)C(=O)NCC#N	5.284409579966
+CHEMBL200338	N-(2-naphthylsulfonyl)-glycyl-glycine-nitrile	O=C(CNS(=O)(=O)c1ccc2ccccc2c1)NCC#N	4.116918492676
+CHEMBL200374	N-(tert-butoxycarbonyl)-phenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1)C(=O)NCC#N	5.798855157716
+CHEMBL200427	N-(tert-butoxycarbonyl)-2'-bromophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1Br)C(=O)NCC#N	5.473465816186
+CHEMBL200521	N-(tert-butoxycarbonyl)-phenylalanyl-glycine-aldehyde	CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1)C(=O)NCC=O	7.172435820525999
+CHEMBL200549	N-(tert-butoxycarbonyl)-2'-fluorophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccccc1F)C(=O)NCC#N	5.842760643406
+CHEMBL200557	N-(tert-butoxycarbonyl)-2'-naphthylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccc2ccccc2c1)C(=O)NCC#N	6.4356772552959995
+CHEMBL200558	N-(tert-butoxycarbonyl)-4'-biphenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccc(cc1)c2ccccc2)C(=O)NCC#N	5.983379584305999
+CHEMBL200569	N-(tert-butoxycarbonyl)-2-aminobutanoyl-glycine-nitrile	CC[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	3.0
+CHEMBL200574	N-(tert-butoxycarbonyl)-phenylglycyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@H](C(=O)NCC#N)c1ccccc1	4.0524605034459995
+CHEMBL200576	N-(tert-butoxycarbonyl)-pentafluorophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1c(F)c(F)c(F)c(F)c1F)C(=O)NCC#N	5.116918492676
+CHEMBL200577	N-(tert-butoxycarbonyl)-2'-thienylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1cccs1)C(=O)NCC#N	5.310738518686
+CHEMBL200635	N-(tert-butoxycarbonyl)-alanyl-glycine-nitrile	C[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	3.0
+CHEMBL200724	N-(tert-butoxycarbonyl)-4'-bromophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccc(Br)cc1)C(=O)NCC#N	5.7155179518959995
+CHEMBL200743	N-(tert-butoxycarbonyl)-phenylalanyl-sarcosine-nitrile	CN(CC#N)C(=O)[C@H](Cc1ccccc1)NC(=O)OC(C)(C)C	3.0
+CHEMBL200815	N-(tert-butoxycarbonyl)-D-phenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@H](Cc1ccccc1)C(=O)NCC#N	3.0
+CHEMBL200836	N-(tert-butoxycarbonyl)-4'-fluorophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccc(F)cc1)C(=O)NCC#N	5.708678527366
+CHEMBL344174	N-(benzyloxycarbonyl)-phenylalanyl-glycine-nitrile	O=C(N[C@@H](Cc1ccccc1)C(=O)NCC#N)OCc2ccccc2	6.259585996246
+CHEMBL370188	N-(tert-butoxycarbonyl)-cyclohexylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](CC1CCCCC1)C(=O)NCC#N	5.473465816186
+CHEMBL371285	N-(tert-butoxycarbonyl)-cyclopropylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](CC1CC1)C(=O)NCC#N	3.842760643406
+CHEMBL371466	N-benzoyl-phenylalanyl-glycine-nitrile	O=C(NCC#N)[C@H](Cc1ccccc1)NC(=O)c2ccccc2	6.153130665326
+CHEMBL371499	N-(tert-butoxycarbonyl)-3'-bromophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1cccc(Br)c1)C(=O)NCC#N	6.083494737185999
+CHEMBL371893	N-(tert-butoxycarbonyl)-tyrosyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)NCC#N	5.912798510016
+CHEMBL372154	N-(tert-butoxycarbonyl)-3'-fluorophenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1cccc(F)c1)C(=O)NCC#N	5.669760461336
+CHEMBL380560	N-(tert-butoxycarbonyl)-3'-biphenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1cccc(c1)c2ccccc2)C(=O)NCC#N	5.8813900457659996
+CHEMBL381191	N-(tert-butoxycarbonyl)-tryptophanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)NCC#N	5.970790456995999
+CHEMBL381659	N-(tert-butoxycarbonyl)-azaphenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)NN(Cc1ccccc1)C(=O)NCC#N	3.0
+CHEMBL381847	N-(tert-butoxycarbonyl)-methionyl-glycine-nitrile	CSCC[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	4.236104900396
+CHEMBL383584	N-(tert-butoxycarbonyl)-norleucyl-glycine-nitrile	CCCC[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	4.236104900396
+CHEMBL383781	N-(tert-butoxycarbonyl)-3'-thionaphthenylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1csc2ccccc12)C(=O)NCC#N	6.009708523025999
+CHEMBL383816	N-(tert-butoxycarbonyl)-norvalyl-glycine-nitrile	CCC[C@H](NC(=O)OC(C)(C)C)C(=O)NCC#N	4.172435820525999
+CHEMBL424669	N-(tert-butoxycarbonyl)-2'-furylalanyl-glycine-nitrile	CC(C)(C)OC(=O)N[C@@H](Cc1occc1)C(=O)NCC#N	4.368730465665999
+CHEMBL55210	(S)-1-[(S)-2-(4-Methoxy-benzoylamino)-3-methyl-butyryl]-pyrrolidine-2-carboxylic acid ((S)-3,3,3-trifluoro-1-isopropyl-2-oxo-propyl)-amide	COc1ccc(cc1)C(=O)N[C@@H](C(C)C)C(=O)N2CCC[C@H]2C(=O)N[C@@H](C(C)C)C(=O)C(F)(F)F	3.0
+CHEMBL79463	{(S)-2-Methyl-1-[(S)-2-((S)-3,3,3-trifluoro-1-isopropyl-2-oxo-propylcarbamoyl)-pyrrolidine-1-carbonyl]-propyl}-carbamic acid methyl ester	COC(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](C(C)C)C(=O)C(F)(F)F	3.0

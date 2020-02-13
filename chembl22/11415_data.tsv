@@ -1,0 +1,487 @@
+chembl_id	name	smiles	pAff
+CHEMBL1096789	Ethyl(2S,6S)-4-{[(6,7-dimethyl-8H-indeno[1,2-d][1,3]thiazol-4-yl)oxy]methyl}-2,6-dimethyl-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate 4-oxide	CCOC(=O)[C@H](C)NP(=O)(COc1cc(C)c(C)c2Cc3scnc3c12)N[C@@H](C)C(=O)OCC	8.0
+CHEMBL1096898	1,3,7,9-Tetrahydroxydibenzofuran	Oc1cc(O)c2c(oc3cc(O)cc(O)c23)c1	3.0
+CHEMBL1097226	1,1'-(1,3,7,9-Tetrahydroxydibenzofuran-2,6-diyl)bis(3-methylbutan-1-one)	CC(C)CC(=O)c1c(O)cc2oc3c(C(=O)CC(C)C)c(O)cc(O)c3c2c1O	5.09151498112
+CHEMBL1097227	1,1'-(1,3,7,9-Tetrahydroxydibenzofuran-2,6-diyl)bis(2-methylbutan-1-one)	CCC(C)C(=O)c1c(O)cc2oc3c(C(=O)C(C)CC)c(O)cc(O)c3c2c1O	5.22184874962
+CHEMBL1172935	Isopropyl(2S,6S)-4-{[(6,7-dimethyl-8H-indeno[1,2-d][1,3]thiazol-4-yl)oxy]methyl}-2,6,9-trimethyl-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate4-oxide	CC(C)OC(=O)[C@H](C)NP(=O)(COc1cc(C)c(C)c2Cc3scnc3c12)N[C@@H](C)C(=O)OC(C)C	8.0
+CHEMBL1172936	Ethyl4-{[(6,7-dimethyl-8H-indeno[1,2-d][1,3]thiazol-4-yl)oxy]methyl}-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate4-oxide	CCOC(=O)CNP(=O)(COc1cc(C)c(C)c2Cc3scnc3c12)NCC(=O)OCC	8.0
+CHEMBL1173125	Ethyl(2S,6S)-4-{[(7-carbamoyl-8H-indeno[1,2-d][1,3]thiazol-4-yl)oxy]methyl}-2,6-dimethyl-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate4-oxide	CCOC(=O)[C@H](C)NP(=O)(COc1ccc(C(=O)N)c2Cc3scnc3c12)N[C@@H](C)C(=O)OCC	9.0
+CHEMBL1173126	Ethyl(2S,6S)-2,6-dimethyl-4-({[7-(methylcarbamoyl)-8H-indeno[1,2-d][1,3]thiazol-4-yl]oxy}methyl)-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate 4-oxide	CCOC(=O)[C@H](C)NP(=O)(COc1ccc(C(=O)NC)c2Cc3scnc3c12)N[C@@H](C)C(=O)OCC	8.69897000434
+CHEMBL1173571	Ethyl(2S,6S)-4-[({7-[(2,2-dimethylpropyl)carbamoyl]-8H-indeno[1,2-d][1,3]thiazol-4-yl}oxy)methyl]-2,6-dimethyl-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate 4-oxide	CCOC(=O)[C@H](C)NP(=O)(COc1ccc(C(=O)NCC(C)(C)C)c2Cc3scnc3c12)N[C@@H](C)C(=O)OCC	7.95860731484
+CHEMBL1173572	Ethyl(2S,6S)-2,6-dimethyl-4-{[(7-methyl-8H-indeno[1,2-d][1,3]thiazol-4-yl)oxy]methyl}-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate 4-oxide	CCOC(=O)[C@H](C)NP(=O)(COc1ccc(C)c2Cc3scnc3c12)N[C@@H](C)C(=O)OCC	8.09691001301
+CHEMBL1173636	Ethyl(2S,6S)-4-{[(7-ethyl-8H-indeno[1,2-d][1,3]thiazol-4-yl)oxy]methyl}-2,6-dimethyl-7-oxo-8-oxa-3,5-diaza-4-phosphadecan-1-oate 4-oxide	CCOC(=O)[C@H](C)NP(=O)(COc1ccc(CC)c2Cc3scnc3c12)N[C@@H](C)C(=O)OCC	7.95860731484
+CHEMBL1649590	2-Amino-5-(N-morpholinyl)-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)N3CCOCC3	7.79588001734
+CHEMBL1649977	2-Methyl-5-isobutyl-4-[2-(5-phosphono)furanyl]-thiazole	CC(C)Cc1sc(C)nc1c2oc(cc2)P(=O)(O)O	7.0
+CHEMBL1649978	2-Ethyl-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CCc1nc(c(CC(C)C)s1)c2oc(cc2)P(=O)(O)O	6.39794000867
+CHEMBL1649979	2-Vinyl-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(C=C)nc1c2oc(cc2)P(=O)(O)O	5.92081875395
+CHEMBL1649980	2-Hydroxymethyl-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(CO)nc1c2oc(cc2)P(=O)(O)O	6.65757731918
+CHEMBL1649981	5-Isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1scnc1c2oc(cc2)P(=O)(O)O	6.30102999566
+CHEMBL1649982	2-Chloro-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(Cl)nc1c2oc(cc2)P(=O)(O)O	6.7447274949
+CHEMBL1649983	2-Bromo-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(Br)nc1c2oc(cc2)P(=O)(O)O	7.09691001301
+CHEMBL1649984	2-Methylthio-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CSc1nc(c(CC(C)C)s1)c2oc(cc2)P(=O)(O)O	6.05060999336
+CHEMBL1649985	2-Cyano-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(nc1c2oc(cc2)P(=O)(O)O)C#N	5.69897000434
+CHEMBL1649986	2-Methylamino-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CNc1nc(c(CC(C)C)s1)c2oc(cc2)P(=O)(O)O	6.0
+CHEMBL1649987	2-Acetamido-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(NC(=O)C)nc1c2oc(cc2)P(=O)(O)O	5.0
+CHEMBL1649988	2-Carbamoyl-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(nc1c2oc(cc2)P(=O)(O)O)C(=O)N	5.56066730617
+CHEMBL1649989	2-Thiocarbamoyl-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(nc1c2oc(cc2)P(=O)(O)O)C(=S)N	6.30102999566
+CHEMBL1649990	2-Phenyl-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(nc1c2oc(cc2)P(=O)(O)O)c3ccccc3	4.8696662315
+CHEMBL1649991	2-(2-Thienyl)-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(nc1c2oc(cc2)P(=O)(O)O)c3cccs3	5.09691001301
+CHEMBL1649992	2-(3-Pyridyl)-5-isobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Cc1sc(nc1c2oc(cc2)P(=O)(O)O)c3cccnc3	5.30102999566
+CHEMBL1649993	2-Amino-5-methyl-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(cs1)c2oc(cc2)P(=O)(O)O	6.34678748622
+CHEMBL1649994	2-Amino-5-hydroxymethyl-4-[2-(5-phosphono)furanyl]thiazole	Cc1sc(N)nc1c2oc(cc2)P(=O)(O)O	6.92081875395
+CHEMBL1649995	2-Amino-5-propyl-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c(CO)s1)c2oc(cc2)P(=O)(O)O	6.30102999566
+CHEMBL1649996	2-Amino-5-isopropyl-4-[2-(5-phosphono)furanyl]thiazole	CCCc1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.52287874528
+CHEMBL1649997	2-Amino-5-(2,2,2-trifluoroethyl)-4-[2-(5-phosphono)furanyl]-thiazole	CC(C)c1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.55284196866
+CHEMBL1650178	2-Amino-5-(4-methoxyphenyl)-4-[2-(5-phosphono)furanyl]-thiazole	COc1ccc(cc1)c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.65757731918
+CHEMBL1650179	2-Amino-5-(4-methylthiophenyl)-4-[2-(5-phosphono)furanyl]-thiazole	CSc1ccc(cc1)c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.67778070527
+CHEMBL1650180	2-Amino-5-neopentyl-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c(CC(F)(F)F)s1)c2oc(cc2)P(=O)(O)O	7.24412514433
+CHEMBL1650181	2-Amino-5-cyclobutyl-4-[2-(5-phosphono)furanyl]thiazole	CC(C)(C)Cc1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.92081875395
+CHEMBL1650182	2-Amino-5-cyclopentyl-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)C3CCC3	7.72124639905
+CHEMBL1650183	2-Amino-5-cyclohexyl-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)C3CCCC3	7.67778070527
+CHEMBL1650184	2-Amino-5-cyclopropylmethyl-4-[2-(5-phosphono)furanyl]-thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)C3CCCCC3	8.0
+CHEMBL1650185	2-Amino-5-cyclopentylmethyl-4-[2-(5-phosphono)furanyl]-thiazole	Nc1nc(c(CC2CC2)s1)c3oc(cc3)P(=O)(O)O	7.69897000434
+CHEMBL1650186	2-Amino-5-cyclohexylmethyl-4-[2-(5-phosphono)furanyl]-thiazole	Nc1nc(c(CC2CCCC2)s1)c3oc(cc3)P(=O)(O)O	7.7447274949
+CHEMBL1650187	2-Amino-5-benzyl-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c(CC2CCCCC2)s1)c3oc(cc3)P(=O)(O)O	7.22914798836
+CHEMBL1650188	2-Amino-5-[(4-morpholinyl)methyl]-4-[2-(5-phosphono)furanyl]-thiazole	Nc1nc(c(Cc2ccccc2)s1)c3oc(cc3)P(=O)(O)O	6.82390874094
+CHEMBL1650189	5-(2-amino-5-(morpholinomethyl)thiazol-4-yl)furan-2-ylphosphonic acid	Nc1nc(c(CN2CCOCC2)s1)c3oc(cc3)P(=O)(O)O	6.25181197299
+CHEMBL1650190	2-Amino-5-chloro-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c(Cl)s1)c2oc(cc2)P(=O)(O)O	7.15490195999
+CHEMBL1650191	2-Amino-5-bromo-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c(Br)s1)c2oc(cc2)P(=O)(O)O	7.30102999566
+CHEMBL1650192	2-Amino-5-iodo-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c(I)s1)c2oc(cc2)P(=O)(O)O	7.0
+CHEMBL1650193	2-Amino-5-ethylthio-4-[2-(5-phosphono)furanyl]thiazole	CCSc1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.48148606012
+CHEMBL1650194	2-Amino-5-isopropylthio-4-[2-(5-phosphono)furanyl]thiazole	CC(C)Sc1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.61978875829
+CHEMBL1650195	2-Amino-5-tert-butylthio-4-[2-(5-phosphono)furanyl]thiazole	CC(C)(C)Sc1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.61978875829
+CHEMBL1650196	2-Amino-5-phenylthio-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c(Sc2ccccc2)s1)c3oc(cc3)P(=O)(O)O	6.52287874528
+CHEMBL1650197	2-Amino-5-[(N,N-dimethyl)carbamoyl]-4-[2-(5-phosphono)-furanyl]thiazole	CN(C)C(=O)c1sc(N)nc1c2oc(cc2)P(=O)(O)O	5.76955107862
+CHEMBL1650198	2-Amino-5-benzyloxycarbonyl-4-[2-(5-phosphono)furanyl]-thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)C(=O)OCc3ccccc3	7.82390874094
+CHEMBL1650199	2-Amino-4-[2-(5-phosphono)furanyl]-5-(propane-1-sulfinyl)-thiazole	CCC[S+]([O-])c1sc(N)nc1c2oc(cc2)P(=O)(O)O	6.06651271215
+CHEMBL1650200	2-Amino-5-(2-methoxyphenyl)-4-[2-(5-phosphono)furanyl]-thiazole	COc1ccccc1c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.36653154442
+CHEMBL1650201	2-Amino-5-(3-methoxyphenyl)-4-[2-(5-phosphono)furanyl]-thiazole	COc1cccc(c1)c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.67778070527
+CHEMBL1650202	2-Amino-5-(4-tert-butylphenyl)-4-[2-(5-phosphono)furanyl]-thiazole	CC(C)(C)c1ccc(cc1)c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.05551732785
+CHEMBL1650203	2-Amino-5-(4-methoxycarbonylphenyl)-4-[2-(5-phosphono)-furanyl]thiazole	COC(=O)c1ccc(cc1)c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.85387196432
+CHEMBL1650204	2-Amino-5-(4-fluorophenyl)-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)c3ccc(F)cc3	7.79588001734
+CHEMBL1650205	2-Amino-5-(4-chlorophenyl)-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)c3ccc(Cl)cc3	7.88605664769
+CHEMBL1650206	2-Amino-5-(4-acetylphenyl)-4-[2-(5-phosphono)furanyl]thiazole	CC(=O)c1ccc(cc1)c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.49485002168
+CHEMBL1650207	2-Amino-5-(4-methanesulfonyl)-4-[2-(5-phosphono)furanyl]thiazole	CS(=O)(=O)c1ccc(cc1)c2sc(N)nc2c3oc(cc3)P(=O)(O)O	7.38721614328
+CHEMBL1650208	2-Amino-5-(4-phenylphenyl)-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)c3ccc(cc3)c4ccccc4	7.46852108296
+CHEMBL1650209	2-Amino-5-(2-naphthyl)-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)c3ccc4ccccc4c3	7.92081875395
+CHEMBL1650210	2-Amino-5-(2-furanyl)-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)c3occc3	7.39794000867
+CHEMBL1650211	2-Amino-5-(2-thienyl)-4-[2-(5-phosphono)furanyl]thiazole	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)c3cccs3	7.35654732351
+CHEMBL1650212	5-(2-amino-5-propylthiazol-4-yl)thiophen-2-ylphosphonic acid	CCCc1sc(N)nc1c2ccc(s2)P(=O)(O)O	4.0
+CHEMBL1650213	2-Amino-5-phenyl-4-[3-(1-phosphono)pyrrolyl]thiazole	Nc1nc(c(s1)c2ccccc2)n3ccc(c3)P(=O)(O)O	4.0
+CHEMBL1650214	2-Amino-5-phenyl-4-[2-(5-methyl-4-phosphono)oxazolyl]-thiazole	Cc1oc(nc1P(=O)(O)O)c2nc(N)sc2c3ccccc3	5.0
+CHEMBL1650215	2-Amino-5-propyl-4-phosphonomethoxycarbonylthiazole	CCCc1sc(N)nc1C(=O)OCP(=O)(O)O	7.30102999566
+CHEMBL1650216	2-Amino-5-(2-thienyl)-4-[(N-phosphonomethyl)carbamoyl]-thiazole	Nc1nc(C(=O)NCP(=O)(O)O)c(s1)c2cccs2	6.02227639471
+CHEMBL1650217	2-Amino-4-[2-(6-phosphono)pyridyl]thiazole	Nc1nc(cs1)c2cccc(n2)P(=O)(O)O	5.69897000434
+CHEMBL1650218	2-Amino-4-[1-(3-phosphono)phenyl]thiazole	Nc1nc(cs1)c2cccc(c2)P(=O)(O)O	5.88605664769
+CHEMBL1650219	2-Amino-5-propyl-4-[1-(3-phosphono)phenyl]thiazole	CCCc1sc(N)nc1c2cccc(c2)P(=O)(O)O	6.60205999133
+CHEMBL1650220	2-Amino-5-propyl-4-[1-(4-methyl-3-phosphono)phenyl]thiazole	CCCc1sc(N)nc1c2cc(ccc2C)P(=O)(O)O	6.8696662315
+CHEMBL1650221	2-Amino-5-isopropyl-4-[1-(4-methoxy-3-phosphono)phenyl]-thiazole	COc1ccc(cc1c2nc(N)sc2C(C)C)P(=O)(O)O	6.67778070527
+CHEMBL1650222	2-Amino-5-phenyl-4-[1-(4-fluoro-3-phosphono)phenyl]thiazole	Nc1nc(c2cc(ccc2F)P(=O)(O)O)c(s1)c3ccccc3	7.09691001301
+CHEMBL1738935	N-(4-methoxy-6-(3-methylureido)pyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	CNC(=O)Nc1cc(OC)cc(NC(=O)NS(=O)(=O)c2cc(C)c(CCOC)s2)n1	6.65757731918
+CHEMBL1778441	3-chloro-N-(3,5-dichlorophenylcarbamoyl)benzenesulfonamide	Clc1cccc(c1)S(=O)(=O)NC(=O)Nc2cc(Cl)cc(Cl)c2	6.19382002602
+CHEMBL1778442	N-(6-bromo-1H-indol-4-ylcarbamoyl)-3-chlorobenzenesulfonamide	Clc1cccc(c1)S(=O)(=O)NC(=O)Nc2cc(Br)cc3[nH]ccc23	6.45593195565
+CHEMBL1778443	N-(6-bromo-1H-indazol-4-ylcarbamoyl)-3-chlorobenzenesulfonamide	Clc1cccc(c1)S(=O)(=O)NC(=O)Nc2cc(Br)cc3[nH]ncc23	6.48148606012
+CHEMBL1778444	N-(6-bromo-1H-indazol-4-ylcarbamoyl)-3-methylbenzenesulfonamide	Cc1cccc(c1)S(=O)(=O)NC(=O)Nc2cc(Br)cc3[nH]ncc23	6.5376020021
+CHEMBL1778445	N-(6-bromo-1H-indazol-4-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(Br)cc3[nH]ncc23	6.85387196432
+CHEMBL1778446	N-(7-bromoimidazo[1,2-a]pyridin-5-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(Br)cc3nccn23	6.08618614762
+CHEMBL1778447	N-(4-bromo-6-(3-methylureido)pyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	CNC(=O)Nc1cc(Br)cc(NC(=O)NS(=O)(=O)c2cc(C)c(CCOC)s2)n1	7.09691001301
+CHEMBL1778448	5-(2-methoxyethyl)-4-methyl-N-(4-(methylthio)-6-(3-methylureido)pyridin-2-ylcarbamoyl)thiophene-2-sulfonamide	CNC(=O)Nc1cc(SC)cc(NC(=O)NS(=O)(=O)c2cc(C)c(CCOC)s2)n1	6.76955107862
+CHEMBL1778449	N-(6-amino-4-bromopyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(Br)cc(N)n2	6.88605664769
+CHEMBL1778450	N-(4-bromo-6-(2,2,2-trifluoroethylamino)pyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(Br)cc(NCC(F)(F)F)n2	6.69897000434
+CHEMBL1778451	N-(6-amino-4-(methylthio)pyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(SC)cc(N)n2	5.7447274949
+CHEMBL1778452	N-(6-amino-4-methoxypyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(OC)cc(N)n2	6.39794000867
+CHEMBL1778453	N-(6-amino-4-(trifluoromethyl)pyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(cc(N)n2)C(F)(F)F	6.11918640772
+CHEMBL1778454	N-(6-amino-5-fluoro-4-(trifluoromethyl)pyridin-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(c(F)c(N)n2)C(F)(F)F	6.22184874962
+CHEMBL1778555	N-(6-amino-5-fluoro-4-(trifluoromethyl)pyridin-2-ylcarbamoyl)-5-(2-hydroxyethyl)-4-methylthiophene-2-sulfonamide	Cc1cc(sc1CCO)S(=O)(=O)NC(=O)Nc2cc(c(F)c(N)n2)C(F)(F)F	6.3767507096
+CHEMBL1778556	2-(5-(N-(6-amino-5-fluoro-4-(trifluoromethyl)pyridin-2-ylcarbamoyl)sulfamoyl)-3-methylthiophen-2-yl)ethyl acetate	CC(=O)OCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(c(F)c(N)n2)C(F)(F)F	6.1739251973
+CHEMBL1778557	5-(2-methoxyethyl)-4-methyl-N-(6-methyl-4-(trifluoromethyl)pyridin-2-ylcarbamoyl)thiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(cc(C)n2)C(F)(F)F	6.2757241304
+CHEMBL1778558	5-(2-hydroxyethyl)-4-methyl-N-(6-methyl-4-(trifluoromethyl)pyridin-2-ylcarbamoyl)thiophene-2-sulfonamide	Cc1cc(cc(NC(=O)NS(=O)(=O)c2cc(C)c(CCO)s2)n1)C(F)(F)F	6.45593195565
+CHEMBL1778559	2-(3-methyl-5-(N-(6-methyl-4-(trifluoromethyl)pyridin-2-ylcarbamoyl)sulfamoyl)thiophen-2-yl)ethyl acetate	CC(=O)OCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(cc(C)n2)C(F)(F)F	6.28399665637
+CHEMBL1778560	5-(2-methoxyethyl)-4-methyl-N-(4-(trifluoromethyl)pyridin-2-ylcarbamoyl)thiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2cc(ccn2)C(F)(F)F	5.76955107862
+CHEMBL1950316	3-(2-Carboxyethyl)-5-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2ccc(cc12)[N+](=O)[O-])C(=O)O	3.3010299956600004
+CHEMBL203011	N-(5-bromobenzo[d]oxazol-2-yl)-2,5-dichlorobenzenesulfonamide	Clc1ccc(Cl)c(c1)S(=O)(=O)Nc2oc3ccc(Br)cc3n2	5.72124639905
+CHEMBL203073	biphenyl-2-sulfonic acid (5-chloro-benzooxazol-2-yl)-amide	Clc1ccc2oc(NS(=O)(=O)c3ccccc3c4ccccc4)nc2c1	5.42021640338
+CHEMBL203397	biphenyl-4-sulfonic acid (5-chloro-benzooxazol-2-yl)-amide	Clc1ccc2oc(NS(=O)(=O)c3ccc(cc3)c4ccccc4)nc2c1	5.39794000867
+CHEMBL203398	biphenyl-3-sulfonic acid (5-chloro-benzooxazol-2-yl)-amide	Clc1ccc2oc(NS(=O)(=O)c3cccc(c3)c4ccccc4)nc2c1	5.00877392431
+CHEMBL203628	2,5-dichloro-N-(4-iodobenzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc(Cl)c(c1)S(=O)(=O)Nc2oc3cccc(I)c3n2	3.3010299956600004
+CHEMBL204842	N-(5-chlorobenzo[d]oxazol-2-yl)-4-methylbenzenesulfonamide	Cc1ccc(cc1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	5.2076083105
+CHEMBL204894	2,5-dichloro-N-(4-methylbenzo[d]oxazol-2-yl)benzenesulfonamide	Cc1cccc2oc(NS(=O)(=O)c3cc(Cl)ccc3Cl)nc12	4.25963731051
+CHEMBL204931	2,5-dichloro-N-(4-(1,2-dihydropyridin-4-yl)benzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc(Cl)c(c1)S(=O)(=O)Nc2oc3cccc(C4=CCNC=C4)c3n2	3.3010299956600004
+CHEMBL205039	2,5-dichloro-N-(7-(3-hydroxyphenyl)-5-methoxybenzo[d]oxazol-2-yl)benzenesulfonamide	COc1cc(c2cccc(O)c2)c3oc(NS(=O)(=O)c4cc(Cl)ccc4Cl)nc3c1	5.76955107862
+CHEMBL205184	N-(5-chlorobenzo[d]oxazol-2-yl)-4-(trifluoromethoxy)benzenesulfonamide	FC(F)(F)Oc1ccc(cc1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	5.10790539731
+CHEMBL205185	2,5-dichloro-N-(5-methylbenzo[d]oxazol-2-yl)benzenesulfonamide	Cc1ccc2oc(NS(=O)(=O)c3cc(Cl)ccc3Cl)nc2c1	5.19382002602
+CHEMBL205295	2,5-dichloro-N-(6-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc(Cl)c(c1)S(=O)(=O)Nc2oc3cc(Cl)ccc3n2	5.09151498112
+CHEMBL205376	N-(5-chlorobenzo[d]oxazol-2-yl)butane-1-sulfonamide	CCCCS(=O)(=O)Nc1oc2ccc(Cl)cc2n1	3.3010299956600004
+CHEMBL205392	N-(5-chlorobenzo[d]oxazol-2-yl)methanesulfonamide	CS(=O)(=O)Nc1oc2ccc(Cl)cc2n1	3.3010299956600004
+CHEMBL205624	N-[4-(5-chloro-benzooxazol-2-ylsulfamoyl)-phenyl]-butyramide	CCCC(=O)Nc1ccc(cc1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	4.92081875395
+CHEMBL205656	2,5-dichloro-N-(6-methylbenzo[d]oxazol-2-yl)benzenesulfonamide	Cc1ccc2nc(NS(=O)(=O)c3cc(Cl)ccc3Cl)oc2c1	5.0
+CHEMBL205712	N-(7-(4-aminophenyl)-5-methoxybenzo[d]oxazol-2-yl)-2,5-dichlorobenzenesulfonamide	COc1cc(c2ccc(N)cc2)c3oc(NS(=O)(=O)c4cc(Cl)ccc4Cl)nc3c1	5.88605664769
+CHEMBL205792	N-(7-(3-aminophenyl)-5-methoxybenzo[d]oxazol-2-yl)-2,5-dichlorobenzenesulfonamide	COc1cc(c2cccc(N)c2)c3oc(NS(=O)(=O)c4cc(Cl)ccc4Cl)nc3c1	6.24412514433
+CHEMBL206012	N-(5-chlorobenzo[d]oxazol-2-yl)anthracene-2-sulfonamide	Clc1ccc2oc(NS(=O)(=O)c3ccc4cc5ccccc5cc4c3)nc2c1	5.46852108296
+CHEMBL206824	2,5-dichloro-N-(6-methoxybenzo[d]oxazol-2-yl)benzenesulfonamide	COc1ccc2nc(NS(=O)(=O)c3cc(Cl)ccc3Cl)oc2c1	5.09691001301
+CHEMBL207095	2,5-dichloro-N-(5-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc(Cl)c(c1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	5.46852108296
+CHEMBL207096	N-(5-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc2oc(NS(=O)(=O)c3ccccc3)nc2c1	5.11350927483
+CHEMBL207851	N-(5-chlorobenzo[d]oxazol-2-yl)-2-(1H-imidazol-1-yl)benzenesulfonamide	Clc1ccc2oc(NS(=O)(=O)c3ccccc3n4ccnc4)nc2c1	4.63827216398
+CHEMBL207984	N-(5-chlorobenzo[d]oxazol-2-yl)-3-nitrobenzenesulfonamide	[O-][N+](=O)c1cccc(c1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	5.7447274949
+CHEMBL259771	(2S,2'S)-diethyl 2,2'-((5-(2-amino-5-isobutylthiazol-4-yl)furan-2-yl)phosphoryl)bis(azanediyl)dipropanoate	CCOC(=O)[C@H](C)NP(=O)(N[C@@H](C)C(=O)OCC)c1oc(cc1)c2nc(N)sc2CC(C)C	8.0
+CHEMBL29197	(3-Bromo-phenyl)-(6,7-dimethoxy-quinazolin-4-yl)-amine	COc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OC	6.0
+CHEMBL294126	(6,7-Diethoxy-quinazolin-4-yl)-(3-fluoro-phenyl)-amine	CCOc1cc2ncnc(Nc3cccc(F)c3)c2cc1OCC	5.03621217265
+CHEMBL294769	(3-Bromo-phenyl)-(6,7-dimethoxy-2-methyl-quinazolin-4-yl)-amine	COc1cc2nc(C)nc(Nc3cccc(Br)c3)c2cc1OC	5.34678748622
+CHEMBL301018	(3-Chloro-4-fluoro-phenyl)-(6,7-dimethoxy-quinazolin-4-yl)-amine	COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OC	6.5376020021
+CHEMBL303292	(3-Chloro-4-methyl-phenyl)-(6,7-diethoxy-quinazolin-4-yl)-amine	CCOc1cc2ncnc(Nc3ccc(C)c(Cl)c3)c2cc1OCC	4.0
+CHEMBL303318	4-(3-Bromo-phenylamino)-quinazoline-7-carboxylic acid	OC(=O)c1ccc2c(Nc3cccc(Br)c3)ncnc2c1	4.0
+CHEMBL303996	(3-Bromo-phenyl)-(6-isopropoxy-quinazolin-4-yl)-amine	CC(C)Oc1ccc2ncnc(Nc3cccc(Br)c3)c2c1	4.0
+CHEMBL304929	(6,7-Dimethoxy-quinazolin-4-yl)-(3-ethynyl-phenyl)-amine	COc1cc2ncnc(Nc3cccc(c3)C#C)c2cc1OC	6.04575749056
+CHEMBL306005	(3-Bromo-phenyl)-(2-diethylaminomethyl-6,7-diethoxy-quinazolin-4-yl)-amine	CCOc1cc2nc(CN(CC)CC)nc(Nc3cccc(Br)c3)c2cc1OCC	4.0
+CHEMBL307526	(3-Bromo-phenyl)-(6,7-diethoxy-2-morpholin-4-ylmethyl-quinazolin-4-yl)-amine	CCOc1cc2nc(CN3CCOCC3)nc(Nc4cccc(Br)c4)c2cc1OCC	4.0
+CHEMBL3127628	3-Ethyl-5-isobutyl-7-nitro-1H-indole-2-carboxylic acid	CCc1c([nH]c2c(cc(CC(C)C)cc12)[N+](=O)[O-])C(=O)O	6.0043648054
+CHEMBL3127629	4-(3-Methylphenylamino)-7-nitro-1H-indole-2-carboxylic acid	Cc1cccc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])c1	5.36653154442
+CHEMBL3127630	4-(4-Methylphenylamino)-7-nitro-1H-indole-2-carboxylic acid	Cc1ccc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])cc1	4.4698003018
+CHEMBL3127631	4-(3-Acetamidophenylamino)-7-nitro-1H-indole-2-carboxylic acid	CC(=O)Nc1cccc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])c1	3.3010299956600004
+CHEMBL3127632	4-(3-Aminophenylamino)-7-nitro-1H-indole-2-carboxylic acid	Nc1cccc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])c1	3.3010299956600004
+CHEMBL3127633	4-((3-Methoxyphenyl)(methyl)amino)-7-nitro-1H-indole-2-carboxylic acid	COc1cccc(c1)N(C)c2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127634	4-((3-Methoxyphenyl)(propyl)amino)-7-nitro-1Hindole-2-carboxylic acid	CCCN(c1cccc(OC)c1)c2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127635	7-Nitro-4-phenyl-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(ccc(c2[nH]1)[N+](=O)[O-])c3ccccc3	3.3010299956600004
+CHEMBL3127636	4-(3-Methoxyphenyl)-7-nitro-1H-indole-2-carboxylic acid	COc1cccc(c1)c2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127637	4-(3-Chlorophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(ccc(c2[nH]1)[N+](=O)[O-])c3cccc(Cl)c3	3.3010299956600004
+CHEMBL3127638	4-(4-Chlorophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(ccc(c2[nH]1)[N+](=O)[O-])c3ccc(Cl)cc3	3.3010299956600004
+CHEMBL3127639	4-(3-Cyanophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(ccc(c2[nH]1)[N+](=O)[O-])c3cccc(c3)C#N	3.3010299956600004
+CHEMBL3127640	4-(4-Cyanophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(ccc(c2[nH]1)[N+](=O)[O-])c3ccc(cc3)C#N	3.3010299956600004
+CHEMBL3127641	4-(3-Methylphenyl)-7-nitro-1H-indole-2-carboxylic acid	Cc1cccc(c1)c2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-]	4.58670023592
+CHEMBL3127642	4-(3-(Trifluromethyl)phenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(ccc(c2[nH]1)[N+](=O)[O-])c3cccc(c3)C(F)(F)F	3.3010299956600004
+CHEMBL3127743	4-(4-(Trifluoromethyl)phenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(ccc(c2[nH]1)[N+](=O)[O-])c3ccc(cc3)C(F)(F)F	3.3010299956600004
+CHEMBL3127744	4-(3-Acetamidophenyl)-7-nitro-1H-indole-2-carboxylic acid	CC(=O)Nc1cccc(c1)c2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-]	4.7328282716
+CHEMBL3127745	4-(3-Aminophenyl)-7-nitro-1H-indole-2-carboxylic acid	Nc1cccc(c1)c2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127746	4-Isobutyl-7-nitro-1H-indole-2-carboxylic acid	CC(C)Cc1ccc(c2[nH]c(cc12)C(=O)O)[N+](=O)[O-]	5.01322826573
+CHEMBL3127747	5-Isobutyl-7-nitro-1H-indole-2-carboxylic acid	CC(C)Cc1cc(c2[nH]c(cc2c1)C(=O)O)[N+](=O)[O-]	5.26760624018
+CHEMBL3127748	5-(3-Acetamidophenyl)-7-nitro-1H-indole-2-carboxylic acid	CC(=O)Nc1cccc(c1)c2cc(c3[nH]c(cc3c2)C(=O)O)[N+](=O)[O-]	5.43179827593
+CHEMBL3127749	5-((3-Methoxyphenyl)amino)-7-nitro-1H-indole-2-carboxylic acid	COc1cccc(Nc2cc(c3[nH]c(cc3c2)C(=O)O)[N+](=O)[O-])c1	5.39147396642
+CHEMBL3127750	3-ethyl-7-nitro-1H-indole-2-carboxylic acid	CCc1c([nH]c2c(cccc12)[N+](=O)[O-])C(=O)O	5.2076083105
+CHEMBL3127751	3-Isobutyl-7-nitro-1H-indole-2-carboxylic acid	CC(C)Cc1c([nH]c2c(cccc12)[N+](=O)[O-])C(=O)O	4.98716277529
+CHEMBL3127752	7-Nitro-3-phenyl-1H-indole-2-carboxylic acid	OC(=O)c1[nH]c2c(cccc2c1c3ccccc3)[N+](=O)[O-]	4.89619627904
+CHEMBL3127753	3-(3-Methoxyphenyl)-7-nitro-1H-indole-2-carboxylic acid	COc1cccc(c1)c2c([nH]c3c(cccc23)[N+](=O)[O-])C(=O)O	4.44855000203
+CHEMBL3127754	3-(3-Acetamidophenyl)-7-nitro-1H-indole-2-carboxylic acid	CC(=O)Nc1cccc(c1)c2c([nH]c3c(cccc23)[N+](=O)[O-])C(=O)O	5.13076828027
+CHEMBL3127755	3-(3-Fluorophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1[nH]c2c(cccc2c1c3cccc(F)c3)[N+](=O)[O-]	5.34678748622
+CHEMBL3127756	7-Nitro-4-phenylamino-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(Nc3ccccc3)ccc(c2[nH]1)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127757	4-(2-Methoxyphenylamino)-7-nitro-1H-indole-2-carboxylic acid	COc1ccccc1Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127758	4-(3-Methoxyphenylamino)-7-nitro-1H-indole-2-carboxylic acid	COc1cccc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])c1	4.59176003469
+CHEMBL3127759	4-(4-Methoxyphenylamino)-7-nitro-1H-indole-2-carboxylic acid	COc1ccc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])cc1	3.3010299956600004
+CHEMBL3127760	4-(3,4-Dimethoxyphenylamino)-7-nitro-1H-indole-2-carboxylic acid	COc1ccc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])cc1OC	5.11350927483
+CHEMBL3127761	4-(3,4,5-Trimethoxyphenylamino)-7-nitro-1H-indole-2-carboxylic acid	COc1cc(Nc2ccc(c3[nH]c(cc23)C(=O)O)[N+](=O)[O-])cc(OC)c1OC	3.3010299956600004
+CHEMBL3127762	7-Nitro-4-(3-(trifluoromethyl)phenylamino)-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(Nc3cccc(c3)C(F)(F)F)ccc(c2[nH]1)[N+](=O)[O-]	4.53610701101
+CHEMBL3127763	7-Nitro-4-(4-(trifluoromethyl)phenylamino)-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(Nc3ccc(cc3)C(F)(F)F)ccc(c2[nH]1)[N+](=O)[O-]	4.91364016933
+CHEMBL3127764	4-(3-Chlorophenylamino)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(Nc3cccc(Cl)c3)ccc(c2[nH]1)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127765	4-(4-Chlorophenylamino)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(Nc3ccc(Cl)cc3)ccc(c2[nH]1)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127766	4-(3-Nitrophenylamino)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(Nc3cccc(c3)[N+](=O)[O-])ccc(c2[nH]1)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3127767	4-(4-Nitrophenylamino)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)c1cc2c(Nc3ccc(cc3)[N+](=O)[O-])ccc(c2[nH]1)[N+](=O)[O-]	5.46852108296
+CHEMBL31344	3-(2-carboxy-ethyl)-4,6-dichloro-1H-indole-2-carboxylic acid-3-(2-carboxyethyl)-4,6-dichloro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2cc(Cl)cc(Cl)c12)C(=O)O	5.666666666669999
+CHEMBL3217761	5-(2-amino-5-(phenylthio)oxazol-4-yl)furan-2-ylphosphonic acid	Nc1oc(Sc2ccccc2)c(n1)c3oc(cc3)P(=O)(O)O	5.39794000867
+CHEMBL3218207	5-(2-amino-5-(ethylthiocarbonyl)oxazol-4-yl)furan-2-ylphosphonic acid	CCSC(=O)c1oc(N)nc1c2oc(cc2)P(=O)(O)O	7.52287874528
+CHEMBL3218208	5-(2-amino-5-(methylcarbamoyl)oxazol-4-yl)furan-2-ylphosphonic acid	CNC(=O)c1oc(N)nc1c2oc(cc2)P(=O)(O)O	6.0
+CHEMBL3218209	5-(2-amino-5-pivaloyloxazol-4-yl)furan-2-ylphosphonic acid	CC(C)(C)C(=O)c1oc(N)nc1c2oc(cc2)P(=O)(O)O	6.06803388527
+CHEMBL3218210	5-(5-isobutyl-2-methyloxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1oc(C)nc1c2oc(cc2)P(=O)(O)O	5.22184874962
+CHEMBL3218211	5-(2-amino-5-pentyloxazol-4-yl)furan-2-ylphosphonic acid	CCCCCc1oc(N)nc1c2oc(cc2)P(=O)(O)O	6.67778070527
+CHEMBL3218212	5-(2-amino-5-(cyclohexylmethyl)oxazol-4-yl)furan-2-ylphosphonic acid	Nc1oc(CC2CCCCC2)c(n1)c3oc(cc3)P(=O)(O)O	6.49485002168
+CHEMBL3218213	5-(2-amino-5-phenyloxazol-4-yl)furan-2-ylphosphonic acid	Nc1oc(c2ccccc2)c(n1)c3oc(cc3)P(=O)(O)O	6.79588001734
+CHEMBL3218214	5-(2-amino-5-benzyloxazol-4-yl)furan-2-ylphosphonic acid	Nc1oc(Cc2ccccc2)c(n1)c3oc(cc3)P(=O)(O)O	6.04575749056
+CHEMBL3218215	5-(2-amino-5-(thiophen-2-ylmethyl)oxazol-4-yl)furan-2-ylphosphonic acid	Nc1oc(Cc2cccs2)c(n1)c3oc(cc3)P(=O)(O)O	6.58502665203
+CHEMBL3218216	5-(2-amino-5-isobutyloxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1oc(N)nc1c2oc(cc2)P(=O)(O)O	6.92081875395
+CHEMBL3218217	5-(2-aminooxazol-4-yl)furan-2-ylphosphonic acid	Nc1occ(n1)c2oc(cc2)P(=O)(O)O	5.0
+CHEMBL3218218	5-(5-allyl-2-aminooxazol-4-yl)furan-2-ylphosphonic acid	Nc1oc(CC=C)c(n1)c2oc(cc2)P(=O)(O)O	6.85387196432
+CHEMBL3218219	5-(2-amino-5-butyloxazol-4-yl)furan-2-ylphosphonic acid	CCCCc1oc(N)nc1c2oc(cc2)P(=O)(O)O	6.76955107862
+CHEMBL3218220	5-(2-amino-5-(isopropylthio)oxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Sc1oc(N)nc1c2oc(cc2)P(=O)(O)O	6.95860731484
+CHEMBL3218221	5-(2-amino-5-(tert-butylthio)oxazol-4-yl)furan-2-ylphosphonic acid	CC(C)(C)Sc1oc(N)nc1c2oc(cc2)P(=O)(O)O	6.92081875395
+CHEMBL3218222	5-(2-amino-5-(propylthio)oxazol-4-yl)furan-2-ylphosphonic acid	CCCSc1oc(N)nc1c2oc(cc2)P(=O)(O)O	7.15490195999
+CHEMBL3218223	5-(2-amino-5-(methoxycarbonyl)oxazol-4-yl)furan-2-ylphosphonic acid	COC(=O)c1oc(N)nc1c2oc(cc2)P(=O)(O)O	7.1739251973
+CHEMBL3218224	5-(2-amino-5-(ethoxycarbonyl)oxazol-4-yl)furan-2-ylphosphonic acid	CCOC(=O)c1oc(N)nc1c2oc(cc2)P(=O)(O)O	7.42021640338
+CHEMBL3218436	5-(2-amino-5-(isopropoxycarbonyl)oxazol-4-yl)furan-2-ylphosphonic acid	CC(C)OC(=O)c1oc(N)nc1c2oc(cc2)P(=O)(O)O	7.39794000867
+CHEMBL3218437	5-(2-amino-5-(benzyloxycarbonyl)oxazol-4-yl)furan-2-ylphosphonic acid	Nc1oc(C(=O)OCc2ccccc2)c(n1)c3oc(cc3)P(=O)(O)O	7.07058107429
+CHEMBL3218438	2-methyl-4-isobutyl-5-[2-(5-phosphono)-furanyl]oxazole	CC(C)Cc1nc(C)oc1c2oc(cc2)P(=O)(O)O	6.22184874962
+CHEMBL3218439	5-(2-hydroxy-5-isobutyloxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1oc(O)nc1c2oc(cc2)P(=O)(O)O	5.0
+CHEMBL3218440	5-(5-isobutyloxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1ocnc1c2oc(cc2)P(=O)(O)O	5.72124639905
+CHEMBL3218441	5-(2-(dimethylamino)-5-isobutyloxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1oc(nc1c2oc(cc2)P(=O)(O)O)N(C)C	5.67778070527
+CHEMBL3218442	5-(5-isobutyl-2-isopropyloxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1oc(nc1c2oc(cc2)P(=O)(O)O)C(C)C	5.65757731918
+CHEMBL3218443	5-(5-isobutyl-2-(methylamino)oxazol-4-yl)furan-2-ylphosphonic acid	CNc1oc(CC(C)C)c(n1)c2oc(cc2)P(=O)(O)O	5.36653154442
+CHEMBL3218444	5-(2-ethyl-5-isobutyloxazol-4-yl)furan-2-ylphosphonic acid	CCc1oc(CC(C)C)c(n1)c2oc(cc2)P(=O)(O)O	6.02227639471
+CHEMBL3218445	5-(2-(ethylamino)-5-isobutyloxazol-4-yl)furan-2-ylphosphonic acid	CCNc1oc(CC(C)C)c(n1)c2oc(cc2)P(=O)(O)O	5.0
+CHEMBL3218446	5-(5-isobutyl-2-(vinylamino)oxazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1oc(NC=C)nc1c2oc(cc2)P(=O)(O)O	5.1739251973
+CHEMBL3218447	(2-aminooxazole-4-carbonyloxy)methylphosphonic acid	Nc1occ(n1)C(=O)OCP(=O)(O)O	5.15490195999
+CHEMBL3218448	(2-amino-5-methyloxazole-4-carbonyloxy)methylphosphonic acid	Cc1oc(N)nc1C(=O)OCP(=O)(O)O	6.3767507096
+CHEMBL3218449	(2-amino-5-ethyloxazole-4-carbonyloxy)methylphosphonic acid	CCc1oc(N)nc1C(=O)OCP(=O)(O)O	6.42021640338
+CHEMBL3218450	(2-amino-5-propyloxazole-4-carbonyloxy)methylphosphonic acid	CCCc1oc(N)nc1C(=O)OCP(=O)(O)O	6.55284196866
+CHEMBL3218451	(2-amino-5-isopropyloxazole-4-carbonyloxy)methylphosphonic acid	CC(C)c1oc(N)nc1C(=O)OCP(=O)(O)O	6.23657200644
+CHEMBL3218452	(2-amino-5-butyloxazole-4-carbonyloxy)methylphosphonic acid	CCCCc1oc(N)nc1C(=O)OCP(=O)(O)O	6.60205999133
+CHEMBL3218453	(2-amino-5-pentyloxazole-4-carbonyloxy)methylphosphonic acid	CCCCCc1oc(N)nc1C(=O)OCP(=O)(O)O	6.45593195565
+CHEMBL3218454	(2-methyl-5-(trifluoromethyl)oxazole-4-carbonyloxy)methylphosphonic acid	Cc1oc(c(n1)C(=O)OCP(=O)(O)O)C(F)(F)F	5.0
+CHEMBL3218455	(5-phenyloxazole-4-carbonyloxy)methylphosphonic acid	OP(=O)(O)COC(=O)c1ncoc1c2ccccc2	5.0
+CHEMBL3393933	3-(2-Carboxyethyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(cccc12)[N+](=O)[O-])C(=O)O	5.28650945691
+CHEMBL3393934	3-(2-Carboxyethyl)-4-chloro-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(Cl)c12)[N+](=O)[O-])C(=O)O	6.05551732785
+CHEMBL3393935	3-(2-Carboxyethyl)-5-chloro-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(cc(Cl)cc12)[N+](=O)[O-])C(=O)O	5.68402965454
+CHEMBL3393936	3-(2-Carboxyethyl)-5-bromo-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(cc(Br)cc12)[N+](=O)[O-])C(=O)O	5.8894102897
+CHEMBL3393937	3-(2-(Ethoxycarbonyl)-7-nitro-1H-indol-3-yl)propanoic acid	CCOC(=O)c1[nH]c2c(cccc2c1CCC(=O)O)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3393938	7-Amino-3-(2-carboxyethyl)-1H-indole-2-carboxylic acid	Nc1cccc2c(CCC(=O)O)c([nH]c12)C(=O)O	3.3010299956600004
+CHEMBL3393939	1-(Cyclopropyl)methyl-3-(2-carboxyethyl)-7-nitro-1hindole-2-carboxylic acid	OC(=O)CCc1c(C(=O)O)n(CC2CC2)c3c(cccc13)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3393940	1-Benzyl-3-(2-carboxyethyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c(C(=O)O)n(Cc2ccccc2)c3c(cccc13)[N+](=O)[O-]	3.3010299956600004
+CHEMBL3393941	3-(2-Carboxyethyl)-7-nitro-4-phenyl-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(c3ccccc3)c12)[N+](=O)[O-])C(=O)O	5.85387196432
+CHEMBL3393942	3-(2-Carboxyethyl)-4-(2-fluorophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(c3ccccc3F)c12)[N+](=O)[O-])C(=O)O	5.61978875829
+CHEMBL3393943	3-(2-Carboxyethyl)-4-(3-fluorophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(c3cccc(F)c3)c12)[N+](=O)[O-])C(=O)O	5.27818938479
+CHEMBL3393944	3-(2-Carboxyethyl)-4-(4-fluorophenyl)-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(c3ccc(F)cc3)c12)[N+](=O)[O-])C(=O)O	5.61978875829
+CHEMBL3393945	3-(2-Carboxyethyl)-4-(3-methoxyphenyl)-7-nitro-1Hindole-2-carboxylic acid	COc1cccc(c1)c2ccc(c3[nH]c(C(=O)O)c(CCC(=O)O)c23)[N+](=O)[O-]	5.282329497
+CHEMBL3393946	3-(2-Carboxyethyl)-4-(4-methoxyphenyl)-7-nitro-1Hindole-2-carboxylic acid	COc1ccc(cc1)c2ccc(c3[nH]c(C(=O)O)c(CCC(=O)O)c23)[N+](=O)[O-]	5.7447274949
+CHEMBL3393947	3-(2-Carboxyethyl)-7-nitro-4-(3-nitrophenyl)-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(c3cccc(c3)[N+](=O)[O-])c12)[N+](=O)[O-])C(=O)O	5.95860731484
+CHEMBL3393948	3-(2-Carboxyethyl)-7-nitro-4-(4-nitrophenyl)-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(c3ccc(cc3)[N+](=O)[O-])c12)[N+](=O)[O-])C(=O)O	5.69897000434
+CHEMBL3393949	3-(2-Carboxyethyl)-4-ethyl-7-nitro-1H-indole-2-carboxylic acid	CCc1ccc(c2[nH]c(C(=O)O)c(CCC(=O)O)c12)[N+](=O)[O-]	5.55909091793
+CHEMBL3393950	3-(2-Carboxyethyl)-4-isobutyl-7-nitro-1H-indole-2-carboxylic acid	CC(C)Cc1ccc(c2[nH]c(C(=O)O)c(CCC(=O)O)c12)[N+](=O)[O-]	6.16115090926
+CHEMBL3393951	3-(2-Carboxyethyl)-7-nitro-4-phenylamino-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(ccc(Nc3ccccc3)c12)[N+](=O)[O-])C(=O)O	6.16115090926
+CHEMBL3393952	3-(2-Carboxyethyl)-7-nitro-4-(3-methoxyphenylamino)-1H-indole-2-carboxylic acid	COc1cccc(Nc2ccc(c3[nH]c(C(=O)O)c(CCC(=O)O)c23)[N+](=O)[O-])c1	5.88272870434
+CHEMBL3393953	3-(2-Carboxyethyl)-7-nitro-4-(4-methoxyphenylamino)-1H-indole-2-carboxylic acid	COc1ccc(Nc2ccc(c3[nH]c(C(=O)O)c(CCC(=O)O)c23)[N+](=O)[O-])cc1	5.76955107862
+CHEMBL3393954	3-(2-Carboxyethyl)-7-nitro-5-phenyl-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(cc(cc12)c3ccccc3)[N+](=O)[O-])C(=O)O	5.19178902708
+CHEMBL3393955	3-(2-Carboxyethyl)-5-isobutyl-7-nitro-1H-indole-2-carboxylic acid	CC(C)Cc1cc(c2[nH]c(C(=O)O)c(CCC(=O)O)c2c1)[N+](=O)[O-]	6.34678748622
+CHEMBL3393956	3-(2-Carboxyethyl)-5-ethyl-7-nitro-1H-indole-2-carboxylic acid	CCc1cc(c2[nH]c(C(=O)O)c(CCC(=O)O)c2c1)[N+](=O)[O-]	7.0
+CHEMBL3393957	3-(2-Carboxyethyl)-5-phenylamino-7-nitro-1H-indole-2-carboxylic acid	OC(=O)CCc1c([nH]c2c(cc(Nc3ccccc3)cc12)[N+](=O)[O-])C(=O)O	5.79588001734
+CHEMBL35820	(3-Bromo-phenyl)-(6,7-diethoxy-quinazolin-4-yl)-amine	CCOc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OCC	5.76955107862
+CHEMBL377365	2,5-dichloro-N-(5-(furan-3-yl)benzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc(Cl)c(c1)S(=O)(=O)Nc2oc3ccc(cc3n2)c4cocc4	5.39794000867
+CHEMBL379604	3-chloro-N-(5-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	Clc1cccc(c1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	5.88605664769
+CHEMBL380170	2,5-dichloro-N-(7-(4-hydroxyphenyl)-5-methoxybenzo[d]oxazol-2-yl)benzenesulfonamide	COc1cc(c2ccc(O)cc2)c3oc(NS(=O)(=O)c4cc(Cl)ccc4Cl)nc3c1	5.7447274949
+CHEMBL380326	N-(5-chlorobenzo[d]oxazol-2-yl)thiophene-2-sulfonamide	Clc1ccc2oc(NS(=O)(=O)c3cccs3)nc2c1	4.88605664769
+CHEMBL380739	2,6-dichloro-N-(5-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc2oc(NS(=O)(=O)c3c(Cl)cccc3Cl)nc2c1	3.3010299956600004
+CHEMBL381082	N-(5-chlorobenzo[d]oxazol-2-yl)-4-(furan-3-yl)benzenesulfonamide	Clc1ccc2oc(NS(=O)(=O)c3ccc(cc3)c4cocc4)nc2c1	5.1739251973
+CHEMBL381535	2-bromo-N-(5-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	Clc1ccc2oc(NS(=O)(=O)c3ccccc3Br)nc2c1	5.18708664336
+CHEMBL381536	2,5-dichloro-N-(5-methoxy-7-(4-methoxypyridin-3-yl)benzo[d]oxazol-2-yl)benzenesulfonamide	COc1cc(c2cnccc2OC)c3oc(NS(=O)(=O)c4cc(Cl)ccc4Cl)nc3c1	5.45593195565
+CHEMBL381567	N-(5-chlorobenzo[d]oxazol-2-yl)-4-fluorobenzenesulfonamide	Fc1ccc(cc1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	5.55284196866
+CHEMBL381594	N-(5-chlorobenzo[d]oxazol-2-yl)naphthalene-2-sulfonamide	Clc1ccc2oc(NS(=O)(=O)c3ccc4ccccc4c3)nc2c1	5.60205999133
+CHEMBL381757	N-(5-tert-butylbenzo[d]oxazol-2-yl)-2,5-dichlorobenzenesulfonamide	CC(C)(C)c1ccc2oc(NS(=O)(=O)c3cc(Cl)ccc3Cl)nc2c1	4.49485002168
+CHEMBL381803	N-(5-chlorobenzo[d]oxazol-2-yl)-1-methyl-1H-imidazole-4-sulfonamide	Cn1cnc(c1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	5.0268721464
+CHEMBL381827	N-(5-chlorobenzo[d]oxazol-2-yl)-2-cyanobenzenesulfonamide	Clc1ccc2oc(NS(=O)(=O)c3ccccc3C#N)nc2c1	5.22184874962
+CHEMBL382008	N-(7-(3-(aminomethyl)phenyl)-5-methoxybenzo[d]oxazol-2-yl)-2,5-dichlorobenzenesulfonamide	COc1cc(c2cccc(CN)c2)c3oc(NS(=O)(=O)c4cc(Cl)ccc4Cl)nc3c1	5.58502665203
+CHEMBL382691	3-(4-tert-butylbenzyloxy)-N-(5-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	CC(C)(C)c1ccc(COc2cccc(c2)S(=O)(=O)Nc3oc4ccc(Cl)cc4n3)cc1	3.3010299956600004
+CHEMBL382856	4-tert-butyl-N-(5-chlorobenzo[d]oxazol-2-yl)benzenesulfonamide	CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	4.61978875829
+CHEMBL382861	2-chloro-N-(5-chlorobenzo[d]oxazol-2-yl)-6-methylbenzenesulfonamide	Cc1cccc(Cl)c1S(=O)(=O)Nc2oc3ccc(Cl)cc3n2	3.3010299956600004
+CHEMBL433251	N*4*-(3-Bromo-phenyl)-N*2*,N*2*-diethyl-6,7-dimethoxy-quinazoline-2,4-diamine	CCN(CC)c1nc(Nc2cccc(Br)c2)c3cc(OC)c(OC)cc3n1	4.0
+CHEMBL447259	{5-[6-Amino-9-(3,3-dimethyl-butyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	CC(C)(C)CCn1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O	5.79588001734
+CHEMBL455930	1-[(3-methylbenzene)sulfonyl]-3-[(3E)-6-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)hex-3-en-1-yl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCC\C=C\CCNC(=O)NS(=O)(=O)c2cccc(C)c2	7.360166527975
+CHEMBL456154	3-[(3-methylbenzene)sulfonyl]-1-[6-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)hex-3-yn-1-yl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCC#CCCNC(=O)NS(=O)(=O)c2cccc(C)c2	7.47154757433
+CHEMBL456155	3-[(3-chlorobenzene)sulfonyl]-1-({4-[({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)methyl]cyclohexyl}methyl)urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NC[C@@H]2CC[C@@H](CNC(=O)NS(=O)(=O)c3cccc(Cl)c3)CC2	7.6743609930000005
+CHEMBL456319	1-[(3-chlorobenzene)sulfonyl]-3-[4-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)butyl]urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	6.06913723497
+CHEMBL456320	1-[(3-chlorobenzene)sulfonyl]-3-[5-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)pentyl]urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	7.511138197355001
+CHEMBL456321	1-[(3-methylbenzene)sulfonyl]-3-[5-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)pentyl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCNC(=O)NS(=O)(=O)c2cccc(C)c2	7.4001224113749995
+CHEMBL456543	1-[(3-methylbenzene)sulfonyl]-3-{2-[2-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)ethoxy]ethyl}urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCOCCNC(=O)NS(=O)(=O)c2cccc(C)c2	6.45175877158
+CHEMBL456563	3-[(3-chlorobenzene)sulfonyl]-1-[8-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)octyl]urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCCCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	7.55816928242
+CHEMBL456564	1-[(3-chlorobenzene)sulfonyl]-3-[(3E)-6-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)hex-3-en-1-yl]urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCC\C=C\CCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	7.625905986495
+CHEMBL456977	1-[(3-chlorobenzene)sulfonyl]-3-[6-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)hexyl]urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	7.933230545815
+CHEMBL456978	1-[(3-methylbenzene)sulfonyl]-3-[6-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)hexyl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCCNC(=O)NS(=O)(=O)c2cccc(C)c2	7.770303756120001
+CHEMBL457189	1-[(3-chlorobenzene)sulfonyl]-3-[7-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)heptyl]urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	8.221848749614999
+CHEMBL457400	1-[(3-methylbenzene)sulfonyl]-3-[7-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)heptyl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCCCNC(=O)NS(=O)(=O)c2cccc(C)c2	8.110924374805
+CHEMBL457849	1-[(3-chlorobenzene)sulfonyl]-3-(3-{[3-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)propyl]amino}propyl)urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCCNCCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	4.610430513195
+CHEMBL458055	3-[(3-methylbenzene)sulfonyl]-1-(2-{[2-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)ethyl]amino}ethyl)urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCNCCNC(=O)NS(=O)(=O)c2cccc(C)c2	3.0
+CHEMBL458056	1-[(3-methylbenzene)sulfonyl]-3-(2-{[2-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)ethyl]disulfanyl}ethyl)urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCSSCCNC(=O)NS(=O)(=O)c2cccc(C)c2	7.729210378025
+CHEMBL458276	1-[(3-chlorobenzene)sulfonyl]-3-{3-[3-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)propoxy]propyl}urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCCOCCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	7.07360756566
+CHEMBL459134	1-butyl-3-(m-tolylsulfonyl)urea	CCCCNC(=O)NS(=O)(=O)c1cccc(C)c1	4.06166543982
+CHEMBL459135	1-(2-mercaptoethyl)-3-(m-tolylsulfonyl)urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCS	4.831896947060001
+CHEMBL462978	3-[(3-chlorobenzene)sulfonyl]-1-({4-[({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)methyl]phenyl}methyl)urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCc2ccc(CNC(=O)NS(=O)(=O)c3cccc(Cl)c3)cc2	8.309894379145
+CHEMBL462979	3-[(3-methylbenzene)sulfonyl]-1-({4-[({[(3-methylbenzene)sulfonyl]carbamoyl}amino)methyl]phenyl}methyl)urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCc2ccc(CNC(=O)NS(=O)(=O)c3cccc(C)c3)cc2	8.61092437481
+CHEMBL463183	3-[(3-methylbenzene)sulfonyl]-1-({3-[({[(3-methylbenzene)sulfonyl]carbamoyl}amino)methyl]phenyl}methyl)urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCc2cccc(CNC(=O)NS(=O)(=O)c3cccc(C)c3)c2	8.071333751785
+CHEMBL475304	{5-[6-Amino-9-(2,2-diphenyl-ethyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	Nc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC(c4ccccc4)c5ccccc5	4.15490195999
+CHEMBL475305	[5-(6-Amino-9-naphthalen-2-ylmethyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	Nc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2Cc4ccc5ccccc5c4	5.48148606012
+CHEMBL482561	{5-[6-Amino-9-(1,2,2-trimethyl-propyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	CC(n1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O)C(C)(C)C	5.30102999566
+CHEMBL482734	5-(6-amino-9-isobutyl-9H-purin-8-yl)furan-2-ylphosphonic acid	CC(C)Cn1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O	5.914909164963333
+CHEMBL482735	{5-[6-Amino-9-(2,2-dimethyl-propyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid-5-(6-amino-9-neopentyl-9H-purin-8-yl)furan-2-ylphosphonic acid	CC(C)(C)Cn1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O	6.09691001301
+CHEMBL482951	(6-amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-8-ylamino)methylphosphonic acid	Nc1ncnc2c1nc(NCP(=O)(O)O)n2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	3.0
+CHEMBL482992	Phosphoric Acid Mono-[2-(6-amino-9-phenethyl-9H-purin-8-yl)-ethyl] Ester	Nc1ncnc2c1nc(CCOP(=O)(O)O)n2CCc3ccccc3	4.39794000867
+CHEMBL483163	2-(6-amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-8-ylamino)ethylphosphonic acid	Nc1ncnc2c1nc(NCCP(=O)(O)O)n2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	4.0
+CHEMBL483354	{5-[6-Amino-9-(2,2-dimethyl-propyl)-2-methylsulfanyl-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	CSc1nc(N)c2nc(c3oc(cc3)P(=O)(O)O)n(CC(C)(C)C)c2n1	5.95860731484
+CHEMBL483356	2-(6-amino-9H-purin-8-ylamino)ethylphosphonic acid	Nc1ncnc2[nH]c(NCCP(=O)(O)O)nc12	3.0
+CHEMBL483555	{5-[6-Amino-9-(2,2-dimethyl-propyl)-9H-purin-8-yl]-1-methyl-1H-pyrrol-2-yl}-phosphonic Acid	Cn1c(ccc1P(=O)(O)O)c2nc3c(N)ncnc3n2CC(C)(C)C	4.0
+CHEMBL483556	{5-[2,6-Diamino-9-(2,2-dimethyl-propyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	CC(C)(C)Cn1c(nc2c(N)nc(N)nc12)c3oc(cc3)P(=O)(O)O	5.25963731051
+CHEMBL483849	5-aminoimidazole-4-carboxamide 1-beta-D-ribofuranoside-5-monophosphate	NC(=O)c1ncn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c1N	4.92081875395
+CHEMBL483999	(6-Amino-9-phenethyl-9H-purin-8-ylmethoxymethyl)-phosphonic Acid	Nc1ncnc2c1nc(COCP(=O)(O)O)n2CCc3ccccc3	4.63827216398
+CHEMBL484135	{5-[6-Amino-9-(3-dimethylamino-2,2-dimethyl-propyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	CN(C)CC(C)(C)Cn1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O	4.0
+CHEMBL484136	[2-(6-Amino-9-benzyl-9H-purin-8-ylamino)-ethyl]-phosphonic acid	Nc1ncnc2c1nc(NCCP(=O)(O)O)n2Cc3ccccc3	4.04095860768
+CHEMBL484331	[5-(6-Amino-9-isobutyl-2-methanesulfonyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	CC(C)Cn1c(nc2c(N)nc(nc12)S(=O)(=O)C)c3oc(cc3)P(=O)(O)O	4.55284196866
+CHEMBL484332	{5-[6-Amino-9-(3-chloro-2,2-dimethyl-propyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	CC(C)(CCl)Cn1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O	6.04575749056
+CHEMBL484592	{5-[6-Amino-9-(2,2-dimethyl-propyl)-9H-purin-8-yl]-1-methyl-1H-imidazol-2-yl}-phosphonic Acid	Cn1c(ncc1P(=O)(O)O)c2nc3c(N)ncnc3n2CC(C)(C)C	4.0
+CHEMBL484782	{[(6-Amino-9-phenethyl-9H-purine-8-carbonyl)-amino]-methyl}-phosphonic Acid	Nc1ncnc2c1nc(C(=O)NCP(=O)(O)O)n2CCc3ccccc3	4.0
+CHEMBL484923	Diethyl [5-(6-Amino-9-phenethyl-9H-purin-8-yl)-furan-2-yl]-phosphonate	CCOP(=O)(O)c1oc(cc1)c2nc3c(N)ncnc3n2CCc4ccccc4	3.0
+CHEMBL485129	3-[6-Amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-hydroxymethyltetrahydro-furan-2-yl)-9H-purin-8-yl]-propionic acid	Nc1ncnc2c1nc(CCC(=O)O)n2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	3.0
+CHEMBL485130	[6-Amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-hydroxymethyl-tetrahydro-furan-2-yl)-9H-purin-8-ylamino]-acetic acid	Nc1ncnc2c1nc(NCC(=O)O)n2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	3.0
+CHEMBL485144	{1-[6-Amino-9-(2,2-dimethyl-propyl)-9H-purin-8-ylmethyl]-1Himidazol-2-yl}-phosphonic Acid	CC(C)(C)Cn1c(Cn2ccnc2P(=O)(O)O)nc3c(N)ncnc13	3.0
+CHEMBL485361	[5-(6-Amino-9-phenethyl-9H-purin-8-yl)-thiophen-2-yl]-phosphonic Acid	Nc1ncnc2c1nc(c3ccc(s3)P(=O)(O)O)n2CCc4ccccc4	4.31875876262
+CHEMBL495498	5-(2-amino-5-isobutylthiazol-4-yl)furan-2-ylphosphonic acid	CC(C)Cc1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.8
+CHEMBL496654	1-[(3-methylbenzene)sulfonyl]-3-[2-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)ethyl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCNC(=O)NS(=O)(=O)c2cccc(C)c2	3.0
+CHEMBL497689	1-(4-aminophenylsulfonyl)-3-(2-mercaptoethyl)urea	Nc1ccc(cc1)S(=O)(=O)NC(=O)NCCS	5.79588001734
+CHEMBL498538	3-[(3-methylbenzene)sulfonyl]-1-[3-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)propyl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCCNC(=O)NS(=O)(=O)c2cccc(C)c2	3.707100495495
+CHEMBL501816	5-(2-amino-5-(ethoxycarbonyl)thiazol-4-yl)furan-2-ylphosphonic acid	CCOC(=O)c1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.85387196432
+CHEMBL504104	5-(2-amino-5-phenylthiazol-4-yl)furan-2-ylphosphonic acid	Nc1nc(c2oc(cc2)P(=O)(O)O)c(s1)c3ccccc3	7.85387196432
+CHEMBL507312	[5-(6-Amino-9-isobutyl-2-methylsulfanyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	CSc1nc(N)c2nc(c3oc(cc3)P(=O)(O)O)n(CC(C)C)c2n1	6.15490195999
+CHEMBL509861	5-(2-amino-5-(propylthio)thiazol-4-yl)furan-2-ylphosphonic acid	CCCSc1sc(N)nc1c2oc(cc2)P(=O)(O)O	7.79588001734
+CHEMBL510249	[5-(6-Amino-9-ethyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	CCn1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O	5.7447274949
+CHEMBL514660	5-(6-amino-9-(2-cyclohexylethyl)-9H-purin-8-yl)furan-2-ylphosphonic acid	Nc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2CCC4CCCCC4	5.85387196432
+CHEMBL514722	1-[(3-methylbenzene)sulfonyl]-3-(2-{[2-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)ethyl]sulfanyl}ethyl)urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCSCCNC(=O)NS(=O)(=O)c2cccc(C)c2	7.449814727445
+CHEMBL514803	[5-(6-Amino-9-cyclopropyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	Nc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2C4CC4	5.82390874094
+CHEMBL515042	3-[(3-methylbenzene)sulfonyl]-1-[8-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)octyl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCCCCCCCNC(=O)NS(=O)(=O)c2cccc(C)c2	7.77642098433
+CHEMBL515243	[5-(6-Methylamino-9-phenethyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	CNc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2CCc4ccccc4	4.30102999566
+CHEMBL515436	[5-(6-Chloro-9-phenethyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	OP(=O)(O)c1oc(cc1)c2nc3c(Cl)ncnc3n2CCc4ccccc4	4.30102999566
+CHEMBL515524	1-[(3-chlorobenzene)sulfonyl]-3-(2-{[2-({[(3-chlorobenzene)sulfonyl]carbamoyl}amino)ethyl]disulfanyl}ethyl)urea	Clc1cccc(c1)S(=O)(=O)NC(=O)NCCSSCCNC(=O)NS(=O)(=O)c2cccc(Cl)c2	7.629818655255
+CHEMBL516135	1-[(3-methylbenzene)sulfonyl]-3-[4-({[(3-methylbenzene)sulfonyl]carbamoyl}amino)butyl]urea	Cc1cccc(c1)S(=O)(=O)NC(=O)NCCCCNC(=O)NS(=O)(=O)c2cccc(C)c2	5.867516515945001
+CHEMBL519202	(E)-3-[6-Amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-hydroxymethyltetrahydro-furan-2-yl)-9H-purin-8-yl]-acrylic acid	Nc1ncnc2c1nc(\C=C\C(=O)O)n2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	3.0
+CHEMBL519323	2-(6-amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-methyltetrahydrofuran-2-yl)-9H-purin-8-ylamino)ethylphosphonic acid	C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2c(NCCP(=O)(O)O)nc3c(N)ncnc23	4.0
+CHEMBL519361	3-[6-Amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-hydroxymethyltetrahydro-furan-2-yl)-9H-purin-8-ylamino]-propionic acid	Nc1ncnc2c1nc(NCCC(=O)O)n2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	3.0
+CHEMBL519477	[5-(6-Amino-9-cyclopentyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	Nc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2C4CCCC4	5.69897000434
+CHEMBL519503	[5-(6-Amino-9-phenethyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	Nc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2CCc4ccccc4	5.30102999566
+CHEMBL519641	[5-(9-Adamantan-1-ylmethyl-6-amino-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid	Nc1ncnc2c1nc(c3oc(cc3)P(=O)(O)O)n2C45CC6CC(CC(C6)C4)C5	4.0
+CHEMBL519692	{5-[6-Amino-9-(2,2-dimethyl-propyl)-9H-purin-8-yl]-3,4-dichlorofuran-2-yl}-phosphonic Acid	CC(C)(C)Cn1c(nc2c(N)ncnc12)c3oc(c(Cl)c3Cl)P(=O)(O)O	4.88605664769
+CHEMBL519845	[2-(6-Amino-9-naphthalen-2-ylmethyl-9H-purin-8-ylamino)-ethyl]-phosphonic acid	Nc1ncnc2c1nc(NCCP(=O)(O)O)n2Cc3ccc4ccccc4c3	4.45593195565
+CHEMBL519996	[3-(6-Amino-9-phenethyl-9H-purin-8-yl)-propyl]-phosphonic Acid	Nc1ncnc2c1nc(\C=C\CP(=O)(O)O)n2CCc3ccccc3	4.0
+CHEMBL520009	[(E)-3-(6-Amino-9-phenethyl-9H-purin-8-yl)-allyl]-phosphonic Acid	Nc1ncnc2c1nc(CCCP(=O)(O)O)n2CCc3ccccc3	4.0
+CHEMBL520175	5-(6-Amino-9-phenethyl-9H-purin-8-yl)-furan-2-carboxylic Acid	Nc1ncnc2c1nc(c3oc(cc3)C(=O)O)n2CCc4ccccc4	3.0
+CHEMBL520176	[5-(6-Amino-9-phenethyl-9H-purin-8-yl)-furan-2-yl]-phosphonic Acid Monoethyl Ester	CCOP(=O)(OCC)c1oc(cc1)c2nc3c(N)ncnc3n2CCc4ccccc4	3.0
+CHEMBL520307	3-(6-amino-9-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)-9H-purin-8-ylamino)propylphosphonic acid	Nc1ncnc2c1nc(NCCCP(=O)(O)O)n2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	3.0
+CHEMBL520490	{5-[6-Amino-9-(3-hydroxy-2,2-dimethyl-propyl)-9H-purin-8-yl]-furan-2-yl}-phosphonic Acid	CC(C)(CO)Cn1c(nc2c(N)ncnc12)c3oc(cc3)P(=O)(O)O	5.34678748622
+CHEMBL520998	{5-[6-Amino-9-(2,2-dimethyl-propyl)-9H-purin-8-yl]-furan-3-yl}-phosphonic Acid	CC(C)(C)Cn1c(nc2c(N)ncnc12)c3coc(c3)P(=O)(O)O	4.0
+CHEMBL521165	[2-(6-Amino-9-phenethyl-9H-purin-8-ylamino)-ethyl]-phosphonic acid	Nc1ncnc2c1nc(NCCP(=O)(O)O)n2CCc3ccccc3	4.0
+CHEMBL565407	2-amino-8H-indeno[1,2-d]thiazol-5-ylphosphonic acid	Nc1nc2c(Cc3ccc(cc23)P(=O)(O)O)s1	4.72815839346
+CHEMBL565809	2-amino-4,5-dihydronaphtho[1,2-d]thiazol-8-yl dihydrogen phosphate	Nc1nc2c(CCc3ccc(OP(=O)(O)O)cc23)s1	7.88605664769
+CHEMBL566669	(2-Amino-5,6-dihydro-4H-3-thia-1-aza-benzo[e]azulen-9-yl)-phosphonic acid	Nc1nc2c(CCCc3ccc(cc23)P(=O)(O)O)s1	6.77211329539
+CHEMBL567030	(2-amino-4,5-dihydronaphtho[1,2-d]thiazol-8-yl)methylphosphonic acid	Nc1nc2c(CCc3ccc(CP(=O)(O)O)cc23)s1	6.07572071394
+CHEMBL567501	(2-amino-4,5-dihydronaphtho[1,2-d]thiazol-9-yloxy)methylphosphonic acid	Nc1nc2c(CCc3cccc(OCP(=O)(O)O)c23)s1	4.66756154008
+CHEMBL567512	2-amino-4,5-dihydronaphtho[1,2-d]thiazol-8-ylphosphonic acid	Nc1nc2c(CCc3ccc(cc23)P(=O)(O)O)s1	5.03058408765
+CHEMBL567704	(2-amino-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	Nc1nc2c(Cc3cccc(OCP(=O)(O)O)c23)s1	6.90657831484
+CHEMBL567705	(2-amino-4,5-dihydronaphtho[1,2-d]thiazol-7-yloxy)methylphosphonic acid	Nc1nc2c(CCc3cc(OCP(=O)(O)O)ccc23)s1	4.78515615195
+CHEMBL568552	2-amino-8H-indeno[1,2-d]thiazol-6-ylphosphonic acid	Nc1nc2c(Cc3cc(ccc23)P(=O)(O)O)s1	4.03668448861
+CHEMBL568686	(2-amino-4,5-dihydronaphtho[1,2-d]thiazol-8-yl)difluoromethylphosphonic acid	Nc1nc2c(CCc3ccc(cc23)C(F)(F)P(=O)(O)O)s1	7.32790214206
+CHEMBL570088	4-Amino-5-bromo-1-isobutyl-2-[2-(5-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)c(Br)ccc12)c3oc(cc3)P(=O)(O)O	6.39794000867
+CHEMBL570089	4-Amino-7-vinyl-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(C=C)c12)c3oc(cc3)P(=O)(O)O	6.55284196866
+CHEMBL570325	4-Amino-1-(3-furanylmethyl)-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2Cc4cocc4	5.3767507096
+CHEMBL570326	4-Amino-5-fluoro-7-[3-(N,N-dimethylamino)propyl]-1-isobutyl-2-[5-(2-phosphono)-furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(CCCN(C)C)c12)c3oc(cc3)P(=O)(O)O	7.25963731051
+CHEMBL570790	5-(4-amino-7-ethyl-5-fluoro-1-isobutyl-1H-benzo[d]imidazol-2-yl)furan-2-ylphosphonic acid	CCc1cc(F)c(N)c2nc(c3oc(cc3)P(=O)(O)O)n(CC(C)C)c12	7.152697400535
+CHEMBL570796	4-Amino-5-fluoro-7-chloro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(Cl)c12)c3oc(cc3)P(=O)(O)O	7.0
+CHEMBL570964	4-Amino-1-cycloheptanemethyl-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC4CCCCCC4	5.48811663902
+CHEMBL570965	4-Amino-L-propyl-2-[2-(5-phosphono)furanyl]benzimidazole	CCCn1c(nc2c(N)cccc12)c3oc(cc3)P(=O)(O)O	5.95860731484
+CHEMBL570991	4-Amino-5-ethyl-1-isobutyl-2-[5-(2-phosphono)furanyl]benzimidazole	CCc1ccc2c(nc(c3oc(cc3)P(=O)(O)O)n2CC(C)C)c1N	5.60205999133
+CHEMBL571017	4-Amino-7-cyclopropyl-5-fluoro-1-isobutyl-2-[5-(2-phosphono)-furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(C3CC3)c12)c4oc(cc4)P(=O)(O)O	7.22184874962
+CHEMBL571018	4-Amino-7-phenyl-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(c3ccccc3)c12)c4oc(cc4)P(=O)(O)O	7.04575749056
+CHEMBL571182	4-Amino-l-isobutyl-2-[2-(5-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)cccc12)c3oc(cc3)P(=O)(O)O	5.82390874094
+CHEMBL571183	4-Amino-5-fluoro-6-chloro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)c(Cl)cc12)c3oc(cc3)P(=O)(O)O	6.64781748189
+CHEMBL571207	4-Amino-7-(3-hydroxypropyl)-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(CCCO)c12)c3oc(cc3)P(=O)(O)O	7.09691001301
+CHEMBL571426	4-Amino-7-(p-fluorophenyl)-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(c3ccc(F)cc3)c12)c4oc(cc4)P(=O)(O)O	6.7447274949
+CHEMBL571435	4-Amino-1-cyclohexanemethyl-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC4CCCCC4	5.60205999133
+CHEMBL571654	4-Amino-7-(4-methylpentyl)-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)CCCc1cc(F)c(N)c2nc(c3oc(cc3)P(=O)(O)O)n(CC(C)C)c12	7.0
+CHEMBL571839	4-Amino-1-norbornylmethyl-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC45CCC(CC4)C5	6.0
+CHEMBL571840	4-Amino-5-fluoro-1-(3-pentyl)-2-[5-(2-phosphono)furanyl]benzimidazole	CCC(CC)n1c(nc2c(N)c(F)ccc12)c3oc(cc3)P(=O)(O)O	6.07058107429
+CHEMBL571844	4-Amino-1-cyclobutylmethyl-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC4CCC4	6.09691001301
+CHEMBL571847	4-Amino-1-(4-phenylbenzyl)-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2Cc4ccc(cc4)c5ccccc5	5.60205999133
+CHEMBL571872	4-Amino-5-fluoro-7-(4-chlorobutyl)-1-isobutyl-2-[5-(2-phosphono)-furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(CCCCCl)c12)c3oc(cc3)P(=O)(O)O	7.15490195999
+CHEMBL571879	4-Amino-1-cyclopentylmethyl-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC4CCCC4	5.82390874094
+CHEMBL572055	4-Amino-5-fluoro-7-(n-propyl)-1-isobutyl-2-[5-(2-phosphono)-furanyl]benzimidazole	CCCc1cc(F)c(N)c2nc(c3oc(cc3)P(=O)(O)O)n(CC(C)C)c12	7.0
+CHEMBL572057	4-Amino-1-(3-trifluoromethylbenzyl)-2-[2-(5-phosphono)furanyl]-benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2Cc4ccc(cc4)C(F)(F)F	5.15490195999
+CHEMBL572062	4-Amino-7-chloro-1-isobutyl-2-[2-(5-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)ccc(Cl)c12)c3oc(cc3)P(=O)(O)O	6.04575749056
+CHEMBL572202	4-Amino-5,7-dibromo-1-isobutyl-2-[2-(5-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)c(Br)cc(Br)c12)c3oc(cc3)P(=O)(O)O	6.0
+CHEMBL572208	Phosphoric acid mono-2-amino-5,6-dihydro-4H-3-thia-1-aza-benzo[e]azulen-9-yl ester	Nc1nc2c(CCCc3ccc(OP(=O)(O)O)cc23)s1	7.65757731918
+CHEMBL572295	4-Amino-1-methyl-2-[2-(5-phosphono)furanyl]benzimidazole	Cn1c(nc2c(N)cccc12)c3oc(cc3)P(=O)(O)O	5.22184874962
+CHEMBL573056	5-(2-methoxyethyl)-4-methyl-N-(5-(methylthio)thiazol-2-ylcarbamoyl)thiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2ncc(SC)s2	6.7447274949
+CHEMBL576045	2-amino-8H-indeno[1,2-d]thiazol-4-ylphosphonic acid	Nc1nc2c(Cc3cccc(c23)P(=O)(O)O)s1	4.54668165995
+CHEMBL576114	4-Amino-1-ethyl-2-[2-(5-phosphono)furanyl]benzimidazole	CCn1c(nc2c(N)cccc12)c3oc(cc3)P(=O)(O)O	5.64781748189
+CHEMBL576128	5-(4-amino-5-hydroxy-1-isobutyl-1H-benzo[d]imidazol-2-yl)furan-2-ylphosphonic acid	CC(C)Cn1c(nc2c(N)c(O)ccc12)c3oc(cc3)P(=O)(O)O	6.30102999566
+CHEMBL576291	4-Amino-7-bromo-1-isobutyl-2-[2-(5-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)ccc(Br)c12)c3oc(cc3)P(=O)(O)O	6.39794000867
+CHEMBL577114	4-Amino-5-propyl-1-isobutyl-2-[5-(2-phosphono)furanyl]benzimidazole	CCCc1ccc2c(nc(c3oc(cc3)P(=O)(O)O)n2CC(C)C)c1N	5.52287874528
+CHEMBL577117	4-Amino-5-fluoro-7-bromo-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(Br)c12)c3oc(cc3)P(=O)(O)O	6.88605664769
+CHEMBL577270	(2-amino-4,5-dihydronaphtho[1,2-d]thiazol-8-yloxy)methylphosphonic acid	Nc1nc2c(CCc3ccc(OCP(=O)(O)O)cc23)s1	4.71896663275
+CHEMBL578134	2-amino-8H-indeno[1,2-d]thiazol-4-yl dihydrogen phosphate	Nc1nc2c(Cc3cccc(OP(=O)(O)O)c23)s1	7.15490195999
+CHEMBL578622	4-Amino-5-fluoro-1-cyclopropylmethyl-2-[5-(2-phosphono)-furanyl]benzimidazole	Nc1c(F)ccc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC4CC4	7.25963731051
+CHEMBL578624	4-Amino-5,7-dichloro-1-isobutyl-2-[5-(2-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)c(Cl)cc(Cl)c12)c3oc(cc3)P(=O)(O)O	6.34678748622
+CHEMBL579216	(2-Amino-5,6-dihydro-4H-3-thia-1-aza-benzo[e]azulen-9-yloxymethyl)-phosphonic acid	Nc1nc2c(CCCc3ccc(OCP(=O)(O)O)cc23)s1	4.37986394503
+CHEMBL583038	4-Amino-1-(3-thienylmethyl)-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2Cc4ccsc4	5.39794000867
+CHEMBL583139	4-Amino-5-methoxy-1-isobutyl-2-[5-(2-phosphono)furanyl]benzimidazole	COc1ccc2c(nc(c3oc(cc3)P(=O)(O)O)n2CC(C)C)c1N	6.15490195999
+CHEMBL583346	4-Amino-5-chloro-1-isobutyl-2-[2-(5-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)c(Cl)ccc12)c3oc(cc3)P(=O)(O)O	6.69897000434
+CHEMBL583908	4-Amino-1-cyclopropylmethyl-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2CC4CC4	6.09691001301
+CHEMBL584097	4-Amino-5-bromo-6,7-dichloro-2-[5-(2-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)c(Br)c(Cl)c(Cl)c12)c3oc(cc3)P(=O)(O)O	5.0
+CHEMBL584749	4-Amino-1-benzyl-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2Cc4ccccc4	5.30102999566
+CHEMBL585541	4-Amino-7-(p-chlorophenyl)-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(c3ccc(Cl)cc3)c12)c4oc(cc4)P(=O)(O)O	7.04575749056
+CHEMBL585620	N-(5-bromothiazol-2-ylcarbamoyl)-5-(2-methoxyethoxy)-4-methylthiophene-2-sulfonamide	COCCOc1sc(cc1C)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.59320950572
+CHEMBL585727	4-Amino-1-(3-hydroxybenzyl)-2-[2-(5-phosphono)furanyl]benzimidazole	Nc1cccc2c1nc(c3oc(cc3)P(=O)(O)O)n2Cc4cccc(O)c4	5.7328282716
+CHEMBL585915	4-Amino-7-(3,3-dimethyl-n-butyl)-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]-benzimidazole	CC(C)Cn1c(nc2c(N)c(F)cc(CCC(C)(C)C)c12)c3oc(cc3)P(=O)(O)O	6.67778070527
+CHEMBL585945	4-Amino-5-fluoro-1-isobutyl-2-[5-(2-phosphono)furanyl]benzimidazole	CC(C)Cn1c(nc2c(N)c(F)ccc12)c3oc(cc3)P(=O)(O)O	7.0
+CHEMBL585946	4-Amino-5-fluoro-1-(2-ethylbutyl)-2-[5-(2-phosphono)furanyl]-benzimisdazole	CCC(CC)Cn1c(nc2c(N)c(F)ccc12)c3oc(cc3)P(=O)(O)O	6.82390874094
+CHEMBL585947	4-Amino-1-(4-t-butylbenzyl)-2-[2-(5-phosphono)furanyl]benzimidazole	CC(C)(C)c1ccc(Cn2c(nc3c(N)cccc23)c4oc(cc4)P(=O)(O)O)cc1	5.02227639471
+CHEMBL585961	N-(5-bromothiazol-2-ylcarbamoyl)-6,7-dihydro-4H-thieno[3,2-c]pyran-2-sulfonamide	Brc1cnc(NC(=O)NS(=O)(=O)c2cc3COCCc3s2)s1	6.365828043025
+CHEMBL589137	N-(5-bromothiazol-2-ylcarbamoyl)-3-ethylbenzenesulfonamide	CCc1cccc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.81913608199
+CHEMBL589266	(7-carbamoyl-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	NC(=O)c1ccc(OCP(=O)(O)O)c2c1Cc3scnc23	9.0
+CHEMBL589861	N-(5-bromothiazol-2-ylcarbamoyl)-3-methylbenzenesulfonamide	Cc1cccc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.639094692395
+CHEMBL589862	N-(5-bromothiazol-2-ylcarbamoyl)-3,5-dimethylbenzenesulfonamide	Cc1cc(C)cc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.654901959985
+CHEMBL589863	N-(5-bromothiazol-2-ylcarbamoyl)-5-(3-methoxypropyl)-4-methylthiophene-2-sulfonamide	COCCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	7.221848749615
+CHEMBL589865	N-(5-bromothiazol-2-ylcarbamoyl)-5-(6-methoxypyridin-3-yl)-4-methylthiophene-2-sulfonamide	COc1ccc(cn1)c2sc(cc2C)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	6.989405350465001
+CHEMBL590111	N-(5-bromothiazol-2-ylcarbamoyl)-5-(6-fluoropyridin-3-yl)-4-methylthiophene-2-sulfonamide	Cc1cc(sc1c2ccc(F)nc2)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	7.372363747450001
+CHEMBL590113	N-(5-bromothiazol-2-ylcarbamoyl)-7-methoxy-1-methyl-1H-indole-3-sulfonamide	COc1cccc2c(cn(C)c12)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	7.15490195999
+CHEMBL590359	N-(5-bromothiazol-2-ylcarbamoyl)-5-isobutyl-4-methylthiophene-2-sulfonamide	CC(C)Cc1sc(cc1C)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	7.460409376975
+CHEMBL590360	N-(5-bromothiazol-2-ylcarbamoyl)-5-(methoxymethyl)-4-methylthiophene-2-sulfonamide	COCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.789198036565
+CHEMBL590361	N-(5-bromothiazol-2-ylcarbamoyl)-5-(2-methoxyethyl)-4-methylthiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	7.1338031200900005
+CHEMBL590362	N-(5-bromo-4-methylthiazol-2-ylcarbamoyl)-3-(difluoromethoxy)benzenesulfonamide	Cc1nc(NC(=O)NS(=O)(=O)c2cccc(OC(F)F)c2)sc1Br	6.76955107862
+CHEMBL590363	N-(4-ethyl-5-(methylthio)thiazol-2-ylcarbamoyl)-5-(2-hydroxyethyl)-4-methylthiophene-2-sulfonamide	CCc1nc(NC(=O)NS(=O)(=O)c2cc(C)c(CCO)s2)sc1SC	7.09691001301
+CHEMBL590597	N-(5-bromothiazol-2-ylcarbamoyl)-5-(4-methoxy-2-methylphenyl)-4-methylthiophene-2-sulfonamide	COc1ccc(c(C)c1)c2sc(cc2C)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	7.2764209843300005
+CHEMBL590839	N-(5-bromothiazol-2-ylcarbamoyl)-5-methylbenzo[b]thiophene-2-sulfonamide	Cc1ccc2sc(cc2c1)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	7.17339374311
+CHEMBL590840	N-(5-bromothiazol-2-ylcarbamoyl)-1-methyl-1H-indole-3-sulfonamide	Cn1cc(c2ccccc12)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	6.56509089601
+CHEMBL591083	5-(2-methoxyethyl)-4-methyl-N-(4-methyl-5-(methylthio)thiazol-2-ylcarbamoyl)thiophene-2-sulfonamide	COCCc1sc(cc1C)S(=O)(=O)NC(=O)Nc2nc(C)c(SC)s2	6.7447274949
+CHEMBL591316	5-(2-hydroxyethyl)-4-methyl-N-(4-methyl-5-(trifluoromethyl)thiazol-2-ylcarbamoyl)thiophene-2-sulfonamide	Cc1cc(sc1CCO)S(=O)(=O)NC(=O)Nc2nc(C)c(s2)C(F)(F)F	6.52287874528
+CHEMBL591317	N-(7-chloro-4-methoxybenzo[d]thiazol-2-ylcarbamoyl)-5-(2-hydroxyethyl)-4-methylthiophene-2-sulfonamide	COc1ccc(Cl)c2sc(NC(=O)NS(=O)(=O)c3cc(C)c(CCO)s3)nc12	7.39794000867
+CHEMBL591318	methyl 7-(3-(methylsulfonyl)ureido)heptanoylsulfamate	COS(=O)(=O)NC(=O)CCCCCCNC(=O)NS(=O)(=O)C	3.0
+CHEMBL592390	(8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1cccc2Cc3scnc3c12	7.92081875395
+CHEMBL592391	(7-ethyl-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	CCc1ccc(OCP(=O)(O)O)c2c1Cc3scnc23	7.95860731484
+CHEMBL592639	(6,7-difluoro-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1cc(F)c(F)c2Cc3scnc3c12	8.04575749056
+CHEMBL593282	N-(5-bromothiazol-2-ylcarbamoyl)-5-methoxy-4-methylthiophene-2-sulfonamide	COc1sc(cc1C)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.989405350465001
+CHEMBL593391	N-carbamoyl-3-methylbenzenesulfonamide	Cc1cccc(c1)S(=O)(=O)NC(=O)N	3.0
+CHEMBL594444	N-(5-bromothiazol-2-ylcarbamoyl)-4-(2-methoxythiazol-4-yl)-3-methylbenzenesulfonamide	COc1nc(cs1)c2ccc(cc2C)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	6.77030375612
+CHEMBL594445	N-(5-bromothiazol-2-ylcarbamoyl)-5-chlorothiophene-2-sulfonamide	Clc1ccc(s1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.53889686128
+CHEMBL594668	N-(5-bromothiazol-2-ylcarbamoyl)-3-(trifluoromethoxy)benzenesulfonamide	FC(F)(F)Oc1cccc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.21010820169
+CHEMBL595067	N-(5-bromothiazol-2-ylcarbamoyl)-4-methylbenzenesulfonamide	Cc1ccc(cc1)S(=O)(=O)NC(=O)\N=C/2\NC=C(Br)S2	6.228214288015
+CHEMBL595149	N-(5-bromothiazol-2-ylcarbamoyl)-3-chlorobenzenesulfonamide	Clc1cccc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.64052647836
+CHEMBL595150	N-(5-bromothiazol-2-ylcarbamoyl)-3-(difluoromethoxy)benzenesulfonamide	FC(F)Oc1cccc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.838890352635
+CHEMBL595304	3-amino-N-(5-bromothiazol-2-ylcarbamoyl)benzenesulfonamide	Nc1cccc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	5.91022410442
+CHEMBL595529	N-(5-bromothiazol-2-ylcarbamoyl)-2-ethylbiphenyl-4-sulfonamide	CCc1cc(ccc1c2ccccc2)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	6.93483311575
+CHEMBL596870	(2-chloro-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1cccc2Cc3sc(Cl)nc3c12	6.04191415148
+CHEMBL597068	(2-bromo-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1cccc2Cc3sc(Br)nc3c12	6.11238269966
+CHEMBL597282	(7-methyl-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	Cc1ccc(OCP(=O)(O)O)c2c1Cc3scnc23	8.09691001301
+CHEMBL597483	(7-fluoro-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1ccc(F)c2Cc3scnc3c12	7.82390874094
+CHEMBL597484	(7-chloro-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1ccc(Cl)c2Cc3scnc3c12	8.09691001301
+CHEMBL597691	(7-(pyridin-3-yl)-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1ccc(c2Cc3scnc3c12)c4cccnc4	8.04575749056
+CHEMBL597692	(7-(pyrimidin-5-yl)-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1ccc(c2Cc3scnc3c12)c4cncnc4	8.52287874528
+CHEMBL597891	(7-(methylcarbamoyl)-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	CNC(=O)c1ccc(OCP(=O)(O)O)c2c1Cc3scnc23	8.69897000434
+CHEMBL600653	N-(5-bromothiazol-2-ylcarbamoyl)-5-(hydroxymethyl)-4-methylthiophene-2-sulfonamide	Cc1cc(sc1CO)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.50863830617
+CHEMBL600654	N-(5-ethyl-4-methylthiazol-2-ylcarbamoyl)-5-(2-hydroxyethyl)-4-methylthiophene-2-sulfonamide	CCc1sc(NC(=O)NS(=O)(=O)c2cc(C)c(CCO)s2)nc1C	6.38721614328
+CHEMBL601267	N-(5-bromothiazol-2-ylcarbamoyl)-7-(2-hydroxyethoxy)-1-methyl-1H-indole-3-sulfonamide	Cn1cc(c2cccc(OCCO)c12)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	7.0
+CHEMBL601691	N-(5-bromothiazol-2-ylcarbamoyl)-5-(6-methoxy-4-methylpyridin-3-yl)-4-methylthiophene-2-sulfonamide	COc1cc(C)c(cn1)c2sc(cc2C)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	7.26143937264
+CHEMBL602789	N-(4-ethyl-5-methoxythiazol-2-ylcarbamoyl)-5-(2-hydroxyethyl)-4-methylthiophene-2-sulfonamide	CCc1nc(NC(=O)NS(=O)(=O)c2cc(C)c(CCO)s2)sc1OC	6.58502665203
+CHEMBL603409	(2-methyl-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	Cc1nc2c(Cc3cccc(OCP(=O)(O)O)c23)s1	6.00217691925
+CHEMBL603871	(7-(pyridin-2-yl)-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1ccc(c2Cc3scnc3c12)c4ccccn4	7.39794000867
+CHEMBL605615	5-(2-hydroxyethyl)-4-methyl-N-(4-methyl-5-(methylthio)thiazol-2-ylcarbamoyl)thiophene-2-sulfonamide	CSc1sc(NC(=O)NS(=O)(=O)c2cc(C)c(CCO)s2)nc1C	7.15490195999
+CHEMBL605956	(7-(pyridin-4-yl)-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1ccc(c2Cc3scnc3c12)c4ccncc4	8.04575749056
+CHEMBL606385	(7-phenyl-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	OP(=O)(O)COc1ccc(c2Cc3scnc3c12)c4ccccc4	7.55284196866
+CHEMBL607540	N-(5-bromothiazol-2-ylcarbamoyl)-2-methylbenzenesulfonamide	Cc1ccccc1S(=O)(=O)NC(=O)Nc2ncc(Br)s2	5.324875990835
+CHEMBL608398	N-(5-bromothiazol-2-ylcarbamoyl)-3-isopropylbenzenesulfonamide	CC(C)c1cccc(c1)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.34937645568
+CHEMBL609616	(6,7-dimethyl-8H-indeno[1,2-d]thiazol-4-yloxy)methylphosphonic acid	Cc1cc(OCP(=O)(O)O)c2c(Cc3scnc23)c1C	8.0
+CHEMBL610462	4-bromo-N-(5-bromothiazol-2-ylcarbamoyl)-5-chlorothiophene-2-sulfonamide	Clc1sc(cc1Br)S(=O)(=O)NC(=O)Nc2ncc(Br)s2	6.867591088495
+CHEMBL611631	N-(5-bromothiazol-2-ylcarbamoyl)-4-(6-fluoropyridin-3-yl)-3-methylbenzenesulfonamide	Cc1cc(ccc1c2ccc(F)nc2)S(=O)(=O)NC(=O)Nc3ncc(Br)s3	6.9659070691250005
+CHEMBL63152	(3-Bromo-phenyl)-(6,7-diethoxy-2-phenyl-quinazolin-4-yl)-amine	CCOc1cc2nc(nc(Nc3cccc(Br)c3)c2cc1OCC)c4ccccc4	4.0
+CHEMBL63203	(2-Benzyl-6,7-diethoxy-quinazolin-4-yl)-(3-bromo-phenyl)-amine	CCOc1cc2nc(Cc3ccccc3)nc(Nc4cccc(Br)c4)c2cc1OCC	4.0
+CHEMBL63244	(6,7-Diethoxy-quinazolin-4-yl)-(3-ethynyl-phenyl)-amine	CCOc1cc2ncnc(Nc3cccc(c3)C#C)c2cc1OCC	5.61978875829
+CHEMBL63450	(3-Bromo-phenyl)-(6-butoxy-quinazolin-4-yl)-amine	CCCCOc1ccc2ncnc(Nc3cccc(Br)c3)c2c1	4.0
+CHEMBL63451	(3-Bromo-phenyl)-(6,7-diethoxy-2-methanesulfonylmethyl-quinazolin-4-yl)-amine	CCOc1cc2nc(CS(=O)(=O)C)nc(Nc3cccc(Br)c3)c2cc1OCC	4.0
+CHEMBL63469	N*4*-(3-Bromo-phenyl)-7-chloro-quinazoline-4,6-diamine	Nc1cc2c(Nc3cccc(Br)c3)ncnc2cc1Cl	4.92445303861
+CHEMBL63605	(3,4-Dichloro-phenyl)-(6,7-diethoxy-quinazolin-4-yl)-amine	CCOc1cc2ncnc(Nc3ccc(Cl)c(Cl)c3)c2cc1OCC	4.0
+CHEMBL63676	(3-Chloro-4-fluoro-phenyl)-(6,7-diethoxy-quinazolin-4-yl)-amine	CCOc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCC	6.2757241304
+CHEMBL63786	Benzo[g]quinazolin-4-yl-(3-bromo-phenyl)-amine	Brc1cccc(Nc2ncnc3cc4ccccc4cc23)c1	5.12493873661
+CHEMBL63787	(3-Bromo-phenyl)-(6,7-diethoxy-2-isobutyl-quinazolin-4-yl)-amine	CCOc1cc2nc(CC(C)C)nc(Nc3cccc(Br)c3)c2cc1OCC	4.0
+CHEMBL63906	(3-Bromo-phenyl)-[7-methoxy-6-(2-methoxy-ethoxy)-quinazolin-4-yl]-amine	COCCOc1cc2c(Nc3cccc(Br)c3)ncnc2cc1OC	5.25963731051
+CHEMBL63917	[6,7-Bis-(2-methoxy-ethoxy)-quinazolin-4-yl]-(3-bromo-phenyl)-amine	COCCOc1cc2ncnc(Nc3cccc(Br)c3)c2cc1OCCOC	4.0
+CHEMBL64950	(3-Chloro-phenyl)-(6,7-diethoxy-quinazolin-4-yl)-amine	CCOc1cc2ncnc(Nc3cccc(Cl)c3)c2cc1OCC	5.79588001734
+CHEMBL65038	(3-Bromo-phenyl)-(7-methoxy-6-nitro-quinazolin-4-yl)-amine	COc1cc2ncnc(Nc3cccc(Br)c3)c2cc1[N+](=O)[O-]	4.0
+CHEMBL65055	(6,7-Diethoxy-quinazolin-4-yl)-phenyl-amine	CCOc1cc2ncnc(Nc3ccccc3)c2cc1OCC	4.0
+CHEMBL65250	(6,7-Dimethoxy-quinazolin-4-yl)-(3-ethynyl-4-fluoro-phenyl)-amine	COc1cc2ncnc(Nc3ccc(F)c(c3)C#C)c2cc1OC	6.60205999133
+CHEMBL65275	(3-Bromo-phenyl)-[6-(2-methoxy-ethoxy)-quinazolin-4-yl]-amine	COCCOc1ccc2ncnc(Nc3cccc(Br)c3)c2c1	5.5376020021
+CHEMBL65704	(6,7-Diethoxy-quinazolin-4-yl)-(3-iodo-phenyl)-amine	CCOc1cc2ncnc(Nc3cccc(I)c3)c2cc1OCC	5.67778070527
+CHEMBL66031	(3-Bromo-phenyl)-(3H-imidazo[4,5-g]quinazolin-8-yl)-amine	Brc1cccc(Nc2ncnc3cc4[nH]cnc4cc23)c1	5.39794000867
+CHEMBL66409	(3-Bromo-phenyl)-(7-chloro-6-nitro-quinazolin-4-yl)-amine	[O-][N+](=O)c1cc2c(Nc3cccc(Br)c3)ncnc2cc1Cl	4.0
+CHEMBL67008	(3-Bromo-phenyl)-(7-ethoxy-6-nitro-quinazolin-4-yl)-amine	CCOc1cc2ncnc(Nc3cccc(Br)c3)c2cc1[N+](=O)[O-]	5.44369749923
+CHEMBL67906	(3-Bromo-phenyl)-(2-chloromethyl-6,7-diethoxy-quinazolin-4-yl)-amine	CCOc1cc2nc(CCl)nc(Nc3cccc(Br)c3)c2cc1OCC	4.0
+CHEMBL68020	3-(6,7-Diethoxy-quinazolin-4-ylamino)-benzonitrile	CCOc1cc2ncnc(Nc3cccc(c3)C#N)c2cc1OCC	4.0
+CHEMBL752	Phosphoric acid mono-[5-(6-amino-purin-9-yl)-3,4-dihydroxy-tetrahydro-furan-2-ylmethyl] ester-5'-adenosinemonophosphate-((2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl dihydrogen phosphate-((2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxytetrahydrofuran-2-yl)methyl phosphate-5'-Adenosinemonophosphate	Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]3O	5.91322540856375
+CHEMBL7917	(3-Chloro-phenyl)-(6,7-dimethoxy-quinazolin-4-yl)-amine	COc1cc2ncnc(Nc3cccc(Cl)c3)c2cc1OC	5.88605664769

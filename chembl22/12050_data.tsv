@@ -1,0 +1,876 @@
+chembl_id	name	smiles	pAff
+CHEMBL100463	3-Benzyl-7-chloro-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3ccc(O)c(Cl)c3C1(C)CCN2Cc4ccccc4	5.631765142766
+CHEMBL100789	3-Benzyl-8-iodo-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC1C2Cc3ccc(I)cc3C1(C)CCN2Cc4ccccc4	5.205867472345999
+CHEMBL10085	{3-[4-(2-Isopropoxy-phenyl)-piperazin-1-ylmethyl]-phenyl}-piperidin-1-yl-methanone	CC(C)Oc1ccccc1N2CCN(Cc3cccc(c3)C(=O)N4CCCCC4)CC2	3.8158884970060005
+CHEMBL101300	3-Benzyl-8-fluoro-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC1C2Cc3ccc(F)cc3C1(C)CCN2Cc4ccccc4	6.487322310121
+CHEMBL101607	3-Benzyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC1C2Cc3ccccc3C1(C)CCN2Cc4ccccc4	5.990230102730999
+CHEMBL102406	3-Benzyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ylamine	CC1C2Cc3ccc(N)cc3C1(C)CCN2Cc4ccccc4	5.594735175056
+CHEMBL102847	7,9-Dibromo-6,11-dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3cc(Br)c(O)c(Br)c3C1(C)CCN2CC=C(C)C	6.190576046046
+CHEMBL102860	9-Bromo-6,11-dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3cc(Br)c(O)cc3C1(C)CCN2CC=C(C)C	6.302646379461
+CHEMBL103	Progesterone	CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C	6.136460600396
+CHEMBL103156	8-Fluoro-6,11-dimethyl-3-(3-methyl-butyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC(C)CCN1CCC2(C)C(C)C1Cc3ccc(F)cc23	6.763579397366
+CHEMBL103157	8-Fluoro-6,11-dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC1C2Cc3ccc(F)cc3C1(C)CCN2CC=C(C)C	6.563933261051
+CHEMBL103319	3-Benzyl-6,11-dimethyl-1,3,4,5,6,7-hexahydro-2H-2,6-methano-benzo[d]azocin-8-one	CC1C2CC3=C(CC(=O)C=C3)C1(C)CCN2Cc4ccccc4	5.6753804539759996
+CHEMBL103455	3-Benzyl-7-bromo-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3ccc(O)c(Br)c3C1(C)CCN2Cc4ccccc4	5.975782402556
+CHEMBL103458	7-Bromo-6,11-dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3ccc(O)c(Br)c3C1(C)CCN2CC=C(C)C	6.063072065826
+CHEMBL103662	3-Benzyl-7,9-dichloro-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3cc(Cl)c(O)c(Cl)c3C1(C)CCN2Cc4ccccc4	5.178398767496
+CHEMBL103707	3-Benzyl-9-iodo-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3cc(I)c(O)cc3C1(C)CCN2Cc4ccccc4	5.738884170216
+CHEMBL103715	3-Benzyl-9-bromo-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3cc(Br)c(O)cc3C1(C)CCN2Cc4ccccc4	5.4284986706759994
+CHEMBL103816	(3-Benzyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-yl)-dimethyl-amine	CC1C2Cc3ccc(cc3C1(C)CCN2Cc4ccccc4)N(C)C	6.103238795386
+CHEMBL104042	(+)-trans-3-Cyclopropylmethyl-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1H-benzo[4,5]furo[3,2-e]isoquinolin-9-ol-(-)-trans-3-Cyclopropylmethyl-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1H-benzo[4,5]furo[3,2-e]isoquinolin-9-ol	Oc1cccc2c1O[C@H]3CCC[C@H]4CN(CC5CC5)CC[C@]234	6.062774024791
+CHEMBL107492	(+)-3-(1-Propyl-piperidin-3-yl)-benzonitrile-(-)-3-(1-Propyl-piperidin-3-yl)-benzonitrile	CCCN1CCCC(C1)c2cccc(c2)C#N	5.970786987775
+CHEMBL1089654	1-(2-Phenylethyl)-4-(4-pyridyl)piperazine	C(Cc1ccccc1)N2CCN(CC2)c3ccncc3	6.893682219565999
+CHEMBL1089853	(+/-)-(4-fluorophenyl)-[1-(2-hydroxy-cyclohexyl)-piperidin-4-yl]-methanone	O[C@@H]1CCCC[C@H]1N2CCC(CC2)C(=O)c3ccc(F)cc3	6.7302412087159995
+CHEMBL1090907	1-(3-Phenylpropyl)-4-(4-pyridyl)piperazine	C(CN1CCN(CC1)c2ccncc2)Cc3ccccc3	6.980832395286
+CHEMBL1090908	1-(2-Phenylethyl)-4-(3-pyridyl)piperazine	C(Cc1ccccc1)N2CCN(CC2)c3cccnc3	6.527192236416
+CHEMBL1090909	1-(3-Phenylpropyl)-4-(3-pyridyl)piperazine	C(CN1CCN(CC1)c2cccnc2)Cc3ccccc3	7.188522640415999
+CHEMBL110239	7-[((E)-3-Iodo-allyl)-propyl-amino]-5,6,7,8-tetrahydro-naphthalen-2-ol	CCCN(C\C=C\I)C1CCc2ccc(O)cc2C1	8.009708523026
+CHEMBL110821	(+)-Trifluoro-methanesulfonic acid 3-(1-propyl-piperidin-3-yl)-phenyl ester	CCCN1CCC[C@@H](C1)c2cccc(OS(=O)(=O)C(F)(F)F)c2	8.22184874962
+CHEMBL11161	1-[3-(5-Chloro-2-phenethyloxy-phenyl)-propyl]-4-(6-methyl-pyridin-2-yl)-piperazine oxalate	Cc1cccc(n1)N2CCN(CCCc3cc(Cl)ccc3OCCc4ccccc4)CC2.OC(=O)C(=O)O	6.38195190329
+CHEMBL11182	{2-[4-Methoxy-3-(3-phenyl-propoxy)-phenyl]-ethyl}-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OC)c(OCCCc2ccccc2)c1.OC(=O)C(=O)O	8.32790214206
+CHEMBL112125	1-(4-chlorophenyl)-4-phenylpropylpiperazine	Clc1ccc(cc1)N2CCN(CCCc3ccccc3)CC2	9.435677255296
+CHEMBL11231	{2-[5-Bromo-2-(3-phenyl-propoxy)-phenyl]-ethyl}-dipropyl-amine oxalate	CCCN(CCC)CCc1cc(Br)ccc1OCCCc2ccccc2.OC(=O)C(=O)O	7.35654732351
+CHEMBL11255	1-[2-(5-Chloro-2-phenethyloxy-phenyl)-ethyl]-pyrrolidine oxalate	OC(=O)C(=O)O.Clc1ccc(OCCc2ccccc2)c(CCN3CCCC3)c1	7.44369749923
+CHEMBL11279	[2-(5-Bromo-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1cc(Br)ccc1OCCc2ccccc2.OC(=O)C(=O)O	7.95860731484
+CHEMBL11289	4-[2-(5-Chloro-2-phenethyloxy-phenyl)-ethyl]-morpholine oxalate	OC(=O)C(=O)O.Clc1ccc(OCCc2ccccc2)c(CCN3CCOCC3)c1	6.5114492835
+CHEMBL11290	{2-[3-Methoxy-2-(3-phenyl-propoxy)-phenyl]-ethyl}-dipropyl-amine oxalate	CCCN(CCC)CCc1cccc(OC)c1OCCCc2ccccc2.OC(=O)C(=O)O	8.76955107862
+CHEMBL11304	1-[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-4-phenyl-piperazine oxalate	COc1ccc(CCN2CCN(CC2)c3ccccc3)cc1OCCc4ccccc4.OC(=O)C(=O)O	7.48148606012
+CHEMBL11311	1-[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-pyrrolidine oxalate	COc1ccc(CCN2CCCC2)cc1OCCc3ccccc3.OC(=O)C(=O)O	6.97061622231
+CHEMBL11352	2-{4-[2-(5-Chloro-2-phenethyloxy-phenyl)-ethyl]-piperazin-1-yl}-pyrimidine oxalate	OC(=O)C(=O)O.Clc1ccc(OCCc2ccccc2)c(CCN3CCN(CC3)c4ncccn4)c1	5.0
+CHEMBL113621	1-(3-chlorophenyl)-4-phenethylpiperazine	Clc1cccc(c1)N2CCN(CCc3ccccc3)CC2	7.703954220676
+CHEMBL11380	1-[3-(5-Chloro-2-phenethyloxy-phenyl)-propyl]-4-(2-methoxy-phenyl)-piperazine oxalate	COc1ccccc1N2CCN(CCCc3cc(Cl)ccc3OCCc4ccccc4)CC2.OC(=O)C(=O)O	6.49620931694
+CHEMBL11437	1-[3-(5-Chloro-2-phenethyloxy-phenyl)-propyl]-4-phenyl-piperazine oxalate	OC(=O)C(=O)O.Clc1ccc(OCCc2ccccc2)c(CCCN3CCN(CC3)c4ccccc4)c1	6.84771165562
+CHEMBL11474	[2-(2-Methoxy-4-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OCCc2ccccc2)cc1OC.OC(=O)C(=O)O	8.16749108729
+CHEMBL11479	1-[2-(3-Methoxy-2-phenethyloxy-phenyl)-ethyl]-pyrrolidine oxalate	COc1cccc(CCN2CCCC2)c1OCCc3ccccc3.OC(=O)C(=O)O	7.55284196866
+CHEMBL11534	2-{4-[3-(5-Chloro-2-phenethyloxy-phenyl)-propyl]-piperazin-1-yl}-pyrimidine oxalate	OC(=O)C(=O)O.Clc1ccc(OCCc2ccccc2)c(CCCN3CCN(CC3)c4ncccn4)c1	6.77211329539
+CHEMBL11535	[2-(3-Fluoro-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1cccc(F)c1OCCc2ccccc2.OC(=O)C(=O)O	7.65757731918
+CHEMBL11581	1-[3-(5-Chloro-2-phenethyloxy-phenyl)-propyl]-4-pyridin-2-yl-piperazine oxalate	OC(=O)C(=O)O.Clc1ccc(OCCc2ccccc2)c(CCCN3CCN(CC3)c4ccccn4)c1	6.92811799269
+CHEMBL11590	[2-(3,5-Dibromo-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1cc(Br)cc(Br)c1OCCc2ccccc2.OC(=O)C(=O)O	6.11125903932
+CHEMBL11598	[2-(3-Benzyloxy-4-methoxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OC)c(OCc2ccccc2)c1.OC(=O)C(=O)O	7.55284196866
+CHEMBL1160354	7-Hydroxy-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	OC1CCCC2C1CCc3ncccc23	5.299999986666666
+CHEMBL1160355	9-Hydroxy-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	OC1CCC2CCc3ncccc3C2C1	5.325000440675
+CHEMBL11626	1-[2-(3-Methoxy-2-phenethyloxy-phenyl)-ethyl]-4-pyridin-2-yl-piperazine oxalate	COc1cccc(CCN2CCN(CC2)c3ccccn3)c1OCCc4ccccc4.OC(=O)C(=O)O	5.0
+CHEMBL1162973	[3H]-1-cyclohexyl-4-[3-(5-methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)propyl]piperazine	[3H]C1CCCCC1([3H])N2CCN(CCCC3CCCc4c(OC)cccc34)CC2	7.381319592975999
+CHEMBL11637	[2-(3,5-Dichloro-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1cc(Cl)cc(Cl)c1OCCc2ccccc2.OC(=O)C(=O)O	6.55129368009
+CHEMBL11640	1-[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-4-pyridin-2-yl-piperazine oxalate	COc1ccc(CCN2CCN(CC2)c3ccccn3)cc1OCCc4ccccc4.OC(=O)C(=O)O	6.95078197733
+CHEMBL11657	[4-(5-Chloro-2-phenethyloxy-phenyl)-butyl]-dipropyl-amine oxalate	CCCN(CCC)CCCCc1cc(Cl)ccc1OCCc2ccccc2.OC(=O)C(=O)O	7.58502665203
+CHEMBL11669	4-[2-(3-Methoxy-2-phenethyloxy-phenyl)-ethyl]-morpholine oxalate	COc1cccc(CCN2CCOCC2)c1OCCc3ccccc3.OC(=O)C(=O)O	6.42829116819
+CHEMBL11675	[2-(2-Benzyloxy-5-chloro-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1cc(Cl)ccc1OCc2ccccc2.OC(=O)C(=O)O	6.92811799269
+CHEMBL11735	4-[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-morpholine oxalate	COc1ccc(CCN2CCOCC2)cc1OCCc3ccccc3.OC(=O)C(=O)O	5.0
+CHEMBL11736	(2-{4-Methoxy-3-[2-(4-methoxy-phenyl)-ethoxy]-phenyl}-ethyl)-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OC)c(OCCc2ccc(OC)cc2)c1.OC(=O)C(=O)O	9.0
+CHEMBL11740	{2-[5-Chloro-2-(3-phenyl-propoxy)-phenyl]-ethyl}-dipropyl-amine oxalate	CCCN(CCC)CCc1cc(Cl)ccc1OCCCc2ccccc2.OC(=O)C(=O)O	7.25181197299
+CHEMBL11774	[2-(4-Methoxy-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OC)cc1OCCc2ccccc2.OC(=O)C(=O)O	8.18045606446
+CHEMBL11803	[2-(5-Chloro-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1cc(Cl)ccc1OCCc2ccccc2.OC(=O)C(=O)O	8.14266750357
+CHEMBL1189234	N-Benzyl-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2Cc7ccccc7	5.987228600476
+CHEMBL11894	[2-(3-Methoxy-4-phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OCCc2ccccc2)c(OC)c1.OC(=O)C(=O)O	7.92081875395
+CHEMBL1202783	(S)-(-)-2-[[[3-(Morpholinomethyl)-2H-chromen-8-yl]oxy]-methyl]morpholine Hydrochloride	Cl.C(Oc1cccc2C=C(CN3CCOCC3)COc12)[C@@H]4CNCCO4	3.514858501346
+CHEMBL12047	(+/-)(1-Methyl-2-phenyl-ethyl)-(4-phenyl-butyl)-amine tosylate	CC(Cc1ccccc1)NCCCCc2ccccc2	7.923793894315999
+CHEMBL12107	(2-{3-[2-(3-Chloro-phenyl)-ethoxy]-4-methoxy-phenyl}-ethyl)-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OC)c(OCCc2cccc(Cl)c2)c1.OC(=O)C(=O)O	8.82390874094
+CHEMBL1214829	N-((Benzofuran-2-yl)methyl)-N'-benzylpiperazine	C(N1CCN(Cc2ccccc2)CC1)c3oc4ccccc4c3	7.798855157716
+CHEMBL1214830	N-((Benzofuran-2-yl)methyl)-N'-(4'-methoxybenzyl)piperazine	COc1ccc(CN2CCN(Cc3oc4ccccc4c3)CC2)cc1	8.083494737186
+CHEMBL1214831	N-(Benzofuran-2-ylmethyl)-N'-(4'-ethoxybenzyl)piperazine	CCOc1ccc(CN2CCN(Cc3oc4ccccc4c3)CC2)cc1	7.489552636086
+CHEMBL1214891	N-(Benzofuran-2-ylmethyl)-N'-(4'-(2''-fluoroethoxy)benzyl)-piperazine	FC(F)CCOc1ccc(CN2CCN(Cc3oc4ccccc4c3)CC2)cc1	8.099885153376
+CHEMBL1214892	N-(Benzofuran-2-ylmethyl)-N'-(4'-propoxybenzyl)piperazine	CCCOc1ccc(CN2CCN(Cc3oc4ccccc4c3)CC2)cc1	6.784076225675999
+CHEMBL1214893	N-(Benzofuran-2-ylmethyl)-N'-(4'-(3''-fluoropropoxy)benzyl)-piperazine	FCCCOc1ccc(CN2CCN(Cc3oc4ccccc4c3)CC2)cc1	7.347541166596
+CHEMBL1214894	N-((Benzofuran-2-yl)methyl)-N'-(3'-methoxybenzyl)piperazine	COc1cccc(CN2CCN(Cc3oc4ccccc4c3)CC2)c1	7.302670896945999
+CHEMBL1214895	N-(Benzofuran-2-ylmethyl)-N'-(3'-ethoxybenzyl)piperazin	CCOc1cccc(CN2CCN(Cc3oc4ccccc4c3)CC2)c1	6.611768514355999
+CHEMBL1214958	N-(Benzofuran-2-ylmethyl)-N'-(3'-(2''-fluoroethoxy)benzyl)-piperazine	FCCOc1cccc(CN2CCN(Cc3oc4ccccc4c3)CC2)c1	6.818502112616
+CHEMBL1214959	N-(Benzofuran-2-ylmethyl)-N'-(3'-propoxybenzyl)piperazine	CCCOc1cccc(CN2CCN(Cc3oc4ccccc4c3)CC2)c1	6.266885234986
+CHEMBL1214960	N-(Benzofuran-2-ylmethyl)-N'-(3'-(3''-fluoropropoxy)benzyl)-piperazine	FCCCOc1cccc(CN2CCN(Cc3oc4ccccc4c3)CC2)c1	6.149370516456
+CHEMBL1214961	N-((Benzofuran-2-yl)methyl)-N'-(2'-methoxybenzyl)piperazine	COc1ccccc1CN2CCN(Cc3oc4ccccc4c3)CC2	6.218193311086
+CHEMBL1214962	N-((Benzofuran-2-yl)methyl)-N'-(2'-ethoxybenzyl)piperazine	CCOc1ccccc1CN2CCN(Cc3oc4ccccc4c3)CC2	6.945484591725999
+CHEMBL1215036	N-((Benzofuran-2-yl)methyl)-N'-(2'-(2''-fluoroethoxy)benzyl)-piperazine	FCCOc1ccccc1CN2CCN(Cc3oc4ccccc4c3)CC2	5.8264386793459995
+CHEMBL1215037	N-(Benzofuran-2-ylmethyl)-N'-(2'-propoxybenzyl)piperazine	CCCOc1ccccc1CN2CCN(Cc3oc4ccccc4c3)CC2	6.617231410055999
+CHEMBL1215038	N-(Benzofuran-2-ylmethyl)-N'-(2'-(3''-fluoropropoxy)benzyl)-piperazine	FCCCOc1ccccc1CN2CCN(Cc3oc4ccccc4c3)CC2	7.555817109026
+CHEMBL12420	N,N-dimethyltryptamine	CN(C)CCc1c[nH]c2ccccc12	4.327337780505999
+CHEMBL1258223	(1-Butylpiperidin-4-yl)methyl 7-chloro-8-(methylamino)-2,3-dihydrobenzo[b][1,4]dioxine-5-carboxylate	CCCCN1CCC(COC(=O)c2cc(Cl)c(NC)c3OCCOc23)CC1	6.736707250966
+CHEMBL1258452	(1-Butylpiperidin-4-yl)methyl 4-Amino-3-methoxybenzoate	CCCCN1CCC(COC(=O)c2ccc(N)c(OC)c2)CC1	6.190576046046
+CHEMBL1258671	(1-Butylpiperidin-4-yl)methyl 8-Amino-7-fluoro-2,3-dihydrobenzo[b][1,4]dioxine-5-carboxylate	CCCCN1CCC(COC(=O)c2cc(F)c(N)c3OCCOc23)CC1	6.774495811855999
+CHEMBL126131	N-(2-Diethylamino-ethyl)-5-iodo-2-methoxy-benzamide	CCN(CC)CCNC(=O)c1cc(I)ccc1OC	6.028664501790999
+CHEMBL126723	4-Amino-5-bromo-N-(2-diethylamino-ethyl)-3-iodo-2-methoxy-benzamide	CCN(CC)CCNC(=O)c1cc(Br)c(N)c(I)c1OC	5.607302172251
+CHEMBL127006	1-[3-(5-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-propyl]-3,3-dimethyl-piperidine	COc1cccc2C(CCCN3CCCC(C)(C)C3)CCCc12	9.47998327677
+CHEMBL1271793	(-)-(2R,3R)-5-(2-fluoroethoxy)-3-(4-phenylpiperidin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol-(+/-)-fluoroethoxy-benzovesamicol	O[C@@H]1Cc2cccc(OCCF)c2C[C@H]1N3CCC(CC3)c4ccccc4	6.194712215236
+CHEMBL1271850	(+)-(2S,3S)-5-(2-fluoroethoxy)-3-(4-phenylpiperidin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol	O[C@H]1Cc2cccc(OCCF)c2C[C@@H]1N3CCC(CC3)c4ccccc4	6.085106221346
+CHEMBL1271906	(rac)-5-Fluoro-3-(4-phenyl-piperidin-1-yl)-1,2,3,4-tetrahydro-naphthalen-2-ol	OC1Cc2cccc(F)c2CC1N3CCC(CC3)c4ccccc4	7.394284570136
+CHEMBL1271907	(+)-(S,S)-5-Fluoro-3-(4-phenyl-piperidin-1-yl)-1,2,3,4-tetrahydro-naphthalen-2-ol	O[C@H]1Cc2cccc(F)c2C[C@@H]1N3CCC(CC3)c4ccccc4	6.933933525665999
+CHEMBL1271961	(-)-(R,R)-5-Fluoro-3-(4-phenyl-piperidin-1-yl)-1,2,3,4-tetrahydro-naphthalen-2-ol	O[C@@H]1Cc2cccc(F)c2C[C@H]1N3CCC(CC3)c4ccccc4	7.962190285236
+CHEMBL128125	3,3-Dimethyl-1-[5-(1,2,3,4-tetrahydro-naphthalen-1-yl)-pentyl]-piperidine	CC1(C)CCCN(CCCCCC2CCCc3ccccc23)C1	5.81815641206
+CHEMBL128358	1-[4-(5-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-butyl]-3,3-dimethyl-piperidine	COc1cccc2C(CCCCN3CCCC(C)(C)C3)CCCc12	6.00966114521
+CHEMBL128442	3,3-Dimethyl-1-[4-(1,2,3,4-tetrahydro-naphthalen-1-yl)-butyl]-piperidine	CC1(C)CCCN(CCCCC2CCCc3ccccc23)C1	9.16115090926
+CHEMBL128890	4-Acetylamino-N-(2-diethylamino-ethyl)-3-iodo-benzamide	CCN(CC)CCNC(=O)c1ccc(NC(=O)C)c(I)c1	4.847872783015999
+CHEMBL128930	4-Acetylamino-N-(2-diethylamino-ethyl)-5-iodo-2-methoxy-benzamide	CCN(CC)CCNC(=O)c1cc(I)c(NC(=O)C)cc1OC	4.799691143495999
+CHEMBL128996	1-[3-(6-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-propyl]-3,3-dimethyl-piperidine	COc1ccc2C(CCCN3CCCC(C)(C)C3)CCCc2c1	4.0
+CHEMBL128997	1-[4-(7-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-butyl]-3,3-dimethyl-piperidine	COc1ccc2CCCC(CCCCN3CCCC(C)(C)C3)c2c1	7.59176003469
+CHEMBL129075	1-[3-(7-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-propyl]-3,3-dimethyl-piperidine	COc1ccc2CCCC(CCCN3CCCC(C)(C)C3)c2c1	7.65757731918
+CHEMBL129091	1-[3-(5-Methoxy-indan-1-yl)-propyl]-3,3-dimethyl-piperidine	COc1ccc2C(CCCN3CCCC(C)(C)C3)CCc2c1	5.33161408331
+CHEMBL129092	1-(3-Indan-1-yl-propyl)-3,3-dimethyl-piperidine	CC1(C)CCCN(CCCC2CCc3ccccc23)C1	8.16115090926
+CHEMBL129145	1-[4-(6-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-butyl]-3,3-dimethyl-piperidine	COc1ccc2C(CCCCN3CCCC(C)(C)C3)CCCc2c1	5.66756154008
+CHEMBL129200	1-[4-(4-Methoxy-indan-1-yl)-butyl]-3,3-dimethyl-piperidine	COc1cccc2C(CCCCN3CCCC(C)(C)C3)CCc12	8.03151705145
+CHEMBL129551	3,3-Dimethyl-1-(5-phenyl-pentyl)-piperidine	CC1(C)CCCN(CCCCCc2ccccc2)C1	5.23433144524
+CHEMBL129654	3,3-Dimethyl-1-[2-(1,2,3,4-tetrahydro-naphthalen-1-yl)-ethyl]-piperidine	CC1(C)CCCN(CCC2CCCc3ccccc23)C1	4.0
+CHEMBL129655	1-[4-(3,4-Dihydro-naphthalen-1-yl)-butyl]-3,3-dimethyl-piperidine	CC1(C)CCCN(CCCCC2=CCCc3ccccc23)C1	5.02456819149
+CHEMBL133085	3-[((E)-3-Iodo-allyl)-propyl-amino]-chroman-8-ol	CCCN(C\C=C\I)C1COc2c(O)cccc2C1	3.514858501346
+CHEMBL134607	1-(3-(5-methoxy-1,2,3,4-tetrahydronaphthalen-1-yl)propyl)piperidine	COc1cccc2C(CCCN3CCCCC3)CCCc12	7.254787113356
+CHEMBL137870	4-[4-(5-Chloro-pyrimidin-2-yl)-piperazin-1-yl]-1-(4-fluoro-phenyl)-butan-1-one	Fc1ccc(cc1)C(=O)CCCN2CCN(CC2)c3ncc(Cl)cn3	7.24412514433
+CHEMBL137967	1-(4-Fluoro-phenyl)-4-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-butylamine	NC(CCCN1CCN(CC1)c2ncc(F)cn2)c3ccc(F)cc3	6.0
+CHEMBL137979	1'-benzylspiro[1H-isochromene-1,4'-(hexahydropyridine)]	C(N1CCC2(CC1)OC=Cc3ccccc23)c4ccccc4	6.034851558385999
+CHEMBL137990	1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-ol	OC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	5.804741136235999
+CHEMBL138015	3-[((E)-3-Iodo-allyl)-propyl-amino]-chroman-6-ol	CCCN(C\C=C\I)C1COc2ccc(O)cc2C1	5.822893398575999
+CHEMBL138083	1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	C(N1CCC2(CC1)OCCc3ccccc23)c4ccccc4	6.516163343035999
+CHEMBL138102	1'-benzyl-3-ethoxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	CCOC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	5.0435667902859995
+CHEMBL138103	1'-(3-phenylpropyl)spiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-ol	OC1Cc2ccccc2C3(CCN(CCCc4ccccc4)CC3)O1	6.595257477565999
+CHEMBL138186	1,1-Bis-(4-fluoro-phenyl)-4-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-butan-1-ol	OC(CCCN1CCN(CC1)c2ncc(F)cn2)(c3ccc(F)cc3)c4ccc(F)cc4	5.0
+CHEMBL138286	1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-one	O=C1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	5.451525142396
+CHEMBL138457	3-[3-methoxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-1-yl]-1-phenyl-(E)-1-propene	COC1Cc2ccccc2C3(CCN(C\C=C\c4ccccc4)CC3)O1	4.912798510016
+CHEMBL138458	1-[3-methoxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-1-yl]-3-phenylpropane	COC1Cc2ccccc2C3(CCN(CCCc4ccccc4)CC3)O1	6.027720125866
+CHEMBL138533	1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-ol	OC1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	5.633473844576
+CHEMBL138560	1'-phenethylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-ol	OC1Cc2ccccc2C3(CCN(CCc4ccccc4)CC3)O1	6.485474723656
+CHEMBL138809	1'-benzyl-3-methoxyspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	COC1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	5.407648531695999
+CHEMBL138856	3-methoxy-1'-methylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	COC1Cc2ccccc2C3(CCN(C)CC3)O1	3.514858501346
+CHEMBL138857	3-methoxy-1'-phenylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	COC1Cc2ccccc2C3(CCN(CC3)c4ccccc4)O1	3.514858501346
+CHEMBL139455	3-methoxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	COC1Cc2ccccc2C3(CCNCC3)O1	3.514858501346
+CHEMBL139595	4-[4-(5-Chloro-pyrimidin-2-yl)-piperazin-1-yl]-1-(4-fluoro-phenyl)-butan-1-ol	OC(CCCN1CCN(CC1)c2ncc(Cl)cn2)c3ccc(F)cc3	7.65757731918
+CHEMBL139711	1-(4-Fluoro-phenyl)-3-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-propan-1-one	Fc1ccc(cc1)C(=O)CCN2CCN(CC2)c3ncc(F)cn3	7.16115090926
+CHEMBL140030	1'-benzyl-3-benzyloxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	C(OC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1)c5ccccc5	4.5196622097459995
+CHEMBL140650	4-[4-(5-Fluoro-4-methylsulfanyl-pyrimidin-2-yl)-piperazin-1-yl]-1-(4-fluoro-phenyl)-butan-1-ol	CSc1nc(ncc1F)N2CCN(CCCC(O)c3ccc(F)cc3)CC2	7.58502665203
+CHEMBL140656	1-(4-Fluoro-phenyl)-4-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-butan-1-one	Fc1ccc(cc1)C(=O)CCCN2CCN(CC2)c3ncc(F)cn3	6.88605664769
+CHEMBL140712	1-(4-Fluoro-phenyl)-3-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-propan-1-ol	OC(CCN1CCN(CC1)c2ncc(F)cn2)c3ccc(F)cc3	6.79588001734
+CHEMBL140831	1,1-Bis-(4-fluoro-phenyl)-4-(4-pyrimidin-2-yl-piperazin-1-yl)-butan-1-ol	OC(CCCN1CCN(CC1)c2ncccn2)(c3ccc(F)cc3)c4ccc(F)cc4	5.0
+CHEMBL140833	5-Fluoro-2-{4-[4-(4-fluoro-phenyl)-4-hydroxy-butyl]-piperazin-1-yl}-pyrimidin-4-ol	OC(CCCN1CCN(CC1)c2ncc(F)c(O)n2)c3ccc(F)cc3	5.0
+CHEMBL140872	1-(4-Fluoro-phenyl)-4-(4-pyrimidin-2-yl-piperazin-1-yl)-butan-1-one	Fc1ccc(cc1)C(=O)CCCN2CCN(CC2)c3ncccn3	6.36653154442
+CHEMBL141209	1'-benzyl-3-methoxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	COC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.970790456995999
+CHEMBL141226	1-(4-Fluoro-phenyl)-4-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-butan-1-one oxime	O\N=C(/CCCN1CCN(CC1)c2ncc(F)cn2)\c3ccc(F)cc3	7.09151498112
+CHEMBL141278	1-[3-methoxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-1-yl]-4-phenylbutane	COC1Cc2ccccc2C3(CCN(CCCCc4ccccc4)CC3)O1	6.022098112316
+CHEMBL141455	4-[4-(5-Fluoro-4-methylsulfanyl-pyrimidin-2-yl)-piperazin-1-yl]-1-(4-fluoro-phenyl)-butan-1-one	CSc1nc(ncc1F)N2CCN(CCCC(=O)c3ccc(F)cc3)CC2	6.92081875395
+CHEMBL141523	3-(4-Fluoro-phenyl)-6-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-hexan-3-ol	CCC(O)(CCCN1CCN(CC1)c2ncc(F)cn2)c3ccc(F)cc3	6.43179827593
+CHEMBL141670	4-[4-(5-Bromo-pyrimidin-2-yl)-piperazin-1-yl]-1-(4-fluoro-phenyl)-butan-1-ol	OC(CCCN1CCN(CC1)c2ncc(Br)cn2)c3ccc(F)cc3	7.58502665203
+CHEMBL141743	1-[3-methoxyspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-1-yl]-2-phenylethane	COC1Cc2ccccc2C3(CCN(CCc4ccccc4)CC3)O1	5.9020746446259995
+CHEMBL141854	4-[4-(5-Fluoro-4-methoxy-pyrimidin-2-yl)-piperazin-1-yl]-1-(4-fluoro-phenyl)-butan-1-ol	COc1nc(ncc1F)N2CCN(CCCC(O)c3ccc(F)cc3)CC2	7.61978875829
+CHEMBL141912	2-(4-Fluoro-phenyl)-5-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-pentan-2-ol	CC(O)(CCCN1CCN(CC1)c2ncc(F)cn2)c3ccc(F)cc3	6.95860731484
+CHEMBL141922	4-[4-(5-Bromo-pyrimidin-2-yl)-piperazin-1-yl]-1-(4-fluoro-phenyl)-butan-1-one	Fc1ccc(cc1)C(=O)CCCN2CCN(CC2)c3ncc(Br)cn3	7.07058107429
+CHEMBL142600	1-(1,3,4,8b-Tetrahydro-2H-biphenylen-4a-yl)-piperidine	C1CCN(CC1)C23CCCCC2c4ccccc34	6.48148606012
+CHEMBL143950	1-Phenethyl-4-pyridin-2-yl-piperazine-1-(2-phenylethyl)-4-(2-pyridyl)piperazine-1-phenethyl-4-(pyridin-2-yl)piperazine	C(Cc1ccccc1)N2CCN(CC2)c3ccccn3	6.003428144066
+CHEMBL144552	3-Methyl-1-phenethyl-piperidine	CC1CCCN(CCc2ccccc2)C1	7.896810404636
+CHEMBL144662	2-[1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-yl]-1-ethanol	OCCC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.587488138306
+CHEMBL145722	1-Tricyclo[6.2.2.0*2,7*]dodeca-2(7),3,5-trien-1-yl-piperidine	C1CCN(CC1)C23CCC(CC2)c4ccccc34	6.49620931694
+CHEMBL145867	1-(3-Phenyl-propyl)-4-pyridin-2-yl-piperazine-1-(3-phenylpropyl)-4-(pyridin-2-yl)piperazine-1-(3-phenylpropyl)-4-(2-pyridyl)piperazine	C(CN1CCN(CC1)c2ccccn2)Cc3ccccc3	6.597884196852666
+CHEMBL145921	2-(3-Phenyl-propyl)-1,2,3,4-tetrahydro-isoquinoline	C(CN1CCc2ccccc2C1)Cc3ccccc3	7.371843701096
+CHEMBL146238	2-Phenethyl-1,2,3,4-tetrahydro-isoquinoline	C(Cc1ccccc1)N2CCc3ccccc3C2	7.744006489705999
+CHEMBL146239	3-Methyl-1-(3-phenyl-propyl)-piperidine	CC1CCCN(CCCc2ccccc2)C1	7.794699197936
+CHEMBL146574	(8-Hydroxy-6,11-dimethyl-1,2,5,6-tetrahydro-4H-2,6-methano-benzo[d]azocin-3-yl)-acetonitrile	CC1C2Cc3ccc(O)cc3[C@@]1(C)CCN2CC#N	4.009920684491
+CHEMBL147093	1'-benzyl-3-ethylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]	CCC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.923793894316
+CHEMBL147151	1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-carbonitrile	N#CC1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	5.630629731716
+CHEMBL147152	1N-methyl-2-[1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-yl]acetamide	CNC(=O)CC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	3.983379584306
+CHEMBL147316	1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-ylmethyl cyanide	N#CCC1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	5.294750413306
+CHEMBL147585	6,11-Dimethyl-3-vinyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3ccc(O)cc3C1CCN2CC=C	6.688783698646
+CHEMBL148009	ethyl 1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-carboxylate	CCOC(=O)C1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	4.661768971496
+CHEMBL148054	ethyl 2-[1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-yl]acetate	CCOC(=O)CC1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	4.684269832656
+CHEMBL148108	1-(3-Phenyl-propyl)-piperidine	C(CN1CCCCC1)Cc2ccccc2	6.359522463876
+CHEMBL148236	ethyl 2-[1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-yl]acetate	CCOC(=O)CC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.158832644156
+CHEMBL148276	1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-carbonitrile	N#CC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	5.313461377026
+CHEMBL148289	1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-ylmethyl cyanide	N#CCC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.842760643406
+CHEMBL14835	6-propionyl-3-(2-(pyrrolidin-1-yl)ethyl)benzo[d]thiazol-2(3H)-one	CCC(=O)c1ccc2N(CCN3CCCC3)C(=O)Sc2c1	6.4504005121159995
+CHEMBL15023	trifluperidol	OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3cccc(c3)C(F)(F)F	8.611768514356
+CHEMBL159022	6-(4-Benzo[d]isoxazol-3-yl-piperazin-1-yl)-1-(2-methoxy-phenyl)-hexan-1-one	COc1ccccc1C(=O)CCCCCN2CCN(CC2)c3noc4ccccc34	6.347541166596
+CHEMBL160817	6-(4-Benzo[d]isoxazol-3-yl-piperazin-1-yl)-1-(2-hydroxy-phenyl)-hexan-1-one	Oc1ccccc1C(=O)CCCCCN2CCN(CC2)c3noc4ccccc34	6.254787113356
+CHEMBL1627	4-(4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl)-N-methyl-2,2-diphenylbutanamide	CNC(=O)C(CCN1CCC(O)(CC1)c2ccc(Cl)cc2)(c3ccccc3)c4ccccc4	8.611768514356
+CHEMBL1643899	N-(3-Fluorobenzyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane-(S)-N-(3-Fluorobenzyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	Fc1cccc(CN[C@H]2C3C4CC5C6C4CC3C6C25)c1	6.218193311086
+CHEMBL1643900	N-(2-(3'-Fluorophenyl)ethyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane-(S)-N-(2-(3-Fluorophenyl)ethyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	Fc1cccc(CCN[C@H]2C3C4CC5C6C4CC3C6C25)c1	6.965709733101
+CHEMBL1643901	N-(3-Fluorobenzyl)-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane-(S)-N-(3-Fluorobenzyl)-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(Cc1cccc(F)c1)[C@H]2C3C4CC5C6C4CC3C6C25	5.318682316306
+CHEMBL1643902	N-(2-(3'-Fluorophenyl)ethyl)-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane-(S)-N-(2-(3-Fluorophenyl)ethyl)-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(CCc1cccc(F)c1)[C@H]2C3C4CC5C6C4CC3C6C25	5.4492787866159995
+CHEMBL167932	1-Methyl-4-(4-propylsulfanyl-[1,2,5]thiadiazol-3-yl)-1,2,3,6-tetrahydro-pyridine	CCCSc1nsnc1C2=CCN(C)CC2	5.912798510016
+CHEMBL1743967	5-Chloro-1-{3-[4-(3-hydroxy-phenyl)-piperazin-1-yl]-propyl}-3,4-dihydro-1H-quinolin-2-one (HBr)	Br.Oc1cccc(c1)N2CCN(CCCN3C(=O)CCc4c(Cl)cccc34)CC2	6.61978875829
+CHEMBL1744087	(R)-(+)-2-[[[3-(Morpholinomethyl)-2H-chromen-8-yl]oxy]-methyl]morpholine methanesulfonate	CS(=O)(=O)O.C(Oc1cccc2C=C(CN3CCOCC3)COc12)[C@H]4CNCCO4	3.514858501346
+CHEMBL177031	4-Chloro-N-{2-[4-(1,2,3,4-tetrahydro-naphthalen-1-yl)-piperazin-1-yl]-ethyl}-benzamide	Clc1ccc(cc1)C(=O)NCCN2CCN(CC2)C3CCCc4ccccc34	5.815888497011
+CHEMBL1774728	1-(1,3-Benzodioxol-5-ylmethyl)-4-(4-fluorobenzyl)piperazine	Fc1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	8.585439575636
+CHEMBL1774729	1-(1,3-Benzodioxol-5-ylmethyl)-4-(4-bromobenzyl)piperazine	Brc1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	8.622763898656
+CHEMBL1774730	1-(1,3-Benzodioxol-5-ylmethyl)-4-(4-iodobenzyl)piperazine	Ic1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	8.611768514356
+CHEMBL1774731	1-(1,3-Benzodioxol-5-ylmethyl)-4-(4-nitrobenzyl)piperazine	[O-][N+](=O)c1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	8.881390045766
+CHEMBL1774732	1-(1,3-Benzodioxol-5-ylmethyl)-4-(4-methylbenzyl)-piperazine	Cc1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	8.555817109026
+CHEMBL1779058	N-(4-(4-Fluoro)butyrophenone)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCCC(=O)c7ccc(F)cc7	7.083494737185999
+CHEMBL1779059	N-(2-(4-methoxy-3-phenethoxyphenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccc(CCN2C3C4C5CC6C7C5C3C7C2(O)C46)cc1OCCc8ccccc8	7.213828505685999
+CHEMBL1779060	N-(2-(2-methoxy-5-methylbenzamido)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccc(C)cc1C(=O)NCCN2C3C4C5CC6C7C5C3C7C2(O)C46	7.6340449090660005
+CHEMBL1830149	1-(4-(4-cyclohexylpiperazin-1-yl)butyl)indole	C(CCn1ccc2ccccc12)CN3CCN(CC3)C4CCCCC4	7.998984657635999
+CHEMBL1831156	1-(4-(4-(4-Fluorophenyl)piperazin-1-yl)butyl)indole	Fc1ccc(cc1)N2CCN(CCCCn3ccc4ccccc34)CC2	6.6605524595459995
+CHEMBL1831157	2-(4-(Indol-1-yl)butyl)-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline	COc1cc2CCN(CCCCn3ccc4ccccc34)Cc2cc1OC	6.366564403916
+CHEMBL1831158	1-{1-[4-(4-Cyclohexyl-piperazin-1-yl)-butyl]indol-5-yl}-ethanone	CC(=O)c1ccc2c(ccn2CCCCN3CCN(CC3)C4CCCCC4)c1	7.788131292315999
+CHEMBL1831159	1-(1-{4-[4-(4-Fluorophenyl)-piperazin-1-yl]-butyl}indol-5-yl)-ethanone	CC(=O)c1ccc2c(ccn2CCCCN3CCN(CC3)c4ccc(F)cc4)c1	8.186478897906
+CHEMBL1831160	1-{1-[4-(6,7-Dimethoxy-3,4-dihydro-1H-isoquinolin-2-yl)-butyl]indol-5-yl}-ethanone	COc1cc2CCN(CCCCn3ccc4cc(ccc34)C(=O)C)Cc2cc1OC	7.3519955080259995
+CHEMBL1831161	1-[4-(4-Cyclohexyl-piperazin-1-yl)-butyl]-3-phenylindole	C(CCn1cc(c2ccccc2)c3ccccc13)CN4CCN(CC4)C5CCCCC5	6.549045548305999
+CHEMBL1831162	1-{4-[4-(4-Fluorophenyl)-piperazin-1-yl]-butyl}-3-phenylindole	Fc1ccc(cc1)N2CCN(CCCCn3cc(c4ccccc4)c5ccccc35)CC2	6.167860433355999
+CHEMBL1831163	6,7-Dimethoxy-2-(4-(3-phenylindol-1-yl)butyl)-1,2,3,4-tetrahydroisoquinoline	COc1cc2CCN(CCCCn3cc(c4ccccc4)c5ccccc35)Cc2cc1OC	5.661464523896
+CHEMBL1831164	1-(4-(4-Cyclohexylpiperazin-1-yl)butyl)-3-(4-fluorophenyl)indole	Fc1ccc(cc1)c2cn(CCCCN3CCN(CC3)C4CCCCC4)c5ccccc25	6.556437973295999
+CHEMBL1831165	3-(4-Fluorophenyl)-1-(4-(4-(4-fluorophenyl)piperazin-1-yl)butyl)indole	Fc1ccc(cc1)N2CCN(CCCCn3cc(c4ccc(F)cc4)c5ccccc35)CC2	5.434954033676
+CHEMBL1831166	2-(4-(3-(4-Fluorophenyl)indol-1-yl)butyl)-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline	COc1cc2CCN(CCCCn3cc(c4ccc(F)cc4)c5ccccc35)Cc2cc1OC	5.045272098816
+CHEMBL1831167	1-[4-(4-Cyclohexyl-piperazin-1-yl)-butyl]-3-furan-3-ylindole	C(CCn1cc(c2cocc2)c3ccccc13)CN4CCN(CC4)C5CCCCC5	6.977039406276
+CHEMBL1831168	1-{4-[4-(4-Fluorophenyl)-piperazin-1-yl]-butyl}-3-furan-3-ylindole	Fc1ccc(cc1)N2CCN(CCCCn3cc(c4cocc4)c5ccccc35)CC2	6.069254298075999
+CHEMBL1831169	2-(4-(3-(Furan-3-yl)indol-1-yl)butyl)-6,7-dimethoxy-1,2,3,4-tetrahydroisoquinoline	COc1cc2CCN(CCCCn3cc(c4cocc4)c5ccccc35)Cc2cc1OC	5.726930685616
+CHEMBL1833977	1-(2-Benzofuranylmethyl)-4-[3-(4-methoxyphenyl)propyl]piperazine	COc1ccc(CCCN2CCN(Cc3oc4ccccc4c3)CC2)cc1	8.023496807516
+CHEMBL1834251	1-(2-Benzofuranylmethyl)-4-phenethylpiperazine	C(Cc1ccccc1)N2CCN(Cc3oc4ccccc4c3)CC2	7.651535641225999
+CHEMBL1834252	1-(2-Benzofuranylmethyl)-4-[2-(2-methoxyphenyl)ethyl]piperazine	COc1ccccc1CCN2CCN(Cc3oc4ccccc4c3)CC2	7.284409579966
+CHEMBL1834253	1-(2-Benzofuranylmethyl)-4-[2-(3-methoxyphenyl)ethyl]piperazine	COc1cccc(CCN2CCN(Cc3oc4ccccc4c3)CC2)c1	7.400915149036
+CHEMBL1834254	1-(2-Benzofuranylmethyl)-4-[2-(4-methoxyphenyl)ethyl]piperazine	COc1ccc(CCN2CCN(Cc3oc4ccccc4c3)CC2)cc1	7.541730647746
+CHEMBL1834255	1-(2-Benzofuranylmethyl)-4-(3-phenylpropyl)piperazine	C(CN1CCN(Cc2oc3ccccc3c2)CC1)Cc4ccccc4	7.758983645676
+CHEMBL1834256	1-(2-Benzofuranylmethyl)-4-[3-(2-methoxyphenyl)propyl]piperazine	COc1ccccc1CCCN2CCN(Cc3oc4ccccc4c3)CC2	7.595780408966
+CHEMBL1834257	1-(2-Benzofuranylmethyl)-4-[3-(3-methoxyphenyl)propyl]piperazine	COc1cccc(CCCN2CCN(Cc3oc4ccccc4c3)CC2)c1	7.758983645676
+CHEMBL1834258	1-(2-Benzofuranylmethyl)-4-(4-phenylbutyl)piperazine	C(CCc1ccccc1)CN2CCN(Cc3oc4ccccc4c3)CC2	7.891609210945999
+CHEMBL1834259	1-(2-Benzofuranylmethyl)-4-[4-(2-methoxyphenyl)butyl]piperazine	COc1ccccc1CCCCN2CCN(Cc3oc4ccccc4c3)CC2	7.310738518686
+CHEMBL1834260	1-(2-Benzofuranylmethyl)-4-[4-(3-methoxyphenyl)butyl]piperazine	COc1cccc(CCCCN2CCN(Cc3oc4ccccc4c3)CC2)c1	7.6340449090660005
+CHEMBL1834261	1-(2-Benzofuranylmethyl)-4-[4-(4-methoxyphenyl)butyl]piperazine	COc1ccc(CCCCN2CCN(Cc3oc4ccccc4c3)CC2)cc1	7.400915149036
+CHEMBL1907644	(R)Benzyl-(1-methyl-2-phenyl-ethyl)-amine; benzoate	C[C@H](Cc1ccccc1)NCc2ccccc2	6.5020212766359995
+CHEMBL1907645	(R)Cyclopropylmethyl-(1-methyl-2-phenyl-ethyl)-amine	C[C@H](Cc1ccccc1)NCC2CC2	5.692690421976
+CHEMBL1907647	(R)3-(1-Methyl-2-phenyl-ethylamino)-1-phenyl-propan-1-one	C[C@H](Cc1ccccc1)NCCC(=O)c2ccccc2	6.651535641225999
+CHEMBL1907648	(R)(1-Methyl-2-phenyl-ethyl)-(2-phenoxy-ethyl)-amine	C[C@H](Cc1ccccc1)NCCOc2ccccc2	7.009708523025999
+CHEMBL1927694	2,3,4-Trimethoxy-N-(4-(7-nitro-3,4-dihydroisoquinoline-2(1H)-yl)butyl)benzamide	COc1ccc(C(=O)NCCCCN2CCc3ccc(cc3C2)[N+](=O)[O-])c(OC)c1OC	4.501178804056
+CHEMBL1927695	2,3-Dimethoxy-N-(4-(7-nitro-3,4-dihydroisoquinoline-2(1H)-yl)butyl)benzamide	COc1cccc(C(=O)NCCCCN2CCc3ccc(cc3C2)[N+](=O)[O-])c1OC	4.618883768986
+CHEMBL1927696	2-Hydroxy-4-iodo-3-methoxy-N-(4-(7-nitro-3,4-dihydroisoquinoline-2(1H)-yl)butyl)benzamide	COc1c(O)c(ccc1I)C(=O)NCCCCN2CCc3ccc(cc3C2)[N+](=O)[O-]	3.641654192066
+CHEMBL1927697	2-Hydroxy-3-methoxy-N-(4-(7-nitro-3,4-dihydroisoquinoline-2(1H)-yl)butyl)benzamide	COc1cccc(C(=O)NCCCCN2CCc3ccc(cc3C2)[N+](=O)[O-])c1O	4.465640478676
+CHEMBL1927698	N-(4-(6,7-dimethoxy-3,4-dihydroisoquinoline-2(1H)-yl)-butyl)-2-hydroxy-3-methoxybenzamide	COc1cccc(C(=O)NCCCCN2CCc3cc(OC)c(OC)cc3C2)c1O	3.683628807476
+CHEMBL1927700	N-(4-(6,7-Dimethoxy-3,4-dihydroisoquinoline-2(1H)-yl)-butyl)-4-nitrobenzamide	COc1cc2CCN(CCCCNC(=O)c3ccc(cc3)[N+](=O)[O-])Cc2cc1OC	4.347836705555999
+CHEMBL1927702	2-(4-(7-Nitro-3,4-dihydroisoquinoline-2(1H)-yl)butyl)-isoindoline-1,3-dione	[O-][N+](=O)c1ccc2CCN(CCCCN3C(=O)c4ccccc4C3=O)Cc2c1	6.572850448325999
+CHEMBL1929431	rac-3,3-Dimethyl-1-[3-(4,5,6,7-tetrahydro-1-benzothiophen-4-yl)propyl]piperidine Oxalate salt	CC1(C)CCCN(CCCC2CCCc3sccc23)C1.OC(=O)C(=O)O	3.917163315416
+CHEMBL196476	7-Methoxy-benzofuran-2-carboxylic acid {4-[4-(2,3-dichloro-phenyl)-piperazin-1-yl]-butyl}-amide	COc1cccc2cc(oc12)C(=O)NCCCCN3CCN(CC3)c4cccc(Cl)c4Cl	6.259585996246
+CHEMBL20153	(4-Phenyl-butyl)-(5-phenyl-pentyl)-amine	C(CCNCCCCc1ccccc1)CCc2ccccc2	8.213828505686
+CHEMBL2017957	N-Benzyl-N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)acetamide	CC(=O)N(CC1CCN(Cc2ccc(Cl)cc2)CC1)Cc3ccccc3	8.243016894805999
+CHEMBL2017958	(4-(((4-Chlorobenzyl)(methyl)amino)methyl)piperidin-1-yl)(phenyl)methanone	CN(CC1CCN(CC1)C(=O)c2ccccc2)Cc3ccc(Cl)cc3	7.033415872846
+CHEMBL2017959	(4-((Methyl(pyridin-3-ylmethyl)amino)methyl)piperidin-1-yl)(phenyl)methanone	CN(CC1CCN(CC1)C(=O)c2ccccc2)Cc3cccnc3	5.3167515024759995
+CHEMBL20302	(S)Methyl-(1-methyl-2-phenyl-ethyl)-phenethyl-amine	C[C@@H](Cc1ccccc1)N(C)CCc2ccccc2	7.310738518686
+CHEMBL2030625	N-(Cyclohexyl)methyl-7-azabicyclo[2.2.1]heptane	C(C1CCCCC1)N2C3CCC2CC3	7.172435820525999
+CHEMBL2030626	N-(Cubyl)methyl-7-azabicyclo[2.2.1]heptane	C(N1C2CCC1CC2)C34C5C6C7C(C3C57)C46	7.669760461335999
+CHEMBL2030627	N-(2-Phenylethyl)-7-azabicyclo[2.2.1]heptane	C(Cc1ccccc1)N2C3CCC2CC3	6.0739494192759995
+CHEMBL2030628	N-(2-(3-Fluorophenyl)ethyl)-7-azabicyclo[2.2.1]heptane	Fc1cccc(CCN2C3CCC2CC3)c1	6.5020212766359995
+CHEMBL2030629	N-(2-(2-Pyridyl)ethyl)-7-azabicyclo[2.2.1]heptane	C(Cc1ccccn1)N2C3CCC2CC3	4.932113535656
+CHEMBL2030630	N-(3-(3-Fluorophenyl)propyl)-7-azabicyclo[2.2.1]heptane	Fc1cccc(CCCN2C3CCC2CC3)c1	6.4356772552959995
+CHEMBL2030634	N-(Cyclohexylmethyl)pyrrolidine	C(C1CCCCC1)N2CCCC2	6.807288325246
+CHEMBL20377	[2-(3,4-Dichloro-phenyl)-ethyl]-methyl-(2-pyrrolidin-1-yl-ethyl)-amine	CN(CCN1CCCC1)CCc2ccc(Cl)c(Cl)c2	8.983379584306
+CHEMBL20626	(R)(1-Methyl-2-phenyl-ethyl)-(3-phenyl-propyl)-amine	C[C@H](Cc1ccccc1)NCCCc2ccccc2	7.368730465665999
+CHEMBL2064615	o-Iodo-trans-decalinvesamicol	OC1C[C@@H]2CCCC[C@H]2CC1N3CCC(CC3)c4ccccc4I	6.131402204825999
+CHEMBL2064616	o-Bromo-trans-decalinvesamicol	OC1C[C@@H]2CCCC[C@H]2CC1N3CCC(CC3)c4ccccc4Br	6.3367452490359994
+CHEMBL2064617	trans-decalinvesamicol	OC1C[C@@H]2CCCC[C@H]2CC1N3CCC(CC3)c4ccccc4	6.645040293366
+CHEMBL20730	(1R,2R)-2-(4-Phenyl-piperidin-1-yl)-cyclohexanol-trans-2-(4-phenylpiperidino)cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCC(CC2)c3ccccc3	7.0943039591109995
+CHEMBL20804	(S)(1-Methyl-2-phenyl-ethyl)-phenethyl-amine	C[C@@H](Cc1ccccc1)NCCc2ccccc2	7.8336172639659996
+CHEMBL20943	2-(4-phenylpiperidin-1-yl)cyclohexanol	OC1CCCCC1N2CCC(CC2)c3ccccc3	7.170466227656
+CHEMBL2103778	9-Methyl-3-(2-methyl-imidazol-1-ylmethyl)-1,2,3,9-tetrahydro-carbazol-4-one	Cc1nccn1C[C@H]2CCc3c(C2=O)c4cccc5CCCn3c45	5.983379584305999
+CHEMBL2112760	9-[3-(3,4,5-Trimethyl-piperazin-1-yl)-propyl]-9H-carbazole	C[C@H]1CN(CCCn2c3ccccc3c4ccccc24)C[C@H](C)N1C	6.153130665326
+CHEMBL2112783	9-{3-[3,5-Dimethyl-4-(3-phenyl-propyl)-piperazin-1-yl]-propyl}-9H-carbazole	C[C@H]1CN(CCCn2c3ccccc3c4ccccc24)C[C@H](C)N1CCCc5ccccc5	6.353490499116
+CHEMBL2112784	[3-(3,5-Dimethyl-piperazin-1-yl)-propyl]-diphenyl-amine	C[C@H]1CN(CCCN(c2ccccc2)c3ccccc3)C[C@H](C)N1	5.969551384876
+CHEMBL2112787	{3-[3,5-Dimethyl-4-(3-phenyl-propyl)-piperazin-1-yl]-propyl}-diphenyl-amine	C[C@H]1CN(CCCN(c2ccccc2)c3ccccc3)C[C@H](C)N1CCCc4ccccc4	6.252407411616
+CHEMBL2112788	9-[3-(3,5-Dimethyl-piperazin-1-yl)-propyl]-3-nitro-9H-carbazole	C[C@H]1CN(CCCn2c3ccccc3c4cc(ccc24)[N+](=O)[O-])C[C@H](C)N1	6.229301192336
+CHEMBL2112789	3,6-Dibromo-9-[3-(3,5-dimethyl-piperazin-1-yl)-propyl]-9H-carbazole	C[C@H]1CN(CCCn2c3ccc(Br)cc3c4cc(Br)ccc24)C[C@H](C)N1	5.685554728515999
+CHEMBL2112791	9-[3-(3,5-Dimethyl-piperazin-1-yl)-propyl]-9H-carbazol-3-ylamine	C[C@H]1CN(CCCn2c3ccccc3c4cc(N)ccc24)C[C@H](C)N1	5.294750413306
+CHEMBL2114053	(R,R)-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-l-(R,S)-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-l	CCCN1CCC[C@H]2[C@@H]1CCc3c(O)cccc23	6.849832715994999
+CHEMBL2114055	(R,R)-1,2,3,4,4a,5,6,10b-Octahydro-benzo[f]quinolin-7-ol	Oc1cccc2[C@H]3CCCN[C@@H]3CCc12	5.62525165399
+CHEMBL21272	2-Benzyl-1,2,3,4-tetrahydro-isoquinoline	C(N1CCc2ccccc2C1)c3ccccc3	5.10790539731
+CHEMBL21273	1-Isobutyl-1,2,3,4-tetrahydro-isoquinoline	CC(C)CC1NCCc2ccccc12	5.30102999566
+CHEMBL21277	1-(4-Fluoro-phenyl)-1,2,3,4-tetrahydro-isoquinoline	Fc1ccc(cc1)C2NCCc3ccccc23	5.7447274949
+CHEMBL21323	2-(2-Ethoxy-ethyl)-1-phenyl-1,2,3,4-tetrahydro-isoquinoline	CCOCCN1CCc2ccccc2C1c3ccccc3	5.26760624018
+CHEMBL21326	3-Allyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	C[C@H]1C2Cc3ccccc3[C@@]1(C)CCN2CC=C	7.30102999566
+CHEMBL21342	3-Phenyl-1,2,3,4-tetrahydro-isoquinoline	C1NC(Cc2ccccc12)c3ccccc3	5.58502665203
+CHEMBL21379	Spiro[cyclohexane-1,1'(2H)-isoquinoline]	C1CCC2(CC1)NCCc3ccccc23	3.0
+CHEMBL21464	2-Allyl-1-phenyl-1,2,3,4-tetrahydro-isoquinoline	C=CCN1CCc2ccccc2C1c3ccccc3	5.88605664769
+CHEMBL21465	1-Phenyl-1,2,3,4-tetrahydro-isoquinoline	C1Cc2ccccc2C(N1)c3ccccc3	5.69897000434
+CHEMBL21477	7-Methyl-4,5,6,7-tetrahydro-thieno[2,3-c]pyridine	CC1NCCc2ccsc12	4.95860731484
+CHEMBL21484	1-(4-Methoxy-phenyl)-1,2,3,4-tetrahydro-isoquinoline	COc1ccc(cc1)C2NCCc3ccccc23	5.65757731918
+CHEMBL21633	2-Allyl-1-naphthalen-2-yl-1,2,3,4-tetrahydro-isoquinoline	C=CCN1CCc2ccccc2C1c3ccc4ccccc4c3	4.95860731484
+CHEMBL21640	1-Benzyl-1,2,3,4-tetrahydro-isoquinoline	C(C1NCCc2ccccc12)c3ccccc3	6.36653154442
+CHEMBL2165447	(S)-3-(azetidin-2-ylmethoxy)-5-(phenoxymethyl)isoxazole	C(Oc1cc(COc2ccccc2)on1)[C@@H]3CCN3	6.996344561466
+CHEMBL2165452	(S)-5-(azetidin-2-ylmethoxy)-3-(phenoxymethyl)isoxazole	C(Oc1onc(COc2ccccc2)c1)[C@@H]3CCN3	5.998984657636
+CHEMBL2165453	(S)-3-(phenoxymethyl)-5-(pyrrolidin-2-ylmethoxy)isoxazole	C(Oc1onc(COc2ccccc2)c1)[C@@H]3CCCN3	7.891609210945999
+CHEMBL21672	1-Phenyl-2,3-dihydro-1H-isoindole	C1NC(c2ccccc2)c3ccccc13	3.52287874528
+CHEMBL21692	1-Phenyl-2,3,4,5-tetrahydro-1H-benzo[c]azepine	C1CNC(c2ccccc2)c3ccccc3C1	3.0
+CHEMBL21805	2-Ethyl-1-phenyl-1,2,3,4-tetrahydro-isoquinoline	CCN1CCc2ccccc2C1c3ccccc3	5.88605664769
+CHEMBL2181924	6-(3-fluoropropyl)-3-(2-(azepan-1-yl)ethyl)benzo[d]thiazol-2(3H)-one	FCCCc1ccc2N(CCN3CCCCCC3)C(=O)Sc2c1	8.532587268306
+CHEMBL21830	1-Thiophen-2-yl-1,2,3,4-tetrahydro-isoquinoline	C1Cc2ccccc2C(N1)c3cccs3	5.42021640338
+CHEMBL21911	1-Cyclohexyl-1,2,3,4-tetrahydro-isoquinoline	C1CCC(CC1)C2NCCc3ccccc23	4.95860731484
+CHEMBL21920	1-(4-Chloro-phenyl)-1,2,3,4-tetrahydro-isoquinoline	Clc1ccc(cc1)C2NCCc3ccccc23	5.46852108296
+CHEMBL21969	1-p-Tolyl-1,2,3,4-tetrahydro-isoquinoline	Cc1ccc(cc1)C2NCCc3ccccc23	5.25181197299
+CHEMBL22005	2-Allyl-1-cyclohexyl-1,2,3,4-tetrahydro-isoquinoline	C=CCN1CCc2ccccc2C1C3CCCCC3	5.50863830617
+CHEMBL22009	1,3-Dimethyl-1,2,3,4-tetrahydro-isoquinoline	CC1Cc2ccccc2C(C)N1	4.82390874094
+CHEMBL2203550	3-[[3-(2(S)-Azetidinylmethoxy)isoxazol-5-yl]methoxy]-5-chloropyridine	Clc1cncc(OCc2onc(OC[C@@H]3CCN3)c2)c1	6.5020212766359995
+CHEMBL2203551	5-(Phenoxymethyl)-3-(2(S)-pyrrolidinylmethoxy)isoxazole	C(Oc1cc(COc2ccccc2)on1)[C@@H]3CCCN3	7.9020746446259995
+CHEMBL22053	2-Methyl-1,2,3,4-tetrahydro-isoquinoline	CN1CCc2ccccc2C1	5.56863623584
+CHEMBL2205360	6-Methoxy-3-methyl-N-phenyl-N-(3-(piperidin-1-yl)propyl)benzofuran-2-carboxamide	COc1ccc2c(C)c(oc2c1)C(=O)N(CCCN3CCCCC3)c4ccccc4	6.983379584305999
+CHEMBL2205361	3-Methyl-N-phenyl-N-(3-(piperidin-1-yl)propyl)benzo furan-2-carboxamide	Cc1c(oc2ccccc12)C(=O)N(CCCN3CCCCC3)c4ccccc4	7.622763898656
+CHEMBL2205362	5,6-Dimethoxy-3-methyl-N-phenyl-N-(3-(piperidin-1-yl)propyl)benzofuran-2-carboxamide	COc1cc2oc(C(=O)N(CCCN3CCCCC3)c4ccccc4)c(C)c2cc1OC	7.075525807516
+CHEMBL2205811	N-(2-(3-Methoxyphenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1cccc(CCN2C3C4C5CC6C7C5C3C7C2(O)C46)c1	6.796356812476
+CHEMBL2205812	N-(2-(4-Methoxyphenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccc(CCN2C3C4C5CC6C7C5C3C7C2(O)C46)cc1	7.335881554056
+CHEMBL2205813	N-(2-(2,3-Dimethyoxyphenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1cccc(CCN2C3C4C5CC6C7C5C3C7C2(O)C46)c1OC	7.338767242286
+CHEMBL2205814	N-(2-(3,4-Dimethyoxyphenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccc(CCN2C3C4C5CC6C7C5C3C7C2(O)C46)cc1OC	6.510537127566
+CHEMBL2205815	N-(2-(3,4-Methylenedioxyphenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCc7ccc8OCOc8c7	7.0998851533759995
+CHEMBL2205816	N-(2-(2-Pyridyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCc7ccccn7	5.446672639596
+CHEMBL2205817	N-(2-(3-Pyridyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCc7cccnc7	5.603700892606
+CHEMBL2205818	N-(2-(4-Pyridyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCc7ccncc7	6.682349588636
+CHEMBL2205819	N-(3-(Phenyl)propyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCCc7ccccc7	7.284409579966
+CHEMBL2205820	N-(3-(3-Fluorophenyl)propyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCCc7cccc(F)c7	7.338767242286
+CHEMBL2205821	N-(4-(Phenyl)butyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCCCc7ccccc7	7.514858501346
+CHEMBL2205822	N-(4-(3-Fluorophenyl)butyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCCCc7cccc(F)c7	7.774495811855999
+CHEMBL2205823	N-(2-Methoxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccccc1CN2C3C4C5CC6C7C5C3C7C2(O)C46	6.236104900396
+CHEMBL2205824	N-(3-Methoxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1cccc(CN2C3C4C5CC6C7C5C3C7C2(O)C46)c1	6.000310748685999
+CHEMBL2205825	N-(4-Methoxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccc(CN2C3C4C5CC6C7C5C3C7C2(O)C46)cc1	6.213828505685999
+CHEMBL2205826	N-(2,4-Dimethyoxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccc(CN2C3C4C5CC6C7C5C3C7C2(O)C46)c(OC)c1	6.695314565806
+CHEMBL2205827	N-(3,4-Dimethyoxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccc(CN2C3C4C5CC6C7C5C3C7C2(O)C46)cc1OC	6.1569236543459995
+CHEMBL2205828	N-(3,5-Dimethyoxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1cc(CN2C3C4C5CC6C7C5C3C7C2(O)C46)cc(OC)c1	5.729528666336
+CHEMBL2205829	N-(3,4-Methylenedioxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2Cc7ccc8OCOc8c7	5.876369244396
+CHEMBL2205830	N-(3,4,5-Trimethyoxybenzyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1cc(CN2C3C4C5CC6C7C5C3C7C2(O)C46)cc(OC)c1OC	4.882502455106
+CHEMBL2205831	N-(Cyclohexyl)methyl-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CC7CCCCC7	7.688783698645999
+CHEMBL2205832	N-(2-Pyridyl)methyl-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2Cc7ccccn7	5.494497218696
+CHEMBL2205833	N-(3-Pyridyl)methyl-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2Cc7cccnc7	3.514858501346
+CHEMBL2205834	N-(4-Pyridyl)methyl-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2Cc7ccncc7	5.338188568675999
+CHEMBL2205835	N-(2-(Phenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	OC12C3C4CC5C6C4C1C6C(C35)N2CCc7ccccc7	7.0998851533759995
+CHEMBL2205836	N-(2-(2-Methoxyphenyl)ethyl)-4-azahexacyclo[5.4.1.0(2,6).0(3,10).0(5,9).0(8,11)]dodecan-3-ol	COc1ccccc1CCN2C3C4C5CC6C7C5C3C7C2(O)C46	6.677901764285999
+CHEMBL22078	2-Benzyl-3-methyl-1,2,3,4-tetrahydro-isoquinoline	CC1Cc2ccccc2CN1Cc3ccccc3	5.49485002168
+CHEMBL22133	7-Isopropyl-4,5,6,7-tetrahydro-thieno[2,3-c]pyridine	CC(C)C1NCCc2ccsc12	5.42021640338
+CHEMBL223337	(R/S)-3-(6-Methoxynaphthalen-2-yl)-N,N-dimethylbutan-1-amine	COc1ccc2cc(ccc2c1)C(C)CCN(C)C	7.3564960092459994
+CHEMBL224021	(E)-3-(6-Methoxynaphthalen-2-yl)-N,N-dimethylbut-2-en-1-amine	COc1ccc2cc(ccc2c1)\C(=C\CN(C)C)\C	7.078695854306
+CHEMBL224099	4(E)-N-Benzyl-3-(biphenyl-4-yl)-N-methylbut-2-en-1-amine	CN(C\C=C(/C)\c1ccc(cc1)c2ccccc2)Cc3ccccc3	7.894722446375999
+CHEMBL224151	(R/S)-N-Benzyl-3-(biphenyl-4-yl)-N-methylbutan-1-amine	CC(CCN(C)Cc1ccccc1)c2ccc(cc2)c3ccccc3	7.959764052765999
+CHEMBL2314424	1-(1,3-benzodioxol-5-ylmethyl)-4-(4-(2-fluoroethoxy)benzyl)piperazine	FCCOc1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	8.247686772946
+CHEMBL2314425	1-(1,3-benzodioxol-5-ylmethyl)-4-(4-(2-(2-fluoroethoxy)ethoxy)benzyl)piperazine	FCCOCCOc1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	6.905264092116
+CHEMBL2314426	1-(1,3-benzodioxol-5-ylmethyl)-4-(4-(2-(2-(2-fluoroethoxy)ethoxy)ethoxy)benzyl)piperazine	FCCOCCOCCOc1ccc(CN2CCN(Cc3ccc4OCOc4c3)CC2)cc1	5.811567123225999
+CHEMBL2346997	1'-(4-iodobenzyl)-3H-spiro[isobenzofuran-1,4'-piperidine]	Ic1ccc(CN2CCC3(CC2)OCc4ccccc34)cc1	8.075525807516
+CHEMBL2346998	1'-(4-(2-(2-(2-Fluoroethoxy)ethoxy)ethoxy)benzyl)spiro[2-benzofuran-1(3H),4'-piperidine]	FCCOCCOCCOc1ccc(CN2CCC3(CC2)OCc4ccccc34)cc1	6.940827233616
+CHEMBL2346999	1'-(4-(2-(2-Fluoroethoxy)ethoxy)benzyl)spiro[2-benzofuran-1-(3H),4'-piperidine]	FCCOCCOc1ccc(CN2CCC3(CC2)OCc4ccccc34)cc1	6.791402829306
+CHEMBL2347000	1'-((6-(2-Fluoroethoxy)pyridin-3-yl)methyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	FCCOc1ccc(CN2CCC3(CC2)OCc4ccccc34)cn1	8.153130665326
+CHEMBL2347001	1'-(4-(2-Fluoroethoxy)benzyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	FCCOc1ccc(CN2CCC3(CC2)OCc4ccccc34)cc1	8.617231410056
+CHEMBL2347002	1'-(4-Methoxybenzyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	COc1ccc(CN2CCC3(CC2)OCc4ccccc34)cc1	8.284409579965999
+CHEMBL240981	N-(2-phenylethyl)-5-oxahexacyclo[5.4.1.0^{2,6}.0^{3,10}.0^{4,8}.0^{9,12}]dodecan-4-amine	C(Cc1ccccc1)NC23OC4C5C6CC(C7C6C4C27)C35	5.81247927916
+CHEMBL2413795	rac-trans-N,N-Dimethyl-2-(3-phenylpropoxy)cyclohexanamine	CN(C)[C@H]1CCCC[C@@H]1OCCCc2ccccc2	7.852100669665999
+CHEMBL2413796	rac-trans-2-(Cinnamyloxy)-N,N-dimethylcyclohexanamine	CN(C)[C@H]1CCCC[C@@H]1OC\C=C\c2ccccc2	6.744006489706
+CHEMBL2413876	rac-trans-2-(Methyl(phenethyl)amino)cyclohexanol	CN(CCc1ccccc1)[C@H]2CCCC[C@@H]2O	6.4356772552959995
+CHEMBL2413877	rac-trans-N-Methyl-N-phenethyl-2-(3-phenylpropoxy)cyclohexanamine	CN(CCc1ccccc1)[C@H]2CCCC[C@@H]2OCCCc3ccccc3	6.590579215286
+CHEMBL2413878	rac-trans-2-(Methyl(3-phenylpropyl)amino)cyclohexanol	CN(CCCc1ccccc1)[C@H]2CCCC[C@@H]2O	7.236104900396
+CHEMBL2413879	rac-trans-N-Methyl-2-(3-phenylpropoxy)-N-(3-phenylpropyl)cyclohexanamine	CN(CCCc1ccccc1)[C@H]2CCCC[C@@H]2OCCCc3ccccc3	5.617231410055999
+CHEMBL2414347	3-(3-(azepan-1-yl)propyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCN3CCCCCC3	7.9020746446259995
+CHEMBL2414348	3-(4-(azepan-1-yl)butyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCCN3CCCCCC3	8.009708523026
+CHEMBL2414406	3-(5-(azepan-1-yl)pentyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCCCN3CCCCCC3	7.669760461335999
+CHEMBL2414407	3-(6-(azepan-1-yl)hexyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCCCCN3CCCCCC3	7.6397972379559995
+CHEMBL2414408	3-(2-(pyrrolidin-1-yl)ethyl)benzo[d]thiazol-2(3H)-one hydrochloride	Cl.O=C1Sc2ccccc2N1CCN3CCCC3	5.7529306629259995
+CHEMBL2414409	3-(2-(azocan-1-yl)ethyl)benzo[d]thiazol-2(3H)-one hydrochloride	Cl.O=C1Sc2ccccc2N1CCN3CCCCCCC3	7.528086767075999
+CHEMBL2414410	3-(2-(azepan-1-yl)ethyl)-6-propionyl benzo[d]thiazol-2(3H)-one	CCC(=O)c1ccc2N(CCN3CCCCCC3)C(=O)Sc2c1	7.861645987566
+CHEMBL2414411	3-(3-(azepan-1-yl)propyl)-6-propionylbenzo[d]thiazol-2(3H)-one	CCC(=O)c1ccc2N(CCCN3CCCCCC3)C(=O)Sc2c1	7.946656777275999
+CHEMBL2414412	3-(4-(azepan-1-yl)butyl)-6-propionylbenzo[d]thiazol-2(3H)-one	CCC(=O)c1ccc2N(CCCCN3CCCCCC3)C(=O)Sc2c1	7.5020212766359995
+CHEMBL2414413	3-(5-(azepan-1-yl)pentyl)-6-propionylbenzo[d]thiazol-2(3H)-one	CCC(=O)c1ccc2N(CCCCCN3CCCCCC3)C(=O)Sc2c1	7.4284986706759994
+CHEMBL2414414	3-(6-(azepan-1-yl)hexyl)-6-propionylbenzo[d]thiazol-2(3H)-one	CCC(=O)c1ccc2N(CCCCCCN3CCCCCC3)C(=O)Sc2c1	7.4978251620459995
+CHEMBL2414415	3-(3-(azepan-1-yl)propyl)-6-butyrylbenzo[d]thiazol-2(3H)-one	CCCC(=O)c1ccc2N(CCCN3CCCCCC3)C(=O)Sc2c1	8.099885153376
+CHEMBL2414416	3-(4-(azepan-1-yl)butyl)-6-butyrylbenzo[d]thiazol-2(3H)-one	CCCC(=O)c1ccc2N(CCCCN3CCCCCC3)C(=O)Sc2c1	7.8336172639659996
+CHEMBL2414417	3-(5-(azepan-1-yl)pentyl)-6-butyrylbenzo[d]thiazol-2(3H)-one	CCCC(=O)c1ccc2N(CCCCCN3CCCCCC3)C(=O)Sc2c1	7.302670896945999
+CHEMBL2414418	3-(6-(azepan-1-yl)hexyl)-6-butyrylbenzo[d]thiazol-2(3H)-one	CCCC(=O)c1ccc2N(CCCCCCN3CCCCCC3)C(=O)Sc2c1	7.481434745855999
+CHEMBL2414419	3-(3-(azepan-1-yl)propyl)-6-propylbenzo[d]thiazol-2(3H)-one	CCCc1ccc2N(CCCN3CCCCCC3)C(=O)Sc2c1	8.368730465666
+CHEMBL2414420	3-(4-(azepan-1-yl)butyl)-6-propylbenzo[d]thiazol-2(3H)-one	CCCc1ccc2N(CCCCN3CCCCCC3)C(=O)Sc2c1	7.729528666336
+CHEMBL2414421	3-(5-(azepan-1-yl)pentyl)-6-propylbenzo[d]thiazol-2(3H)-one	CCCc1ccc2N(CCCCCN3CCCCCC3)C(=O)Sc2c1	7.852100669665999
+CHEMBL2414422	3-(6-(azepan-1-yl)hexyl)-6-propylbenzo[d]thiazol-2(3H)-one	CCCc1ccc2N(CCCCCCN3CCCCCC3)C(=O)Sc2c1	7.715517951896
+CHEMBL2414423	3-(3-(azepan-1-yl)propyl)-6-butylbenzo[d]thiazol-2(3H)-one	CCCCc1ccc2N(CCCN3CCCCCC3)C(=O)Sc2c1	8.172435820526
+CHEMBL2414424	3-(4-(azepan-1-yl)butyl)-6-butylbenzo[d]thiazol-2(3H)-one hydrochloride	Cl.CCCCc1ccc2N(CCCCN3CCCCCC3)C(=O)Sc2c1	8.236104900396
+CHEMBL2414425	3-(6-(azepan-1-yl)hexyl)-6-butylbenzo[d]thiazol-2(3H)-one	CCCCc1ccc2N(CCCCCCN3CCCCCC3)C(=O)Sc2c1	7.4356772552959995
+CHEMBL2429890	(S)-N-(3,4-Methylenedioxybenzyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	C(N[C@H]1C2C3CC4C5C3CC2C5C14)c6ccc7OCOc7c6	7.284409579966
+CHEMBL2432038	(S)-N-(Cyclohexyl)methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	C(N[C@H]1C2C3CC4C5C3CC2C5C14)C6CCCCC6	7.912798510016
+CHEMBL2432039	(S)-N-(Cubyl)methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	C(N[C@H]1C2C3CC4C5C3CC2C5C14)C67C8C9C%10C(C6C8%10)C79	8.037737246626
+CHEMBL2432040	(S)-N-Benzyl-N-methyl-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	CN(Cc1ccccc1)[C@H]2C3C4CC5C6C4C2C6C(=O)C35	5.760510165636
+CHEMBL2432041	(S)-N-(3-Fluorobenzyl)-N-methyl-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	CN(Cc1cccc(F)c1)[C@H]2C3C4CC5C6C4C2C6C(=O)C35	6.033415872846
+CHEMBL2432042	(S)-N-(3,4-Dimethoxybenzyl)-N-methyl-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	COc1ccc(CN(C)[C@H]2C3C4CC5C6C4C2C6C(=O)C35)cc1OC	5.499918151556
+CHEMBL2432043	(S)-N-(3-Pyridyl)methyl-N-methyl-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	CN(Cc1cccnc1)[C@H]2C3C4CC5C6C4C2C6C(=O)C35	5.649162441425999
+CHEMBL2432044	(S)-N-Methyl-N-(2-(Phenyl)ethyl)-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	CN(CCc1ccccc1)[C@H]2C3C4CC5C6C4C2C6C(=O)C35	5.597352991796
+CHEMBL2432045	(S)-N-Benzyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	C(N[C@H]1C2C3CC4C5C3CC2C5C14)c6ccccc6	6.622763898655999
+CHEMBL2432046	(S)-N-(3,4-Dimethoxybenzyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	COc1ccc(CN[C@H]2C3C4CC5C6C4CC3C6C25)cc1OC	6.541730647745999
+CHEMBL2432047	(S)-N-(3-Pyridyl)methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	C(N[C@H]1C2C3CC4C5C3CC2C5C14)c6cccnc6	5.808994789065999
+CHEMBL2432048	(S)-N-(2-(Phenyl)ethyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	C(Cc1ccccc1)N[C@H]2C3C4CC5C6C4CC3C6C25	6.824662421316
+CHEMBL2432049	(S)-N-(2-(2-Pyridyl)ethyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	C(Cc1ccccn1)N[C@H]2C3C4CC5C6C4CC3C6C25	7.182420041426
+CHEMBL2432050	(S)-N-(3-(3-Fluorophenyl)propyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	Fc1cccc(CCCN[C@H]2C3C4CC5C6C4CC3C6C25)c1	7.118659154246
+CHEMBL2432051	(S)-N-(3,4,5-Trimethoxybenzyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	COc1cc(CN[C@H]2C3C4CC5C6C4CC3C6C25)cc(OC)c1OC	5.510967335106
+CHEMBL2432052	(S)-N-(2-(3-Fluorophyl)ethyl)-N-methyl-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	CN(CCc1cccc(F)c1)[C@H]2C3C4CC5C6C4C2C6C(=O)C35	5.907403478136
+CHEMBL2432053	(S)-N-Methyl-N-(2-(2-pyridyl)ethyl)-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	CN(CCc1ccccn1)[C@H]2C3C4CC5C6C4C2C6C(=O)C35	3.514858501346
+CHEMBL2432054	(S)-N-(3-(3-Fluorophenyl)propyl)-N-methyl-11-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecan-8-one	CN(CCCc1cccc(F)c1)[C@H]2C3C4CC5C6C4C2C6C(=O)C35	6.391006860376
+CHEMBL2432055	(S)-N-Benzyl-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(Cc1ccccc1)[C@H]2C3C4CC5C6C4CC3C6C25	5.628367776176
+CHEMBL2432056	(S)-N-(3,4-Dimethoxybenzyl)-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	COc1ccc(CN(C)[C@H]2C3C4CC5C6C4CC3C6C25)cc1OC	6.108318320915999
+CHEMBL2432057	(S)-N-Methyl-N-(3-pyridyl)methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(Cc1cccnc1)[C@H]2C3C4CC5C6C4CC3C6C25	5.528086767075999
+CHEMBL2432058	(S)-N-Methyl-N-(2-(phenyl)ethyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(CCc1ccccc1)[C@H]2C3C4CC5C6C4CC3C6C25	5.626679007426
+CHEMBL2432059	(S)-N-Methyl-N-(2-(2-pyridyl)ethyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(CCc1ccccn1)[C@H]2C3C4CC5C6C4CC3C6C25	5.863580487346
+CHEMBL2432060	(S)-N-(3-(3-Fluorophenyl)propyl)-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(CCCc1cccc(F)c1)[C@H]2C3C4CC5C6C4CC3C6C25	5.882401209166
+CHEMBL2432061	(S)-N-Methyl-N-(3,4,5-trimethoxybenzyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	COc1cc(CN(C)[C@H]2C3C4CC5C6C4CC3C6C25)cc(OC)c1OC	5.429567923115999
+CHEMBL2432062	(S)-N-Methyl-N-(3,4-methylenedioxybenzyl)-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(Cc1ccc2OCOc2c1)[C@H]3C4C5CC6C7C5CC4C7C36	6.194712215236
+CHEMBL2432063	(S)-N-(Cyclohexyl)methyl-N-methyl-8-aminopentacyclo[5.4.0.02,6.03,10.05,9]undecane	CN(CC1CCCCC1)[C@H]2C3C4CC5C6C4CC3C6C25	7.338767242286
+CHEMBL262955	[2-(2-Benzyloxy-3-methoxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1cccc(OC)c1OCc2ccccc2.OC(=O)C(=O)O	7.58502665203
+CHEMBL263282	6-[((E)-3-Iodo-allyl)-propyl-amino]-5,6,7,8-tetrahydro-naphthalen-1-ol	CCCN(C\C=C\I)C1CCc2c(O)cccc2C1	5.422137856666
+CHEMBL264437	(+/-)-Dehydrovesamicol	O[C@@H]1CC=CC[C@H]1N2CCC(CC2)c3ccccc3	7.751430507785999
+CHEMBL269638	[3-(5-Bromo-2-phenethyloxy-phenyl)-propyl]-dipropyl-amine oxalate	CCCN(CCC)CCCc1cc(Br)ccc1OCCc2ccccc2.OC(=O)C(=O)O	7.95860731484
+CHEMBL269876	3-(2-(4-cyclohexylpiperazin-1-yl)ethyl)benzo[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CCN3CCN(CC3)C4CCCCC4	7.6760094106059995
+CHEMBL270341	3-(4-(4-cyclohexylpiperazin-1-yl)butyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCCN3CCN(CC3)C4CCCCC4	7.894722446375999
+CHEMBL271772	3-(4-(4-cyclohexylpiperazin-1-yl)butyl)benzo-[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CCCCN3CCN(CC3)C4CCCCC4	7.463320110825999
+CHEMBL271975	3-(2-(4-cyclohexylpiperazin-1-yl)ethyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCN3CCN(CC3)C4CCCCC4	7.846472584656
+CHEMBL272603	3-(4-(4-cyclohexylpiperazin-1-yl)butyl)benzo[d]thiazole-2(3H)-thione	S=C1Sc2ccccc2N1CCCCN3CCN(CC3)C4CCCCC4	8.404281840366
+CHEMBL272608	3-(2-(4-cyclohexylpiperazin-1-yl)hexyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCCCCN3CCN(CC3)C4CCCCC4	7.698617201355999
+CHEMBL272610	3-(6-(4-cyclohexylpiperazin-1-yl)hexyl)benzo[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CCCCCCN3CCN(CC3)C4CCCCC4	7.852100669665999
+CHEMBL272854	3-(4-(4-cyclohexylpiperazin-1-yl)butyl)benzo[d]oxazole-2(3H)-thione	S=C1Oc2ccccc2N1CCCCN3CCN(CC3)C4CCCCC4	7.824662421315999
+CHEMBL272899	3-(2-(azepan-1-yl)ethyl)-6-propylbenzo[d]thiazol-2(3H)-one	CCCc1ccc2N(CCN3CCCCCC3)C(=O)Sc2c1	8.699373957071
+CHEMBL273084	3-(2-(4-cyclohexylpiperazin-1-yl)propyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCN3CCN(CC3)C4CCCCC4	7.765895640085999
+CHEMBL273626	(2-{3-[2-(3,4-Dimethoxy-phenyl)-ethoxy]-4-methoxy-phenyl}-ethyl)-dipropyl-amine oxalate	CCCN(CCC)CCc1ccc(OC)c(OCCc2ccc(OC)c(OC)c2)c1.OC(=O)C(=O)O	7.1739251973
+CHEMBL274099	3-Allyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3ccc(O)cc3C1(C)CCN2CC=C	3.514858501346
+CHEMBL275528	1-(1-Phenyl-cyclohexyl)-piperidine	C1CCN(CC1)C2(CCCCC2)c3ccccc3	6.2757241304
+CHEMBL275707	9-[3-(3,5-Dimethyl-piperazin-1-yl)-propyl]-9H-carbazole-9-[3-((3S,5R)-3,5-Dimethyl-piperazin-1-yl)-propyl]-9H-carbazole	C[C@@H]1CN(CCCn2c3ccccc3c4ccccc24)C[C@H](C)N1	6.1406840044391995
+CHEMBL275948	[3-(3-Methoxy-2-phenethyloxy-phenyl)-propyl]-dipropyl-amine oxalate	CCCN(CCC)CCCc1cccc(OC)c1OCCc2ccccc2.OC(=O)C(=O)O	7.88605664769
+CHEMBL276007	[2-(2-Phenethyloxy-phenyl)-ethyl]-dipropyl-amine oxalate	CCCN(CCC)CCc1ccccc1OCCc2ccccc2.OC(=O)C(=O)O	7.82390874094
+CHEMBL276078	3-Benzyl-8-chloro-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC1C2Cc3ccc(Cl)cc3C1(C)CCN2Cc4ccccc4	5.908167367416
+CHEMBL276175	8-[3-(4-Benzo[d]isothiazol-3-yl-piperazin-1-yl)-propoxy]-8-aza-spiro[4.5]decane-7,9-dione (HCl 0.5H2O)	O=C1CC2(CCCC2)CC(=O)N1OCCCN3CCN(CC3)c4nsc5ccccc45	5.95860731484
+CHEMBL276500	(+)-3-(1-Propyl-piperidin-3-yl)-phenol-(-)3-(1-Propyl-piperidin-3-yl)-phenol	CCCN1CCCC(C1)c2cccc(O)c2	6.19670184541
+CHEMBL277493	2,3-Dimethyl-1,2,3,4-tetrahydro-isoquinoline	CC1Cc2ccccc2CN1C	5.58502665203
+CHEMBL277630	(rac)-5-aminobenzovesamicol	Nc1cccc2CC(O)C(Cc12)N3CCC(CC3)c4ccccc4	5.700610905615999
+CHEMBL278585	(R)(1-Methyl-2-phenyl-ethyl)-phenethyl-amine	C[C@H](Cc1ccccc1)NCCc2ccccc2	6.852100669666
+CHEMBL278781	2-Methyl-1-phenyl-1,2,3,4-tetrahydro-isoquinoline	CN1CCc2ccccc2C1c3ccccc3	5.5376020021
+CHEMBL279013	1-Naphthalen-2-yl-1,2,3,4-tetrahydro-isoquinoline	C1Cc2ccccc2C(N1)c3ccc4ccccc4c3	5.0
+CHEMBL279586	3-{4-[4-(4-Fluoro-phenyl)-piperazin-1-yl]-butyl}-1H-indole	Fc1ccc(cc1)N2CCN(CCCCc3c[nH]c4ccccc34)CC2	8.25181197299
+CHEMBL279676	1-(1-Thiophen-2-yl-cyclohexyl)-piperidine	C1CCN(CC1)C2(CCCCC2)c3cccs3	6.61978875829
+CHEMBL281568	7-Phenyl-4,5,6,7-tetrahydro-thieno[2,3-c]pyridine	C1Cc2ccsc2C(N1)c3ccccc3	5.20065945055
+CHEMBL281594	1-{2-[Bis-(4-fluoro-phenyl)-methoxy]-ethyl}-4-(3-phenyl-propyl)-piperazine	Fc1ccc(cc1)C(OCCN2CCN(CCCc3ccccc3)CC2)c4ccc(F)cc4	6.4504005121159995
+CHEMBL282433	N,N'-Di-o-tolyl-guanidine (ditolylguanidine)-N,N'-Di-o-tolyl-guanidine-1,3-di-(2-tolyl)guanidine-1,3-dio-tolylguanidine-1,3-di-2-tolylguanidine-1,3-di-o-tolylguanidine	Cc1ccccc1NC(=N)Nc2ccccc2C	6.75144803772
+CHEMBL282475	1-Isopropyl-1,2,3,4-tetrahydro-isoquinoline	CC(C)C1NCCc2ccccc12	5.60205999133
+CHEMBL283104	6-Allyl-7-phenyl-4,5,6,7-tetrahydro-thieno[2,3-c]pyridine	C=CCN1CCc2ccsc2C1c3ccccc3	4.69897000434
+CHEMBL283105	8-Phenyl-1,2,3,4-tetrahydro-isoquinoline	C1Cc2cccc(c2CN1)c3ccccc3	5.56863623584
+CHEMBL283130	4-Phenyl-1,2,3,4-tetrahydro-isoquinoline	C1NCc2ccccc2C1c3ccccc3	5.3767507096
+CHEMBL283377	7-Isopropyl-6-methyl-4,5,6,7-tetrahydro-thieno[2,3-c]pyridine	CC(C)C1N(C)CCc2ccsc12	5.10790539731
+CHEMBL283378	6-Ethyl-7-isopropyl-4,5,6,7-tetrahydro-thieno[2,3-c]pyridine	CCN1CCc2ccsc2C1C(C)C	3.0
+CHEMBL283744	2-Allyl-1,3-dimethyl-1,2,3,4-tetrahydro-isoquinoline	CC1Cc2ccccc2C(C)N1CC=C	5.79588001734
+CHEMBL285755	7-Dipropylamino-5,6,7,8-tetrahydro-naphthalen-2-ol	CCCN(CCC)C1CCc2ccc(O)cc2C1	7.149370516456
+CHEMBL287462	1,1-Dioxo-2-{4-[3-((E)-styryl)-piperidin-1-yl]-butyl}-1,2-dihydro-1lambda*6*-benzo[d]isothiazol-3-one	O=C1N(CCCCN2CCCC(C2)\C=C\c3ccccc3)S(=O)(=O)c4ccccc14	7.63827216398
+CHEMBL287876	1-(4-Fluoro-benzyl)-4-pentafluorophenyloxymethyl-piperidine	Fc1ccc(CN2CCC(COc3c(F)c(F)c(F)c(F)c3F)CC2)cc1	7.958556000575999
+CHEMBL287937	1-Phenethyl-3-((E)-styryl)-piperidine	C(Cc1ccccc1)N2CCCC(C2)\C=C\c3ccccc3	8.22184874962
+CHEMBL289078	1-Phenyl-4-[3-((Z)-styryl)-piperidin-1-yl]-butan-1-one	O=C(CCCN1CCCC(C1)\C=C/c2ccccc2)c3ccccc3	7.82390874094
+CHEMBL289196	4-(3-Bromo-phenoxymethyl)-1-cyclopropylmethyl-piperidine	Brc1cccc(OCC2CCN(CC3CC3)CC2)c1	8.570375829196
+CHEMBL289972	N-Phenyl-2-[3-((Z)-styryl)-piperidin-1-yl]-acetamide	O=C(CN1CCCC(C1)\C=C/c2ccccc2)Nc3ccccc3	6.19382002602
+CHEMBL291228	1-Cyclohexyl-3-((E)-styryl)-piperidine	C1CCC(CC1)N2CCCC(C2)\C=C\c3ccccc3	8.22184874962
+CHEMBL291624	1'-(2-phenylhexyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(CCCc1ccccc1)CCN2CCC3(CC2)OCc4ccccc34	9.487347067369999
+CHEMBL292512	1'-ethyl-3H-spiro[2-benzofuran-1,4'-piperidine]	CCN1CCC2(CC1)OCc3ccccc23	6.71125410008
+CHEMBL293952	[2-(4-Iodo-phenyl)-1-methyl-ethyl]-(3-phenyl-propyl)-amine	CC(Cc1ccc(I)cc1)NCCCc2ccccc2	4.0
+CHEMBL294010	1-{3-[4-(3-Bromo-phenyl)-piperazin-1-yl]-propyl}-5-methoxy-1H-quinolin-2-one HCl	COc1cccc2N(CCCN3CCN(CC3)c4cccc(Br)c4)C(=O)C=Cc12	6.82390874094
+CHEMBL294676	1-{3-[4-(4-Chloro-phenyl)-piperazin-1-yl]-propyl}-5-methoxy-3,4-dihydro-1H-quinolin-2-one	COc1cccc2N(CCCN3CCN(CC3)c4ccc(Cl)cc4)C(=O)CCc12	6.33724216832
+CHEMBL294734	1'-(3-(cyclohexylthio)propyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(CSC1CCCCC1)CN2CCC3(CC2)OCc4ccccc34	9.301377709495
+CHEMBL295626	2-[4-(4-Iodo-phenoxymethyl)-piperidin-1-ylmethyl]-benzonitrile	Ic1ccc(OCC2CCN(Cc3ccccc3C#N)CC2)cc1	7.493669202276
+CHEMBL295661	4-[1-(2-Bromo-benzyl)-piperidin-4-ylmethoxy]-benzonitrile	Brc1ccccc1CN2CCC(COc3ccc(cc3)C#N)CC2	8.209507131896
+CHEMBL296439	1-Pentafluorophenylmethyl-4-pentafluorophenyloxymethyl-piperidine	Fc1c(F)c(F)c(CN2CCC(COc3c(F)c(F)c(F)c(F)c3F)CC2)c(F)c1F	4.514858501346
+CHEMBL296601	(3-Phenyl-propyl)-(6,7,8,9-tetrahydro-5H-benzocyclohepten-7-yl)-amine	C(CNC1CCc2ccccc2CC1)Cc3ccccc3	4.0
+CHEMBL298586	5-Methoxy-1-{3-[4-(3-trifluoromethyl-phenyl)-piperazin-1-yl]-propyl}-3,4-dihydro-1H-quinolin-2-one HCl	COc1cccc2N(CCCN3CCN(CC3)c4cccc(c4)C(F)(F)F)C(=O)CCc12	6.30980391997
+CHEMBL298758	[2-(3,4-Dichloro-phenyl)-1-methyl-ethyl]-(3-phenyl-propyl)-amine	CC(Cc1ccc(Cl)c(Cl)c1)NCCCc2ccccc2	4.0
+CHEMBL299284	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}-6-trifluoromethylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)OCc5ccc(cc45)C(F)(F)F)c6ccccc26	7.838890352635
+CHEMBL299492	N-(3-{4-[3-(5-Chloro-2-oxo-3,4-dihydro-2H-quinolin-1-yl)-propyl]-piperazin-1-yl}-phenyl)-acetamide	CC(=O)Nc1cccc(c1)N2CCN(CCCN3C(=O)CCc4c(Cl)cccc34)CC2	6.1739251973
+CHEMBL300408	1-[3-(1,2,3,4-Tetrahydro-naphthalen-1-yl)-propyl]-4-(3,4,5,6-tetrahydro-pyridin-2-yl)-piperazine	C(CC1CCCc2ccccc12)CN3CCN(CC3)C4=NCCCC4	6.469535522556
+CHEMBL302071	4-Butyl-9-hydroxy-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CCCC[n+]1cccc2C3CC(O)CCC3CCc12	7.7300230791699995
+CHEMBL302244	rac-1,2,3,4,4a,5,6,10b-Octahydro-benzo[f]quinolin-7-ol	Oc1cccc2C3CCCNC3CCc12	4.82681373159
+CHEMBL302556	4-Benzyl-9-methoxy-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	COC1CCC2CCc3c(ccc[n+]3Cc4ccccc4)C2C1	8.30016227413
+CHEMBL302670	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[2,3-dihydrobenzo[b]furan-2,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)Cc5ccccc5O4)c6ccccc26	6.456109291095
+CHEMBL302721	4-Butyl-9-methoxy-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CCCC[n+]1cccc2C3CC(CCC3CCc12)OC	8.30016227413
+CHEMBL303336	1'-benzylspiro[1,2,3,4-tetrahydronaphthalene-1,4'-(hexahydropyridine)] (L-687,384)-1'-benzyl-3,4-dihydro-2H-spiro[naphthalene-1,4'-piperidine] (L-687,384)	C(N1CCC2(CCCc3ccccc23)CC1)c4ccccc4	9.030290686003333
+CHEMBL303780	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[3,4-dihydro-2H-chromene-2,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)CCc5ccccc5O4)c6ccccc26	7.36489357255
+CHEMBL303804	1-(4-Fluoro-phenyl)-3-[4-(4-phenyl-piperidin-1-yl)-butyl]-1H-indole	Fc1ccc(cc1)n2cc(CCCCN3CCC(CC3)c4ccccc4)c5ccccc25	7.35654732351
+CHEMBL304232	1'-[4-(1-methyl-1H-3-indolyl)butyl]spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	Cn1cc(CCCCN2CCC3(CC2)OCc4ccccc34)c5ccccc15	8.67778070527
+CHEMBL304388	8-Hydroxy-4-propyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CCC[n+]1cccc2C3CCC(O)CC3CCc12	7.7000039112100005
+CHEMBL304595	10-Hydroxy-4-propyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CCC[n+]1cccc2C3C(O)CCCC3CCc12	5.71000102452
+CHEMBL304671	1'-(2-phenylbutyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(CCc1ccccc1)CN2CCC3(CC2)OCc4ccccc34	9.585348113584999
+CHEMBL305000	rac-4-Butyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-ol	CCCCN1CCCC2C1CCc3c(O)cccc23	7.63827216398
+CHEMBL305187	4-[2-(4-Benzyl-piperidin-1-yl)-1-hydroxy-propyl]-phenol-ifenprodil	CC(C(O)c1ccc(O)cc1)N2CCC(Cc3ccccc3)CC2	8.019245463500999
+CHEMBL305335	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[2,3-dihydrobenzo[b]furan-3,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)COc5ccccc45)c6ccccc26	8.170517578664999
+CHEMBL305438	4-(1-Propyl-piperidin-3-yl)-phenol	CCCN1CCCC(C1)c2ccc(O)cc2	6.55909091793
+CHEMBL305793	rac-4-Ethyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol	CCN1CCCC2C1CCc3ccc(O)cc23	7.15490195999
+CHEMBL305881	1-Phenyl-cyclohexanecarboxylic acid 2-morpholin-4-yl-ethyl ester	O=C(OCCN1CCOCC1)C2(CCCCC2)c3ccccc3	7.113976574183
+CHEMBL306162	(S,R)-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-l	CCCN1CCC[C@@H]2[C@H]1CCc3c(O)cccc23	6.70553377384
+CHEMBL307628	1-(3,4-Dichloro-phenyl)-cyclohexanecarboxylic acid 2-morpholin-4-yl-ethoxymethyl ester	Clc1ccc(cc1Cl)C2(CCCCC2)C(=O)OCOCCN3CCOCC3	6.923793894316
+CHEMBL307668	1-(3,4-Dichloro-phenyl)-cyclohexanecarboxylic acid (2-morpholin-4-yl-ethoxymethyl)-amide	Clc1ccc(cc1Cl)C2(CCCCC2)C(=O)NCOCCN3CCOCC3	7.009708523025999
+CHEMBL308707	Diethyl-(2-{2-[(1-phenyl-cyclopentylmethyl)-amino]-ethoxy}-ethyl)-amine	CCN(CC)CCOCCNCC1(CCCC1)c2ccccc2	5.568406236336
+CHEMBL309099	7-Hydroxy-4-methyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	C[n+]1cccc2C3CCCC(O)C3CCc12	6.20999647961
+CHEMBL309172	2-Phenyl-propionic acid 2-(2-diethylamino-ethoxy)-ethyl ester	CCN(CC)CCOCCOC(=O)C(C)c1ccccc1	6.912798510016
+CHEMBL3093268	1-(2-chlorophenyl)-4-phenethylpiperazine	Clc1ccccc1N2CCN(CCc3ccccc3)CC2	9.338767242286
+CHEMBL3093269	1-(4-chlorophenyl)-4-phenethylpiperazine	Clc1ccc(cc1)N2CCN(CCc3ccccc3)CC2	8.247686772946
+CHEMBL3093270	1-(2-chlorophenyl)-4-phenylpropylpiperazine	Clc1ccccc1N2CCN(CCCc3ccccc3)CC2	8.766670474336
+CHEMBL3103201	[125I]-3-iodo-4-azidococaine	COC(=O)[C@H]1[C@H](C[C@@H]2CC[C@H]1N2C)OC(=O)c3ccc(N=[N+]=[N-])c([125I])c3	9.414487956225999
+CHEMBL311029	(S)-2-[4-(3-Fluoro-benzyloxy)-benzylamino]-3-hydroxy-N-methyl-propionamide	CNC(=O)[C@H](CO)NCc1ccc(OCc2cccc(F)c2)cc1	6.23062267392
+CHEMBL3116451	N-((1-benzylpiperidin-4-yl)methyl)-4-chloro-N-ethylbenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3ccc(Cl)cc3	6.743271020466
+CHEMBL3116452	N-((1-benzylpiperidin-4-yl)methyl-N-ethyl-4-methylbenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3ccc(C)cc3	6.310738518686
+CHEMBL3116453	N-((1-benzylpiperidin-4-yl)methyl-N-ethyl-1-naphtamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3cccc4ccccc34	6.308032625316
+CHEMBL3116454	N-((1-benzylpiperidin-4-yl)methyl-N-ethyl-2-naphtamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3ccc4ccccc4c3	6.218193311086
+CHEMBL3116455	N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethylbenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3ccccc3	6.324526803176
+CHEMBL3116456	4-Chloro-N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethylbenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3ccc(Cl)cc3	6.555817109026
+CHEMBL3116457	N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethyl-4-methylbenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3ccc(C)cc3	6.368730465665999
+CHEMBL3116458	N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethyl-4-methoxylbenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3ccc(OC)cc3	6.178398767496
+CHEMBL3116459	N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethyl-1-naphtamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3cccc4ccccc34	6.182420041426
+CHEMBL3116460	N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethyl-2-naphtamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3ccc4ccccc4c3	6.162675983235999
+CHEMBL3116461	N-((1-benzylpiperidin-4-yl)methyl)-N-ethyl-[1,1'-biphenyl]-4-carboxamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3ccc(cc3)c4ccccc4	6.036292005756
+CHEMBL3116462	N-((1-benzylpiperidin-4-yl)methyl)-N-ethylfuran-2-carboxamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3occc3	7.188522640415999
+CHEMBL3116463	N-((1-benzylpiperidin-4-yl)methyl)-N-ethyl-4-methoxybenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3ccc(OC)cc3	6.231557272646
+CHEMBL3116464	N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethyl-[1,1'-biphenyl]-4-carboxamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3ccc(cc3)c4ccccc4	5.943149669536
+CHEMBL3116465	N-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)-N-ethylfuran-2-carboxamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccc(Cl)cc2)CC1)C(=O)c3occc3	7.381319592975999
+CHEMBL3116466	N-((1-benzylpiperidin-4-yl)methyl)-N-ethylbenzamide hydrochloride	Cl.CCN(CC1CCN(Cc2ccccc2)CC1)C(=O)c3ccccc3	6.690082038866
+CHEMBL312471	1-methyl-16-azatetracyclo[7.6.1.02,7.010,15]hexadeca-2(7),3,5,10,12,14-hexaen-4-yl isothiocyanate	C[C@]12N[C@H](Cc3ccc(cc13)N=C=S)c4ccccc24	4.832262209885999
+CHEMBL314726	1,3,6-Tribromo-9-[3-(3,5-dimethyl-piperazin-1-yl)-propyl]-9H-carbazole	C[C@@H]1CN(CCCn2c3ccc(Br)cc3c4cc(Br)cc(Br)c24)C[C@@H](C)N1	5.216005424935999
+CHEMBL315093	(S)-2-(4-Methoxy-benzylamino)-propionamide	COc1ccc(CN[C@@H](C)C(=O)N)cc1	4.0
+CHEMBL315738	(R)-2-[4-(3-Fluoro-benzylamino)-benzylamino]-propionamide	C[C@@H](NCc1ccc(NCc2cccc(F)c2)cc1)C(=O)N	6.55284196866
+CHEMBL317354	N-(3-Benzyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-yl)-methanesulfonamide	CC1C2Cc3ccc(NS(=O)(=O)C)cc3C1(C)CCN2Cc4ccccc4	5.236104900396
+CHEMBL318877	3-Benzyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3ccc(O)cc3C1(C)CCN2Cc4ccccc4	5.598427351519333
+CHEMBL318954	7-Chloro-6,11-dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3ccc(O)c(Cl)c3C1(C)CCN2CC=C(C)C	4.819376824856
+CHEMBL3235465	6-acetyl-3-(4-(4-(4-fluorophenyl)piperazin-1-yl)butyl)benzo[d]oxazol-2(3H)-one	CC(=O)c1ccc2N(CCCCN3CCN(CC3)c4ccc(F)cc4)C(=O)Oc2c1	7.083494737185999
+CHEMBL325262	1-(3-chlorophenyl)-4-phenylpropylpiperazine	Clc1cccc(c1)N2CCN(CCCc3ccccc3)CC2	7.822011582065999
+CHEMBL328608	3-Benzyl-7,9-dibromo-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3cc(Br)c(O)c(Br)c3C1(C)CCN2Cc4ccccc4	5.2116624439259995
+CHEMBL330601	6,11-Dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC1C2Cc3ccccc3C1(C)CCN2CC=C(C)C	6.0450364853659995
+CHEMBL335348	1-(4-Fluoro-phenyl)-4-(4-pyrimidin-2-yl-piperazin-1-yl)-butan-1-ol	OC(CCCN1CCN(CC1)c2ncccn2)c3ccc(F)cc3	6.88605664769
+CHEMBL336326	7-((E)-3-Iodo-allylamino)-5,6,7,8-tetrahydro-naphthalen-2-ol	Oc1ccc2CCC(Cc2c1)NC\C=C\I	8.289549219616
+CHEMBL336851	6-[((E)-3-Iodo-allyl)-propyl-amino]-5,6,7,8-tetrahydro-naphthalen-2-ol	CCCN(C\C=C\I)C1CCc2cc(O)ccc2C1	7.061540161296
+CHEMBL337974	1-[5-(6-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-pentyl]-3,3-dimethyl-piperidine	COc1ccc2C(CCCCCN3CCCC(C)(C)C3)CCCc2c1	9.2076083105
+CHEMBL338465	5-[3-(3,3-Dimethyl-piperidin-1-yl)-propyl]-5,6,7,8-tetrahydro-naphthalen-1-ol	CC1(C)CCCN(CCCC2CCCc3c(O)cccc23)C1	7.38721614328
+CHEMBL339009	N-(2-Diethylamino-ethyl)-2-iodo-5-methoxy-benzamide	CCN(CC)CCNC(=O)c1cc(OC)ccc1I	5.915688065621
+CHEMBL339206	3,3-Dimethyl-1-[3-(1,2,3,4-tetrahydro-naphthalen-1-yl)-propyl]-piperidine	CC1(C)CCCN(CCCC2CCCc3ccccc23)C1	6.59859945922
+CHEMBL341472	1-[3-(3H-Inden-1-yl)-propyl]-3,3-dimethyl-piperidine	CC1(C)CCCN(CCCC2=CCc3ccccc23)C1	9.0043648054
+CHEMBL342351	2-[1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-yl]acetaldehyde	O=CCC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.518784846856
+CHEMBL342484	2-{4-[3,4-Bis-(4-fluoro-phenyl)-but-3-enyl]-piperazin-1-yl}-pyrimidine	Fc1ccc(\C=C(/CCN2CCN(CC2)c3ncccn3)\c4ccc(F)cc4)cc1	5.0
+CHEMBL343237	4-Methyl-1-phenethyl-piperidine	CC1CCN(CCc2ccccc2)CC1	7.194712215236
+CHEMBL343793	1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-one	O=C1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	5.350505645566
+CHEMBL344348	1N-methyl-2-[1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-yl]-1-ethanamine	CNCCC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.875372012075999
+CHEMBL344577	2-{4-[3,4-Bis-(4-fluoro-phenyl)-but-3-enyl]-piperazin-1-yl}-5-fluoro-pyrimidine	Fc1ccc(\C=C(/CCN2CCN(CC2)c3ncc(F)cn3)\c4ccc(F)cc4)cc1	5.0
+CHEMBL345820	1-Methoxy-naphthalene-2-carboxylic acid {4-[4-(2,3-dichloro-phenyl)-piperazin-1-yl]-butyl}-amide	COc1c(ccc2ccccc12)C(=O)NCCCCN3CCN(CC3)c4cccc(Cl)c4Cl	5.980832395286
+CHEMBL346389	7-[4-(4-Chloro-phenyl)-piperazin-1-ylmethyl]-4H-benzo[1,4]oxazin-3-one	Clc1ccc(cc1)N2CCN(Cc3ccc4NC(=O)COc4c3)CC2	6.288607626863
+CHEMBL354210	N-{2-[4-(1,2,3,4-Tetrahydro-naphthalen-1-yl)-piperazin-1-yl]-ethyl}-benzamide	O=C(NCCN1CCN(CC1)C2CCCc3ccccc23)c4ccccc4	6.560615991905999
+CHEMBL356688	(2-Azepan-1-yl-ethyl)-[2-(3,4-dichloro-phenyl)-ethyl]-methyl-amine	CN(CCN1CCCCCC1)CCc2ccc(Cl)c(Cl)c2	9.284409579965999
+CHEMBL356757	1-(3,4-Dihydro-2H-1,4-methano-naphthalen-1-yl)-piperidine	C1CCN(CC1)C23CCC(C2)c4ccccc34	6.43770713554
+CHEMBL357179	2-[1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-yl]-1-ethanol	OCCC1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	5.111737980166
+CHEMBL357431	4-Methyl-1-(3-phenyl-propyl)-piperidine	CC1CCN(CCCc2ccccc2)CC1	7.989813694305999
+CHEMBL358541	ethyl 1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-carboxylate	CCOC(=O)C1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	4.492017890465999
+CHEMBL358579	1'-benzylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-3-ylmethanol	OCC1OC2(CCN(Cc3ccccc3)CC2)c4ccccc14	5.218193311086
+CHEMBL3589711	(+/-)-4-(4-fluorobenzyloxy)-2-(4-(pyridin-4-yl)piperidin-1-yl)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(CC2)c3ccncc3)OCc4ccc(F)cc4	7.093254574476
+CHEMBL3589712	(+/-)-5-(4-fluorobenzyloxy)-2-(4-phenylpiperidin-1-yl)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(CC2)c3ccccc3)OCc4ccc(F)cc4	7.289549219615999
+CHEMBL3589713	(+/-)-5-(4-fluorobenzyloxy)-2-(4-phenylpiperazin-1-yl)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCN(CC2)c3ccccc3)OCc4ccc(F)cc4	6.238396697175999
+CHEMBL3589714	(+/-)-5-(4-fluorobenzyloxy)-2-(4-phenyl-5,6-dihydropyridin-1(2H)-yl)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(=CC2)c3ccccc3)OCc4ccc(F)cc4	7.313461377026
+CHEMBL3589715	(+/-)-2-(ethyl(3-phenylpropyl)amino)-5-(4-fluorobenzyloxy)cyclohexanol	CCN(CCCc1ccccc1)[C@@H]2CC[C@@H](C[C@H]2O)OCc3ccc(F)cc3	7.220392275186
+CHEMBL3589716	(+/-)-1-(4-(4-fluorobenzyloxy)-2-hydroxycyclohexyl)-4-phenylpiperidin-4-ol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(O)(CC2)c3ccccc3)OCc4ccc(F)cc4	7.023496807516
+CHEMBL3589717	(+/-)-1-(1-(4-(4-fluorobenzyloxy)-2-hydroxycyclohexyl)-4-phenylpiperidin-4-yl)ethanone	CC(=O)C1(CCN(CC1)[C@@H]2CC[C@@H](C[C@H]2O)OCc3ccc(F)cc3)c4ccccc4	6.4356772552959995
+CHEMBL3589718	(+/-)-2-(4,4-diphenylpiperidin-1-yl)-5-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(CC2)(c3ccccc3)c4ccccc4)OCc5ccc(F)cc5	5.647980687005999
+CHEMBL3589719	(+/-)-2-(4-benzylpiperidin-1-yl)-5-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(Cc3ccccc3)CC2)OCc4ccc(F)cc4	7.551070673996
+CHEMBL3589720	(+/-)-2-(3,4-dihydroisoquinolin-2(1H)-yl)-5-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCc3ccccc3C2)OCc4ccc(F)cc4	7.151246521456
+CHEMBL3589721	(+/-)-2-(1,4'-bipiperidin-1'-yl)-5-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(CC2)N3CCCCC3)OCc4ccc(F)cc4	6.0377372466259995
+CHEMBL3589722	(+/-)-(1-(4-(4-fluorobenzyloxy)-2-hydroxycyclohexyl)piperidin-4-yl)-(4-fluorophenyl)methanone	O[C@@H]1C[C@H](CC[C@H]1N2CCC(CC2)C(=O)c3ccc(F)cc3)OCc4ccc(F)cc4	6.699280753026
+CHEMBL3589723	(+/-)-5-(4-fluorobenzyloxy)-2-(4-(pyridin-4-yl)piperidin-1-yl)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(CC2)c3ccncc3)OCc4ccc(F)cc4	6.901016679465999
+CHEMBL3589724	(+/-)-4-(3-fluoropropoxy)-2-(4-phenylpiperidin-1-yl)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(CC2)c3ccccc3)OCCCF	7.101558737266
+CHEMBL3589725	(+/-)-5-(3-fluoropropoxy)-2-(4-phenylpiperidin-1-yl)cyclohexanol	O[C@@H]1C[C@H](CC[C@H]1N2CCC(CC2)c3ccccc3)OCCCF	6.525408683676
+CHEMBL3589726	(+/-)-3-(4-phenylpiperazin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCN(CC3)c4ccccc4	5.8464725846559995
+CHEMBL3589727	(+/-)-3-(4-phenyl-5,6-dihydropyridin-1(2H)-yl)-1,2,3,4-tetrahydronaphthalen-2-ol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCC(=CC3)c4ccccc4	7.134647259636
+CHEMBL3589728	(+/-)-1-(3-hydroxy-1,2,3,4-tetrahydronaphthalen-2-yl)-4-phenylpiperidin-4-ol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCC(O)(CC3)c4ccccc4	6.688783698646
+CHEMBL3589729	(+/-)-3-(4-benzylpiperidin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCC(Cc4ccccc4)CC3	6.7019451447059994
+CHEMBL3589730	(+/-)-3-([1,4'-bipiperidin]-1'-yl)-1,2,3,4-tetrahydronaphthalen-2-ol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCC(CC3)N4CCCCC4	6.120406820516
+CHEMBL3589731	(+/-)-3-(4-(pyridin-4-yl)piperidin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCC(CC3)c4ccncc4	7.565468494706
+CHEMBL3589732	(+/-)-8-amino-3-(4-phenylpiperidin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol)	Nc1cccc2C[C@H]([C@H](O)Cc12)N3CCC(CC3)c4ccccc4	6.772133370045999
+CHEMBL3589733	(+/-)-(4-fluoro-N-(-6-hydroxy-7-(4-phenylpiperidin-1-yl)-5,6,7,8-tetrahydronaphthalen-1-yl)benzamide)	O[C@@H]1Cc2cccc(NC(=O)c3ccc(F)cc3)c2C[C@H]1N4CCC(CC4)c5ccccc5	4.706579991766
+CHEMBL3589734	(+/-)-(N-(7-(4-benzylpiperidin-1-yl)-6-hydroxy-5,6,7,8-tetrahydronaphthalen-1-yl)-4-fluorobenzamide)	O[C@@H]1Cc2cccc(NC(=O)c3ccc(F)cc3)c2C[C@H]1N4CCC(Cc5ccccc5)CC4	5.2661497657459995
+CHEMBL3589735	(+/-)-(4-fluoro-N-(-7-hydroxy-6-(4-phenylpiperidin-1-yl)-5,6,7,8-tetrahydronaphthalen-1-yl)benzamide)	O[C@@H]1Cc2c(C[C@H]1N3CCC(CC3)c4ccccc4)cccc2NC(=O)c5ccc(F)cc5	5.718284168136
+CHEMBL3589736	(+/-)-(N-(6-(4-benzylpiperidin-1-yl)-7-hydroxy-5,6,7,8-tetrahydronaphthalen-1-yl)-4-fluorobenzamide)	O[C@@H]1Cc2c(C[C@H]1N3CCC(Cc4ccccc4)CC3)cccc2NC(=O)c5ccc(F)cc5	6.0435667902859995
+CHEMBL3589862	(+/-)-1-(2-hydroxycyclohexyl)-4-phenyl-piperidin-4-ol	O[C@@H]1CCCC[C@H]1N2CCC(O)(CC2)c3ccccc3	5.8578026484859995
+CHEMBL3589863	(+/-)-1-[1-(2-hydroxy-cyclohexyl)-4-phenyl-piperidin-4-yl]-ethanone	CC(=O)C1(CCN(CC1)[C@@H]2CCCC[C@H]2O)c3ccccc3	7.162675983235999
+CHEMBL3589864	(+/-)-2-(4,4-diphenylpiperidin-1-yl)cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCC(CC2)(c3ccccc3)c4ccccc4	6.879374754535999
+CHEMBL3589865	(+/-)-2-(4-benzyl-piperidin-1-yl)-cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCC(Cc3ccccc3)CC2	7.2116624439259995
+CHEMBL3589866	(+/-)-2-(3,4-dihydro-1H-isoquinolin-2-yl)-cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCc3ccccc3C2	6.780058671756
+CHEMBL3589867	(+/-)-2-[1,4']bipiperidinyl-1'-yl-cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCC(CC2)N3CCCCC3	4.514858501346
+CHEMBL3589868	(+/-)-2-(4-(pyridin-4-yl)piperidin-1-yl)cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCC(CC2)c3ccncc3	4.514858501346
+CHEMBL3589869	(+/-)-4-(4-fluorobenzyloxy)-2-(4-phenylpiperidin-1-yl)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(CC2)c3ccccc3)OCc4ccc(F)cc4	7.294750413306
+CHEMBL3589870	(+/-)-4-(4-fluorobenzyloxy)-2-(4-phenylpiperazin-1-yl)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCN(CC2)c3ccccc3)OCc4ccc(F)cc4	6.5020212766359995
+CHEMBL3589871	(+/-)-4-(4-fluorobenzyloxy)-2-(4-phenyl-5,6-dihydropyridin-1(2H)-yl)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(=CC2)c3ccccc3)OCc4ccc(F)cc4	7.039187313026
+CHEMBL3589872	(+/-)-2-(ethyl(3-phenylpropyl)amino)-4-(4-fluorobenzyloxy)cyclohexanol	CCN(CCCc1ccccc1)[C@@H]2C[C@@H](CC[C@H]2O)OCc3ccc(F)cc3	7.493669202276
+CHEMBL3589873	(+/-)-1-(5-(4-fluorobenzyloxy)-2-hydroxycyclohexyl)-4-phenylpiperidin-4-ol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(O)(CC2)c3ccccc3)OCc4ccc(F)cc4	6.839997360606
+CHEMBL3589874	(+/-)-1-(1-(5-(4-fluorobenzyloxy)-2-hydroxycyclohexyl)-4-phenylpiperidin-4-yl)ethanone	CC(=O)C1(CCN(CC1)[C@@H]2C[C@@H](CC[C@H]2O)OCc3ccc(F)cc3)c4ccccc4	6.714829142106
+CHEMBL3589875	(+/-)-2-(4,4-diphenylpiperidin-1-yl)-4-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(CC2)(c3ccccc3)c4ccccc4)OCc5ccc(F)cc5	5.855893658686
+CHEMBL3589876	(+/-)-2-(4-benzylpiperidin-1-yl)-4-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(Cc3ccccc3)CC2)OCc4ccc(F)cc4	7.1134579605659995
+CHEMBL3589877	(+/-)-2-(3,4-dihydroisoquinolin-2(1H)-yl)-4-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCc3ccccc3C2)OCc4ccc(F)cc4	6.744006489706
+CHEMBL3589878	(+/-)-2-(1,4'-bipiperidin-1'-yl)-4-(4-fluorobenzyloxy)cyclohexanol	O[C@@H]1CC[C@H](C[C@H]1N2CCC(CC2)N3CCCCC3)OCc4ccc(F)cc4	5.772133370045999
+CHEMBL3589879	(+/-)-(1-(5-(4-fluorobenzyloxy)-2-hydroxycyclohexyl)piperidin-4-yl)-(4-fluorophenyl)methanone	O[C@@H]1CC[C@H](C[C@H]1N2CCC(CC2)C(=O)c3ccc(F)cc3)OCc4ccc(F)cc4	6.741072056366
+CHEMBL3590029	(+/-)-2-(4-phenyl-piperazin-1-yl)-cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCN(CC2)c3ccccc3	6.591096540515999
+CHEMBL3590030	(+/-)-2-(4-phenyl-5,6-dihydropyridin-1(2H)-yl)cyclohexanol	O[C@@H]1CCCC[C@H]1N2CCC(=CC2)c3ccccc3	7.528086767075999
+CHEMBL3590031	(+/-)-2-(ethyl(3-phenylpropyl)amino)cyclohexanol	CCN(CCCc1ccccc1)[C@@H]2CCCC[C@H]2O	6.454160660996
+CHEMBL366388	1-(4-Fluoro-phenyl)-4-[4-(1,2,3,4-tetrahydro-naphthalen-1-yl)-piperazin-1-yl]-butan-1-one	Fc1ccc(cc1)C(=O)CCCN2CCN(CC2)C3CCCc4ccccc34	7.0377372466259995
+CHEMBL368061	4-Fluoro-N-{2-[4-(1,2,3,4-tetrahydro-naphthalen-1-yl)-piperazin-1-yl]-ethyl}-benzamide	Fc1ccc(cc1)C(=O)NCCN2CCN(CC2)C3CCCc4ccccc34	6.234906839812666
+CHEMBL36979	1-Phenethyl-3-((Z)-styryl)-piperidine	C(Cc1ccccc1)N2CCCC(C2)\C=C/c3ccccc3	9.09691001301
+CHEMBL372700	Rel-(2R,6S)-4-(3-(4-tert-butylphenyl)-2-methylpropyl)-2,6-dimethylmorpholine	CC(CN1C[C@@H](C)O[C@@H](C)C1)Cc2ccc(cc2)C(C)(C)C	10.473465816146
+CHEMBL37608	1-(3-Phenoxy-propyl)-3-((E)-styryl)-piperidine	C(COc1ccccc1)CN2CCCC(C2)\C=C\c3ccccc3	7.48148606012
+CHEMBL37661	1-(3-Phenyl-propyl)-3-((E)-styryl)-piperidine	C(CN1CCCC(C1)\C=C\c2ccccc2)Cc3ccccc3	8.39794000867
+CHEMBL38300	2-{3-[3-((Z)-Styryl)-piperidin-1-yl]-propylsulfanyl}-benzothiazole	C(CSc1nc2ccccc2s1)CN3CCCC(C3)\C=C/c4ccccc4	7.56863623584
+CHEMBL38345	3-((Z)-Styryl)-piperidine	C1CNCC(C1)\C=C/c2ccccc2	7.19382002602
+CHEMBL38848	1-(3-Methyl-but-2-enyl)-3-((E)-styryl)-piperidine	CC(=CCN1CCCC(C1)\C=C\c2ccccc2)C	7.42021640338
+CHEMBL38864	1-Pent-4-enyl-3-((E)-styryl)-piperidine	C=CCCCN1CCCC(C1)\C=C\c2ccccc2	7.92081875395
+CHEMBL39017	Adamantane-1-carboxylic acid {4-[3-((Z)-styryl)-piperidin-1-yl]-butyl}-amide	O=C(NCCCCN1CCCC(C1)\C=C/c2ccccc2)C34C[C@@H]5C[C@@H](C[C@@H](C5)C3)C4	7.63827216398
+CHEMBL391409	N-benzyl-5-oxahexacyclo[5.4.1.0^{2,6}.0^{3,10}.0^{4,8}.0^{9,12}]dodecan-4-amine	C(NC12OC3C4C5CC(C6C5C3C16)C24)c7ccccc7	5.74957999769
+CHEMBL39483	1-(3-Phenyl-propyl)-3-((Z)-styryl)-piperidine	C(CN1CCCC(C1)\C=C/c2ccccc2)Cc3ccccc3	9.22184874962
+CHEMBL39484	1-(3-Phenoxy-propyl)-3-((Z)-styryl)-piperidine	C(COc1ccccc1)CN2CCCC(C2)\C=C/c3ccccc3	7.82390874094
+CHEMBL39735	1-Allyl-3-((E)-styryl)-piperidine	C=CCN1CCCC(C1)\C=C\c2ccccc2	8.39794000867
+CHEMBL397705	6,11-Dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol-(6R,11S)-6,11-Dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol-(-)-pentazocine-Rel-2-dimethylallyl-5,9-dimethyl-2'-hydroxybenzomorphan	C[C@@H]1[C@H]2Cc3ccc(O)cc3[C@]1(C)CCN2CC=C(C)C	7.370376262772998
+CHEMBL39806	1-Cyclohexyl-3-((Z)-styryl)-piperidine	C1CCC(CC1)N2CCCC(C2)\C=C/c3ccccc3	8.69897000434
+CHEMBL39807	1-(2-Cyclohexyl-ethyl)-3-((Z)-styryl)-piperidine	C(CN1CCCC(C1)\C=C/c2ccccc2)C3CCCCC3	8.15490195999
+CHEMBL39818	1-(4-Phenyl-butyl)-3-((Z)-styryl)-piperidine	C(CCc1ccccc1)CN2CCCC(C2)\C=C/c3ccccc3	8.15490195999
+CHEMBL39855	1-Benzyl-3-((E)-styryl)-piperidine	C(N1CCCC(C1)\C=C\c2ccccc2)c3ccccc3	8.0
+CHEMBL40031	1-(3-Methyl-but-2-enyl)-3-((Z)-styryl)-piperidine	CC(=CCN1CCCC(C1)\C=C/c2ccccc2)C	9.0
+CHEMBL40056	3-((E)-Styryl)-piperidine	C1CNCC(C1)\C=C\c2ccccc2	6.37365963262
+CHEMBL405	(+/-)1-Methyl-2-phenyl-ethylamine	CC(N)Cc1ccccc1	3.0
+CHEMBL405925	3-(3-(4-cyclohexylpiperazin-1-yl)propyl)benzo[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CCCN3CCN(CC3)C4CCCCC4	7.797187998345999
+CHEMBL406081	3-(2-(4-cyclohexylpiperazin-1-yl)pentyl)benzo[d]thiazol-2(3H)-one	O=C1Sc2ccccc2N1CCCCCN3CCN(CC3)C4CCCCC4	7.817629158586
+CHEMBL406082	3-(5-(4-cyclohexylpiperazin-1-yl)pentyl)benzo[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CCCCCN3CCN(CC3)C4CCCCC4	7.4916060417159995
+CHEMBL408003	2-(4-(4-cyclohexylpiperazin-1-yl)butylthio)benzo[d]oxazole	C(CCN1CCN(CC1)C2CCCCC2)CSc3oc4ccccc4n3	7.987228600476
+CHEMBL408867	1-(3,4-dimethoxyphenethyl)-4-(3-phenylpropyl)piperazine	COc1ccc(CCN2CCN(CCCc3ccccc3)CC2)cc1OC	7.849277510325999
+CHEMBL412642	rac-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-10-ol	CCCN1CCCC2C1CCc3cccc(O)c23	5.71444269099
+CHEMBL416335	1-[2-(3-Methoxy-2-phenethyloxy-phenyl)-ethyl]-4-phenyl-piperazine oxalate	COc1cccc(CCN2CCN(CC2)c3ccccc3)c1OCCc4ccccc4.OC(=O)C(=O)O	6.48412615629
+CHEMBL416506	1-(4-Fluoro-phenyl)-3-{4-[4-(4-fluoro-phenyl)-piperazin-1-yl]-butyl}-1H-indole	Fc1ccc(cc1)N2CCN(CCCCc3cn(c4ccc(F)cc4)c5ccccc35)CC2	6.35654732351
+CHEMBL416521	1-[2-(5-Chloro-2-phenethyloxy-phenyl)-ethyl]-4-pyridin-2-yl-piperazine oxalate	OC(=O)C(=O)O.Clc1ccc(OCCc2ccccc2)c(CCN3CCN(CC3)c4ccccn4)c1	5.0
+CHEMBL416854	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[3,4-dihydro-2H-chromene-3,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)COc5ccccc5C4)c6ccccc26	6.650514997835
+CHEMBL417001	4-[1-(3-Fluoro-propyl)-piperidin-4-ylmethoxy]-benzonitrile	FCCCN1CCC(COc2ccc(cc2)C#N)CC1	7.881390045766
+CHEMBL417899	3-[4-(4-Iodo-phenoxymethyl)-piperidin-1-ylmethyl]-benzonitrile	Ic1ccc(OCC2CCN(Cc3cccc(c3)C#N)CC2)cc1	8.052460503446
+CHEMBL417931	1-{3-[4-(3-Amino-phenyl)-piperazin-1-yl]-propyl}-5-methoxy-3,4-dihydro-1H-quinolin-2-one	COc1cccc2N(CCCN3CCN(CC3)c4cccc(N)c4)C(=O)CCc12	5.91721462968
+CHEMBL418745	6-Allyl-7-isopropyl-4,5,6,7-tetrahydro-thieno[2,3-c]pyridine	CC(C)C1N(CC=C)CCc2ccsc12	5.30102999566
+CHEMBL419161	9-Iodo-6,11-dimethyl-3-(3-methyl-but-2-enyl)-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-ol	CC1C2Cc3cc(I)c(O)cc3C1(C)CCN2CC=C(C)C	6.354142143020999
+CHEMBL419343	N-(3-Benzyl-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocin-8-yl)-acetamide	CC1C2Cc3ccc(NC(=O)C)cc3C1(C)CCN2Cc4ccccc4	5.365639388686
+CHEMBL42	8-Chloro-11-(4-methyl-piperazin-1-yl)-5H-dibenzo[b,e][1,4]diazepine	CN1CCN(CC1)C2=Nc3cc(Cl)ccc3Nc4ccccc24	5.0
+CHEMBL42228	2-(1-Cyclopropylmethyl-piperidin-4-yl)-1-(4-fluoro-phenyl)-ethanone	Fc1ccc(cc1)C(=O)CC2CCN(CC3CC3)CC2	8.269441822680001
+CHEMBL424223	(s)-3-(1-Isopropyl-piperidin-3-yl)-phenol-3-(1-Isopropyl-piperidin-3-yl)-phenol	CC(C)N1CCC[C@H](C1)c2cccc(O)c2	6.6809679303900005
+CHEMBL431168	7-Hydroxy-4-phenethyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	OC1CCCC2C1CCc3c2ccc[n+]3CCc4ccccc4	7.18996921359
+CHEMBL432125	(R)-3-(1-Isopropyl-piperidin-3-yl)-phenol-3-(1-Isopropyl-piperidin-3-yl)-phenol	CC(C)N1CCC[C@@H](C1)c2cccc(O)c2	6.608652312065001
+CHEMBL433831	1-(4-Fluoro-phenyl)-3-[4-(4-phenyl-piperazin-1-yl)-butyl]-1H-indole	Fc1ccc(cc1)n2cc(CCCCN3CCN(CC3)c4ccccc4)c5ccccc25	7.56863623584
+CHEMBL434067	1'-benzylspiro[3,4-dihydro-1H-isochromene-1,4'-(hexahydropyridine)]-3-ylmethanol	OCC1Cc2ccccc2C3(CCN(Cc4ccccc4)CC3)O1	5.194920061366
+CHEMBL440686	1-Phenyl-cyclopentanecarboxylic acid [2-(2-diethylamino-ethoxy)-ethyl]-amide	CCN(CC)CCOCCNC(=O)C1(CCCC1)c2ccccc2	6.182420041426
+CHEMBL442106	8-(2-Methoxy-phenyl)-1,2,3,4-tetrahydro-isoquinoline	COc1ccccc1c2cccc3CCNCc23	5.7447274949
+CHEMBL44304	1-(3-Fluoro-propyl)-4-pentafluorophenyloxymethyl-piperidine	FCCCN1CCC(COc2c(F)c(F)c(F)c(F)c2F)CC1	8.284409579965999
+CHEMBL443482	2-(4-Fluoro-phenyl)-5-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-pentanenitrile	Fc1ccc(cc1)C(CCCN2CCN(CC2)c3ncc(F)cn3)C#N	6.72124639905
+CHEMBL445977	N-Ethyl-2-pyrrolidin-1-yl-N-{2-[2-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CCN(CCN1CCCC1)CCc2ccccc2OC(F)(F)F	7.284409579966
+CHEMBL44739	1-Cyclopropylmethyl-4-(4-iodo-phenoxymethyl)-piperidine	Ic1ccc(OCC2CCN(CC3CC3)CC2)cc1	8.815888497006
+CHEMBL44988	4-[1-(2-Iodo-benzyl)-piperidin-4-ylmethoxy]-benzonitrile	Ic1ccccc1CN2CCC(COc3ccc(cc3)C#N)CC2	7.549186530125999
+CHEMBL450863	(S,S)-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-l	CCCN1CCC[C@@H]2[C@@H]1CCc3c(O)cccc23	6.3585258895
+CHEMBL451542	[2-(2-Diethylamino-ethoxy)-ethyl]-methyl-(1-phenyl-cyclopentylmethyl)-amine	CCN(CC)CCOCCN(C)CC1(CCCC1)c2ccccc2	6.983379584305999
+CHEMBL45156	4-(4-Bromo-phenoxymethyl)-1-(3-fluoro-propyl)-piperidine	FCCCN1CCC(COc2ccc(Br)cc2)CC1	8.935074904726
+CHEMBL45168	1-(2-Fluoro-ethyl)-4-(4-iodo-phenoxymethyl)-piperidine	FCCN1CCC(COc2ccc(I)cc2)CC1	8.590579215285999
+CHEMBL45778	(R)-3-(1-Butyl-piperidin-3-yl)-phenol-3-(1-Butyl-piperidin-3-yl)-phenol	CCCCN1CCC[C@@H](C1)c2cccc(O)c2	8.04793989326
+CHEMBL46	10-(2-Methyl-imidazol-1-ylmethyl)-5,6,9,10-tetrahydro-4H,8H-pyrido[3,2,1-jk]carbazol-11-one	Cc1nccn1CC2CCc3c(C2=O)c4ccccc4n3C	5.682349588636
+CHEMBL46256	3-(1-Methyl-piperidin-3-yl)-phenol	CN1CCC[C@H](C1)c2cccc(O)c2	5.72000016364
+CHEMBL46374	2-[4-(4-Iodo-phenoxymethyl)-piperidin-1-yl]-ethanol	OCCN1CCC(COc2ccc(I)cc2)CC1	8.153130665326
+CHEMBL46396	1-(3-Fluoro-benzyl)-4-pentafluorophenyloxymethyl-piperidine	Fc1cccc(CN2CCC(COc3c(F)c(F)c(F)c(F)c3F)CC2)c1	7.996344561466
+CHEMBL46519	4-[1-(2-Fluoro-ethyl)-piperidin-4-ylmethoxy]-benzonitrile	FCCN1CCC(COc2ccc(cc2)C#N)CC1	7.129252227746
+CHEMBL46559	4-[1-(4-Fluoro-benzyl)-piperidin-4-ylmethoxy]-benzonitrile	Fc1ccc(CN2CCC(COc3ccc(cc3)C#N)CC2)cc1	8.634044909066
+CHEMBL466289	1'-(4-Fluorobenzyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	Fc1ccc(CN2CCC3(CC2)OCc4ccccc34)cc1	8.751430507785999
+CHEMBL46880	4-(4-Bromo-phenoxymethyl)-1-cyclopropylmethyl-piperidine	Brc1ccc(OCC2CCN(CC3CC3)CC2)cc1	8.736707250965999
+CHEMBL472979	3-[(1-Benzylpiperidin-4-yl)methyl]benzo[d]oxazol-2(3H)-one-3-((1-benzylpiperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CC3CCN(Cc4ccccc4)CC3	7.960168983329333
+CHEMBL472984	3-[[1-(2-Chlorobenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(2-chlorobenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	Clc1ccccc1CN2CCC(CN3C(=O)Oc4ccccc34)CC2	6.729884937526
+CHEMBL473112	1-Propyl-4-phenylpiperidine-4-carbonitrile	CCCN1CCC(CC1)(C#N)c2ccccc2	8.284409579965999
+CHEMBL473129	(+/-)-p-Fluorobenzoylbenzovesamicol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCC(CC3)C(=O)c4ccc(F)cc4	6.182420041426
+CHEMBL473783	3-[[1-(4-Chlorobenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(4-chlorobenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one-3-((1-(4-Chlorobenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	Clc1ccc(CN2CCC(CN3C(=O)Oc4ccccc34)CC2)cc1	9.520707784212664
+CHEMBL473975	3-[[1-(2,4-Dichlorobenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(2,4-dichlorobenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	Clc1ccc(CN2CCC(CN3C(=O)Oc4ccccc34)CC2)c(Cl)c1	6.103238795386
+CHEMBL473976	3-[[1-(2-Fluorobenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one	Fc1ccccc1CN2CCC(CN3C(=O)Oc4ccccc34)CC2	7.153130665326
+CHEMBL473989	N-Benzyl-3-[1-(4-fluorophenyl)-1H-indol-3-yl]-N-methyl-propan-1-amine	CN(CCCc1cn(c2ccc(F)cc2)c3ccccc13)Cc4ccccc4	7.196795166386
+CHEMBL474175	3-[[1-(2-Methylbenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(2-methylbenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	Cc1ccccc1CN2CCC(CN3C(=O)Oc4ccccc34)CC2	7.018493399365999
+CHEMBL474182	3-[[1-[(Naphtalen-1-yl)methyl]piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(naphthalen-1-ylmethyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CC3CCN(Cc4cccc5ccccc45)CC3	5.501952870296
+CHEMBL474565	3-[[1-(4-Methylbenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(4-methylbenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	Cc1ccc(CN2CCC(CN3C(=O)Oc4ccccc34)CC2)cc1	8.040090314655998
+CHEMBL474566	3-[[1-(2,4,6-Trimethylbenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(2,4,6-trimethylbenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	Cc1cc(C)c(CN2CCC(CN3C(=O)Oc4ccccc34)CC2)c(C)c1	4.721068677926
+CHEMBL474567	3-[[1-(4-Biphenyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(biphenyl-4-ylmethyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	O=C1Oc2ccccc2N1CC3CCN(Cc4ccc(cc4)c5ccccc5)CC3	5.919362279515999
+CHEMBL47750	(R)-3-(1-Ethyl-piperidin-3-yl)-phenol-3-(1-Ethyl-piperidin-3-yl)-phenol	CCN1CCC[C@@H](C1)c2cccc(O)c2	6.952342082145
+CHEMBL479	10-[2-(1-Methyl-piperidin-2-yl)-ethyl]-2-methylsulfanyl-10H-phenothiazine	CSc1ccc2Sc3ccccc3N(CCC4CCCCN4C)c2c1	6.12493873661
+CHEMBL48219	(s)-3-(1-Butyl-piperidin-3-yl)-phenol-3-(1-Butyl-piperidin-3-yl)-phenol	CCCCN1CCC[C@H](C1)c2cccc(O)c2	7.509339913374999
+CHEMBL484258	N-(3-Chlorobenzyl)-3-[1-(4-fluorophenyl)-1H-indol-3-yl]-N-methylpropan-1-amine	CN(CCCc1cn(c2ccc(F)cc2)c3ccccc13)Cc4cccc(Cl)c4	6.5196622097459995
+CHEMBL48582	(S)-2-[4-(3-Fluoro-benzyloxy)-benzylamino]-propionamide; compound with methanesulfonic acid	C[C@H](NCc1ccc(OCc2cccc(F)c2)cc1)C(=O)N.CS(=O)(=O)O	7.70553377384
+CHEMBL486190	1-Isobutyl-4-phenylpiperidine-4-carbonitrile	CC(C)CN1CCC(CC1)(C#N)c2ccccc2	8.970790456996
+CHEMBL49	8-[4-(4-Pyrimidin-2-yl-piperazin-1-yl)-butyl]-8-aza-spiro[4.5]decane-7,9-dione	O=C1CC2(CCCC2)CC(=O)N1CCCCN3CCN(CC3)c4ncccn4	6.8336172639659996
+CHEMBL490214	N-(3-Chlorobenzyl)-4-[1-(4-fluorophenyl)-1H-indol-3-yl]-N-methylbutan-1-amine	CN(CCCCc1cn(c2ccc(F)cc2)c3ccccc13)Cc4cccc(Cl)c4	6.2116624439259995
+CHEMBL491833	N-(2,4-Dimethylbenzyl)-3-[1-(4-fluorophenyl)-1H-indol-3-yl]-N-methylpropan-1-amine	CN(CCCc1cn(c2ccc(F)cc2)c3ccccc13)Cc4ccc(C)c(C)c4	6.4429764940359995
+CHEMBL491834	N-Benzyl-4-[1-(4-fluorophenyl)-1H-indol-3-yl]-N-methyl-butan-1-amine	CN(CCCCc1cn(c2ccc(F)cc2)c3ccccc13)Cc4ccccc4	6.8813900457659996
+CHEMBL493369	N-(4-(trifluoromethoxy)phenethyl)-N-methyl-2-(pyrrolidin-1-yl)ethanamine	CN(CCN1CCCC1)CCc2ccc(OC(F)(F)F)cc2	7.736707250965999
+CHEMBL493384	N-(4-methoxyphenethyl)-N-methyl-2-(piperidin-1-yl)ethanamine	COc1ccc(CCN(C)CCN2CCCCC2)cc1	7.192639206616
+CHEMBL495548	1-(2-Methylallyl)-4-phenylpiperidine-4-carbonitrile	CC(=C)CN1CCC(CC1)(C#N)c2ccccc2	7.946656777275999
+CHEMBL495549	1-Benzyl-4-phenylpiperidine-4-carbonitrile	N#CC1(CCN(Cc2ccccc2)CC1)c3ccccc3	8.902074644626
+CHEMBL495759	1-Phenylethyl-4-phenylpiperidine-4-carbonitrile	N#CC1(CCN(CCc2ccccc2)CC1)c3ccccc3	7.996344561466
+CHEMBL495760	1-Phenylbutyl-4-phenylpiperidine-4-carbonitrile	N#CC1(CCN(CCCCc2ccccc2)CC1)c3ccccc3	6.824662421316
+CHEMBL495954	1-Methyl-4-phenylpiperidine-4-carbonitrile	CN1CCC(CC1)(C#N)c2ccccc2	6.461780057866
+CHEMBL495955	1-Allyl-4-phenylpiperidine-4-carbonitrile	C=CCN1CCC(CC1)(C#N)c2ccccc2	8.172435820526
+CHEMBL49597	(s)-3-(1-Ethyl-piperidin-3-yl)-phenol-3-(1-Ethyl-piperidin-3-yl)-phenol	CCN1CCC[C@H](C1)c2cccc(O)c2	5.988582022619999
+CHEMBL49617	(R)-3-(1-Methyl-piperidin-3-yl)-phenol-3-(1-Methyl-piperidin-3-yl)-phenol	CN1CCC[C@@H](C1)c2cccc(O)c2	6.429142795715
+CHEMBL497338	N-Methyl-2-piperidin-1-yl-N-{2-[2-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CN(CCN1CCCCC1)CCc2ccccc2OC(F)(F)F	8.037737246626
+CHEMBL497340	N-Ethyl-2-pyrrolidin-1-yl-N-{2-[3-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CCN(CCN1CCCC1)CCc2cccc(OC(F)(F)F)c2	7.815888497006
+CHEMBL497549	N-Methyl-2-piperidin-1-yl-N-{2-[3-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CN(CCN1CCCCC1)CCc2cccc(OC(F)(F)F)c2	8.037737246626
+CHEMBL497550	N-Ethyl-2-piperidin-1-yl-N-{2-[3-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CCN(CCN1CCCCC1)CCc2cccc(OC(F)(F)F)c2	8.213828505686
+CHEMBL498564	N-Methyl-2-piperidin-1-yl-N-{2-[4-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CN(CCN1CCCCC1)CCc2ccc(OC(F)(F)F)cc2	8.213828505686
+CHEMBL498565	N-Methyl-2-pyrrolidin-1-yl-N-{2-[2-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CN(CCN1CCCC1)CCc2ccccc2OC(F)(F)F	7.514858501346
+CHEMBL498566	N-Ethyl-2-pyrrolidin-1-yl-N-{2-[4-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CCN(CCN1CCCC1)CCc2ccc(OC(F)(F)F)cc2	7.669760461335999
+CHEMBL498774	N-Ethyl-2-piperidin-1-yl-N-{2-[2-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CCN(CCN1CCCCC1)CCc2ccccc2OC(F)(F)F	7.736707250965999
+CHEMBL498775	N-Methyl-2-pyrrolidin-1-yl-N-{2-[3-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CN(CCN1CCCC1)CCc2cccc(OC(F)(F)F)c2	8.213828505686
+CHEMBL50239	1-[4-(5-Methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-butyl]-4-(3,4,5,6-tetrahydro-pyridin-2-yl)-piperazine	COc1cccc2C(CCCCN3CCN(CC3)C4=NCCCC4)CCCc12	5.9171633154159995
+CHEMBL502461	1-Phenylpropyl-4-phenylpiperidine-4-carbonitrile	N#CC1(CCN(CCCc2ccccc2)CC1)c3ccccc3	8.935074904726
+CHEMBL50880	(3'R,4'R)-1'-(3-Iodo-benzyl)-4-phenyl-[1,3']bipiperidinyl-4'-ol	O[C@@H]1CCN(Cc2cccc(I)c2)C[C@H]1N3CCC(CC3)c4ccccc4	6.236104900396
+CHEMBL514488	3-[[1-(2,4-Dimethylbenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one-3-((1-(2,4-dimethylbenzyl)piperidin-4-yl)methyl)benzo[d]oxazol-2(3H)-one	Cc1ccc(CN2CCC(CN3C(=O)Oc4ccccc34)CC2)c(C)c1	7.036294402506
+CHEMBL515571	3-[[1-(4-Fluorobenzyl)piperidin-4-yl]methyl]benzo[d]oxazol-2(3H)-one	Fc1ccc(CN2CCC(CN3C(=O)Oc4ccccc34)CC2)cc1	7.923793894315999
+CHEMBL521582	[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-dipropyl-amine hydrochloride-N-(4-methoxy-3-phenethoxyphenethyl)-N-propylpropan-1-amine hydrochloride	Cl.CCCN(CCC)CCc1ccc(OC)c(OCCc2ccccc2)c1	8.694038962162999
+CHEMBL523473	N-(2,4-Dimethylbenzyl)-4-[1-(4-fluorophenyl)-1H-indol-3-yl]-N-methylbutan-1-amine	CN(CCCCc1cn(c2ccc(F)cc2)c3ccccc13)Cc4ccc(C)c(C)c4	7.196795166386
+CHEMBL52440	4-methoxy-17-methyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2,4,6-triene	COc1ccc2C[C@H]3[C@H]4CCCC[C@@]4(CCN3C)c2c1	4.809850542016
+CHEMBL526849	N-Ethyl-2-piperidin-1-yl-N-{2-[4-(trifluoromethoxy)phenyl]-ethyl}ethanamine	CCN(CCN1CCCCC1)CCc2ccc(OC(F)(F)F)cc2	8.213828505686
+CHEMBL53	(R)-6-Methyl-5,6,6a,7-tetrahydro-4H-dibenzo[de,g]quinoline-10,11-diol	CN1CCc2cccc3c2[C@H]1Cc4ccc(O)c(O)c34	5.0
+CHEMBL53170	[2-(4-Methoxy-phenyl)-1-methyl-ethyl]-(3-phenyl-propyl)-amine	COc1ccc(CC(C)NCCCc2ccccc2)cc1	4.0
+CHEMBL537238	(2-{3-[2-(4-Fluoro-phenyl)-ethoxy]-4-methoxy-phenyl}-ethyl)-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCc1ccc(OC)c(OCCc2ccc(F)cc2)c1	9.0
+CHEMBL537251	[2-(5-Methoxy-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCc1cc(OC)ccc1OCCc2ccccc2	8.14874165128
+CHEMBL53951	5-Methoxy-1-{3-[4-(3-trifluoromethyl-phenyl)-piperazin-1-yl]-propyl}-1H-quinolin-2-one HCl	COc1cccc2N(CCCN3CCN(CC3)c4cccc(c4)C(F)(F)F)C(=O)C=Cc12	6.08618614762
+CHEMBL53952	1-{3-[4-(4-Fluoro-phenyl)-piperazin-1-yl]-propyl}-7-hydroxy-1H-quinolin-2-one	Oc1ccc2C=CC(=O)N(CCCN3CCN(CC3)c4ccc(F)cc4)c2c1	5.87942606879
+CHEMBL54	4-[4-(4-Chloro-phenyl)-4-hydroxy-piperidin-1-yl]-1-(4-fluoro-phenyl)-butan-1-one-4-[4-(4-Chloro-phenyl)-4-hydroxy-piperidin-1-yl]-1-(4-fluoro-phenyl)-butan-1-one (Haloperidol)-4-(4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl)-1-(4-fluorophenyl)butan-1-one-Haloperidol-haloperidol	OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3ccc(Cl)cc3	7.9185154424189585
+CHEMBL54020	1-Benzyl-4-[3-(5-methoxy-1,2,3,4-tetrahydro-naphthalen-1-yl)-propyl]-piperazine	COc1cccc2C(CCCN3CCN(Cc4ccccc4)CC3)CCCc12	7.1049253780159995
+CHEMBL540232	3-[3-[N-Methylamino-N-(4-methylbenzyl)]propyl]benzo[d]oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3ccc(C)cc3	5.574840346336
+CHEMBL540733	3-[3-[N-(2-Methoxybenzyl)-N-methylamino]propyl]benzo[d]oxazol-2(3H)-one	COc1ccccc1CN(C)CCCN2C(=O)Oc3ccccc23	5.225492549826
+CHEMBL542046	5-(2-Dipropylamino-ethyl)-2-phenethyloxy-phenol hydrochloride	Cl.CCCN(CCC)CCc1ccc(OCCc2ccccc2)c(O)c1	7.60205999133
+CHEMBL542047	[2-(3-Methoxy-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCc1cccc(OC)c1OCCc2ccccc2	8.56863623584
+CHEMBL542048	[2-(4-Chloro-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCc1ccc(Cl)cc1OCCc2ccccc2	7.7447274949
+CHEMBL542049	{2-[4-Methoxy-3-(2-thiophen-2-yl-ethoxy)-phenyl]-ethyl}-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCc1ccc(OC)c(OCCc2cccs2)c1	8.0268721464
+CHEMBL542295	[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-(3-methyl-butyl)-propyl-amine hydrochloride	Cl.CCCN(CCC(C)C)CCc1ccc(OC)c(OCCc2ccccc2)c1	8.5376020021
+CHEMBL542298	Hexyl-[2-(4-methoxy-3-phenethyloxy-phenyl)-ethyl]-propyl-amine hydrochloride	Cl.CCCCCCN(CCC)CCc1ccc(OC)c(OCCc2ccccc2)c1	8.7447274949
+CHEMBL54230	1-{3-[4-(3-Chloro-phenyl)-piperazin-1-yl]-propyl}-1H-quinolin-2-one	Clc1cccc(c1)N2CCN(CCCN3C(=O)C=Cc4ccccc34)CC2	6.2076083105
+CHEMBL542542	1-[2-(5-Chloro-2-phenethyloxy-phenyl)-ethyl]-4-(2-methoxy-phenyl)-piperazine	Cl.Cl.COc1ccccc1N2CCN(CCc3cc(Cl)ccc3OCCc4ccccc4)CC2	6.19382002602
+CHEMBL542783	3-{[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-propyl-amino}-propan-1-ol hydrochloride	Cl.CCCN(CCCO)CCc1ccc(OC)c(OCCc2ccccc2)c1	7.72124639905
+CHEMBL542784	2-(4-Methoxy-3-phenethyloxy-phenyl)-ethylamine hydrochloride	Cl.COc1ccc(CCN)cc1OCCc2ccccc2	5.0
+CHEMBL542785	4-(2-Dipropylamino-ethyl)-2-phenethyloxy-phenol hydrochloride	Cl.CCCN(CCC)CCc1ccc(O)c(OCCc2ccccc2)c1	8.50863830617
+CHEMBL542786	[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-propyl-amine hydrochloride	Cl.CCCNCCc1ccc(OC)c(OCCc2ccccc2)c1	7.46852108296
+CHEMBL543015	[2-(5-Fluoro-2-phenethyloxy-phenyl)-ethyl]-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCc1cc(F)ccc1OCCc2ccccc2	7.88605664769
+CHEMBL54452	5-Chloro-1-{3-[4-(3-methoxy-phenyl)-piperazin-1-yl]-propyl}-3,4-dihydro-1H-quinolin-2-one (2HCl)	COc1cccc(c1)N2CCN(CCCN3C(=O)CCc4c(Cl)cccc34)CC2	6.88605664769
+CHEMBL545597	[3-(4-Methoxy-3-phenethyloxy-phenyl)-propyl]-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCCc1ccc(OC)c(OCCc2ccccc2)c1	9.0
+CHEMBL545598	1-[2-(4-Methoxy-3-phenethyloxy-phenyl)-ethyl]-4-(2-methoxy-phenyl)-piperazine	Cl.Cl.COc1ccc(CCN2CCN(CC2)c3ccccc3OC)cc1OCCc4ccccc4	7.60205999133
+CHEMBL54691	1-(4-Fluoro-phenyl)-4-(5-fluoro-pyridin-2-yl)-4-piperazin-1-yl-butan-1-ol	OC(CCC(N1CCNCC1)c2ccc(F)cn2)c3ccc(F)cc3	6.06550154876
+CHEMBL549769	3-[3-[N-(4-Methoxybenzyl)-N-methylamino]propyl]benzo[d]-oxazol-2(3H)-one	COc1ccc(CN(C)CCCN2C(=O)Oc3ccccc23)cc1	6.595780408965999
+CHEMBL54997	1-{3-[4-(3-Chloro-phenyl)-piperazin-1-yl]-propyl}-6-methoxy-3,4-dihydro-1H-quinolin-2-one (2HCl)	COc1ccc2N(CCCN3CCN(CC3)c4cccc(Cl)c4)C(=O)CCc2c1	6.18708664336
+CHEMBL550783	3-[4-(N-Methylamino-N-(4-methylbenzyl)]benzo[d]oxazol-2(3H)-one	CN(CCCCN1C(=O)Oc2ccccc12)Cc3ccc(C)cc3	6.528086767075999
+CHEMBL550990	3-[3-[N-(2-Chlorobenzyl)-N-methylamino]propyl]benzo[d]oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3ccccc3Cl	5.118310463356
+CHEMBL551310	N-Phenyl-1-(4-methylbenzyl)piperidine-4-carboxamide	Cc1ccc(CN2CCC(CC2)C(=O)Nc3ccccc3)cc1	6.493669202276
+CHEMBL55170	Benzoic acid 2-oxo-1-[3-(4-phenyl-piperazin-1-yl)-propyl]-1,2,3,4-tetrahydro-quinolin-6-yl ester	O=C(Oc1ccc2N(CCCN3CCN(CC3)c4ccccc4)C(=O)CCc2c1)c5ccccc5	4.0
+CHEMBL551855	3-[4-[N-(2-Chlorobenzyl)-N-methylamino]butyl]benzo[d]oxazol-2(3H)-one	CN(CCCCN1C(=O)Oc2ccccc12)Cc3ccccc3Cl	5.589030926725999
+CHEMBL551856	3-[4-[N-(4-Chlorobenzyl)-N-methylamino]butyl]benzo[d]oxazol-2(3H)-one-3-(4-((4-chlorobenzyl)(methyl)amino)butyl)benzo[d]oxazol-2(3H)-one	CN(CCCCN1C(=O)Oc2ccccc12)Cc3ccc(Cl)cc3	7.663600152626
+CHEMBL55212	1-{3-[4-(3-Chloro-phenyl)-piperazin-1-yl]-propyl}-7-methoxy-3,4-dihydro-1H-quinolin-2-one (2HCl)	COc1ccc2CCC(=O)N(CCCN3CCN(CC3)c4cccc(Cl)c4)c2c1	5.94692155652
+CHEMBL552170	3-[4-[N-(3-Chlorobenzyl)-N-methylamino]butyl]benzo[d]oxazol-2(3H)-one	CN(CCCCN1C(=O)Oc2ccccc12)Cc3cccc(Cl)c3	6.034851558385999
+CHEMBL55254	5-Methoxy-1-{3-[4-(3-nitro-phenyl)-piperazin-1-yl]-propyl}-3,4-dihydro-1H-quinolin-2-one (HCl 2H2O)	COc1cccc2N(CCCN3CCN(CC3)c4cccc(c4)[N+](=O)[O-])C(=O)CCc12	6.06048074738
+CHEMBL554037	[2-(4-Methoxy-6H-benzo[c]chromen-1-yl)-ethyl]-dipropyl-amine hydrochloride	Cl.CCCN(CCC)CCc1ccc(OC)c2OCc3ccccc3c12	6.0043648054
+CHEMBL554484	1-Benzyl-N-phenylpiperidine-4-carboxamide	O=C(Nc1ccccc1)C2CCN(Cc3ccccc3)CC2	6.832713424975999
+CHEMBL55506	1-{3-[4-(3-Chloro-phenyl)-piperazin-1-yl]-propyl}-5-ethoxy-3,4-dihydro-1H-quinolin-2-one HCl	CCOc1cccc2N(CCCN3CCN(CC3)c4cccc(Cl)c4)C(=O)CCc12	6.06048074738
+CHEMBL55571	1-{3-[4-(3-Chloro-phenyl)-piperazin-1-yl]-propyl}-5-methoxy-1H-quinolin-2-one HCl	COc1cccc2N(CCCN3CCN(CC3)c4cccc(Cl)c4)C(=O)C=Cc12	6.00877392431
+CHEMBL55622	1-{3-[4-(3-Chloro-phenyl)-piperazin-1-yl]-propyl}-8-methoxy-3,4-dihydro-1H-quinolin-2-one HCl	COc1cccc2CCC(=O)N(CCCN3CCN(CC3)c4cccc(Cl)c4)c12	6.22184874962
+CHEMBL557297	N,1-Dibenzylpiperidine-4-carboxamide-N,1-dibenzylpiperidine-4-carboxamide	O=C(NCc1ccccc1)C2CCN(Cc3ccccc3)CC2	7.162675983235999
+CHEMBL557589	1-(2-Dipropylamino-ethyl)-6H-benzo[c]chromen-4-ol hydrochloride	Cl.CCCN(CCC)CCc1ccc(O)c2OCc3ccccc3c12	6.25336580106
+CHEMBL557708	3-[3-[N-(3-Chlorobenzyl)-N-methylamino]propyl]benzo[d]oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3cccc(Cl)c3	5.005252796735999
+CHEMBL55827	1-{3-[4-(3-Bromo-phenyl)-piperazin-1-yl]-propyl}-5-methoxy-3,4-dihydro-1H-quinolin-2-one HCl	COc1cccc2N(CCCN3CCN(CC3)c4cccc(Br)c4)C(=O)CCc12	6.3767507096
+CHEMBL559292	3-[4-(N-Benzyl-N-methylamino)butyl]benzo[d]oxazol-2(3H)-one-3-(4-(benzyl(methyl)amino)butyl)benzo[d]oxazol-2(3H)-one	CN(CCCCN1C(=O)Oc2ccccc12)Cc3ccccc3	8.099885153376
+CHEMBL559582	3-[3-[N-(4-Methoxybenzyl)-N-methylamino]butyl]benzo[d]oxazol-2(3H)-one	COc1ccc(CN(C)C(C)CCN2C(=O)Oc3ccccc23)cc1	7.192639206616
+CHEMBL559782	N-Phenyl-1-(4-chlorobenzyl)piperidine-4-carboxamide	Clc1ccc(CN2CCC(CC2)C(=O)Nc3ccccc3)cc1	6.861645987566
+CHEMBL559857	3-[4-[N-(2-Methoxybenzyl)-N-methylamino]butyl]benzo[d]oxazol-2(3H)-one	COc1ccccc1CN(C)CCCCN2C(=O)Oc3ccccc23	5.741072056366
+CHEMBL559979	N-Benzyl-1-(4-chlorobenzyl)piperidine-4-carboxamide-N-benzyl-1-(4-chlorobenzyl)piperidine-4-carboxamide	Clc1ccc(CN2CCC(CC2)C(=O)NCc3ccccc3)cc1	7.404268791045999
+CHEMBL55999	1-{3-[4-(3-Hydroxy-phenyl)-piperazin-1-yl]-propyl}-5-methoxy-3,4-dihydro-1H-quinolin-2-one (HCl 1.5H2O)	COc1cccc2N(CCCN3CCN(CC3)c4cccc(O)c4)C(=O)CCc12	6.09151498112
+CHEMBL56	7-Dipropylamino-5,6,7,8-tetrahydro-naphthalen-1-ol	CCCN(CCC)C1CCc2cccc(O)c2C1	4.7955272143659995
+CHEMBL560	Pentazocine	C[C@H]1[C@H]2Cc3ccc(O)cc3[C@]1(C)CCN2CC=C(C)C	7.432073131026
+CHEMBL56139	5-Chloro-1-{3-[4-(3-nitro-phenyl)-piperazin-1-yl]-propyl}-3,4-dihydro-1H-quinolin-2-one (HCl 1/2H2O)	[O-][N+](=O)c1cccc(c1)N2CCN(CCCN3C(=O)CCc4c(Cl)cccc34)CC2	6.40893539297
+CHEMBL562450	3-[3-[N-(4-Chlorobenzyl)-N-methylamino]propyl]benzo[d]oxazol-2(3H)-one-3-(3-((4-chlorobenzyl)(methyl)amino)propyl)benzo[d]oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3ccc(Cl)cc3	5.455295083446
+CHEMBL562510	N-Benzyl-1-(4-methylbenzyl)piperidine-4-carboxamide	Cc1ccc(CN2CCC(CC2)C(=O)NCc3ccccc3)cc1	6.673499030896
+CHEMBL563001	3-[4-[N-(2,4-Dimethylbenzyl)-N-methylamino]butyl]benzo[d]oxazol-2(3H)-one	CN(CCCCN1C(=O)Oc2ccccc12)Cc3ccc(C)cc3C	6.136460600396
+CHEMBL56373	N-(7-Hydroxy-2,2,4,6-tetramethyl-indan-1-yl)-2-[4-(3-methoxy-phenyl)-piperazin-1-yl]-acetamide	COc1cccc(c1)N2CCN(CC(=O)NC3c4c(O)c(C)cc(C)c4CC3(C)C)CC2	3.8239087409400003
+CHEMBL564299	3-[4-(N-Methylamino-N-(3-methylbenzyl)]benzo[d]oxazol-2(3H)-one	CN(CCCCN1C(=O)Oc2ccccc12)Cc3cccc(C)c3	6.506258329585999
+CHEMBL564465	3-[3-[N-Methylamino-N-(3-methylbenzyl)]propyl]benzo[d]oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3cccc(C)c3	5.251222432755999
+CHEMBL564522	3-[3-(N-Benzyl-N-methylamino)propyl]benzo[d]oxazol-2(3H)-one-3-(3-(benzyl(methyl)amino)propyl)benzo[d]oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3ccccc3	6.166553638296
+CHEMBL564784	3-[3-[N-Methylamino-N-(2-methylbenzyl)]propyl]benzo[d]oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3ccccc3C	5.560133710365999
+CHEMBL565070	3-[3-[N-(3-Methoxybenzyl)-N-methylamino]propyl]benzo-[d]oxazol-2(3H)-one	COc1cccc(CN(C)CCCN2C(=O)Oc3ccccc23)c1	4.582892386616
+CHEMBL56519	(S,S)-1,2,3,4,4a,5,6,10b-Octahydro-benzo[f]quinolin-7-ol	Oc1cccc2[C@@H]3CCCN[C@H]3CCc12	5.44249279809
+CHEMBL56617	rac-4-Methyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol	CN1CCCC2C1CCc3ccc(O)cc23	6.65560772631
+CHEMBL56618	rac-4-Methyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-ol	CN1CCCC2C1CCc3c(O)cccc23	6.21467016499
+CHEMBL56630	rac-1,2,3,4,4a,5,6,10b-Octahydro-benzo[f]quinolin-9-ol	Oc1ccc2CCC3NCCCC3c2c1	5.32387014042
+CHEMBL56646	1-{3-[4-(2-Chloro-phenyl)-piperazin-1-yl]-propyl}-5-methoxy-3,4-dihydro-1H-quinolin-2-one HCl	COc1cccc2N(CCCN3CCN(CC3)c4ccccc4Cl)C(=O)CCc12	6.58502665203
+CHEMBL570315	3-[3-[N-(2,4-Dimethylbenzyl)-N-methylamino]propyl]benzo[d]-oxazol-2(3H)-one	CN(CCCN1C(=O)Oc2ccccc12)Cc3ccc(C)cc3C	5.251696036386
+CHEMBL570536	3-[4-[N-(3-Methoxybenzyl)-N-methylamino]butyl]benzo[d]oxazol-2(3H)-one	COc1cccc(CN(C)CCCCN2C(=O)Oc3ccccc23)c1	6.042102052025999
+CHEMBL571862	(-)-trans-9-Methoxy-3-(2-phenylethyl)-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1H-benzo[4,5]furo[3,2-e]isoquinoline-(+)-trans-9-Methoxy-3-(2-phenylethyl)-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1H-benzo[4,5]furo[3,2-e]isoquinoline	COc1cccc2c1O[C@H]3CCC[C@H]4CN(CCc5ccccc5)CC[C@]234	5.9187420898809995
+CHEMBL57529	5-Chloro-1-{3-[4-(3-propoxy-phenyl)-piperazin-1-yl]-propyl}-3,4-dihydro-1H-quinolin-2-one (2HCl)	CCCOc1cccc(c1)N2CCN(CCCN3C(=O)CCc4c(Cl)cccc34)CC2	6.43179827593
+CHEMBL57660	1-{3-[4-(3-Amino-phenyl)-piperazin-1-yl]-propyl}-5-chloro-3,4-dihydro-1H-quinolin-2-one	Nc1cccc(c1)N2CCN(CCCN3C(=O)CCc4c(Cl)cccc34)CC2	6.14874165128
+CHEMBL583881	(+)-trans-3-Cyclopropylmethyl-9-methoxy-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1H-benzo[4,5]furo[3,2-e]isoquinoline-(-)-trans-3-Cyclopropylmethyl-9-methoxy-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1H-benzo[4,5]furo[3,2-e]isoquinoline	COc1cccc2c1O[C@H]3CCC[C@H]4CN(CC5CC5)CC[C@]234	6.391240226591
+CHEMBL585721	(-)-trans-3-(2-Phenylethyl)-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1Hbenzo[4,5]furo[3,2-e]isoquinolin-9-ol-(+)-trans-3-(2-Phenylethyl)-2,3,4,4aalpha,5,6,7,7aalpha-octahydro-1Hbenzo[4,5]furo[3,2-e]isoquinolin-9-ol	Oc1cccc2c1O[C@H]3CCC[C@H]4CN(CCc5ccccc5)CC[C@]234	6.267023903041
+CHEMBL58734	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[3,4-dihydro-2H-chromene-4,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CCOc5ccccc45)CC3)c6ccccc26	8.338890352635
+CHEMBL591679	(R/S)-4-(Benzyl(methyl)amino)-2-(6-methoxynaphthalen-2-yl)butan-2-ol	COc1ccc2cc(ccc2c1)C(C)(O)CCN(C)Cc3ccccc3	7.733821562726
+CHEMBL59210	3-{4-[3-(5-Methoxy-2-oxo-3,4-dihydro-2H-quinolin-1-yl)-propyl]-piperazin-1-yl}-benzonitrile (HCl 1/2H2O)	COc1cccc2N(CCCN3CCN(CC3)c4cccc(c4)C#N)C(=O)CCc12	5.60730304674
+CHEMBL59249	1-{3-[4-spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-1-ylbutyl]-1H-1-indolyl}-1-ethanone	CC(=O)n1cc(CCCCN2CCC3(CC2)OCc4ccccc34)c5ccccc15	8.24412514433
+CHEMBL59273	1'-{4-[1-(4-methylphenylsulfonyl)-1H-3-indolyl]butyl}spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	Cc1ccc(cc1)S(=O)(=O)n2cc(CCCCN3CCC4(CC3)OCc5ccccc45)c6ccccc26	8.0
+CHEMBL59306	1'-{4-[1-(1,3-thiazol-2-yl)-1H-3-indolyl]butyl}spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	C(CCc1cn(c2nccs2)c3ccccc13)CN4CCC5(CC4)OCc6ccccc56	7.85387196432
+CHEMBL59335	3-[4-(4-Phenyl-piperidin-1-yl)-butyl]-1H-indole	C(CCc1c[nH]c2ccccc12)CN3CCC(CC3)c4ccccc4	8.82390874094
+CHEMBL59464	1'-[4-(1H-3-indolyl)butyl]spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	C(CCc1c[nH]c2ccccc12)CN3CCC4(CC3)OCc5ccccc45	8.60205999133
+CHEMBL597021	(R/S)-4-(benzyl(methyl)amino)-2-(biphenyl-4-yl)butan-2-ol	CN(CCC(C)(O)c1ccc(cc1)c2ccccc2)Cc3ccccc3	8.138281544286
+CHEMBL597022	(E)-N-Benzyl-3-(6-methoxynaphthalen-2-yl)-N-methylbut-2-en-1-amine	COc1ccc2cc(ccc2c1)\C(=C\CN(C)Cc3ccccc3)\C	7.378137934185999
+CHEMBL597023	(E)-1-(3-(6-Methoxynaphthalen-2-yl)but-2-enyl)piperidine	COc1ccc2cc(ccc2c1)\C(=C\CN3CCCCC3)\C	7.870419911875999
+CHEMBL597631	(R/S)-4-(Dimethylamino)-2-(6-methoxynaphthalen-2-yl)butan-2-ol	COc1ccc2cc(ccc2c1)C(C)(O)CCN(C)C	6.926026775755999
+CHEMBL597642	(R/S)-N-Benzyl-3-(6-methoxynaphthalen-2-yl)-N-methylbutan-1-amine	COc1ccc2cc(ccc2c1)C(C)CCN(C)Cc3ccccc3	8.151246521455999
+CHEMBL597643	(R/S)-1-(3-(6-Methoxynaphthalen-2-yl)butyl)piperidine	COc1ccc2cc(ccc2c1)C(C)CCN3CCCCC3	8.404268791046
+CHEMBL597833	(R/S)-2-(6-Methoxynaphthalen-2-yl)-4-(piperidin-1-yl)butan-2-ol	COc1ccc2cc(ccc2c1)C(C)(O)CCN3CCCCC3	7.4978251620459995
+CHEMBL59809	1'-(3-cyclohexyloxypropyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(COC1CCCCC1)CN2CCC3(CC2)OCc4ccccc34	9.776420984335001
+CHEMBL59852	1-[1-(4-fluorophenyl)-1H-3-indolyl]-4-[6-fluorospiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]-1-yl]butane	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)OCc5ccc(F)cc45)c6ccccc26	8.88413780834
+CHEMBL59940	3-{4-[4-(2-Methoxy-phenyl)-piperazin-1-yl]-butyl}-1H-indole	COc1ccccc1N2CCN(CCCCc3c[nH]c4ccccc34)CC2	7.85387196432
+CHEMBL60267	3-{4-[4-(4-Fluoro-phenyl)-piperidin-1-yl]-butyl}-1H-indole	Fc1ccc(cc1)C2CCN(CCCCc3c[nH]c4ccccc34)CC2	8.85387196432
+CHEMBL60389	1'-(2-phenylpropyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(CN1CCC2(CC1)OCc3ccccc23)Cc4ccccc4	9.105209643915
+CHEMBL60845	1'-{3-[1-(4-fluorophenyl)-1H-3-indolyl]propyl}spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCN3CCC4(CC3)OCc5ccccc45)c6ccccc26	8.0
+CHEMBL60859	1-(4-Fluoro-phenyl)-4-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-butan-1-ol-4-{4-[5-Fluoro-2-(4-fluoro-phenyl)-2H-pyrimidin-1-yl]-piperazin-1-yl}-butan-1-ol-1-(4-Fluoro-phenyl)-1-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-butan-1-ol (BMY-14802)-1-(4-Fluoro-phenyl)-4-[4-(5-fluoro-pyrimidin-2-yl)-piperazin-1-yl]-butan-1-ol (BMY-14802)	OC(CCCN1CCN(CC1)c2ncc(F)cn2)c3ccc(F)cc3	6.668494005927428
+CHEMBL61343	1'-[1-(4-fluorophenyl)-1H-3-indolylmethyl]spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CN3CCC4(CC3)OCc5ccccc45)c6ccccc26	8.52287874528
+CHEMBL61461	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[benzo[d][1,3]dioxole-2,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)Oc5ccccc5O4)c6ccccc26	6.467583890129999
+CHEMBL61539	1-(4-Fluoro-phenyl)-3-{4-[4-(4-fluoro-phenyl)-piperidin-1-yl]-butyl}-1H-indole	Fc1ccc(cc1)C2CCN(CCCCc3cn(c4ccc(F)cc4)c5ccccc35)CC2	7.79588001734
+CHEMBL61739	1'-isopropyl-3H-spiro[2-benzofuran-1,4'-piperidine]	CC(C)N1CCC2(CC1)OCc3ccccc23	7.40922111307
+CHEMBL61747	3-{4-[4-(2-Methoxy-phenyl)-piperidin-1-yl]-butyl}-1H-indole	COc1ccccc1C2CCN(CCCCc3c[nH]c4ccccc34)CC2	8.34678748622
+CHEMBL61812	1'-{4-[1-(2-thienyl)-1H-3-indolyl]butyl}spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	C(CCc1cn(c2cccs2)c3ccccc13)CN4CCC5(CC4)OCc6ccccc56	8.11350927483
+CHEMBL62002	1'-(cyclohexylbutyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(CCN1CCC2(CC1)OCc3ccccc23)CC4CCCCC4	9.489405350470001
+CHEMBL62137	1'-{4-[1-(3-thienyl)-1H-3-indolyl]butyl}spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	C(CCc1cn(c2ccsc2)c3ccccc13)CN4CCC5(CC4)OCc6ccccc56	8.15490195999
+CHEMBL62188	1'-{2-[1-(4-fluorophenyl)-1H-3-indolyl]ethyl}spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCN3CCC4(CC3)OCc5ccccc45)c6ccccc26	7.82390874094
+CHEMBL62300	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[3,4-dihydro-1H-isochromene-3,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)Cc5ccccc5CO4)c6ccccc26	8.29843973941
+CHEMBL62615	1'-methyl-3H-spiro[2-benzofuran-1,4'-piperidine]	CN1CCC2(CC1)OCc3ccccc23	6.340968332515001
+CHEMBL62994	1-(4-Fluoro-phenyl)-3-{4-[3-(4-fluoro-phenyl)-8-aza-bicyclo[3.2.1]oct-2-en-8-yl]-butyl}-1H-indole	Fc1ccc(cc1)C2=CC3CCC(C2)N3CCCCc4cn(c5ccc(F)cc5)c6ccccc46	5.92081875395
+CHEMBL63999	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}spiro[3,4-dihydro-1H-isochromene-4,4'-(hexahydropyridine)]	Fc1ccc(cc1)n2cc(CCCCN3CCC4(CC3)COCc5ccccc45)c6ccccc26	8.96852108296
+CHEMBL64023	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}-6-isopropylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	CC(C)c1ccc2COC3(CCN(CCCCc4cn(c5ccc(F)cc5)c6ccccc46)CC3)c2c1	7.170994301675
+CHEMBL64047	1'-propyl-3H-spiro[2-benzofuran-1,4'-piperidine]	CCCN1CCC2(CC1)OCc3ccccc23	7.98308715302
+CHEMBL64113	1'-[4-(1-benzyl-1H-3-indolyl)butyl]spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	C(CCc1cn(Cc2ccccc2)c3ccccc13)CN4CCC5(CC4)OCc6ccccc56	8.28399665637
+CHEMBL64115	1'-{4-[1-(4-fluorophenyl)-1H-3-indolyl]butyl}-5-methylspiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	Cc1ccc2c(COC23CCN(CCCCc4cn(c5ccc(F)cc5)c6ccccc46)CC3)c1	8.330274279345
+CHEMBL64260	N-(2-(6,7-dimethoxy-3,4-dihydroisoquinolin-2(1H)-yl)ethyl)-2-methoxy-5-methylbenzamide	COc1cc2CCN(CCNC(=O)c3cc(C)ccc3OC)Cc2cc1OC	4.497324341905999
+CHEMBL64302	1'-{4-[1-(4-pyridyl)-1H-3-indolyl]butyl}spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	C(CCc1cn(c2ccncc2)c3ccccc13)CN4CCC5(CC4)OCc6ccccc56	7.85387196432
+CHEMBL64305	1'-(2-phenylpentyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(CCN1CCC2(CC1)OCc3ccccc23)CCc4ccccc4	9.39257807598
+CHEMBL64344	3-{4-[4-(4-Fluoro-phenyl)-3,6-dihydro-2H-pyridin-1-yl]-butyl}-1H-indole	Fc1ccc(cc1)C2=CCN(CCCCc3c[nH]c4ccccc34)CC2	8.12493873661
+CHEMBL64369	3H-spiro[2-benzofuran-1,4'-piperidine]	C1CC2(CCN1)OCc3ccccc23	5.579633382695
+CHEMBL64468	1'-butyl-3H-spiro[2-benzofuran-1,4'-piperidine]	CCCCN1CCC2(CC1)OCc3ccccc23	8.369368565605
+CHEMBL64549	1'-(2-phenylethyl)-3H-spiro[2-benzofuran-1,4'-piperidine]	C(Cc1ccccc1)N2CCC3(CC2)OCc4ccccc34	8.59758966064
+CHEMBL64683	1'-[4-(1-methylsulfonyl-1H-3-indolyl)butyl]spiro[1,3-dihydroisobenzofuran-1,4'-(hexahydropyridine)]	CS(=O)(=O)n1cc(CCCCN2CCC3(CC2)OCc4ccccc34)c5ccccc15	8.88605664769
+CHEMBL65239	(rac)-5-iodo-3-(4-phenylpiperidin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol	O[C@@H]1Cc2cccc(I)c2C[C@H]1N3CCC(CC3)c4ccccc4	6.089976864715999
+CHEMBL66208	(s)-3-(1-Phenethyl-piperidin-3-yl)-phenol-3-(1-Phenethyl-piperidin-3-yl)-phenol	Oc1cccc(c1)[C@@H]2CCCN(CCc3ccccc3)C2	7.797925375395
+CHEMBL67221	9-Hydroxy-4-propyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CCC[n+]1cccc2C3CC(O)CCC3CCc12	7.215040042870001
+CHEMBL67329	1-Propyl-3-(3-trifluoromethyl-phenyl)-piperidine	CCCN1CCCC(C1)c2cccc(c2)C(F)(F)F	7.76955107862
+CHEMBL67440	rac-4-Phenethyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol	Oc1ccc2CCC3C(CCCN3CCc4ccccc4)c2c1	7.56863623584
+CHEMBL67583	(R,R)-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol-(S,S)-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol-rac-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol	CCCN1CCCC2C1CCc3ccc(O)cc23	7.2158699562874995
+CHEMBL67584	rac-4-Propyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-8-ol	CCCN1CCCC2C1CCc3cc(O)ccc23	7.698970004335
+CHEMBL68432	rac-4-Butyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol	CCCCN1CCCC2C1CCc3ccc(O)cc23	7.727965977825
+CHEMBL68855	(R)-3-(1-Phenethyl-piperidin-3-yl)-phenol-3-(1-Phenethyl-piperidin-3-yl)-phenol	Oc1cccc(c1)[C@H]2CCCN(CCc3ccccc3)C2	8.09854475529
+CHEMBL68916	3-(3-Fluoro-phenyl)-1-propyl-piperidine	CCCN1CCCC(C1)c2cccc(F)c2	7.30980391997
+CHEMBL68952	rac-4-Ethyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-ol	CCN1CCCC2C1CCc3c(O)cccc23	6.62708799703
+CHEMBL68960	9-Methoxy-4-phenethyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	COC1CCC2CCc3c(ccc[n+]3CCc4ccccc4)C2C1	7.84985783815
+CHEMBL68989	rac-4-Butyl-9-methoxy-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinoline	CCCCN1CCCC2C1CCc3ccc(OC)cc23	8.30102999566
+CHEMBL69169	rac-4-Benzyl-9-methoxy-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinoline	COc1ccc2CCC3C(CCCN3Cc4ccccc4)c2c1	8.30102999566
+CHEMBL69500	rac-4-Benzyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-9-ol	Oc1ccc2CCC3C(CCCN3Cc4ccccc4)c2c1	7.95860731484
+CHEMBL69766	9-Hydroxy-4-phenethyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	OC1CCC2CCc3c(ccc[n+]3CCc4ccccc4)C2C1	7.56992494445
+CHEMBL70186	rac-9-Methoxy-4-phenethyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinoline	COc1ccc2CCC3C(CCCN3CCc4ccccc4)c2c1	7.85387196432
+CHEMBL70193	7-Hydroxy-4-propyl-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CCC[n+]1cccc2C3CCCC(O)C3CCc12	6.803345532456667
+CHEMBL70929	rac-4-Phenethyl-1,2,3,4,4a,5,6,10b-octahydro-benzo[f]quinolin-7-ol	Oc1cccc2C3CCCN(CCc4ccccc4)C3CCc12	7.18708664336
+CHEMBL71776	4-Butyl-7-hydroxy-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CCCC[n+]1cccc2C3CCCC(O)C3CCc12	7.63997491081
+CHEMBL71777	4-Ethyl-7-hydroxy-5,6,6a,7,8,9,10,10a-octahydro-benzo[f]quinolinium	CC[n+]1cccc2C3CCCC(O)C3CCc12	6.63000533839
+CHEMBL72219	1-(4-Chloro-phenyl)-cyclopentanecarboxylic acid 2-(2-diethylamino-ethoxy)-ethyl ester	CCN(CC)CCOCCOC(=O)C1(CCCC1)c2ccc(Cl)cc2	7.134647259636
+CHEMBL72506	Diethyl-{2-[2-(1-phenyl-cyclopentylmethoxy)-ethoxy]-ethyl}-amine	CCN(CC)CCOCCOCC1(CCCC1)c2ccccc2	7.083494737185999
+CHEMBL73017	1-(3,4-Dichloro-phenyl)-cyclohexanecarboxylic acid 2-pyrrolidin-1-yl-ethoxymethyl ester	Clc1ccc(cc1Cl)C2(CCCCC2)C(=O)OCOCCN3CCCC3	7.009708523025999
+CHEMBL73234	1-Phenyl-cyclopentanecarboxylic acid 2-(2-diethylamino-ethoxy)-ethyl ester	CCN(CC)CCOCCOC(=O)C1(CCCC1)c2ccccc2	7.214678700005999
+CHEMBL73501	1-(3,4-Dichloro-phenyl)-cyclohexanecarboxylic acid (2-diethylamino-ethoxymethyl)-amide	CCN(CC)CCOCNC(=O)C1(CCCCC1)c2ccc(Cl)c(Cl)c2	7.083494737185999
+CHEMBL73762	1-Phenyl-cyclopropanecarboxylic acid 2-(2-diethylamino-ethoxy)-ethyl ester	CCN(CC)CCOCCOC(=O)C1(CC1)c2ccccc2	6.861645987566
+CHEMBL7393	3-((R)-1-Propyl-piperidin-3-yl)-phenol-(R)-3-(1-Propyl-piperidin-3-yl)-phenol-3-(1-Propyl-piperidin-3-yl)-phenol	CCCN1CCC[C@@H](C1)c2cccc(O)c2	7.633633242136666
+CHEMBL741	6-(2,3-Dichloro-phenyl)-[1,2,4]triazine-3,5-diamine	Nc1nnc(c(N)n1)c2cccc(Cl)c2Cl	4.0
+CHEMBL74305	1-(4-Methoxy-phenyl)-cyclopentanecarboxylic acid 2-(2-diethylamino-ethoxy)-ethyl ester	CCN(CC)CCOCCOC(=O)C1(CCCC1)c2ccc(OC)cc2	6.744006489706
+CHEMBL74736	1-Phenyl-cyclohexanecarboxylic acid 2-(2-diethylamino-ethoxy)-ethyl ester	CCN(CC)CCOCCOC(=O)C1(CCCCC1)c2ccccc2	6.983379584305999
+CHEMBL75217	1-(3,4-Dichloro-phenyl)-cyclohexanecarboxylic acid 2-diethylamino-ethoxymethyl ester	CCN(CC)CCOCOC(=O)C1(CCCCC1)c2ccc(Cl)c(Cl)c2	7.172435820525999
+CHEMBL75228	1-Phenethyl-piperidine-N-phenethylpiperidine	C(Cc1ccccc1)N2CCCCC2	6.881129907965999
+CHEMBL7549	(s)-3-(1-Propyl-piperidin-3-yl)-phenol-3-(1-Propyl-piperidin-3-yl)-phenol	CCCN1CCC[C@H](C1)c2cccc(O)c2	6.796260357915
+CHEMBL80	naloxone	Oc1ccc2C[C@H]3N(CC=C)CC[C@@]45[C@@H](Oc1c24)C(=O)CC[C@@]35O	3.514858501346
+CHEMBL8033	(s)-3-Piperidin-3-yl-phenol-3-Piperidin-3-yl-phenol	Oc1cccc(c1)[C@@H]2CCCNC2	4.8084376473949995
+CHEMBL814	fluvoxamine	COCCCC\C(=N/OCCN)\c1ccc(cc1)C(F)(F)F	6.958556000575999
+CHEMBL81602	N,N'-Di-p-tolyl-guanidine	Cc1ccc(NC(=N)Nc2ccc(C)cc2)cc1	6.709357643185999
+CHEMBL82327	(R)-2-[4-(3-Fluoro-benzyloxy)-benzylamino]-propionamide	C[C@@H](NCc1ccc(OCc2cccc(F)c2)cc1)C(=O)N	6.55284196866
+CHEMBL8268	(R)-3-Piperidin-3-yl-phenol-3-Piperidin-3-yl-phenol	Oc1cccc(c1)[C@H]2CCCNC2	5.340041990045
+CHEMBL83621	(S)-2-[4-(3-Fluoro-benzylamino)-benzylamino]-propionamide	C[C@H](NCc1ccc(NCc2cccc(F)c2)cc1)C(=O)N	7.46344155743
+CHEMBL84167	(S)-2-[4-(5-Phenyl-pentyloxy)-benzylamino]-propionamide	C[C@H](NCc1ccc(OCCCCCc2ccccc2)cc1)C(=O)N	4.0
+CHEMBL85054	(S)-2-[4-(4-Phenyl-butoxy)-benzylamino]-propionamide	C[C@H](NCc1ccc(OCCCCc2ccccc2)cc1)C(=O)N	6.25963731051
+CHEMBL85371	(S)-2-[4-(3-Phenyl-propoxy)-benzylamino]-propionamide	C[C@H](NCc1ccc(OCCCc2ccccc2)cc1)C(=O)N	7.71444269099
+CHEMBL85899	(R)-2-[4-(3-Fluoro-benzyloxy)-benzylamino]-3-hydroxy-N-methyl-propionamide	CNC(=O)[C@@H](CO)NCc1ccc(OCc2cccc(F)c2)cc1	5.18045606446
+CHEMBL85962	(R)-2-[4-(3-Phenyl-propoxy)-benzylamino]-propionamide	C[C@@H](NCc1ccc(OCCCc2ccccc2)cc1)C(=O)N	6.55284196866
+CHEMBL8626	(s)-3-(1-Methyl-piperidin-3-yl)-phenol	CN1CCCC(C1)c2cccc(O)c2	5.71896663275
+CHEMBL86830	(3-{4-[2-(3,4-Dichloro-phenyl)-ethyl]-3,5-dimethyl-piperazin-1-yl}-propyl)-bis-(4-fluoro-phenyl)-amine	C[C@@H]1CN(CCCN(c2ccc(F)cc2)c3ccc(F)cc3)C[C@@H](C)N1CCc4ccc(Cl)c(Cl)c4	5.446672639596
+CHEMBL87379	(+/-)-benzovesamicol	O[C@@H]1Cc2ccccc2C[C@H]1N3CCC(CC3)c4ccccc4	7.098217994005999
+CHEMBL87381	(+/-)-5-amino-3-(4-phenylpiperidin-1-yl)-1,2,3,4-tetrahydronaphthalen-2-ol)	Nc1cccc2C[C@@H](O)[C@@H](Cc12)N3CCC(CC3)c4ccccc4	6.439311539956
+CHEMBL90359	(-)-Trifluoro-methanesulfonic acid 3-(1-propyl-piperidin-3-yl)-phenyl ester	CCCN1CCC[C@H](C1)c2cccc(OS(=O)(=O)C(F)(F)F)c2	7.49485002168
+CHEMBL95701	(4aR,6R,7R,8aR)-1-((E)-3-Iodo-allyl)-7-(4-phenyl-piperidin-1-yl)-decahydro-quinolin-6-ol	O[C@@H]1C[C@H]2CCCN(C\C=C\I)[C@@H]2C[C@H]1N3CCC(CC3)c4ccccc4	5.954951876306
+CHEMBL95857	(4aR,6R,7R,8aR)-1-(4-Fluoro-benzyl)-7-(4-phenyl-piperidin-1-yl)-decahydro-quinolin-6-ol	O[C@@H]1C[C@H]2CCCN(Cc3ccc(F)cc3)[C@@H]2C[C@H]1N4CCC(CC4)c5ccccc5	6.411054780385999
+CHEMBL97524	[(4aR,6R,7R,8aR)-6-Hydroxy-7-(4-phenyl-piperidin-1-yl)-octahydro-quinolin-1-yl]-phenyl-methanone	O[C@@H]1C[C@H]2CCCN([C@@H]2C[C@H]1N3CCC(CC3)c4ccccc4)C(=O)c5ccccc5	6.524788612470999
+CHEMBL99854	3-Benzyl-8-bromo-6,11-dimethyl-1,2,3,4,5,6-hexahydro-2,6-methano-benzo[d]azocine	CC1C2Cc3ccc(Br)cc3C1(C)CCN2Cc4ccccc4	5.8150207754759995

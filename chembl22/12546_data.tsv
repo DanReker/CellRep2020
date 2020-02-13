@@ -1,0 +1,53 @@
+chembl_id	name	smiles	pAff
+CHEMBL1094129	(+)-2-Amino-3-(4-hydroxy-1,2,5-oxadiazol-3-yl)propionic acid-(-)-2-Amino-3-(4-hydroxy-1,2,5-oxadiazol-3-yl)propionic acid	NC(Cc1nonc1O)C(=O)O	6.499154269221
+CHEMBL1098101	(+)-2-Amino-4-(4-hydroxy-1,2,5-oxadiazol-3-yl)butanoic Acid	NC(CCc1nonc1O)C(=O)O	3.912798510016
+CHEMBL1098104	(+)-2-Amino-5-(4-hydroxy-1,2,5-oxadiazol-3-yl)pentanoic acid	NC(CCCc1nonc1O)C(=O)O	4.213828505685999
+CHEMBL121388	(S)-2-amino-3-(5-chloro-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)propanoic acid	N[C@@H](CN1C=C(Cl)C(=O)NC1=O)C(=O)O	6.861645987566
+CHEMBL121915	(S)-2-amino-3-(5-iodo-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)propanoic acid	N[C@@H](CN1C=C(I)C(=O)NC1=O)C(=O)O	6.493669202276
+CHEMBL123132	(S)-2-amino-3-(5-fluoro-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)propanoic acid	N[C@@H](CN1C=C(F)C(=O)NC1=O)C(=O)O	7.912798510016
+CHEMBL154535	(RS)-3-hydroxy-4,5,6,7-tetrahydroisoxazolo[5,4-c]pyridine-7-carboxylic acid	OC(=O)C1NCCc2c(O)noc12	5.973279257395999
+CHEMBL154700	2-(3-(3-bromophenyl)ureido)-4-chlorobenzoic acid	OC(=O)c1ccc(Cl)cc1NC(=O)Nc2cccc(Br)c2	3.0
+CHEMBL1738726	(S)-1-(2'-Amino-2'-carboxyethyl)-3-[(2-carboxythien-3-yl)methyl]-thieno[3,4-d]pyrimidin-2,4-dione	N[C@@H](CN1C(=O)N(Cc2ccsc2C(=O)O)C(=O)c3cscc13)C(=O)O	3.6521309730260003
+CHEMBL1812596	(S)-1-(2'-Amino-2'-carboxyethyl)thieno[3,4-d]pyrimidin-2,4-dione	N[C@@H](CN1C(=O)NC(=O)c2cscc12)C(=O)O	5.847405548456
+CHEMBL1812597	(S)-1-(2'-Amino-2'-carboxyethyl)-1,2,3,4,5,6,7,8-octahydrobenzo-[4,5]thieno[2,3-d]pyrimidin-2,4-dione	N[C@@H](CN1C(=O)NC(=O)c2c3CCCCc3sc12)C(=O)O	3.0
+CHEMBL1812598	(S)-1-(2'-Amino-2'-carboxyethyl)thieno[2,3-d]pyrimidin-2,4-dione	N[C@@H](CN1C(=O)NC(=O)c2ccsc12)C(=O)O	5.813290516286
+CHEMBL1812601	(S)-1-[2'-Amino-2'-carboxyethyl]-3-[(2-phosphonothien-3-yl)methyl]thieno[3,2-d]pyrimidin-2,4-dione	N[C@@H](CN1C(=O)N(Cc2ccsc2P(=O)(O)O)C(=O)c3sccc13)C(=O)O	3.0
+CHEMBL193087	2-amino-3-(3-hydroxy-5-(2-isopropyl-2H-tetrazol-5-yl)isoxazol-4-yl)propanoic acid	CC(C)n1nnc(n1)c2onc(O)c2CC(N)C(=O)O	8.052460503446
+CHEMBL2092841	(R)-3-hydroxy-4,5,6,7-tetrahydroisoxazolo[5,4-c]pyridine-5-carboxylic acid	OC(=O)C1Cc2c(O)noc2CN1	5.736707250966
+CHEMBL224688	{2-[3-(3-bromophenyl)ureido]-4-chlorophenyl}acetic acid	OC(=O)Cc1ccc(Cl)cc1NC(=O)Nc2cccc(Br)c2	3.0
+CHEMBL224872	2-[3-(3-bromophenyl)ureido]-4-chlorobenzenesulfonic acid	OS(=O)(=O)c1ccc(Cl)cc1NC(=O)Nc2cccc(Br)c2	3.0
+CHEMBL224926	1-(3-bromophenyl)-3-[5-chloro-2-(1H-tetrazol-5-yl-phenyl]urea	Clc1ccc(c(NC(=O)Nc2cccc(Br)c2)c1)c3nnn[nH]3	3.0
+CHEMBL2312396	(2S,4R)-4-(3-Oxo-3-(prop-2-ynylamino)propyl)glutamic Acid	N[C@@H](C[C@@H](CCC(=O)NCC#C)C(=O)O)C(=O)O	4.609062620975999
+CHEMBL2312397	(2S,4R)-4-(3-Oxo-3phenylaminopropyl)glutamic Acid	N[C@@H](C[C@@H](CCC(=O)Nc1ccccc1)C(=O)O)C(=O)O	3.765122185776
+CHEMBL2312398	(2S,4R)-4-(3-Dimethylamino-3-oxopropyl)glutamic Acid	CN(C)C(=O)CC[C@H](C[C@H](N)C(=O)O)C(=O)O	3.822893398576
+CHEMBL2312399	(2S,4R)-4-(3-Diethylamino-3-oxopropyl)glutamic Acid	CCN(CC)C(=O)CC[C@H](C[C@H](N)C(=O)O)C(=O)O	3.0
+CHEMBL2312400	(2S,4R)-4-(3-Oxo-3-(piperidin-1-yl)propyl)glutamic Acid	N[C@@H](C[C@@H](CCC(=O)N1CCCCC1)C(=O)O)C(=O)O	3.6629889006160004
+CHEMBL2312401	(2S,4R)-4-(3-Oxo-3-tert-butoxyaminopropyl)glutamic Acid	CC(C)(C)ONC(=O)CC[C@H](C[C@H](N)C(=O)O)C(=O)O	3.0
+CHEMBL2312402	(2S,4R)-4-(3-Benzyloxyamino-3-oxopropyl)glutamic Acid	N[C@@H](C[C@@H](CCC(=O)NOCc1ccccc1)C(=O)O)C(=O)O	3.0
+CHEMBL2312403	(2S,4R)-4-(3-Hydroxy(methyl)amino-3-oxopropyl)glutamic Acid	CN(O)C(=O)CC[C@H](C[C@H](N)C(=O)O)C(=O)O	3.9041983382559997
+CHEMBL2312680	(2S,4R)-4-(3-Oxo-3-(2-phenylhydrazinyl)propyl)glutamic Acid	N[C@@H](C[C@@H](CCC(=O)NNc1ccccc1)C(=O)O)C(=O)O	3.788131292316
+CHEMBL2312683	(2S,4R)-4-(3-Hydroxyamino-3-oxopropyl)glutamic Acid	N[C@@H](C[C@@H](CCC(=O)NO)C(=O)O)C(=O)O	3.762810053526
+CHEMBL27130	(S)-2-amino-3-(3-hydroxy-5-tert-butyl-4-isoxazolyl)propionic acid	CC(C)(C)c1onc(O)c1C[C@H](N)C(=O)O	5.294750413306
+CHEMBL275040	(2S,3S,4S)-3-(carboxymethyl)-4-(prop-1-en-2-yl)pyrrolidine-2-carboxylic acid-kainic acid	CC(=C)[C@H]1CN[C@@H]([C@H]1CC(=O)O)C(=O)O	4.831675043540999
+CHEMBL276815	(S)-2-amino-3-(3-hydroxy-5-methylisoxazol-4-yl)propionic acid	Cc1onc(O)c1C[C@H](N)C(=O)O	7.284409579966
+CHEMBL28472	(S)-2-amino-3-(3-hydroxy-7,8-dihydro-6H-cyclohepta[d]isoxazol-4-yl)propionic acid	N[C@@H](CC1=CCCCc2onc(O)c12)C(=O)O	6.271820452656
+CHEMBL30285	Ibotenic acid	N[C@H](C(=O)O)c1onc(O)c1	3.0
+CHEMBL337577	2-Amino-3-(2,4-dioxo-2,3,4,5,6,7-hexahydro-cyclopentapyrimidin-1-yl)-propionic acid-(S)-1-(2-Amino-2-carboxyethyl)-6,7-dihydro-1H-cyclopenta[d]-pyrimidin-2,4(1H,3H)dione-(S)-1-(2-Amino-2-carboxyethyl)-6,7-dihydro-1H-cyclopenta[d]pyrimidin-2,4(1H,3H)dione	N[C@@H](CN1C(=O)NC(=O)C2=C1CCC2)C(=O)O	6.169836428112665
+CHEMBL346524	4-chloro-2-(3-(naphthalen-2-yl)ureido)benzoic acid	OC(=O)c1ccc(Cl)cc1NC(=O)Nc2ccc3ccccc3c2	3.0
+CHEMBL366489	2-amino-3-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)propanoic acid	NC(CN1C=CC(=O)NC1=O)C(=O)O	5.4284986706759994
+CHEMBL370941	2-amino-3-(5-(2-ethyl-2H-tetrazol-5-yl)-3-hydroxyisoxazol-4-yl)propanoic acid	CCn1nnc(n1)c2onc(O)c2CC(N)C(=O)O	9.611768514346
+CHEMBL372643	2-amino-3-(3-hydroxy-5-(2-propyl-2H-tetrazol-5-yl)isoxazol-4-yl)propanoic acid	CCCn1nnc(n1)c2onc(O)c2CC(N)C(=O)O	8.310738518686
+CHEMBL387549	1-[5-chloro-2-(5-oxo-4,5-dihydro-[1,2,4]oxadiazol-3-yl)-phenyl]-3-(3-bromophenyl)urea	Clc1ccc(C2=NC(=O)ON2)c(NC(=O)Nc3cccc(Br)c3)c1	3.0
+CHEMBL388746	(RS)-2-amino-3-[3-hydroxy-5-(2-benzyl-2H-5-tetrazolyl)-4-isoxazolyl]propionic acid	NC(Cc1c(O)noc1c2nnn(Cc3ccccc3)n2)C(=O)O	8.639797237956
+CHEMBL449296	2-amino-3-(5-bromo-2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)propanoic acid	NC(CN1C=C(Br)C(=O)NC1=O)C(=O)O	6.729528666336
+CHEMBL492469	(S)-1-[2'-Amino-2'-carboxyethyl]-5,7-dihydrothieno[3,4-d]pyrimidin-2,4(1H,3H)-dione-(S)-2-amino-3-(2,4-dioxo-3,4-dihydrothieno[3,4-d]pyrimidin-1(2H,5H,7H)-yl)propanoic acid	N[C@@H](CN1C(=O)NC(=O)C2=C1CSC2)C(=O)O	6.611768514355999
+CHEMBL492628	(S,S)-1,3-Di(3'-amino-3'-carboxypropyl)-6,7-dihydro-1H-cyclopenta[d]pyrimidin-2,4(3H,5H)-dione	N[C@@H](CCN1C(=O)N(CC[C@H](N)C(=O)O)C2=C(CCC2)C1=O)C(=O)O	3.0
+CHEMBL492629	(S)-1-(2'-Amino-2'-carboxyethyl)-6,6-dimethyl-2,3,4,5,6,7-hexahydrocyclopentapyrimidin-2,4-dione	CC1(C)CC2=C(C1)C(=O)NC(=O)N2C[C@H](N)C(=O)O	6.414487956226
+CHEMBL492630	(S)-1-(2'-Amino-2'-carboxyethyl)thieno[3,2-d]pyrimidin-2,4-dione-(S)-2-amino-3-(2,4-dioxo-3,4-dihydrothieno[3,2-d]pyrimidin-1(2H)-yl)propanoic acid	N[C@@H](CN1C(=O)NC(=O)c2sccc12)C(=O)O	6.465640478676
+CHEMBL493596	(R)-1-(2-Amino-2-carboxyethyl)-6,7-dihydro-1H-cyclopenta[d]-pyrimidin-2,4(1H,3H)dione	N[C@H](CN1C(=O)NC(=O)C2=C1CCC2)C(=O)O	4.264438499035999
+CHEMBL493665	(S)-1-(3'-Amino-3'-carboxypropyl)-6,7-dihydro-1H-cyclopenta[d]-pyrimidin-2,4(3H,5H)-dione	N[C@@H](CCN1C(=O)NC(=O)C2=C1CCC2)C(=O)O	3.0
+CHEMBL493892	(S)-1-(2'-Amino-2'-carboxyethyl)furo[3,4-d]pyrimidin-2,4-dione	N[C@@H](CN1C(=O)NC(=O)c2cocc12)C(=O)O	3.875372012076
+CHEMBL508818	(S)-1-(2'-Amino-2'-carboxyethyl)quinazoline-2,4(1H,3H)-dione	N[C@@H](CN1C(=O)NC(=O)c2ccccc12)C(=O)O	4.984658803146
+CHEMBL553028	(S)-2-Amino-3-((RS)-3-hydroxy-8-methyl-7,8-dihydro-6H-cyclohepta-[d]isoxazol-4-yl)propionic acid	CC1CCC=C(C[C@H](N)C(=O)O)c2c(O)noc12	4.714829142106
+CHEMBL575060	(S)-2-aminopentanedioic acid-(S)-glutamate	N[C@@H](CCC(=O)O)C(=O)O	6.065639752019332
+CHEMBL72366	(RS)-2-amino-3-(4-chloro-3-hydroxyisoxazol-5-yl)propionic acid	NC(Cc1onc(O)c1Cl)C(=O)O	5.946656777276

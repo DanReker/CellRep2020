@@ -1,0 +1,69 @@
+chembl_id	name	smiles	pAff
+CHEMBL1020	Tolmetin	Cc1ccc(cc1)C(=O)c2ccc(CC(=O)O)n2C	3.5713639854359998
+CHEMBL105350	5-hydroxy-1,7-bis(4-hydroxyphenyl)hepta-1,4,6-trien-3-one-Bisdemethoxycurcumin	Oc1ccc(\C=C\C(=O)CC(=O)\C=C\c2ccc(O)cc2)cc1	4.257186554801
+CHEMBL116438	5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,4,6-trien-3-one-Curcumin	COc1cc(\C=C\C(=C\C(=O)\C=C\c2ccc(O)c(OC)c2)\O)ccc1O	4.508439888990999
+CHEMBL127840	S-(N-hexyl-N-hydroxycarbamoyl)glutathione	CCCCCCN(O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O	7.310738518686
+CHEMBL128447	S-(N-butyl-N-hydroxycarbamoyl)glutathione	CCCCN(O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O	6.259585996246
+CHEMBL128836	S-(N-heptyl-N-hydroxycarbamoyl)glutathione	CCCCCCCN(O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O	7.259585996246
+CHEMBL128867	S-(N-ethyl-N-hydroxycarbamoyl)glutathione	CCN(O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O	5.4429764940359995
+CHEMBL129435	S-(N-methyl-N-hydroxycarbamoyl)glutathione	CN(O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O	4.182373072902667
+CHEMBL129597	S-(N-propyl-N-hydroxycarbamoyl)glutathione	CCCN(O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O	5.611768514355999
+CHEMBL129965	S-(N-pentyl-N-hydroxycarbamoyl)glutathione	CCCCCN(O)C(=O)SC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O	6.284409579966
+CHEMBL150	kaempferol	OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccc(O)cc3	4.68613277963
+CHEMBL151	luteolin	Oc1cc(O)c2C(=O)C=C(Oc2c1)c3ccc(O)c(O)c3	5.11350927483
+CHEMBL15770	Sulindac	C[S+]([O-])c1ccc(\C=C/2\C(=C(CC(=O)O)c3cc(F)ccc23)C)cc1	3.623321043676
+CHEMBL159603	2-Amino-4-[1-(carboxymethyl-carbamoyl)-3-(hydroxy-methyl-carbamoyl)-propylcarbamoyl]-butyric acid anion	CN(O)C(=O)CCC(NC(=O)CCC(N)C(=O)O)C(=O)NCC(=O)O	5.322520146683
+CHEMBL1624076	4,6-diphenyl-N-hydroxypyridone	ON1C(=O)C=C(C=C1c2ccccc2)c3ccccc3	5.92445303861
+CHEMBL164	myricetin-Myricetin	OC1=C(Oc2cc(O)cc(O)c2C1=O)c3cc(O)c(O)c(O)c3	6.25181197299
+CHEMBL164263	2-Amino-4-[1-(carboxymethyl-carbamoyl)-3-hydroxycarbamoyl-propylcarbamoyl]-butyric acid anion	NC(CCC(=O)NC(CCC(=O)NO)C(=O)NCC(=O)O)C(=O)O	3.5468427873560002
+CHEMBL1669724	1,7-bis(4-fluorophenyl)-5-hydroxyhepta-1,4,6-trien-3-one	O\C(=C/C(=O)\C=C\c1ccc(F)cc1)\C=C\c2ccc(F)cc2	4.852100669666
+CHEMBL1669725	1-(3,4-dimethoxyphenyl)-5-hydroxy-7-(4-hydroxyphenyl)hepta-1,4,6-trien-3-one	COc1ccc(\C=C\C(=O)\C=C(/O)\C=C\c2ccc(O)cc2)cc1OC	4.0524605034459995
+CHEMBL1669727	4-(3,4-dimethoxybenzylidene)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione	COc1ccc(C=C(C(=O)\C=C\c2ccc(O)c(OC)c2)C(=O)\C=C\c3ccc(O)c(OC)c3)cc1OC	4.852100669666
+CHEMBL1669728	4-(3-fluorobenzylidene)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione	COc1cc(\C=C\C(=O)C(=Cc2cccc(F)c2)C(=O)\C=C\c3ccc(O)c(OC)c3)ccc1O	5.0998851533759995
+CHEMBL1669729	4-(4-fluorobenzylidene)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione	COc1cc(\C=C\C(=O)C(=Cc2ccc(F)cc2)C(=O)\C=C\c3ccc(O)c(OC)c3)ccc1O	5.009708523025999
+CHEMBL1669730	4-(5-(3,4-dimethoxyphenyl)-2-(-3-(3,4-dimethoxyphenyl)acryloyl)-3-oxopenta-1,4-dienyl)phthalaldehyde	COc1ccc(\C=C\C(=O)C(=Cc2ccc(C=O)c(C=O)c2)C(=O)\C=C\c3ccc(OC)c(OC)c3)cc1OC	4.958556000575999
+CHEMBL1669733	3-(3-nitrobenzylidene)pentane-2,4-dione	CC(=O)C(=Cc1cccc(c1)[N+](=O)[O-])C(=O)C	3.5558171090260005
+CHEMBL1669734	3-((5-nitrofuran-2-yl)methylene)pentane-2,4-dione	CC(=O)C(=Cc1oc(cc1)[N+](=O)[O-])C(=O)C	4.083494737185999
+CHEMBL1669737	ethyl 2-(3-nitrobenzylidene)-3-oxobutanoate	CCOC(=O)\C(=C/c1cccc(c1)[N+](=O)[O-])\C(=O)C	3.701945144706
+CHEMBL1669738	diethyl 2,5-diacetylhexa-2,4-dienedioate	CCOC(=O)\C(=C/C=C(/C(=O)C)\C(=O)OCC)\C(=O)C	3.9237938943160002
+CHEMBL169254	2-Amino-3-{3-[2-(4-bromo-benzylsulfanyl)-1-(carboxymethyl-carbamoyl)-ethyl]-ureido}-propionic acid	NC(CNC(=O)NC(CSCc1ccc(Br)cc1)C(=O)NCC(=O)O)C(=O)O	4.324526803176
+CHEMBL1701911	2-(4-methoxybenzamido)benzoic acid	COc1ccc(cc1)C(=O)Nc2ccccc2C(=O)O	4.03058408765
+CHEMBL189171	Acemetacin	COc1ccc2c(c1)c(CC(=O)OCC(=O)O)c(C)n2C(=O)c3ccc(Cl)cc3	4.114465606181
+CHEMBL1910548	3-(benzo[d]thiazol-2-yl)-4-(4-methoxyphenyl)but-3-enoic acid	COc1ccc(\C=C(\CC(=O)O)/c2nc3ccccc3s2)cc1	5.69897000434
+CHEMBL1910549	2-(4-methoxybenzamido)-4,5,6,7-tetrahydrobenzo[b]thiophene-3-carboxylic acid	COc1ccc(cc1)C(=O)Nc2sc3CCCCc3c2C(=O)O	4.2628073573
+CHEMBL211496	5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)-7-(1H-pyrrol-2-yl)hepta-1,4,6-trien-3-one	COc1cc(\C=C\C(=C\C(=O)\C=C\c2ccc[nH]2)\O)ccc1O	4.259585996246
+CHEMBL211958	4-hydroxy-6-(4-hydroxy-3-methoxyphenyl)hexa-3,5-dien-2-one	COc1cc(\C=C\C(=C\C(=O)C)\O)ccc1O	3.560615991906
+CHEMBL218644	2-Amino-4-[2-(4-bromo-benzylsulfanyl)-1-(carboxymethyl-carbamoyl)-ethylcarbamoyl]-butyric acid-S-p-bromobenzylglutathione-S-(p-bromobenzyl)glutathione	N[C@@H](CCC(=O)N[C@@H](CSCc1ccc(Br)cc1)C(=O)NCC(=O)O)C(=O)O	5.081258970485999
+CHEMBL2203963	1-hydroxy-6-(1-(2-methoxyethyl)-1H-indol-5-yl)-4-phenylpyridin-2(1H)-one	COCCn1ccc2cc(ccc12)C3=CC(=CC(=O)N3O)c4ccccc4	6.58502665203
+CHEMBL2203964	1-hydroxy-6-(1-(3-methoxypropyl)-1H-pyrrolo[2,3-b]pyridin-5-yl)-4-phenylpyridin-2(1H)-one	COCCCn1ccc2cc(cnc12)C3=CC(=CC(=O)N3O)c4ccccc4	7.95860731484
+CHEMBL2203965	1-hydroxy-6-(1-(3-methoxypropyl)-1H-indol-5-yl)-4-phenylpyridin-2(1H)-one	COCCCn1ccc2cc(ccc12)C3=CC(=CC(=O)N3O)c4ccccc4	6.52287874528
+CHEMBL2203966	6-(1-butyl-1H-pyrrolo[2,3-b]pyridin-5-yl)-1-hydroxy-4-phenylpyridin-2(1H)-one	CCCCn1ccc2cc(cnc12)C3=CC(=CC(=O)N3O)c4ccccc4	6.52287874528
+CHEMBL2203967	1-hydroxy-6-(1-pentyl-1H-pyrrolo[2,3-b]pyridin-5-yl)-4-phenylpyridin-2(1H)-one	CCCCCn1ccc2cc(cnc12)C3=CC(=CC(=O)N3O)c4ccccc4	6.2924298239
+CHEMBL2203968	1-hydroxy-6-phenyl-4-(thiophen-3-yl)pyridin-2(1H)-one	ON1C(=O)C=C(C=C1c2ccccc2)c3ccsc3	5.81815641206
+CHEMBL2203969	1-hydroxy-6-phenyl-4-(pyridin-3-yl)pyridin-2(1H)-one	ON1C(=O)C=C(C=C1c2ccccc2)c3cccnc3	5.08196966322
+CHEMBL2203970	1-hydroxy-6-phenyl-4-(4-(trifluoromethyl)phenyl)pyridin-2(1H)-one	ON1C(=O)C=C(C=C1c2ccccc2)c3ccc(cc3)C(F)(F)F	5.08990945441
+CHEMBL2203971	4-(biphenyl-4-yl)-1-hydroxy-6-phenylpyridin-2(1H)-one	ON1C(=O)C=C(C=C1c2ccccc2)c3ccc(cc3)c4ccccc4	5.07572071394
+CHEMBL2203972	4-(but-1-ynyl)-1-hydroxy-6-phenylpyridin-2(1H)-one	CCC#CC1=CC(=O)N(O)C(=C1)c2ccccc2	4.0
+CHEMBL2203973	4-butyl-1-hydroxy-6-phenylpyridin-2(1H)-one	CCCCC1=CC(=O)N(O)C(=C1)c2ccccc2	4.0
+CHEMBL2203974	1-hydroxy-4-phenyl-6-(1H-pyrrolo[2,3-b]pyridin-5-yl)pyridin-2(1H)-one	ON1C(=O)C=C(C=C1c2cnc3[nH]ccc3c2)c4ccccc4	6.55284196866
+CHEMBL2203975	1-hydroxy-6-(1H-indol-5-yl)-4-phenylpyridin-2(1H)-one	ON1C(=O)C=C(C=C1c2ccc3[nH]ccc3c2)c4ccccc4	6.60205999133
+CHEMBL2203976	3-((5-(1-hydroxy-6-oxo-4-phenyl-1,6-dihydropyridin-2-yl)-1H-pyrrolo[2,3-b]pyridin-1-yl)methyl)benzamide	NC(=O)c1cccc(Cn2ccc3cc(cnc23)C4=CC(=CC(=O)N4O)c5ccccc5)c1	7.39794000867
+CHEMBL2203977	3-((5-(1-hydroxy-6-oxo-4-phenyl-1,6-dihydropyridin-2-yl)-1H-indol-1-yl)methyl)benzamide	NC(=O)c1cccc(Cn2ccc3cc(ccc23)C4=CC(=CC(=O)N4O)c5ccccc5)c1	6.31875876262
+CHEMBL2203978	1-hydroxy-6-(1-(2-methoxyethyl)-1H-pyrrolo[2,3-b]pyridin-5-yl)-4-phenylpyridin-2(1H)-one	COCCn1ccc2cc(cnc12)C3=CC(=CC(=O)N3O)c4ccccc4	7.85387196432
+CHEMBL3220929	N-(4-(4-(5-fluoro-4-(2-(methylsulfonamido)phenylamino)pyrimidin-2-ylamino)benzoyl)phenyl)hex-5-ynamide	CS(=O)(=O)Nc1ccccc1Nc2nc(Nc3ccc(cc3)C(=O)c4ccc(NC(=O)CCCC#C)cc4)ncc2F	7.57839607313
+CHEMBL3220930	benzyl 4-(5-fluoro-4-(2-(methylsulfonamido)phenylamino)pyrimidin-2-ylamino)benzoate	CS(=O)(=O)Nc1ccccc1Nc2nc(Nc3ccc(cc3)C(=O)OCc4ccccc4)ncc2F	7.28988263489
+CHEMBL3220931	N-(2-(5-fluoro-2-(4-phenoxyphenylamino)pyrimidin-4-ylamino)phenyl)methanesulfonamide	CS(=O)(=O)Nc1ccccc1Nc2nc(Nc3ccc(Oc4ccccc4)cc3)ncc2F	7.339134522
+CHEMBL3220932	N-(2-(2-(4-chlorophenylamino)-5-fluoropyrimidin-4-ylamino)phenyl)methanesulfonamide	CS(=O)(=O)Nc1ccccc1Nc2nc(Nc3ccc(Cl)cc3)ncc2F	7.26841123481
+CHEMBL3629115	4,80-bis(((4-bromophenyl)(hydroxy)carbamoylthio)methyl)-3,6,13,27,34,50,57,71,78,81-decaoxo-14,17,20,23,39,42,45,61,64,67,70-undecaoxa-2,5,10,26,35,49,58,74,79,82-decaazatrioctacontane-1,9,75,83-tetracarboxylic acid	ON(C(=O)SCC(NC(=O)CCC(NCCC(=O)OCCOCCOCCOCCNC(=O)CCCCCCC(=O)NCCCOCCOCCOCCCNC(=O)CCCCCCC(=O)NCCOCCOCCOCCOC(=O)CCNC(CCC(=O)NC(CSC(=O)N(O)c1ccc(Br)cc1)C(=O)NCC(=O)O)C(=O)O)C(=O)O)C(=O)NCC(=O)O)c2ccc(Br)cc2	8.514858501346
+CHEMBL3629116	4,49-bis(((4-bromophenyl)(hydroxy)carbamoylthio)methyl)-3,6,13,18,22,24,29,31,35,40,47,50-dodecaoxo-14,39-dioxa-2,5,10,17,21,25,28,32,36,43,48,51-dodecaazadopentacontane-1,9,44,52-tetracarboxylic acid	ON(C(=O)SCC(NC(=O)CCC(NCCC(=O)OCCNC(=O)CCNC(=O)CC(=O)NCCNC(=O)CC(=O)NCCC(=O)NCCOC(=O)CCNC(CCC(=O)NC(CSC(=O)N(O)c1ccc(Br)cc1)C(=O)NCC(=O)O)C(=O)O)C(=O)O)C(=O)NCC(=O)O)c2ccc(Br)cc2	9.037737246626
+CHEMBL3629117	2-(3-aminopropanamido)-5-(1-(carboxymethylamino)-3-((4-chlorophenyl)(hydroxy)carbamoylthio)-1-oxopropan-2-ylamino)-5-oxopentanoic acid	NCCC(=O)NC(CCC(=O)NC(CSC(=O)N(O)c1ccc(Cl)cc1)C(=O)NCC(=O)O)C(=O)O	5.996344561466
+CHEMBL3629118	5-(1-(carboxymethylamino)-3-((4-chlorophenyl)(hydroxy)carbamoylthio)-1-oxopropan-2-ylamino)-5-oxo-2-(2-oxopropylamino)pentanoic acid	CC(=O)CNC(CCC(=O)NC(CSC(=O)N(O)c1ccc(Cl)cc1)C(=O)NCC(=O)O)C(=O)O	6.400915149036
+CHEMBL3629119	10-carboxy-5-(((4-chlorophenyl)(hydroxy)carbamoylthio)methyl)-4,7,14-trioxo-15-oxa-3,6,11-triazaheptadecan-1-oic acid	CCOC(=O)CCNC(CCC(=O)NC(CSC(=O)N(O)c1ccc(Cl)cc1)C(=O)NCC(=O)O)C(=O)O	6.852100669666
+CHEMBL428441	4-(4-hydroxy-3-methoxybenzylidene)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione	COc1cc(\C=C\C(=O)C(=Cc2ccc(O)c(OC)c2)C(=O)\C=C\c3ccc(O)c(OC)c3)ccc1O	4.958556000575999
+CHEMBL488901	5-hydroxy-7-(5-(hydroxymethyl)furan-2-yl)-1-(4-methoxyphenyl)hepta-1,4,6-trien-3-one	COc1ccc(\C=C\C(=O)\C=C(/O)\C=C\c2oc(CO)cc2)cc1	3.645626781616
+CHEMBL50	quercetin	OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccc(O)c(O)c3	5.49485002168
+CHEMBL511367	Cyanidin chloride	[Cl-].Oc1cc(O)c2cc(O)c([o+]c2c1)c3ccc(O)c(O)c3	4.93181413825
+CHEMBL590878	Delphinidin chloride	[Cl-].Oc1cc(O)c2cc(O)c([o+]c2c1)c3cc(O)c(O)c(O)c3	5.72124639905
+CHEMBL591036	Pelargonidin	[Cl-].Oc1ccc(cc1)c2[o+]c3cc(O)cc(O)c3cc2O	4.78515615195
+CHEMBL6	Indomethacin	COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c3ccc(Cl)cc3	4.1730986203726665
+CHEMBL8260	baicalein	Oc1cc2OC(=CC(=O)c2c(O)c1O)c3ccccc3	4.95860731484

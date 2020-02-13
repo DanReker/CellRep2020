@@ -1,0 +1,52 @@
+chembl_id	name	smiles	pAff
+CHEMBL1230640	5-carboxy-8-hydroxyquinoline-8-hydroxyquinoline-5-carboxylic acid	OC(=O)c1ccc(O)c2ncccc12	4.60103003297
+CHEMBL1255743	tranylcypromine hydrochloride	Cl.N[C@@H]1C[C@H]1c2ccccc2	3.0
+CHEMBL2164243	N-(dimethylamino)succinamic acid	CN(C)NC(=O)CCC(=O)O	3.0
+CHEMBL2164244	[(4-hydroxy-4-oxo-butanoyl)amino]-trimethyl-ammonium	C[N+](C)(C)NC(=O)CCC(=O)O	3.0
+CHEMBL2164245	4-(2-methylhydrazinyl)-4-oxobutanoic acid	CNNC(=O)CCC(=O)O	5.95860731484
+CHEMBL2164246	4-hydrazinyl-4-oxobutanoic acid	NNC(=O)CCC(=O)O	6.31875876262
+CHEMBL2164247	4-oxo-4-(1,2,2-trimethylhydrazinyl)butanoic acid	CN(C)N(C)C(=O)CCC(=O)O	3.0
+CHEMBL2164248	4-(isopropylamino)-4-oxobutanoic acid	CC(C)NC(=O)CCC(=O)O	3.0
+CHEMBL2164249	4-(dimethylaminooxy)-4-oxobutanoic acid	CN(C)OC(=O)CCC(=O)O	4.3767507096
+CHEMBL2164250	N'1,N'1,N'4,N'4-tetramethylsuccinohydrazide	CN(C)NC(=O)CCC(=O)NN(C)C	3.0
+CHEMBL222824	4,6-dioxoheptanoic acid	CC(=O)CC(=O)CCC(=O)O	5.34678748622
+CHEMBL3108952	trans-N-[4-(2-Aminocyclopropyl)phenyl]-8-hydroxyquinoline-5-carboxamide Hydrochloride	Cl.N[C@@H]1C[C@H]1c2ccc(NC(=O)c3ccc(O)c4ncccc34)cc2	4.58502665203
+CHEMBL3108953	trans-N-(4-(4-(2-aminocyclopropyl)phenylamino)-4-oxobutyl)-8-hydroxyquinoline-5-carboxamide hydrochloride	Cl.N[C@H]1C[C@@H]1c2ccc(NC(=O)CCCNC(=O)c3ccc(O)c4ncccc34)cc2	4.45593195565
+CHEMBL3108954	trans-N-(5-{[4-(2-Aminocyclopropyl)phenyl]amino}-5-oxopentyl)-8-hydroxyquinoline-5-carboxamide Hydrochloride	Cl.N[C@H]1C[C@@H]1c2ccc(NC(=O)CCCCNC(=O)c3ccc(O)c4ncccc34)cc2	4.67778070527
+CHEMBL3108955	trans-N-(6-{[4-(2-Aminocyclopropyl)phenyl]amino}-6-oxohexyl)-8-hydroxyquinoline-5-carboxamide Hydrochloride	Cl.N[C@H]1C[C@@H]1c2ccc(NC(=O)CCCCCNC(=O)c3ccc(O)c4ncccc34)cc2	4.43179827593
+CHEMBL3108956	4-carboxy-4'-carbomethoxy-2,2'-bipyridine	COC(=O)c1ccnc(c1)c2cc(ccn2)C(=O)O	7.52287874528
+CHEMBL3108958	trans-4'-{[4-(2-Aminocyclopropyl)phenyl]carbamoyl}-[2,2'-bipyridine]-4-carboxylic Acid Trifluoroacetate	N[C@@H]1C[C@H]1c2ccc(NC(=O)c3ccnc(c3)c4cc(ccn4)C(=O)O)cc2.OC(=O)C(F)(F)F	6.72124639905
+CHEMBL3108959	trans-Methyl 4'-{[4-(2-Aminocyclopropyl)phenyl]carbamoyl}-[2,2'-bipyridine]-4-carboxylate Hydrochloride	Cl.COC(=O)c1ccnc(c1)c2cc(ccn2)C(=O)Nc3ccc(cc3)[C@@H]4C[C@H]4N	5.07058107429
+CHEMBL316034	pyridine-2,4-dicarboxylic acid	OC(=O)c1ccnc(c1)C(=O)O	6.29999760286
+CHEMBL3621851	2-(1H-1,2,3-Triazol-4-yl)isonicotinic acid	OC(=O)c1ccnc(c1)c2c[nH]nn2	4.90000014206
+CHEMBL3621852	2,2'-bipyridine-4-carboxylic acid	OC(=O)c1ccnc(c1)c2ccccn2	6.19999817218
+CHEMBL3621853	Potassium 2-(1-methyl-1H-1,2,3-triazol-4-yl)isonicotinate	[K+].Cn1cc(nn1)c2cc(ccn2)C(=O)[O-]	5.20000023711
+CHEMBL3621854	Potassium 2-(1-ethyl-1H-1,2,3-triazol-4-yl)isonicotinate	[K+].CCn1cc(nn1)c2cc(ccn2)C(=O)[O-]	5.0
+CHEMBL3621855	Potassium 2-[1-(3-methylphenyl)-1H-1,2,3-triazol-4-yl]isonicotinate	[K+].Cc1cccc(c1)n2cc(nn2)c3cc(ccn3)C(=O)[O-]	5.30000020245
+CHEMBL3621856	Potassium 2-(1-benzyl-1H-1,2,3-triazol-4-yl)-isonicotinate	[K+].[O-]C(=O)c1ccnc(c1)c2cn(Cc3ccccc3)nn2	5.10000012833
+CHEMBL3621857	2-[1-(2-Phenylethyl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(CCc3ccccc3)nn2	5.10000012833
+CHEMBL3621858	2-[1-(2-Phenoxyethyl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(CCOc3ccccc3)nn2	5.0
+CHEMBL3621859	2-{1-[1-(Ethoxycarbonyl)piperidin-4-yl]-1H-1,2,3-triazol-4-yl}isonicotinic acid	CCOC(=O)N1CCC(CC1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.40000018606
+CHEMBL3621860	2-[1-(1-Propionylpiperidin-4-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CCC(=O)N1CCC(CC1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.30000020245
+CHEMBL3621861	2-[1-(1-Butyrylpiperidin-4-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CCCC(=O)N1CCC(CC1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.20000023711
+CHEMBL3621862	2-[1-(1-Benzoylpiperidin-4-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCN(CC3)C(=O)c4ccccc4	5.40000018606
+CHEMBL3621863	2-[1-(1-Phenylacetylpiperidin-4-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCN(CC3)C(=O)Cc4ccccc4	5.40000018606
+CHEMBL3621864	2-[1-(1-Phenylpropanoylpiperidin-4-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCN(CC3)C(=O)CCc4ccccc4	5.49999967866
+CHEMBL3621865	2-[1-(1-Acetylazetidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CC(=O)N1CC(C1)n2cc(nn2)c3cc(ccn3)C(=O)O	6.19999817218
+CHEMBL3621866	2-[1-(1-Propionylazetidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CCC(=O)N1CC(C1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.59999938302
+CHEMBL3621867	2-[1-(1-Butyrylazetidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CCCC(=O)N1CC(C1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.20000023711
+CHEMBL3621868	2-[1-(1-Benzoylazetidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CN(C3)C(=O)c4ccccc4	5.40000018606
+CHEMBL3621869	2-[1-(1-Phenylacetylazetidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CN(C3)C(=O)Cc4ccccc4	5.20000023711
+CHEMBL3621870	2-[1-(1-Phenylpropanoylazetidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CN(C3)C(=O)CCc4ccccc4	5.8999984172
+CHEMBL3621871	rac-2-[1-(1-Butyrylpyrrolidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CCCC(=O)N1CCC(C1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.49999967866
+CHEMBL3621873	rac-2-[1-(1-Phenylacetylpyrrolidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCN(C3)C(=O)Cc4ccccc4	5.20000023711
+CHEMBL3621874	rac-2-[1-(1-Phenylpropanoylpyrrolidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCN(C3)C(=O)CCc4ccccc4	5.70000050388
+CHEMBL3621875	rac-2-[1-(1-Acetylpiperidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CC(=O)N1CCCC(C1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.59999938302
+CHEMBL3621876	rac-2-[1-(1-Propionylpiperidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CCC(=O)N1CCCC(C1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.40000018606
+CHEMBL3621877	rac-2-[1-(1-Butyrylpiperidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	CCCC(=O)N1CCCC(C1)n2cc(nn2)c3cc(ccn3)C(=O)O	5.30000020245
+CHEMBL3621878	rac-2-[1-(1-Benzoylpiperidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCCN(C3)C(=O)c4ccccc4	5.0
+CHEMBL3621879	rac-2-[1-(1-Phenylacetylpiperidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCCN(C3)C(=O)Cc4ccccc4	5.10000012833
+CHEMBL3621880	rac-2-[1-(1-Phenylpropanoylpiperidin-3-yl)-1H-1,2,3-triazol-4-yl]isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)C3CCCN(C3)C(=O)CCc4ccccc4	5.30000020245
+CHEMBL3621881	2-{1-[(3R)-1-Benzoylpiperidin-3-yl]-1H-1,2,3-triazol-4-yl}isonicotinic acid	OC(=O)c1ccnc(c1)c2cn(nn2)[C@@H]3CCCN(C3)C(=O)c4ccccc4	5.70000050388
+CHEMBL51979	4-(hydroxyamino)-4-oxobutanoic acid	ONC(=O)CCC(=O)O	5.72124639905
+CHEMBL90852	2-(carboxymethylamino)-2-oxoacetic acid	OC(=O)CNC(=O)C(=O)O	5.10000012833

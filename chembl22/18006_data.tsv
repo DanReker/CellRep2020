@@ -1,0 +1,59 @@
+chembl_id	name	smiles	pAff
+CHEMBL1229742	(R)-Imazaquin	CC(C)[C@@]1(C)N=C(NC1=O)c2nc3ccccc3cc2C(=O)O	5.0377372466259995
+CHEMBL1229780	Tribenuron methyl	COC(=O)c1ccccc1S(=O)(=O)NC(=O)N(C)c2nc(C)nc(OC)n2	6.111737980166
+CHEMBL1229998	monosulfuron ester	COC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc2nccc(C)n2	6.0998851533759995
+CHEMBL1231791	Chlorimuron ethyl-chlorimuron ethyl	CCOC(=O)c1ccccc1S(=O)(=O)NC(=O)Nc2nc(Cl)cc(OC)n2	7.546601630105999
+CHEMBL1389671	Flumetsulam	Cc1ccn2nc(nc2n1)S(=O)(=O)Nc3c(F)cccc3F	5.958556000575999
+CHEMBL1447880	Imazaquin	CC(C)C1(C)N=C(NC1=O)c2nc3ccccc3cc2C(=O)O	5.0377372466259995
+CHEMBL2229985	5-methyl-3-((2-nitrophenyl)disulfanyl)-1H-1,2,4-triazole	Cc1nc(SSc2ccccc2[N+](=O)[O-])n[nH]1	4.769003306176
+CHEMBL2230130	3-(phenyldisulfanyl)-1H-1,2,4-triazole	S(Sc1nc[nH]n1)c2ccccc2	5.284409579966
+CHEMBL2230131	3-(p-tolyldisulfanyl)-1H-1,2,4-triazole	Cc1ccc(SSc2nc[nH]n2)cc1	4.843685658626
+CHEMBL2251593	2-chloro-6-(4,6-dimethoxypyrimidin-2-ylthio)benzoic acid	COc1cc(OC)nc(Sc2cccc(Cl)c2C(=O)O)n1	7.48999148706
+CHEMBL2251938	N-(2,3-dichlorophenyl)-5-methoxy-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide	COc1ccn2nc(nc2n1)S(=O)(=O)Nc3cccc(Cl)c3Cl	4.344596785956
+CHEMBL2251939	N-(2-bromophenyl)-5-methoxy-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide	COc1ccn2nc(nc2n1)S(=O)(=O)Nc3ccccc3Br	4.160750062196
+CHEMBL2251942	N-(2,6-difluorophenyl)-5-methyl-7-(trifluoromethyl)-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide	Cc1nc(cc2nc(nn12)S(=O)(=O)Nc3c(F)cccc3F)C(F)(F)F	3.6660538002960004
+CHEMBL2251943	8-chloro-N-(2-fluorophenyl)-5,7-dimethyl-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide	Cc1nc(C)n2nc(nc2c1Cl)S(=O)(=O)Nc3ccccc3F	4.103238795386
+CHEMBL2251947	N-(2-fluorophenyl)-5,7-dimethyl-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide	Cc1cc2nc(nn2c(C)n1)S(=O)(=O)Nc3ccccc3F	4.0723787322859994
+CHEMBL2251948	methyl 3-chloro-2-(8-chloro-5,7-dimethyl-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamido)benzoate	COC(=O)c1cccc(Cl)c1NS(=O)(=O)c2nc3c(Cl)c(C)nc(C)n3n2	5.404268791045999
+CHEMBL2251950	N-(2,6-dichlorophenyl)-5-methyl-7-(trifluoromethyl)-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide	Cc1nc(cc2nc(nn12)S(=O)(=O)Nc3c(Cl)cccc3Cl)C(F)(F)F	4.814154784196
+CHEMBL2251953	N-(5-chloro-2-methylphenyl)-5,7-dimethyl-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide	Cc1cc2nc(nn2c(C)n1)S(=O)(=O)Nc3cc(Cl)ccc3C	4.625556798836
+CHEMBL2251954	N-(2,5-difluorophenyl)-5,7-dimethyl-[1,2,4]triazolo[1,5-c]pyrimidine-2-sulfonamide	Cc1cc2nc(nn2c(C)n1)S(=O)(=O)Nc3cc(F)ccc3F	4.066152181435999
+CHEMBL2251955	N-2,6-difluorophenyl-5-methoxy-1,2,4-triazolo[1,5-a]pyrimidine-2-sulfonamide	COc1ccn2nc(nc2n1)S(=O)(=O)Nc3c(F)cccc3F	4.2476867729459995
+CHEMBL2251957	N-(2,5-difluorophenyl)-5-methoxy-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide	COc1ccn2nc(nc2n1)S(=O)(=O)Nc3cc(F)ccc3F	3.788131292316
+CHEMBL2251958	N-(2-fluorophenyl)-5-methoxy-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide	COc1ccn2nc(nc2n1)S(=O)(=O)Nc3ccccc3F	4.101558737266
+CHEMBL2251959	methyl 3-chloro-2-(5-methoxy-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamido)benzoate	COC(=O)c1cccc(Cl)c1NS(=O)(=O)c2nc3nc(OC)ccn3n2	5.308032625316
+CHEMBL2253237	Pyriminobac-methyl	CO\N=C(\C)/c1cccc(Oc2nc(OC)cc(OC)n2)c1C(=O)OC	3.8246624213160003
+CHEMBL2289059	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-(ethylthio)benzoic acid	CCSc1cccc(Sc2nc(OC)cc(OC)n2)c1C(=O)O	6.66999229913
+CHEMBL2289060	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-nitrobenzoic acid	COc1cc(OC)nc(Sc2cccc(c2C(=O)O)[N+](=O)[O-])n1	6.69000807122
+CHEMBL2289062	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-(methoxycarbonyl)benzoic acid	COC(=O)c1cccc(Oc2nc(OC)cc(OC)n2)c1C(=O)O	5.63999955502
+CHEMBL2289300	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-methoxybenzoic acid	COc1cc(OC)nc(Oc2cccc(OC)c2C(=O)O)n1	7.36001575196
+CHEMBL2289301	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-ethoxybenzoic acid	CCOc1cccc(Oc2nc(OC)cc(OC)n2)c1C(=O)O	7.64994590642
+CHEMBL2289305	2-(difluoromethoxy)-6-(4,6-dimethoxypyrimidin-2-yloxy)benzoic acid	COc1cc(OC)nc(Oc2cccc(OC(F)F)c2C(=O)O)n1	7.18996921359
+CHEMBL2289307	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-(methylthio)benzoic acid	COc1cc(OC)nc(Oc2cccc(SC)c2C(=O)O)n1	8.01010543628
+CHEMBL2289310	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-nitrobenzoic acid	COc1cc(OC)nc(Oc2cccc(c2C(=O)O)[N+](=O)[O-])n1	6.63999386777
+CHEMBL2289313	2-chloro-6-(4,6-dimethoxypyrimidin-2-ylamino)benzoic acid	COc1cc(OC)nc(Nc2cccc(Cl)c2C(=O)O)n1	3.0
+CHEMBL2289314	2-chloro-6-(4,6-dimethoxypyrimidin-2-ylsulfinyl)benzoic acid	COc1cc(OC)nc(n1)[S+]([O-])c2cccc(Cl)c2C(=O)O	7.36001575196
+CHEMBL2289315	2-chloro-6-((4,6-dimethoxypyrimidin-2-yl)methyl)benzoic acid	COc1cc(OC)nc(Cc2cccc(Cl)c2C(=O)O)n1	6.74000020492
+CHEMBL2289316	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-fluorobenzoic acid	COc1cc(OC)nc(Sc2cccc(F)c2C(=O)O)n1	7.66999229913
+CHEMBL2289317	2-bromo-6-(4,6-dimethoxypyrimidin-2-ylthio)benzoic acid	COc1cc(OC)nc(Sc2cccc(Br)c2C(=O)O)n1	7.41998788747
+CHEMBL2289318	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-iodobenzoic acid	COc1cc(OC)nc(Sc2cccc(I)c2C(=O)O)n1	6.98999702587
+CHEMBL2289319	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-methylbenzoic acid	COc1cc(OC)nc(Sc2cccc(C)c2C(=O)O)n1	7.5300307905
+CHEMBL2289320	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-(trifluoromethyl)benzoic acid	COc1cc(OC)nc(Sc2cccc(c2C(=O)O)C(F)(F)F)n1	6.02000117603
+CHEMBL2289321	2-acetyl-6-(4,6-dimethoxypyrimidin-2-ylthio)benzoic acid	COc1cc(OC)nc(Sc2cccc(C(=O)C)c2C(=O)O)n1	7.14002155836
+CHEMBL2289322	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-methoxybenzoic acid	COc1cc(OC)nc(Sc2cccc(OC)c2C(=O)O)n1	7.04997609348
+CHEMBL2289323	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-ethoxybenzoic acid	CCOc1cccc(Sc2nc(OC)cc(OC)n2)c1C(=O)O	6.69999179745
+CHEMBL2289324	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-propoxybenzoic acid	CCCOc1cccc(Sc2nc(OC)cc(OC)n2)c1C(=O)O	6.1399975781
+CHEMBL2289325	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-isopropoxybenzoic acid	COc1cc(OC)nc(Sc2cccc(OC(C)C)c2C(=O)O)n1	4.87999991387
+CHEMBL2289326	2-(4,6-dimethoxypyrimidin-2-ylthio)-6-(methylthio)benzoic acid	COc1cc(OC)nc(Sc2cccc(SC)c2C(=O)O)n1	7.68006156002
+CHEMBL2289342	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-fluorobenzoic acid	COc1cc(OC)nc(Oc2cccc(F)c2C(=O)O)n1	7.29998893768
+CHEMBL2289343	2-chloro-6-(4,6-dimethoxypyrimidin-2-yloxy)benzoic acid	COc1cc(OC)nc(Oc2cccc(Cl)c2C(=O)O)n1	7.61996975203
+CHEMBL2289344	2-bromo-6-(4,6-dimethoxypyrimidin-2-yloxy)benzoic acid	COc1cc(OC)nc(Oc2cccc(Br)c2C(=O)O)n1	7.81987412484
+CHEMBL2289345	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-iodobenzoic acid	COc1cc(OC)nc(Oc2cccc(I)c2C(=O)O)n1	7.65995268234
+CHEMBL2289346	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-methylbenzoic acid	COc1cc(OC)nc(Oc2cccc(C)c2C(=O)O)n1	6.89001670518
+CHEMBL2289347	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-ethylbenzoic acid	CCc1cccc(Oc2nc(OC)cc(OC)n2)c1C(=O)O	6.57000561585
+CHEMBL2289349	2-(4,6-dimethoxypyrimidin-2-yloxy)-6-(trifluoromethyl)benzoic acid	COc1cc(OC)nc(Oc2cccc(c2C(=O)O)C(F)(F)F)n1	6.95999136399
+CHEMBL294209	2,5-Dichloro-N-thiazol-2-yl-benzenesulfonamide	Clc1ccc(Cl)c(c1)S(=O)(=O)Nc2nccs2	4.07211658967
+CHEMBL300343	4-Bromo-N-(4-methyl-pyrimidin-2-yl)-benzenesulfonamide	Cc1ccnc(NS(=O)(=O)c2ccc(Br)cc2)n1	4.22988470521
+CHEMBL300344	4-Fluoro-N-(4-methyl-pyrimidin-2-yl)-benzenesulfonamide	Cc1ccnc(NS(=O)(=O)c2ccc(F)cc2)n1	4.41005039867
+CHEMBL59112	2,5-Dichloro-N-(4-methyl-pyrimidin-2-yl)-benzenesulfonamide	Cc1ccnc(NS(=O)(=O)c2cc(Cl)ccc2Cl)n1	4.01233373507
+CHEMBL60580	2,5-Dichloro-N-(4,6-dimethyl-pyrimidin-2-yl)-benzenesulfonamide	Cc1cc(C)nc(NS(=O)(=O)c2cc(Cl)ccc2Cl)n1	4.48148606012

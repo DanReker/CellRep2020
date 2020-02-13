@@ -39,8 +39,7 @@ def descr_calc(mol):
 
 ######
 # read activity data for a specific target
-#tid = sys.argv[1]
-tid = "11398"
+tid = sys.argv[1]
 f = open(directory + "/" + tid + "_data.tsv", 'r');
 
 fingerprints = [];

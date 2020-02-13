@@ -1,0 +1,123 @@
+chembl_id	name	smiles	pAff
+CHEMBL1230584	5-(2-amino-4-chloro-7-((4-methoxy-3,5-dimethylpyridin-2-yl)methyl)-7H-pyrrolo[2,3-d]pyrimidin-5-yl)-2-methylpent-4-yn-2-ol	COc1c(C)cnc(Cn2cc(C#CCC(C)(C)O)c3c(Cl)nc(N)nc23)c1C	6.729528666336
+CHEMBL190438	(2-(6-amino-9-(pent-4-ynyl)-9H-purin-8-ylthio)phenyl)methanol	Nc1ncnc2c1nc(Sc3ccccc3CO)n2CCCC#C	4.53165266959
+CHEMBL190439	8-(2-chlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccccc3Cl)n2CCCC#C	6.45593195565
+CHEMBL192013	8-(3,5-dichlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCCC#C	6.58502665203
+CHEMBL192480	9-(pent-4-ynyl)-8-(2,4,5-trichlorophenylthio)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)c(Cl)cc3Cl)n2CCCC#C	6.76955107862
+CHEMBL193892	8-(2-methoxyphenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	COc1ccccc1Sc2nc3c(N)ncnc3n2CCCC#C	5.2076083105
+CHEMBL195096	8-(3,5-dimethylphenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Cc1cc(C)cc(Sc2nc3c(N)ncnc3n2CCCC#C)c1	4.94119451332
+CHEMBL200102	8-(6-iodobenzo[d][1,3]dioxol-5-ylthio)-9-(3-(isopropylamino)propyl)-9H-purin-6-amine	CC(C)NCCCn1c(Sc2cc3OCOc3cc2I)nc4c(N)ncnc14	7.58502665203
+CHEMBL252164	5-(2,4-dihydroxy-5-isopropylphenyl)-N-ethyl-4-(4-(morpholinomethyl)phenyl)isoxazole-3-carboxamide	CCNC(=O)c1noc(c2cc(C(C)C)c(O)cc2O)c1c3ccc(CN4CCOCC4)cc3	7.491689792153
+CHEMBL3104858	(S)-2-fluoro-6-(tetrahydrofuran-3-ylamino)-4-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)benzamide	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc(F)c(C(=O)N)c(N[C@H]4CCOC4)c3	5.940827233616
+CHEMBL3104859	(4E,6Z,8R,9S,10E,12S,13R,14S,16R)-19-(2-(dimethylamino)ethylamino)-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl carbamate	CO[C@H]1C[C@H](C)CC2=C(NCCN(C)C)C(=O)C=C(NC(=O)\C(=C\C=C/[C@@H](OC)[C@@H](OC(=O)N)\C(=C\[C@H](C)[C@H]1O)\C)\C)C2=O	7.815888497006
+CHEMBL3104860	(S)-4-(6,6-dimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-2-fluoro-6-(tetrahydrofuran-3-ylamino)benzamide	CC1(C)CC(=O)c2ccn(c2C1)c3cc(F)c(C(=O)N)c(N[C@H]4CCOC4)c3	5.091612627406
+CHEMBL3235326	4-(7,7-Dimethyl-9-oxo-6,7,8,9-tetrahydro-5H-pyrido[3,2-b]indol-5-yl)benzamide	CC1(C)CC(=O)c2c(C1)n(c3ccc(cc3)C(=O)N)c4cccnc24	3.514858501346
+CHEMBL3235327	4-(7,7-dimethyl-5-oxo-7,8-dihydro-5H-pyrido[3,4-b]indol-9(6H)-yl)benzamide	CC1(C)CC(=O)c2c(C1)n(c3ccc(cc3)C(=O)N)c4cnccc24	3.514858501346
+CHEMBL3235328	4-(7,7-Dimethyl-5-oxo-7,8-dihydro-5H-pyrido[2,3-b]indol-9(6H)-yl)benzamide	CC1(C)CC(=O)c2c(C1)n(c3ccc(cc3)C(=O)N)c4ncccc24	3.514858501346
+CHEMBL3235329	4-(2,2-Dimethyl-4-oxo-3,4,5,6,7,8-hexahydro-1H-carbazol-9(2H)-yl)benzamide	CC1(C)CC(=O)c2c3CCCCc3n(c2C1)c4ccc(cc4)C(=O)N	3.514858501346
+CHEMBL3235330	4-(2,7,7-Trimethyl-5-oxo-3,4,5,6,7,8 hexahydro-1H-pyrido[3,4-b]-indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(cc4)C(=O)N	3.514858501346
+CHEMBL3235331	4-(2,8,8-Trimethyl-6-oxo-2,3,4,5,6,7,8,9-octahydroazepino-[3,4-b]indol-10(1H)-yl)benzamide	CN1CCCC2C(C1)N(C3=C2C(=O)CC(C)(C)C3)c4ccc(cc4)C(=O)N	3.514858501346
+CHEMBL3235332	4-(7,7-Dimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CC1(C)CC(=O)c2c3CCNCc3n(c2C1)c4ccc(cc4)C(=O)N	3.514858501346
+CHEMBL3235333	(S)-2-fluoro-6-(tetrahydrofuran-3-ylamino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4cc(F)c(C(=O)N)c(N[C@H]5CCOC5)c4	4.871405824856
+CHEMBL3235334	(S)-2-((Tetrahydrofuran-3-yl)amino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(N[C@H]5CCOC5)c4	5.473465816186
+CHEMBL3235335	2-(Cyclopentylamino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(NC5CCCC5)c4	5.751430507786
+CHEMBL3235336	2-((Cyclopropylmethyl)amino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(NCC5CC5)c4	5.067700470006
+CHEMBL3235337	2-((2-Methoxyethyl)amino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	COCCNc1cc(ccc1C(=O)N)n2c3CN(C)CCc3c4C(=O)CC(C)(C)Cc24	3.514858501346
+CHEMBL3235338	2-((Tetrahydro-2H-thiopyran-4-yl)amino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)-benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(NC5CCSCC5)c4	5.891609210945999
+CHEMBL3235339	2-(Propylamino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CCCNc1cc(ccc1C(=O)N)n2c3CN(C)CCc3c4C(=O)CC(C)(C)Cc24	5.009708523025999
+CHEMBL3235340	2-(Cyclopropylamino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(NC5CC5)c4	3.514858501346
+CHEMBL3235341	2-((2,2-Difluoroethyl)amino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(NCC(F)F)c4	4.946656777276
+CHEMBL3235342	2-(((3-Methyloxetan-3-yl)methyl)amino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H pyrido[3,4-b]indol-9(2H)-yl)-benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(NCC5(C)COC5)c4	5.722466811846
+CHEMBL3235343	2-(Isopropylamino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CC(C)Nc1cc(ccc1C(=O)N)n2c3CN(C)CCc3c4C(=O)CC(C)(C)Cc24	5.0524605034459995
+CHEMBL3235344	2-(Neopentylamino)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(NCC(C)(C)C)c4	5.590579215286
+CHEMBL3235345	9-(8-(Isopropylamino)-1-oxo-1,2,3,4-tetrahydroisoquinolin-6-yl)-2,7,7-trimethyl-3,4,6,7,8,9-hexahydro-1H-pyrido[3,4-b]-indol-5(2H)-one	CC(C)Nc1cc(cc2CCNC(=O)c12)n3c4CN(C)CCc4c5C(=O)CC(C)(C)Cc35	3.514858501346
+CHEMBL3235346	2,7,7-Trimethyl-9-(1-oxo-isoindolin-5-yl)-3,4,6,7,8,9-hexahydro-1H-pyrido[3,4-b]indol-5(2H)-one	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc5C(=O)NCc5c4	3.514858501346
+CHEMBL3235347	2,7,7-Trimethyl-9-(1-oxo-1,2,3,4-tetrahydroisoquinolin-6-yl)-3,4,6,7,8,9-hexahydro-1H-pyrido[3,4-b]indol-5(2H)-one	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc5C(=O)NCCc5c4	3.514858501346
+CHEMBL3235348	2,7,7-Trimethyl-9-(1-oxo-2,3,4,5-tetrahydro-1H-benzo[c]azepin-7-yl)-3,4,6,7,8,9-hexahydro-1H-pyrido[3,4-b]indol-5(2H)-one	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc5C(=O)NCCCc5c4	3.514858501346
+CHEMBL3235349	2-(2-Cyclopropylethyl)-4-(2,7,7-trimethyl-5-oxo-3,4,5,6,7,8-hexahydro-1H-pyrido[3,4-b]indol-9(2H)-yl)benzamide	CN1CCc2c(C1)n(c3CC(C)(C)CC(=O)c23)c4ccc(C(=O)N)c(CCC5CC5)c4	3.514858501346
+CHEMBL3235350	9-(8-Isobutyl-1-oxo-1,2,3,4-tetrahydroisoquinolin-6-yl)-2,7,7-trimethyl-3,4,6,7,8,9-hexahydro-1H-pyrido[3,4-b]indol-5(2H)-one	CC(C)Cc1cc(cc2CCNC(=O)c12)n3c4CN(C)CCc4c5C(=O)CC(C)(C)Cc35	3.514858501346
+CHEMBL3235352	8-Isobutyl-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	CC(C)Cc1cc(cc2CCNC(=O)c12)n3cc(C)c4C(=O)CC(C)(C)Cc34	3.514858501346
+CHEMBL3235353	8-Cyclopentyl-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)C5CCCC5	3.514858501346
+CHEMBL3235354	8-Cyclohexyl-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)C5CCCCC5	3.514858501346
+CHEMBL3235355	8-(Tetrahydro-2H-pyran-4-yl)-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)C5CCOCC5	5.134647259636
+CHEMBL3235356	8-Cyclobutyl-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)C5CCC5	3.514858501346
+CHEMBL3235357	8-Butyl-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	CCCCc1cc(cc2CCNC(=O)c12)n3cc(C)c4C(=O)CC(C)(C)Cc34	3.514858501346
+CHEMBL3235358	8-(tert-Butyl)-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)C(C)(C)C	3.514858501346
+CHEMBL3235359	8-Benzyl-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc(Cc4ccccc4)c5C(=O)NCCc5c3	3.514858501346
+CHEMBL3235360	8-Phenyl-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)c5ccccc5	3.514858501346
+CHEMBL3235361	8-(4-Fluorophenyl)-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)c5ccc(F)cc5	3.514858501346
+CHEMBL3235362	8-(3-Fluorophenyl)-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	Cc1cn(c2CC(C)(C)CC(=O)c12)c3cc4CCNC(=O)c4c(c3)c5cccc(F)c5	3.514858501346
+CHEMBL3235363	8-(4-Methoxyphenyl)-6-(3,6,6-trimethyl-4-oxo-4,5,6,7-tetrahydro-1H-indol-1-yl)-3,4-dihydroisoquinolin-1(2H)-one	COc1ccc(cc1)c2cc(cc3CCNC(=O)c23)n4cc(C)c5C(=O)CC(C)(C)Cc45	3.514858501346
+CHEMBL3309860	Methyl 3-chloro-4,6-dihydroxy-2-(3-oxo-3-(phenylamino)propyl)benzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc2ccccc2	4.203104640286
+CHEMBL3309864	Methyl 3-chloro-2-(3-(cyclohexylamino)-3-oxopropyl)-4,6-dihydroxybenzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)NC2CCCCC2	3.9683158378659997
+CHEMBL3309866	Methyl 3-chloro-2-(3-((2-chlorophenyl)amino)-3-oxopropyl)-4,6-dihydroxybenzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc2ccccc2Cl	5.2476867729459995
+CHEMBL3310526	Methyl 3-chloro-2-(3-((3-chlorophenyl)amino)-3-oxopropyl)-4,6-dihydroxybenzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc2cccc(Cl)c2	4.707323473275999
+CHEMBL3310536	Methyl 2-(3-((4-bromophenyl)amino)-3-oxopropyl)-3-chloro-4,6-dihydroxybenzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc2ccc(Br)cc2	5.338767242286
+CHEMBL3310671	Methyl 3-chloro-4,6-dihydroxy-2-(3-oxo-3-(pyridin-2-ylamino)propyl)benzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc2ccccn2	5.601044648966
+CHEMBL3310679	Methyl 3-chloro-4,6-dihydroxy-2-(3-oxo-3-(thiazol-2-ylamino)propyl)benzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc2nccs2	5.481434745855999
+CHEMBL3310680	Methyl 2-(3-((1,3,4-thiadiazol-2-yl)amino)-3-oxopropyl)-3-chloro-4,6-dihydroxybenzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCC(=O)Nc2nncs2	5.327337780505999
+CHEMBL3426733	8-(4-bromo-2-chlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccc(Br)cc3Cl)n2CCCC#C	6.40893539297
+CHEMBL3426734	8-(3-bromo-5-chlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Br)c3)n2CCCC#C	6.61978875829
+CHEMBL3426735	8-(3,5-dibromophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Br)cc(Br)c3)n2CCCC#C	6.5376020021
+CHEMBL3426736	8-(2,6-dichloropyridin-4-ylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)nc(Cl)c3)n2CCCC#C	5.72124639905
+CHEMBL3426737	5-(6-amino-9-(pent-4-ynyl)-9H-purin-8-ylthio)isophthalonitrile	Nc1ncnc2c1nc(Sc3cc(cc(c3)C#N)C#N)n2CCCC#C	5.11182050608
+CHEMBL3426738	8-(3,4-dichlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccc(Cl)c(Cl)c3)n2CCCC#C	6.15801519541
+CHEMBL3426739	9-(pent-4-ynyl)-8-(2,3,4-trichlorophenylthio)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccc(Cl)c(Cl)c3Cl)n2CCCC#C	6.36653154442
+CHEMBL3426740	8-(mesitylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Cc1cc(C)c(Sc2nc3c(N)ncnc3n2CCCC#C)c(C)c1	5.67778070527
+CHEMBL3426741	9-(But-3-yn-1-yl)-8-((3,5-dichlorophenyl)thio)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCC#C	6.54211810327
+CHEMBL3426742	8-((3,5-Dichlorophenyl)thio)-9-(hex-5-yn-1-yl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCCCC#C	6.1771783547
+CHEMBL3426743	9-(But-2-yn-1-yl)-8-((3,5-dichlorophenyl)thio)-9H-purin-6-amine	CC#CCn1c(Sc2cc(Cl)cc(Cl)c2)nc3c(N)ncnc13	5.2924298239
+CHEMBL3426744	8-((3,5-Dichlorophenyl)thio)-9-(3,3,3-trifluoropropyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCC(F)(F)F	6.25181197299
+CHEMBL3426745	8-((3,5-Dichlorophenyl)thio)-9-(4,4,4-trifluorobutyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCCC(F)(F)F	6.29929628285
+CHEMBL3426746	8-((3,5-Dichlorophenyl)thio)-9-(5,5,5-trifluoropentyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCCCC(F)(F)F	5.56224943718
+CHEMBL3426747	8-((3,5-Dichlorophenyl)thio)-9-(6,6,6-trifluorohexyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCCCCC(F)(F)F	5.78304279264
+CHEMBL3426748	4-(6-Amino-8-((3,5-dichlorophenyl)thio)-9H-purin-9-yl)-butanenitrile	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCCC#N	6.36754270782
+CHEMBL3426749	9-Benzyl-8-((3,5-dichlorophenyl)thio)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2Cc4ccccc4	4.30102999566
+CHEMBL3426750	8-((3,5-Dichlorophenyl)thio)-9-phenethyl-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)cc(Cl)c3)n2CCc4ccccc4	4.60205999133
+CHEMBL3426751	8-((3,5-Dichlorophenyl)thio)-9-(pentan-2-yl)-9H-purin-6-amine	CCCC(C)n1c(Sc2cc(Cl)cc(Cl)c2)nc3c(N)ncnc13	4.84466396253
+CHEMBL3426752	8-((3,5-Dichlorophenyl)thio)-9-(pent-4-yn-2-yl)-9H-purin-6-amine	CC(CC#C)n1c(Sc2cc(Cl)cc(Cl)c2)nc3c(N)ncnc13	5.23657200644
+CHEMBL3426753	8-((3,5-Dichlorophenyl)thio)-9-(hex-5-yn-3-yl)-9H-purin-6-amine	CCC(CC#C)n1c(Sc2cc(Cl)cc(Cl)c2)nc3c(N)ncnc13	4.30102999566
+CHEMBL3426754	9-Butyl-8-((2,4-dichlorophenyl)thio)-9H-purin-6-amine	CCCCn1c(Sc2cc(Cl)cc(Cl)c2)nc3c(N)ncnc13	6.09691001301
+CHEMBL3426755	8-((2,4-Dichlorophenyl)thio)-9-(pentan-2-yl)-9H-purin-6-amine	CCCC(C)n1c(Sc2ccc(Cl)cc2Cl)nc3c(N)ncnc13	5.60554831917
+CHEMBL3426756	9-(But-3-yn-1-yl)-8-((2,4-dichlorophenyl)thio)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccc(Cl)cc3Cl)n2CCC#C	6.40893539297
+CHEMBL3426757	8-((2,4-Dichlorophenyl)thio)-9-(pent-4-yn-2-yl)-9H-purin-6-amine	CC(CC#C)n1c(Sc2ccc(Cl)cc2Cl)nc3c(N)ncnc13	5.30102999566
+CHEMBL3426758	8-((2,4-Dichlorophenyl)thio)-9-(hex-5-yn-3-yl)-9H-purin-6-amine	CCC(CC#C)n1c(Sc2ccc(Cl)cc2Cl)nc3c(N)ncnc13	6.03621217265
+CHEMBL3426759	8-((2,4-Dichlorophenyl)sulfinyl)-9-(pent-4-yn-1-yl)-9H-purin-6-amine	Nc1ncnc2c1nc([S+]([O-])c3ccc(Cl)cc3Cl)n2CCCC#C	5.26760624018
+CHEMBL3426760	8-((2,4-Dichlorophenyl)sulfonyl)-9-(pent-4-yn-1-yl)-9H-purin-6-amine	Nc1ncnc2c1nc(n2CCCC#C)S(=O)(=O)c3ccc(Cl)cc3Cl	5.32790214206
+CHEMBL3426761	8-(2,4-Dichlorophenoxy)-9-(pent-4-yn-1-yl)-9H-purin-6-amine	Nc1ncnc2c1nc(Oc3ccc(Cl)cc3Cl)n2CCCC#C	6.30102999566
+CHEMBL3426762	8-(2,4-Dichlorobenzyl)-9-(pent-4-yn-1-yl)-9H-purin-6-amine	Nc1ncnc2c1nc(Cc3ccc(Cl)cc3Cl)n2CCCC#C	6.15490195999
+CHEMBL3426763	(6-Amino-9-(pent-4-yn-1-yl)-9H-purin-8-yl)(2,4-dichlorophenyl)-methanone	Nc1ncnc2c1nc(C(=O)c3ccc(Cl)cc3Cl)n2CCCC#C	6.46852108296
+CHEMBL3426764	8-(2-Chlorophenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Nc1ncn(CCCC#N)c2nc(Sc3ccccc3Cl)nc12	4.0
+CHEMBL3426765	8-(2-Methoxyphenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	COc1ccccc1Sc2nc3c(N)ncn(CCCC#N)c3n2	3.0
+CHEMBL3426766	(2-(6-Amino-3-(pent-4-ynyl)-3H-purin-8-ylthio)phenyl)methanol	Nc1ncn(CCCC#N)c2nc(Sc3ccccc3CO)nc12	3.0
+CHEMBL3426767	3-(Pent-4-ynyl)-8-(2-(trifluoromethoxy)phenylthio)-3H-purin-6-amine	Nc1ncn(CCCC#N)c2nc(Sc3ccccc3OC(F)(F)F)nc12	3.0
+CHEMBL3426768	8-(2,4-Dichlorophenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Nc1ncn(CCCC#N)c2nc(Sc3ccc(Cl)cc3Cl)nc12	5.62525165399
+CHEMBL3426769	4-(6-amino-8-(2,4-dimethylphenylthio)-3H-purin-3-yl)butanenitrile	Cc1ccc(Sc2nc3c(N)ncn(CCCC#N)c3n2)c(C)c1	4.92922353716
+CHEMBL3426770	8-(2,4-Dimethoxyphenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	COc1ccc(Sc2nc3c(N)ncn(CCCC#N)c3n2)c(OC)c1	3.0
+CHEMBL3426771	8-(2,5-Dichlorophenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Nc1ncn(CCCC#N)c2nc(Sc3cc(Cl)ccc3Cl)nc12	4.45222529461
+CHEMBL3426772	8-(2,5-Dimethylphenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Cc1ccc(C)c(Sc2nc3c(N)ncn(CCCC#N)c3n2)c1	3.0
+CHEMBL3426773	8-(2-Chloro-5-(trifluoromethyl)phenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Nc1ncn(CCCC#N)c2nc(Sc3cc(ccc3Cl)C(F)(F)F)nc12	3.0
+CHEMBL3426774	8-(3,5-Dichlorophenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Nc1ncn(CCCC#N)c2nc(Sc3cc(Cl)cc(Cl)c3)nc12	4.0
+CHEMBL3426775	8-(3,5-Dimethylphenylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Cc1cc(C)cc(Sc2nc3c(N)ncn(CCCC#N)c3n2)c1	3.0
+CHEMBL3426776	3-(Pent-4-ynyl)-8-(2,4,5-trichlorophenylthio)-3H-purin-6-amine	Nc1ncn(CCCC#N)c2nc(Sc3cc(Cl)c(Cl)cc3Cl)nc12	5.68193666504
+CHEMBL3426777	8-(Mesitylthio)-3-(pent-4-ynyl)-3H-purin-6-amine	Cc1cc(C)c(Sc2nc3c(N)ncn(CCCC#N)c3n2)c(C)c1	4.69897000434
+CHEMBL3426778	8-((2,4-Dimethylphenyl)thio)-3-(3-(isopropylamino)propyl)-3H-purin-6-amine	CC(C)NCCCn1cnc(N)c2nc(Sc3ccc(C)cc3C)nc12	3.60205999133
+CHEMBL3426779	8-((3,5-Dichlorophenyl)thio)-3-(3-(isopropylamino)propyl)-3H-purin-6-amine	CC(C)NCCCn1cnc(N)c2nc(Sc3cc(Cl)cc(Cl)c3)nc12	5.6143937264
+CHEMBL3426780	8-((2,4-Dichlorophenyl)thio)-9-(3-(isopropylamino)propyl)-9H-purin-6-amine	CC(C)NCCCn1c(Sc2ccc(Cl)cc2Cl)nc3c(N)ncnc13	6.38721614328
+CHEMBL3426781	8-((3,5-Dichlorophenyl)thio)-9-(3-(isopropylamino)propyl)-9H-purin-6-amine	CC(C)NCCCn1c(Sc2cc(Cl)cc(Cl)c2)nc3c(N)ncnc13	6.65757731918
+CHEMBL3426782	2-((2,4-Dichlorophenyl)thio)-1-(3-(isopropylamino)propyl)-1H-imidazo[4,5-c]pyridin-4-amine	CC(C)NCCCn1c(Sc2ccc(Cl)cc2Cl)nc3c(N)nccc13	5.46344155743
+CHEMBL3426783	2-((3,5-Dichlorophenyl)thio)-1-(3-(isopropylamino)propyl)-1H-imidazo[4,5-c]pyridin-4-amine	CC(C)NCCCn1c(Sc2cc(Cl)cc(Cl)c2)nc3c(N)nccc13	5.96657624451
+CHEMBL3426784	2-((6-Iodobenzo[d][1,3]dioxol-5-yl)thio)-1-(3-(isopropylamino)-propyl)-1H-imidazo[4,5-c]pyridin-4-amine	CC(C)NCCCn1c(Sc2cc3OCOc3cc2I)nc4c(N)nccc14	6.99567862622
+CHEMBL3426785	8-(6-(dimethylamino)benzo[d][1,3]dioxol-5-ylthio)-9-(3-(isopropylamino)propyl)-9H-purin-6-amine	CC(C)NCCCn1c(Sc2cc3OCOc3cc2N(C)C)nc4c(N)ncnc14	6.57675412606
+CHEMBL3426787	methyl 2-[2-(1-benzylimidazol-2-yl)ethyl]-3-chloro-4,6-dihydroxy-benzoate-methyl 2-(2-(1-benzyl-1H-imidazol-2-yl)ethyl)-3-chloro-4,6-dihydroxybenzoate	COC(=O)c1c(O)cc(O)c(Cl)c1CCc2nccn2Cc3ccccc3	6.451656978426666
+CHEMBL364239	8-(2,5-dimethylphenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Cc1ccc(C)c(Sc2nc3c(N)ncnc3n2CCCC#C)c1	5.94309514866
+CHEMBL364450	8-(2,5-dichlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(Cl)ccc3Cl)n2CCCC#C	6.2757241304
+CHEMBL364456	8-(2-chloro-5-(trifluoromethyl)phenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3cc(ccc3Cl)C(F)(F)F)n2CCCC#C	6.30102999566
+CHEMBL365118	8-(2,4-dichlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccc(Cl)cc3Cl)n2CCCC#C	6.92081875395
+CHEMBL370286	8-(4-methoxyphenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	COc1ccc(Sc2nc3c(N)ncnc3n2CCCC#C)cc1	5.94692155652
+CHEMBL371372	9-(pent-4-ynyl)-8-(2-(trifluoromethoxy)phenylthio)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccccc3OC(F)(F)F)n2CCCC#C	5.85387196432
+CHEMBL371570	8-(2,4-dimethoxyphenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	COc1ccc(Sc2nc3c(N)ncnc3n2CCCC#C)c(OC)c1	4.46218090493
+CHEMBL424824	8-(2,4-dimethylphenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Cc1ccc(Sc2nc3c(N)ncnc3n2CCCC#C)c(C)c1	5.7878123956
+CHEMBL426086	8-(4-chlorophenylthio)-9-(pent-4-ynyl)-9H-purin-6-amine	Nc1ncnc2c1nc(Sc3ccc(Cl)cc3)n2CCCC#C	5.82390874094
+CHEMBL467399	6-chloro-9-((4-methoxy-3,5-dimethylpyridin-2-yl)methyl)-9H-purin-2-amine	COc1c(C)cnc(Cn2cnc3c(Cl)nc(N)nc23)c1C	6.269345833536
+CHEMBL560895	trans-4-(6,6-dimethyl-4-oxo-3-(trifluoromethyl)-4,5,6,7-tetrahydro-1H-indazol-1-yl)-2-(4-hydroxycyclohexylamino)benzamide	CC1(C)CC(=O)c2c(C1)n(nc2C(F)(F)F)c3ccc(C(=O)N)c(N[C@@H]4CC[C@@H](O)CC4)c3	5.830013139706

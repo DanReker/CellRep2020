@@ -1,0 +1,65 @@
+chembl_id	name	smiles	pAff
+CHEMBL1271483	(2S,4aS,6aS,6bR,8aR,10S,12aS,12bR,14bR)-methyl 10-hydroxy-2,4a,6a,6b,9,9,12a-heptamethyl-13-oxo-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-2-carboxylate	COC(=O)[C@@]1(C)CC[C@]2(C)CC[C@]3(C)C(=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1	3.514858501346
+CHEMBL1330833	1-(3-Nitrobenzoyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2cccc(c2)[N+](=O)[O-])c1	6.30980391997
+CHEMBL1438301	1-(2-Thienylcarbonyl)-3-(4-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1ccc(NC(=S)NC(=O)c2cccs2)cc1	7.95860731484
+CHEMBL1494785	1-(1-Adamantylcarbonyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)C23CC4CC(CC(C4)C2)C3)c1	5.25336580106
+CHEMBL1607835	4-methyl-N-[2-(4-sulfamoylphenyl)ethyl]benzenesulfonamide	Cc1ccc(cc1)S(=O)(=O)NCCc2ccc(cc2)S(=O)(=O)N	6.61798295743
+CHEMBL199364	(2E)-4-hydroxybut-2-enyl-4-(aminosulfonyl)benzoate	NS(=O)(=O)c1ccc(cc1)C(=O)OC\C=C\CO	7.790582631746
+CHEMBL199368	(2Z)-4-hydroxybut-2-enyl-4-(aminosulfonyl)benzoate	NS(=O)(=O)c1ccc(cc1)C(=O)OC\C=C/CO	7.555817109026
+CHEMBL199651	(2Z)-but-2-en-1,4-diyl-bis[(aminosulfonyl)benzoate]	NS(=O)(=O)c1ccc(cc1)C(=O)OC\C=C/COC(=O)c2ccc(cc2)S(=O)(=O)N	7.546375552796
+CHEMBL199828	(2E)-but-2-en-1,4-diyl-bis[(aminosulfonyl)benzoate]	NS(=O)(=O)c1ccc(cc1)C(=O)OC\C=C\COC(=O)c2ccc(cc2)S(=O)(=O)N	7.824662421315999
+CHEMBL20	Acetazolamide-acetazolamide	CC(=O)Nc1nnc(s1)S(=O)(=O)N	6.137865156035333
+CHEMBL200074	1-pentenyl-4-(aminosulfonyl)benzoate	NS(=O)(=O)c1ccc(cc1)C(=O)OCCCC=C	7.628367776175999
+CHEMBL200931	(2E)-(4-benzoyloxy)but-2-enyl-4-(aminosulfonyl)benzoate	NS(=O)(=O)c1ccc(cc1)C(=O)OC\C=C\COC(=O)c2ccccc2	7.842760643405999
+CHEMBL202346	(4aS,6aS,6bR,8aR,10R,11R,12aR,12bR,14bS)-methyl 10,11-dihydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CCC(C)(C)C[C@H]1C3=CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	3.116918492676
+CHEMBL233246	3-phenylthiobenzimidazo[1,2-c][1,2,3]thiadiazol-7-sulfonamide	NS(=O)(=O)c1ccc2nc3C(=S=Nn3c2c1)Sc4ccccc4	6.060013641336
+CHEMBL234506	3-methylsulfonylbenzimidazo[1,2-c][1,2,3]thiadiazole-7-sulfonamide	CS(=O)(=O)C1=S=Nn2c1nc3ccc(cc23)S(=O)(=O)N	5.815888497006
+CHEMBL234507	3-morpholinbenzimidazo[1,2-c][1,2,3]thiadiazole-7-sulfonamide	NS(=O)(=O)c1ccc2nc3C(=S=Nn3c2c1)N4CCOCC4	6.935074904726
+CHEMBL23922	4-fluoro-N-(4-sulfamoylphenyl)benzenesulfonamide	NS(=O)(=O)c1ccc(NS(=O)(=O)c2ccc(F)cc2)cc1	7.0
+CHEMBL260673	(1S,2R,4aS,6aS,6bR,8aR,10S,12aR,12bR,14bS)-methyl 10-hydroxy-1,2,6a,6b,9,9,12a-heptamethyl-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CC[C@@H](C)[C@H](C)[C@H]1C3=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	3.514858501346
+CHEMBL272881	4-ethynylbenzenesulfonamide	NS(=O)(=O)c1ccc(cc1)C#C	6.946656777276
+CHEMBL295602	(1R,3aS,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-methyl 9-hydroxy-5a,5b,8,8,11a-pentamethyl-1-(prop-1-en-2-yl)icosahydro-1H-cyclopenta[a]chrysene-3a-carboxylate	COC(=O)[C@]12CC[C@H]([C@@H]1[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2)C(=C)C	3.0
+CHEMBL3100032	(2S,4aS,6aS,6bR,8aR,10S,12aR,12bR,14bR)-methyl 10-hydroxy-2,4a,6a,6b,9,9,12a-heptamethyl-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-2-carboxylate	COC(=O)[C@@]1(C)CC[C@]2(C)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1	3.514858501346
+CHEMBL3109256	(4aS,6aS,6bR,8aR,10S,12aS,12bR,14bS)-methyl 10-hydroxy-2,2,6a,6b,9,9,12a-heptamethyl-13-oxo-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CCC(C)(C)C[C@H]1C3=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	3.0
+CHEMBL3237492	1-(2-Chorobenzoyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2ccccc2Cl)c1	4.8696662315
+CHEMBL3237493	1-(3-Chorobenzoyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2cccc(Cl)c2)c1	6.65757731918
+CHEMBL3237494	1-(4-Chorobenzoyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2ccc(Cl)cc2)c1	5.24872089602
+CHEMBL3237495	1-(2,4-Dichlorobenzoyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2ccc(Cl)cc2Cl)c1	4.76700388961
+CHEMBL3237496	1-(3,5-Dinitrobenzoyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2cc(cc(c2)[N+](=O)[O-])[N+](=O)[O-])c1	4.84771165562
+CHEMBL3237497	1-(2-Furanylcarbonyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2occc2)c1	5.01055018233
+CHEMBL3237498	1-(2-Thienylcarbonyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)c2cccs2)c1	7.28399665637
+CHEMBL3237499	N-(3-Sulfamoylphenylcarbamothioyl)pivalamide	CC(C)(C)C(=O)NC(=S)Nc1cccc(c1)S(=O)(=O)N	5.89279003035
+CHEMBL3237500	1-(2-Oxo-2H-chromene-3-carbonyl)-3-(3-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1cccc(NC(=S)NC(=O)C2=Cc3ccccc3OC2=O)c1	4.87289520164
+CHEMBL3237501	1-(2-Oxo-2H-chromene-3-carbonyl)-3-(4-aminosulfonylphenyl)thiourea	NS(=O)(=O)c1ccc(NC(=S)NC(=O)C2=Cc3ccccc3OC2=O)cc1	4.94692155652
+CHEMBL3325723	(1R,3aS,5bR,9S,11aR,12R)-1-Acetyl-9-(R)-hydroxy-5a,5b,8,8,11a-pentamethyl-icosahydro-cyclopenta[a]chrysene-3a-carboxylic acid(R)-methyl ester	COC(=O)[C@]12CC[C@H]([C@@H]1[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2)C(=O)C	3.8158884970060005
+CHEMBL3325724	(1S,2R,4aS,6aS,6bR,8aR,10S,12aS,12bR,14bS)-methyl 10-hydroxy-1,2,6a,6b,9,9,12a-heptamethyl-13-oxo-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CC[C@@H](C)[C@H](C)[C@H]1C3=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	3.0
+CHEMBL3325725	(4aS,6aS,6bR,8aR,10S,12aR,12bR,14bS)-methyl 2,2,6a,6b,9,9,12a-heptamethyl-10-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CCC(C)(C)C[C@H]1C3=CC[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	6.026307784846
+CHEMBL3325726	(1S,2R,4aS,6aS,6bR,8aR,10S,12aR,12bR,14bS)-methyl 1,2,6a,6b,9,9,12a-heptamethyl-10-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CC[C@@H](C)[C@H](C)[C@H]1C3=CC[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	5.469535522556
+CHEMBL3325727	(1R,3aS,5aR,5bR,7aR,9S,11aR,11bR,13aR,13bR)-methyl 5a,5b,8,8,11a-pentamethyl-1-(prop-1-en-2-yl)-9-(sulfamoyloxy)icosahydro-1H-cyclopenta[a]chrysene-3a-carboxylate	COC(=O)[C@]12CC[C@H]([C@@H]1[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2)C(=C)C	5.180404750196
+CHEMBL3325728	(2S,4aS,6aS,6bR,8aR,10S,12aS,12bR,14bR)-methyl 2,4a,6a,6b,9,9,12a-heptamethyl-13-oxo-10-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-2-carboxylate	COC(=O)[C@@]1(C)CC[C@]2(C)CC[C@]3(C)C(=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1	5.335881554056
+CHEMBL3325864	(2S,4aS,6aS,6bR,8aR,10S,12aR,12bR,14bR)-methyl 2,4a,6a,6b,9,9,12a-heptamethyl-10-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-2-carboxylate	COC(=O)[C@@]1(C)CC[C@]2(C)CC[C@]3(C)C(=CC[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]34C)[C@@H]2C1	3.912798510016
+CHEMBL3325865	(1R,7aR,11aR,13aR,13bS)-1-Acetyl-5a,5b,8,11a-tetramethyl-8-(S)-methyl-9-(S,R,R,R)-sulfamoyloxy-icosahydro-cyclopenta[a]chrysene-3a-carboxylic acid methyl ester	COC(=O)[C@]12CC[C@H]([C@@H]1[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2)C(=O)C	5.274309253066
+CHEMBL3325866	(4aS,6aS,6bR,8aR,10R,11R,12aR,12bR,14bS)-methyl 10-hydroxy-2,2,6a,6b,9,9,12a-heptamethyl-11-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CCC(C)(C)C[C@H]1C3=CC[C@@H]4[C@@]5(C)C[C@@H](OS(=O)(=O)N)[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	3.2138285056859996
+CHEMBL3325867	(4aS,6aS,6bR,8aR,10R,11R,12aR,12bR,14bS)-methyl 11-hydroxy-2,2,6a,6b,9,9,12a-heptamethyl-10-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CCC(C)(C)C[C@H]1C3=CC[C@@H]4[C@@]5(C)C[C@@H](O)[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	5.365639388686
+CHEMBL3325868	(4aS,6aS,6bR,8aR,10S,12aS,12bR,14bS)-methyl 2,2,6a,6b,9,9,12a-heptamethyl-13-oxo-10-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CCC(C)(C)C[C@H]1C3=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	5.341672232935999
+CHEMBL3325869	(1S,2R,4aS,6aS,6bR,8aR,10S,12aS,12bR,14bS)-methyl 1,2,6a,6b,9,9,12a-heptamethyl-13-oxo-10-(sulfamoyloxy)-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CC[C@@H](C)[C@H](C)[C@H]1C3=CC(=O)[C@@H]4[C@@]5(C)CC[C@H](OS(=O)(=O)N)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	3.3387672422860004
+CHEMBL3403317	N-[(4-sulfamoylphenyl)methyl]benzamide	NS(=O)(=O)c1ccc(CNC(=O)c2ccccc2)cc1	6.16052195263
+CHEMBL3403318	N-[2-(4-sulfamoylphenyl)ethyl]benzamide	NS(=O)(=O)c1ccc(CCNC(=O)c2ccccc2)cc1	6.2644011003
+CHEMBL3403320	4-fluoro-N-(4-sulfamoylbenzyl)benzamide	NS(=O)(=O)c1ccc(CNC(=O)c2ccc(F)cc2)cc1	6.08565684288
+CHEMBL3403321	4-fluoro-N-[2-(4-sulfamoylphenyl)ethyl]benzamide	NS(=O)(=O)c1ccc(CCNC(=O)c2ccc(F)cc2)cc1	6.18309616062
+CHEMBL3403323	4-methyl-N-(4-sulfamoylphenyl)benzenesulfonamide	Cc1ccc(cc1)S(=O)(=O)Nc2ccc(cc2)S(=O)(=O)N	7.24412514433
+CHEMBL3403324	4-methyl-N-(4-sulfamoylbenzyl)benzenesulfonamide	Cc1ccc(cc1)S(=O)(=O)NCc2ccc(cc2)S(=O)(=O)N	6.87289520164
+CHEMBL3403325	4-methyl-N-(3-sulfamoylphenyl)benzenesulfonamide	Cc1ccc(cc1)S(=O)(=O)Nc2cccc(c2)S(=O)(=O)N	6.81815641206
+CHEMBL3403326	4-fluoro-N-[2-(4-sulfamoylphenyl)ethyl]benzenesulfonamide	NS(=O)(=O)c1ccc(CCNS(=O)(=O)c2ccc(F)cc2)cc1	7.45593195565
+CHEMBL3403327	4-fluoro-N-(3-sulfamoylphenyl)benzenesulfonamide	NS(=O)(=O)c1cccc(NS(=O)(=O)c2ccc(F)cc2)c1	7.0
+CHEMBL3403328	N-(4-ethoxyphenyl)-4-fluorobenzenesulfonamide	CCOc1ccc(NS(=O)(=O)c2ccc(F)cc2)cc1	3.0
+CHEMBL3403329	N-(4-ethoxyphenyl)-4-methylbenzenesulfonamide	CCOc1ccc(NS(=O)(=O)c2ccc(C)cc2)cc1	3.0
+CHEMBL381455	allyl 4-(aminosulfonyl)benzoate	NS(=O)(=O)c1ccc(cc1)C(=O)OCC=C	7.580360050106
+CHEMBL394355	3-chlorobenzimidazo[1,2-c][1,2,3]thiadiazole-7-sulfonamide	NS(=O)(=O)c1ccc2nc3C(=S=Nn3c2c1)Cl	6.365639388686
+CHEMBL395543	3-methylthiobenzimidazo[1,2-c][1,2,3]thiadiazole-7-sulfonamide	CSC1=S=Nn2c1nc3ccc(cc23)S(=O)(=O)N	6.007002629645999
+CHEMBL414	4-Sulfamoyl-benzoic acid	NS(=O)(=O)c1ccc(cc1)C(=O)O	6.335881554056
+CHEMBL438861	3-(N-methylpiperazin)benzimidazo[1,2-c][1,2,3]thiadiazole-7-sulfonamide	CN1CCN(CC1)C2=S=Nn3c2nc4ccc(cc34)S(=O)(=O)N	5.922681743946
+CHEMBL442798	benzimidazo[1,2-c][1,2,3]thiadiazole-7-sulfonamide	NS(=O)(=O)c1ccc2nc3C=S=Nn3c2c1	6.0584924682159995
+CHEMBL487412	(4aS,6aS,6bR,8aR,10S,12aR,12bR,14bS)-methyl 10-hydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,2,3,4,4a,5,6,6a,6b,7,8,8a,9,10,11,12,12a,12b,13,14b-icosahydropicene-4a-carboxylate	COC(=O)[C@]12CCC(C)(C)C[C@H]1C3=CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC2	3.514858501346
+CHEMBL487938	(S)-4-(1-(1-(3-aza-bicyclo[3.2.2]nonan-3-yl)-3-methyl-1-oxobutan-2-yl)-1H-1,2,3-triazol-4-yl)benzenesulfonamide	CC(C)[C@@H](C(=O)N1CC2CCC(CC2)C1)n3cc(nn3)c4ccc(cc4)S(=O)(=O)N	9.213828505686
+CHEMBL511186	4-fluoro-N-(4-sulfamoylbenzyl)benzenesulfonamide	NS(=O)(=O)c1ccc(CNS(=O)(=O)c2ccc(F)cc2)cc1	6.66756154008
