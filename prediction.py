@@ -66,6 +66,7 @@ activities = np.array(activities)
 GRASIIG_smiles_file = open("gras_iig.tsv",'r')
 GRASIIG_fingerprints = []
 GRASIIG_names = []
+GRASIIG_types = []
 
 reader2 = csv.reader(GRASIIG_smiles_file,delimiter='\t');
 for entry in reader2:
@@ -73,6 +74,7 @@ for entry in reader2:
     if not mol is None:
         GRASIIG_fingerprints += [descr_calc(mol)];
         GRASIIG_names += [entry[0]]
+	GRASIIG_types += [entry[1]]
 
 GRAS_fingerprints = np.array(GRASIIG_fingerprints,dtype=np.float32)
 
@@ -101,10 +103,15 @@ predictions_var = np.var([tree.predict(GRASIIG_fingerprints) for tree in RF.esti
 predictions_bg = RF.predict(BG_fingerprints)
 z_scores = (predictions - np.mean(predictions_bg)) / np.std(predictions_bg) 
 
-######
-# print top predictions
-for (name, score) in zip(np.array(GRASIIG_names)[np.argsort(-z_scores)], -np.sort(-z_scores)):
-	if score > 1.5:
-		print name, score
 
+######
+# print to output file
+outfile = open(directory + "/" + tid + "_predictions.tsv","w")
+outfile.write("name\ttype\tpAff\tvar\tz score\n")
+
+for i in range(len(GRASIIG_names)):
+	outfile.write("\t".join([GRASIIG_names[i], GRASIIG_types[i], str(predictions[i]), str(predictions_var[i]), str(z_scores[i])]) + "\n")
+
+outfile.flush()
+outfile.close()
 
