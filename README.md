@@ -16,6 +16,7 @@ Python code to run predictions of GRAS/IIG bioactivities
 use a respective target ID to train a specific model
 For example, 
 > python prediction.py 11398
+
 will run predictions for P-glycoprotein and store
 prediction results in a seperate TSV file
 
