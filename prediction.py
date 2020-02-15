@@ -36,7 +36,6 @@ def descr_calc(mol):
     
     return fp_expl + list(ds_n)
 
-
 ######
 # read activity data for a specific target
 tid = sys.argv[1]
@@ -57,8 +56,6 @@ for entry in reader:
 
 fingerprints = np.array(fingerprints,dtype=np.float32) # convert from list to numpy array
 activities = np.array(activities)
-
-
 
 ######
 # read structures for GRAS / IIG compounds
@@ -102,7 +99,6 @@ predictions_var = np.var([tree.predict(GRASIIG_fingerprints) for tree in RF.esti
 predictions_bg = RF.predict(BG_fingerprints)
 z_scores = (predictions - np.mean(predictions_bg)) / np.std(predictions_bg) 
 
-
 ######
 # print to output file
 outfile = open(directory + "/" + tid + "_predictions.tsv","w")
@@ -113,4 +109,3 @@ for i in range(len(GRASIIG_names)):
 
 outfile.flush()
 outfile.close()
-
