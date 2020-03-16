@@ -6,7 +6,7 @@ Data and code for Reker et al Cell Rep 2020.
 contains raw experimental data of the *in vitro*, *ex vivo*, *in vivo* validations.
 
 #### /chembl22
-contains raw chembl22 data for model training. in this repository we only include P-gp data as a single example to run prediction code.
+contains raw chembl22 data for model training. 
 Please note that this data is added for reproducibility, but we encourage users
 to curate updated versions of ChEMBL to ensure training models on 
 larger and improved data. Cf. https://www.ebi.ac.uk/chembl/
